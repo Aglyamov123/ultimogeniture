@@ -1,0 +1,25 @@
+{
+    "name": "Marcus Taylor",
+    "age": 11,
+    "address": {
+        "street": "Jacobson Vista",
+        "city": "Caldwellchester",
+        "state": "Washington",
+        "zip": "72205"
+    },
+    "contact": {
+        "phone": "502-351-8531x097",
+        "servicePhone": "800850219"
+    },
+    "birthday": "2014-05-01",
+    "ip": "201.225.247.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical defense born effort set source PM. Could else relate blue its short. Forget enough eat work get.",
+        "bio": "Degree affect forget language. Wish doctor image.\nCoach rule show also year final. Interesting back remain pass.\nSince success feeling international side concern catch dream."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}

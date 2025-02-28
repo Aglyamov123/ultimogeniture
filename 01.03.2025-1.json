@@ -1,0 +1,25 @@
+{
+    "name": "Dr. John Walker",
+    "age": 22,
+    "address": {
+        "street": "Cynthia Freeway",
+        "city": "Lucasburgh",
+        "state": "Ohio",
+        "zip": "18175"
+    },
+    "contact": {
+        "phone": "(228)232-4899x959",
+        "servicePhone": "800231508"
+    },
+    "birthday": "2003-09-11",
+    "ip": "144.4.249.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Image wish across school want. Article have could ready think. Option social born wonder like get parent.\nResponsibility hit right sort. Toward husband minute among eat ever.",
+        "bio": "Probably will share outside. Environmental kitchen half blood.\nRise stay dream available. Day wife night call standard section. Enjoy record try kitchen smile west degree."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Connor Navarro",
+    "age": 79,
+    "address": {
+        "street": "Joseph Village",
+        "city": "Richardsonshire",
+        "state": "Indiana",
+        "zip": "54479"
+    },
+    "contact": {
+        "phone": "001-363-665-8349",
+        "servicePhone": "800337139"
+    },
+    "birthday": "1946-21-12",
+    "ip": "146.148.139.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Level too free air past. Democrat play near church long.\nMeeting parent break. Debate bill fall window involve teacher those term. Pretty Democrat within with wide movement.\nMoment number six factor.",
+        "bio": "Feeling although exactly most heart natural administration spring. West such ten tonight.\nStay moment agency can though. I computer answer bank sense."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Christina Davis",
+    "age": 35,
+    "address": {
+        "street": "Tina Corner",
+        "city": "North Stevenshire",
+        "state": "Missouri",
+        "zip": "80547"
+    },
+    "contact": {
+        "phone": "706.433.6420",
+        "servicePhone": "800122084"
+    },
+    "birthday": "1990-25-10",
+    "ip": "102.130.66.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Teach total where laugh he compare. Clear nearly say treatment behavior.\nSection staff cold read cold. Help which receive natural exactly politics record.",
+        "bio": "Quite return over edge staff. More ok game wind during himself down. Religious rest deal.\nCard everybody question better throw. Any team stuff rich region opportunity."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Mark Cole",
+    "age": 111,
+    "address": {
+        "street": "Jon Turnpike",
+        "city": "Port Catherinestad",
+        "state": "Connecticut",
+        "zip": "82898"
+    },
+    "contact": {
+        "phone": "+1-310-621-4845x75040",
+        "servicePhone": "800600273"
+    },
+    "birthday": "1914-17-12",
+    "ip": "94.114.193.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Resource it community wide eat size. Range factor term approach hundred.\nStand value newspaper trade yes nature show new. Interest sort staff herself movie run.",
+        "bio": "Matter keep generation own. Condition thing week room perhaps keep read.\nMake all artist new. Step use make door agency. Sing she contain pretty on effort."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}

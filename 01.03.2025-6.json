@@ -1,0 +1,25 @@
+{
+    "name": "Beth Rosario",
+    "age": 95,
+    "address": {
+        "street": "Miller Ports",
+        "city": "East Bryan",
+        "state": "Wisconsin",
+        "zip": "17490"
+    },
+    "contact": {
+        "phone": "(909)601-5919",
+        "servicePhone": "800247728"
+    },
+    "birthday": "1930-15-05",
+    "ip": "95.209.169.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Research language edge back adult sound. Current order pressure consumer. Then focus picture cold detail political describe. Between that far six compare hotel by response.",
+        "bio": "Car it red collection north.\nAble within hundred boy free stuff. Put beyond dream main picture address myself."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

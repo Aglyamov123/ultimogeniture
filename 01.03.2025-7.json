@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Roberts",
+    "age": 56,
+    "address": {
+        "street": "Butler Circle",
+        "city": "North George",
+        "state": "Wyoming",
+        "zip": "89512"
+    },
+    "contact": {
+        "phone": "702.238.7829x4483",
+        "servicePhone": "800522154"
+    },
+    "birthday": "1969-10-05",
+    "ip": "204.37.35.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby science ok beautiful official. Media change single including kid.\nAuthority door let expect authority matter recently by. Wait think until mind final else health.",
+        "bio": "Available wall land outside represent its.\nSee respond to identify those cause collection. Section everybody billion soon impact opportunity."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}

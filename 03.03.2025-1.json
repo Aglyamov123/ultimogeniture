@@ -1,0 +1,25 @@
+{
+    "name": "Blake York",
+    "age": 46,
+    "address": {
+        "street": "Sherry Path",
+        "city": "Taylorbury",
+        "state": "New Hampshire",
+        "zip": "56783"
+    },
+    "contact": {
+        "phone": "3188532255",
+        "servicePhone": "800571676"
+    },
+    "birthday": "1979-08-06",
+    "ip": "81.102.25.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen data choice personal course another. Production old test along. Type difficult return professional another.\nWay sense from. Try meeting section bill read. New here mean speak.",
+        "bio": "Machine respond general somebody mother next. Letter case ago account institution card very. Think material collection scientist over author."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}

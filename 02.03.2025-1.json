@@ -1,0 +1,25 @@
+{
+    "name": "Adam Castillo",
+    "age": 14,
+    "address": {
+        "street": "Andrew Expressway",
+        "city": "Sheltonside",
+        "state": "Wyoming",
+        "zip": "02955"
+    },
+    "contact": {
+        "phone": "001-817-280-1046x0883",
+        "servicePhone": "800730881"
+    },
+    "birthday": "2011-11-06",
+    "ip": "38.104.100.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Song American subject feeling television college. Ability ahead because these degree just inside couple. With international agent head note hot.\nBehavior skill middle child want.",
+        "bio": "Sister receive act piece find worry outside. Agent talk team fact price. Table church mother morning edge drop lead."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}

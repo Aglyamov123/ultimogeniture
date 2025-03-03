@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Kerr",
+    "age": 33,
+    "address": {
+        "street": "Gonzalez Spring",
+        "city": "North Brianchester",
+        "state": "Virginia",
+        "zip": "22508"
+    },
+    "contact": {
+        "phone": "420.973.3412",
+        "servicePhone": "800441258"
+    },
+    "birthday": "1992-11-11",
+    "ip": "99.107.42.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone crime guess make. Pressure spring direction benefit. Of available environment.\nAnimal cause early spring travel. Quality arm group space specific may.",
+        "bio": "General need father billion wall pressure let. Already take within cover hand.\nHead blood involve prove rich there. Everyone agency per recently."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}

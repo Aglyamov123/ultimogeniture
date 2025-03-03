@@ -1,0 +1,25 @@
+{
+    "name": "Michael Harris",
+    "age": 89,
+    "address": {
+        "street": "Tyler Trail",
+        "city": "Delacruzview",
+        "state": "Arkansas",
+        "zip": "97201"
+    },
+    "contact": {
+        "phone": "547.297.3896x71393",
+        "servicePhone": "800833897"
+    },
+    "birthday": "1936-12-07",
+    "ip": "158.95.81.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular computer hold service suddenly wear fight. Current card whatever bar standard.\nVisit form most professional purpose suddenly standard. Opportunity thought follow green him.",
+        "bio": "She once focus interest. Notice myself might tough.\nArtist control five. Above indeed big relate. Four section popular beautiful get simple.\nHistory list month event."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}

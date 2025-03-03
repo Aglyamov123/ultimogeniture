@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Rowe",
+    "age": 111,
+    "address": {
+        "street": "Dylan Shores",
+        "city": "Gouldport",
+        "state": "Texas",
+        "zip": "34046"
+    },
+    "contact": {
+        "phone": "593.949.0158x205",
+        "servicePhone": "800779237"
+    },
+    "birthday": "1914-23-01",
+    "ip": "100.255.51.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Address stage visit up. Real skill spring voice group. None office situation national benefit wide black.\nHair have turn. Size bit fact end call color.",
+        "bio": "Great edge word month chance true. Owner human describe along hour company also letter. Region up court wind."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

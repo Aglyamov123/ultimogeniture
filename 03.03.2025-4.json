@@ -1,0 +1,25 @@
+{
+    "name": "Erin Chambers",
+    "age": 99,
+    "address": {
+        "street": "Cortez Shore",
+        "city": "Port Kylebury",
+        "state": "Alabama",
+        "zip": "79158"
+    },
+    "contact": {
+        "phone": "(688)763-5128",
+        "servicePhone": "800117255"
+    },
+    "birthday": "1926-11-10",
+    "ip": "136.57.63.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring fact maybe instead someone play. Opportunity local both front floor owner if positive.\nEffect east hope. Safe any eight receive scene.",
+        "bio": "Research exactly method. Help how view child a. Strong vote task power free.\nKnowledge claim side air. Majority bank ahead take direction example. Health role modern run."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}

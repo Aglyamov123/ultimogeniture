@@ -1,0 +1,25 @@
+{
+    "name": "Allen Cowan",
+    "age": 110,
+    "address": {
+        "street": "Herring Landing",
+        "city": "New Marissa",
+        "state": "Texas",
+        "zip": "58414"
+    },
+    "contact": {
+        "phone": "+1-931-506-6252",
+        "servicePhone": "800735304"
+    },
+    "birthday": "1915-05-08",
+    "ip": "205.186.181.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Item recently next discussion represent majority. Several coach main before run compare.\nAnimal series alone heavy work if. Car word short series term great. Effort similar appear turn these.",
+        "bio": "Team end any piece. Main dark special remember crime really represent pattern. Tree send become short who raise cell wrong."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

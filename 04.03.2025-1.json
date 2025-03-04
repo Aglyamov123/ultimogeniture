@@ -1,0 +1,25 @@
+{
+    "name": "Robert Gonzalez",
+    "age": 93,
+    "address": {
+        "street": "Hamilton Gateway",
+        "city": "North Jonathanmouth",
+        "state": "Maryland",
+        "zip": "26025"
+    },
+    "contact": {
+        "phone": "704.720.5663x343",
+        "servicePhone": "800977175"
+    },
+    "birthday": "1932-08-04",
+    "ip": "112.112.127.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Above last meeting moment war situation until. Identify star keep late against. Kitchen include role during health like. Military military actually area technology fight play into.",
+        "bio": "Threat far season special. Early range term expert yet not mouth. Again myself great edge offer process boy compare."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}

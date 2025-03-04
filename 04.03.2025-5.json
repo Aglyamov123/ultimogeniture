@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Hall",
+    "age": 58,
+    "address": {
+        "street": "Boyd Glens",
+        "city": "East Joseview",
+        "state": "North Carolina",
+        "zip": "13789"
+    },
+    "contact": {
+        "phone": "586.613.9688",
+        "servicePhone": "800968529"
+    },
+    "birthday": "1967-04-07",
+    "ip": "202.49.153.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate receive which whatever.\nTry business agency wrong teach right picture his. Group from seek. Suddenly run piece box. Audience across think travel.",
+        "bio": "Tonight receive order water phone performance. Follow require admit picture. Police think whole minute."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}

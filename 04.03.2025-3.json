@@ -1,0 +1,25 @@
+{
+    "name": "John Velez",
+    "age": 17,
+    "address": {
+        "street": "Horn Harbor",
+        "city": "Kimberlychester",
+        "state": "Indiana",
+        "zip": "42559"
+    },
+    "contact": {
+        "phone": "001-486-264-9885x58041",
+        "servicePhone": "800769375"
+    },
+    "birthday": "2008-23-03",
+    "ip": "159.89.228.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Travel I from. Learn person billion art small poor. Conference take fall respond very bed environmental. Trip end economic according improve seek positive both.",
+        "bio": "Practice production hot himself meet. Brother thank financial care attack. Type happen glass station behind water bed."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jimmy Tate",
+    "age": 32,
+    "address": {
+        "street": "Patricia Summit",
+        "city": "Johnsonport",
+        "state": "Texas",
+        "zip": "41683"
+    },
+    "contact": {
+        "phone": "+1-889-494-3580x96324",
+        "servicePhone": "800577402"
+    },
+    "birthday": "1993-30-06",
+    "ip": "70.205.184.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Task sense fish garden image his piece blood. Matter different group address throw owner argue owner. Answer south sign religious key control every.",
+        "bio": "Under really level really. Partner full want project enough. City away moment enter between.\nNo loss ok voice fact."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}

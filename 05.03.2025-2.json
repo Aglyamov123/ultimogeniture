@@ -1,0 +1,25 @@
+{
+    "name": "Ian Fox",
+    "age": 42,
+    "address": {
+        "street": "Smith Dam",
+        "city": "South Juliestad",
+        "state": "Florida",
+        "zip": "73136"
+    },
+    "contact": {
+        "phone": "(787)391-7601x8950",
+        "servicePhone": "800806302"
+    },
+    "birthday": "1983-12-11",
+    "ip": "40.97.56.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Piece strategy development put statement.\nLay room follow impact old. Difficult raise anyone morning. Game town rather until.",
+        "bio": "Outside often science fear. Half animal term lead later.\nFinancial only buy mean nor. Language collection night.\nHeart near middle. Share measure enough public alone."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}

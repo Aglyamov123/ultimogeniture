@@ -1,0 +1,25 @@
+{
+    "name": "Bridget Garza",
+    "age": 43,
+    "address": {
+        "street": "Austin Mall",
+        "city": "Port Brian",
+        "state": "Hawaii",
+        "zip": "57950"
+    },
+    "contact": {
+        "phone": "480-511-9129x12432",
+        "servicePhone": "800455746"
+    },
+    "birthday": "1982-05-09",
+    "ip": "109.101.119.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection although either too attorney feeling. Arm those store action level part. Choose be site everything.",
+        "bio": "Wait win truth drop investment sound. Best including leg. Board successful after.\nMust medical old assume material important pick. Paper laugh agreement plant president wall song."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}

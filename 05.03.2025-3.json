@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Russell",
+    "age": 1,
+    "address": {
+        "street": "Willie Loaf",
+        "city": "Jamesside",
+        "state": "New Hampshire",
+        "zip": "44921"
+    },
+    "contact": {
+        "phone": "(899)605-7482",
+        "servicePhone": "800899047"
+    },
+    "birthday": "2024-21-03",
+    "ip": "64.144.77.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Land team coach wonder green. Movement allow suggest always style. Successful idea next.\nBlood send television ability out. Safe yard your himself pretty author any other.",
+        "bio": "Population early top mention guy whether. Claim certainly throw next time. Not my nature policy rich baby form trial."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tony Pace",
+    "age": 113,
+    "address": {
+        "street": "John Corners",
+        "city": "Mosleystad",
+        "state": "Utah",
+        "zip": "66994"
+    },
+    "contact": {
+        "phone": "(338)863-7378x9577",
+        "servicePhone": "800098169"
+    },
+    "birthday": "1912-29-03",
+    "ip": "98.139.179.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Family heart person rate call week. Field enough try personal. Staff government fight energy. Choose picture throughout after she project sound.",
+        "bio": "Age black country house sign company sound. Thank sign live modern raise.\nPlant ability action beautiful. Toward by develop his.\nTime get seat garden attention husband base. Note none stop position."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}

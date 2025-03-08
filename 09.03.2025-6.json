@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Scott",
+    "age": 11,
+    "address": {
+        "street": "Washington Turnpike",
+        "city": "Bowmanstad",
+        "state": "Mississippi",
+        "zip": "26927"
+    },
+    "contact": {
+        "phone": "001-325-626-5716x7253",
+        "servicePhone": "800682472"
+    },
+    "birthday": "2014-21-12",
+    "ip": "57.47.146.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Age least behind east window reach fund friend. Age TV unit article pay student theory. Deal certainly clear adult direction key PM remember.",
+        "bio": "Want during everybody including individual space bar. Measure machine kitchen clearly glass everything traditional.\nCrime hold from eye city. Imagine rule heavy."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

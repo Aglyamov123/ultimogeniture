@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Mason",
+    "age": 40,
+    "address": {
+        "street": "Jeremy Port",
+        "city": "Marcofort",
+        "state": "Michigan",
+        "zip": "66842"
+    },
+    "contact": {
+        "phone": "(215)888-3901",
+        "servicePhone": "800034972"
+    },
+    "birthday": "1985-19-12",
+    "ip": "95.38.151.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring develop goal analysis yeah course. Leader anything expect class against material prove establish. Land television father on cost.",
+        "bio": "Agency position rest make career she read name. Candidate special college job able they. When music south learn."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

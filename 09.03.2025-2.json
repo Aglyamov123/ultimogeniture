@@ -1,0 +1,25 @@
+{
+    "name": "Derrick Castillo",
+    "age": 68,
+    "address": {
+        "street": "Arellano Village",
+        "city": "Richardsview",
+        "state": "Indiana",
+        "zip": "71521"
+    },
+    "contact": {
+        "phone": "(843)317-5862x31177",
+        "servicePhone": "800649231"
+    },
+    "birthday": "1957-02-09",
+    "ip": "208.132.60.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Small force figure character spend mother several life. Country protect fund trade contain throw box.\nElse maintain top us message hard. Drug moment itself dark.\nListen event collection guy.",
+        "bio": "Receive stuff item sit daughter much act. Certainly policy send particularly new scene newspaper.\nSpecial speak me loss difference. Car worker simply go left."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

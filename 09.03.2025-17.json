@@ -1,0 +1,25 @@
+{
+    "name": "James Morrow",
+    "age": 29,
+    "address": {
+        "street": "Jensen Freeway",
+        "city": "Lake Michael",
+        "state": "Maryland",
+        "zip": "78492"
+    },
+    "contact": {
+        "phone": "442-511-8097x1702",
+        "servicePhone": "800134644"
+    },
+    "birthday": "1996-12-06",
+    "ip": "6.98.49.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Station south boy. Short first fund article under. Bring perhaps window no. Fund region up item agent kitchen nor another.",
+        "bio": "Way finally trouble her middle discuss discuss.\nHead concern father because around. Cover middle ability behavior. Else lot daughter hand thing."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}

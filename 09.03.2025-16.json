@@ -1,0 +1,25 @@
+{
+    "name": "Megan Wilson",
+    "age": 94,
+    "address": {
+        "street": "Patterson Place",
+        "city": "Lake David",
+        "state": "Ohio",
+        "zip": "99433"
+    },
+    "contact": {
+        "phone": "(212)693-8783x66353",
+        "servicePhone": "800784767"
+    },
+    "birthday": "1931-13-11",
+    "ip": "23.99.86.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate it production sit. Behind whose before whole yeah short.\nBoard recent source explain. Toward environmental policy manager.",
+        "bio": "Suffer as near term attention. Wonder partner particularly. Stock perform chair particular just space."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}

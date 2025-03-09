@@ -1,0 +1,25 @@
+{
+    "name": "Austin Rodriguez",
+    "age": 26,
+    "address": {
+        "street": "Brown Corners",
+        "city": "Port Erik",
+        "state": "Tennessee",
+        "zip": "35973"
+    },
+    "contact": {
+        "phone": "638.585.5997x1098",
+        "servicePhone": "800242638"
+    },
+    "birthday": "1999-11-08",
+    "ip": "190.197.161.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Community measure tonight effect so. Fire morning east air executive identify.\nThey this responsibility our. When owner lot.\nOnto answer stay. Hospital matter age source somebody.",
+        "bio": "Same see also of no.\nParty save point your simply economy meeting. Anyone field property. Development tend house admit recently pick."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}

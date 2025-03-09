@@ -1,0 +1,25 @@
+{
+    "name": "Kathy Cruz",
+    "age": 27,
+    "address": {
+        "street": "Tabitha Rest",
+        "city": "Pamelastad",
+        "state": "Idaho",
+        "zip": "70268"
+    },
+    "contact": {
+        "phone": "903.706.2246x17892",
+        "servicePhone": "800778658"
+    },
+    "birthday": "1998-29-11",
+    "ip": "98.98.206.50",
+    "foo": "bar",
+    "profile": {
+        "about": "People today these possible knowledge just color. Matter meet our PM body. Matter money decision run manage life.",
+        "bio": "Good can hit message enough product. Time memory course six economic model unit.\nDesign hear audience statement major main left space. Whole true perform how work several act."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Christian Smith",
+    "age": 71,
+    "address": {
+        "street": "Robin Ranch",
+        "city": "Kimstad",
+        "state": "Idaho",
+        "zip": "26389"
+    },
+    "contact": {
+        "phone": "212-755-1677x563",
+        "servicePhone": "800136737"
+    },
+    "birthday": "1954-26-09",
+    "ip": "200.245.72.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Between seven send natural. Page unit fine computer worker gun. Right give baby billion interesting garden.",
+        "bio": "Away and without. Choice case together other put information test.\nPull matter system nothing. Sign least minute summer teach. Spend investment through check share there real.\nTechnology big natural."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

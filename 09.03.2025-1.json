@@ -1,0 +1,25 @@
+{
+    "name": "Karen Lam",
+    "age": 22,
+    "address": {
+        "street": "David Oval",
+        "city": "East Haroldside",
+        "state": "Kentucky",
+        "zip": "60552"
+    },
+    "contact": {
+        "phone": "001-731-727-2034x76694",
+        "servicePhone": "800884354"
+    },
+    "birthday": "2003-26-09",
+    "ip": "84.255.38.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed single economic tax line treat. Election part trial accept. Around main every rock reach. Foreign national clear song.",
+        "bio": "Mission how rich food. Box a impact daughter foreign. Bag during scientist newspaper environmental."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}

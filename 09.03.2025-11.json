@@ -1,0 +1,25 @@
+{
+    "name": "Holly Ortiz",
+    "age": 82,
+    "address": {
+        "street": "Joseph Lodge",
+        "city": "Saraside",
+        "state": "Wyoming",
+        "zip": "28221"
+    },
+    "contact": {
+        "phone": "001-889-869-5456x1531",
+        "servicePhone": "800730570"
+    },
+    "birthday": "1943-08-09",
+    "ip": "210.249.180.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing rule last wrong ahead western speak mission. Make free door try. Business week hear raise impact last general. They medical task get last table edge.",
+        "bio": "Hit rate close idea check hospital recent foreign. Partner friend without various wrong table. Lawyer hear wear.\nEnter piece sing level."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

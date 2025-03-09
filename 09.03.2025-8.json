@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Phillips",
+    "age": 29,
+    "address": {
+        "street": "Knapp Course",
+        "city": "Lake Derek",
+        "state": "Massachusetts",
+        "zip": "12605"
+    },
+    "contact": {
+        "phone": "5557641700",
+        "servicePhone": "800039454"
+    },
+    "birthday": "1996-18-02",
+    "ip": "159.90.89.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Century activity again fly or. Individual more change modern. Respond American model shake agency hard.\nShould from either treat likely third relationship. Already process note experience nice.",
+        "bio": "Star action usually cost between away. Trade event likely loss.\nSecurity light language name Mr by improve. Half life second protect.\nRemain good forget."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Wright",
+    "age": 60,
+    "address": {
+        "street": "Jonathan Harbor",
+        "city": "Washingtonborough",
+        "state": "Pennsylvania",
+        "zip": "25330"
+    },
+    "contact": {
+        "phone": "001-403-404-4031",
+        "servicePhone": "800050009"
+    },
+    "birthday": "1965-12-11",
+    "ip": "41.69.26.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Charge goal late spend type large. Not big bring owner individual. Beyond road join near garden training choose threat.\nEat day including over indicate. Later long them hospital process.",
+        "bio": "Political even soon protect plant money. Try worry kid under speech method hope seek.\nBuilding always worker allow. Class health since anyone major."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}

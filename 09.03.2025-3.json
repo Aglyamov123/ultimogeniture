@@ -1,0 +1,25 @@
+{
+    "name": "Taylor James",
+    "age": 99,
+    "address": {
+        "street": "Edward Forge",
+        "city": "Christophermouth",
+        "state": "South Carolina",
+        "zip": "10451"
+    },
+    "contact": {
+        "phone": "823-669-2196x8371",
+        "servicePhone": "800468388"
+    },
+    "birthday": "1926-15-04",
+    "ip": "170.112.188.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Fight choice attack of stay tree. They matter across care never team easy.\nDo kind perhaps hard. Compare school really able. Discussion believe role able impact investment we.",
+        "bio": "Event media interview understand young American. Rule property happy page. Knowledge through think argue case."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

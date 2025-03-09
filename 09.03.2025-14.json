@@ -1,0 +1,25 @@
+{
+    "name": "Wayne Avila",
+    "age": 109,
+    "address": {
+        "street": "Williams Port",
+        "city": "West Danielbury",
+        "state": "South Carolina",
+        "zip": "18144"
+    },
+    "contact": {
+        "phone": "251-881-3271x96772",
+        "servicePhone": "800369591"
+    },
+    "birthday": "1916-24-11",
+    "ip": "66.79.206.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Participant one catch clear. Strategy guess travel and challenge.\nWalk family office. Commercial ok under him. Music always just five.",
+        "bio": "Thank near Congress tell office respond. Chance visit price. Fight its whole office question away."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}

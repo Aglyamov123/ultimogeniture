@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Miller",
+    "age": 37,
+    "address": {
+        "street": "Boyer Plaza",
+        "city": "Lake Angelachester",
+        "state": "New Hampshire",
+        "zip": "30668"
+    },
+    "contact": {
+        "phone": "650.995.6115",
+        "servicePhone": "800384290"
+    },
+    "birthday": "1988-20-07",
+    "ip": "74.161.102.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Yet up fly suggest head but. Significant feel base economy yet hair difference city.\nDevelop serve report little story a child. Yeah audience road almost.",
+        "bio": "Miss side wind during safe. Since study per strategy if operation protect firm. Staff catch current teacher while yes father."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}

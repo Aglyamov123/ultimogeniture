@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Anderson",
+    "age": 17,
+    "address": {
+        "street": "Garrett Ports",
+        "city": "New Meganmouth",
+        "state": "Pennsylvania",
+        "zip": "32681"
+    },
+    "contact": {
+        "phone": "(567)947-8129",
+        "servicePhone": "800535535"
+    },
+    "birthday": "2008-11-12",
+    "ip": "173.136.208.170",
+    "foo": "bar",
+    "profile": {
+        "about": "List we team field take. Of song human strong these. Community create rock week.",
+        "bio": "Put and big program kitchen. Everybody author bit draw use pass industry.\nHappen other writer security remember clear almost. Care guess entire now catch along piece. Stage smile lot hospital see."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}

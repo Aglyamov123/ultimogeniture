@@ -1,0 +1,25 @@
+{
+    "name": "Maria Walker",
+    "age": 49,
+    "address": {
+        "street": "Wade Rapids",
+        "city": "Mauricemouth",
+        "state": "Minnesota",
+        "zip": "90326"
+    },
+    "contact": {
+        "phone": "001-586-396-4343x734",
+        "servicePhone": "800279025"
+    },
+    "birthday": "1976-23-06",
+    "ip": "102.71.109.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Rate three old various fly step. State manager list energy.\nHead box word body main employee. Difficult call not eight speech star charge last.",
+        "bio": "Carry discussion others little. Else moment church our sister worker. To available two bad onto base play."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Price",
+    "age": 107,
+    "address": {
+        "street": "Edwards Port",
+        "city": "Ryanberg",
+        "state": "Wyoming",
+        "zip": "29031"
+    },
+    "contact": {
+        "phone": "955-766-4873x981",
+        "servicePhone": "800987568"
+    },
+    "birthday": "1918-07-01",
+    "ip": "185.30.0.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Three suggest knowledge firm. Important discussion west picture phone effort news. Ahead finish water case body up people.",
+        "bio": "Prevent dinner before those. Along especially crime area.\nFour agreement strong thought mission move among. Technology one large task take. Drive imagine away unit pattern collection toward."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}

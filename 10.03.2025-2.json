@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Bennett",
+    "age": 58,
+    "address": {
+        "street": "Brown Lane",
+        "city": "Newtonchester",
+        "state": "Ohio",
+        "zip": "37849"
+    },
+    "contact": {
+        "phone": "448-773-9151x3344",
+        "servicePhone": "800436574"
+    },
+    "birthday": "1967-26-03",
+    "ip": "16.166.66.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Character grow how television although vote. Industry white industry claim question list. Garden want nor heart into way use. Well bill away yard between as.",
+        "bio": "Coach follow amount enter town provide maintain. Office why unit give. Tax recent certainly care."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}

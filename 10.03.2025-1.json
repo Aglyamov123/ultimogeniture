@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Brown",
+    "age": 84,
+    "address": {
+        "street": "Russell Prairie",
+        "city": "New Crystal",
+        "state": "Florida",
+        "zip": "40356"
+    },
+    "contact": {
+        "phone": "2548680697",
+        "servicePhone": "800656682"
+    },
+    "birthday": "1941-22-05",
+    "ip": "31.229.119.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Scientist often happen ago everyone along staff. Rule training laugh a policy feel bring.\nDemocratic return mind lay music go trip player. Physical main first city policy article able.",
+        "bio": "Cost agency value nice.\nBuilding thought public environmental baby. Tax all writer herself media staff."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

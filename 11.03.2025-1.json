@@ -1,0 +1,25 @@
+{
+    "name": "Jose Hall",
+    "age": 71,
+    "address": {
+        "street": "Rodriguez Plains",
+        "city": "Nicholsland",
+        "state": "Hawaii",
+        "zip": "18499"
+    },
+    "contact": {
+        "phone": "+1-545-758-0893x862",
+        "servicePhone": "800232181"
+    },
+    "birthday": "1954-31-10",
+    "ip": "66.97.127.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Technology hear system officer interest after often. Responsibility on bad however turn food.\nLike face think community pretty few. None western debate perform. Kid raise account manager.",
+        "bio": "Agree respond almost safe catch very what. Bank rise adult. Practice morning defense simply."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

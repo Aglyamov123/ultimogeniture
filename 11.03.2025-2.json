@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Salazar",
+    "age": 27,
+    "address": {
+        "street": "Charles Keys",
+        "city": "North Johnborough",
+        "state": "Kansas",
+        "zip": "05641"
+    },
+    "contact": {
+        "phone": "3164704129",
+        "servicePhone": "800413155"
+    },
+    "birthday": "1998-30-09",
+    "ip": "205.59.211.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal huge now collection believe care include land. Country represent most I free security reflect fact. Million be kind task early know work.\nArt develop agree. Herself soldier especially knowledge.",
+        "bio": "Store PM teacher since recent attack. Situation sport nor my. Candidate price event."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}

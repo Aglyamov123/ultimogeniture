@@ -1,0 +1,25 @@
+{
+    "name": "Monica Blair",
+    "age": 102,
+    "address": {
+        "street": "Michael View",
+        "city": "North Davidstad",
+        "state": "Alabama",
+        "zip": "78533"
+    },
+    "contact": {
+        "phone": "700.958.7475x420",
+        "servicePhone": "800876355"
+    },
+    "birthday": "1923-28-08",
+    "ip": "89.227.136.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern away forget place great. Dog approach but other answer everyone. Quality fund attack story some set.",
+        "bio": "Keep score include food those both. Guess trial while practice explain.\nStay north safe leg final. Sell play born crime effort."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}

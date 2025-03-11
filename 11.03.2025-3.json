@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Cobb",
+    "age": 20,
+    "address": {
+        "street": "David Oval",
+        "city": "North Sandrashire",
+        "state": "Colorado",
+        "zip": "47736"
+    },
+    "contact": {
+        "phone": "760-535-2396",
+        "servicePhone": "800793732"
+    },
+    "birthday": "2005-23-06",
+    "ip": "150.109.108.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting break thought imagine child record. Walk moment them executive simple forward man. Next behind staff son last.",
+        "bio": "Themselves of little.\nYeah general prevent pick me speak cost.\nBuild draw road six senior challenge brother. Media finish result race sit after."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}

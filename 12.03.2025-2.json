@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Frey",
+    "age": 57,
+    "address": {
+        "street": "Small Loaf",
+        "city": "West Theresatown",
+        "state": "North Dakota",
+        "zip": "56091"
+    },
+    "contact": {
+        "phone": "(235)295-5789",
+        "servicePhone": "800037182"
+    },
+    "birthday": "1968-27-11",
+    "ip": "126.175.21.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Could until ground government determine quite bill. Main poor my season around maintain rule information. Ability result happy deep good.",
+        "bio": "Sport way candidate building. Not star story pattern participant. Consumer approach short continue hit mean together.\nTo turn hot then power. Fine within center."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}

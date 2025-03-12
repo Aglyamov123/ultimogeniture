@@ -1,0 +1,25 @@
+{
+    "name": "Mark Perez",
+    "age": 54,
+    "address": {
+        "street": "Craig Mount",
+        "city": "East Rebecca",
+        "state": "Alabama",
+        "zip": "20191"
+    },
+    "contact": {
+        "phone": "+1-305-685-4424x1792",
+        "servicePhone": "800962709"
+    },
+    "birthday": "1971-07-05",
+    "ip": "3.162.180.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill leader worry always.\nCare weight manager community another. Expect wrong actually rule husband between. Popular point in sense let.",
+        "bio": "Everyone sometimes gun effort other election. Too suggest thank defense.\nWide three bed since.\nOperation pick population imagine. Laugh above its sport house all support."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

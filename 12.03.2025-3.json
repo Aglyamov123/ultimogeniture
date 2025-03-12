@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Rose",
+    "age": 113,
+    "address": {
+        "street": "Cunningham Forks",
+        "city": "Josephstad",
+        "state": "New Jersey",
+        "zip": "68543"
+    },
+    "contact": {
+        "phone": "995.397.3361",
+        "servicePhone": "800387628"
+    },
+    "birthday": "1912-19-08",
+    "ip": "194.228.0.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Stage learn range study pay record. Always performance right.",
+        "bio": "Government stand some business system answer ever."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}

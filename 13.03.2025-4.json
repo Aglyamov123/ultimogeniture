@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Mitchell",
+    "age": 31,
+    "address": {
+        "street": "Mendoza Cove",
+        "city": "North Kimberlymouth",
+        "state": "Wyoming",
+        "zip": "41971"
+    },
+    "contact": {
+        "phone": "001-577-501-0735",
+        "servicePhone": "800120509"
+    },
+    "birthday": "1994-04-07",
+    "ip": "125.141.168.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention year professional. Be management live travel brother mouth major.\nLose class just involve later speak. Ask stay lead response enough cause. Plant surface need red create total.",
+        "bio": "Left idea represent law forget. On level she minute say.\nMaintain use check. Left wind church there structure. Level relationship second hand court."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}

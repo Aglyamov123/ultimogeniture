@@ -1,0 +1,25 @@
+{
+    "name": "Michael Davis",
+    "age": 54,
+    "address": {
+        "street": "White Estates",
+        "city": "Melaniehaven",
+        "state": "Utah",
+        "zip": "11371"
+    },
+    "contact": {
+        "phone": "001-842-269-8625x7098",
+        "servicePhone": "800314090"
+    },
+    "birthday": "1971-16-12",
+    "ip": "90.146.124.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech house door heart. Body spring forward might popular. Clearly manager consumer from.\nCar pick others production all shoulder. Base same describe treat knowledge marriage fear.",
+        "bio": "Lawyer occur statement may figure step. Mission skin record true president listen step. Themselves wide treat picture direction maintain story."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}

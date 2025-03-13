@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Reed",
+    "age": 95,
+    "address": {
+        "street": "Mario Street",
+        "city": "Jeffersonmouth",
+        "state": "Oregon",
+        "zip": "01366"
+    },
+    "contact": {
+        "phone": "486-428-5538x2802",
+        "servicePhone": "800597056"
+    },
+    "birthday": "1930-25-05",
+    "ip": "112.89.244.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Wife see bill college out. Though grow include common skill cut. Book rate area remember.\nThis discuss focus important soldier sea. What describe much good.",
+        "bio": "Inside on hour buy. Amount day more contain. People central somebody fast focus will me pretty."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

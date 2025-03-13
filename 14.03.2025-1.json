@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Colon",
+    "age": 88,
+    "address": {
+        "street": "Phillips Crescent",
+        "city": "Scottborough",
+        "state": "Colorado",
+        "zip": "54625"
+    },
+    "contact": {
+        "phone": "001-399-516-3676x60878",
+        "servicePhone": "800445338"
+    },
+    "birthday": "1937-28-05",
+    "ip": "84.0.56.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Season memory you condition alone benefit. Popular face that girl yet water. Road fire reveal.\nSituation may about walk. Goal you of somebody view police.",
+        "bio": "Prove protect language road others. Run successful painting center return.\nCard do explain account treat. Early follow chair. Movement forward kind."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

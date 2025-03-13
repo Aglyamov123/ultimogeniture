@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Juarez",
+    "age": 31,
+    "address": {
+        "street": "Christopher Street",
+        "city": "Johnstonview",
+        "state": "Alaska",
+        "zip": "50627"
+    },
+    "contact": {
+        "phone": "001-823-528-9702",
+        "servicePhone": "800244259"
+    },
+    "birthday": "1994-25-07",
+    "ip": "200.87.57.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Mrs seek TV identify day. Stop movie product ago buy school son. Determine anything outside put trip if.\nWide impact describe. Would how chance answer run.",
+        "bio": "Adult too nearly light party risk. Interview analysis benefit type stay stuff deal. At resource across she until in happy first. Small exist your Republican century medical."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}

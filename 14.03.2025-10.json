@@ -1,0 +1,25 @@
+{
+    "name": "Sara Fuentes",
+    "age": 99,
+    "address": {
+        "street": "Heather Mill",
+        "city": "South Annettefurt",
+        "state": "Hawaii",
+        "zip": "93943"
+    },
+    "contact": {
+        "phone": "(430)997-7505x813",
+        "servicePhone": "800643842"
+    },
+    "birthday": "1926-06-09",
+    "ip": "137.11.2.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Much another able international against. Current news center control suddenly price none central. Project where strategy reveal talk these since.\nCase white smile off.",
+        "bio": "Race difference hot. Free hospital try carry official company.\nKnowledge song sea baby feel. His technology find hard art."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}

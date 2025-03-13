@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Nelson",
+    "age": 9,
+    "address": {
+        "street": "Michael Islands",
+        "city": "West Jamiefurt",
+        "state": "Nevada",
+        "zip": "33830"
+    },
+    "contact": {
+        "phone": "579-800-8391x295",
+        "servicePhone": "800890837"
+    },
+    "birthday": "2016-29-03",
+    "ip": "40.85.189.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Final popular party. Picture when coach look head. Marriage goal activity threat ok expect seek. Modern value gas authority.",
+        "bio": "This power age probably growth. Energy factor put tell. He challenge relate campaign speak know successful instead.\nSafe reach authority. Once build trouble manage to enough. Appear step later time."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

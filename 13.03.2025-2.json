@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Durham",
+    "age": 68,
+    "address": {
+        "street": "Waters Shore",
+        "city": "West Jeffrey",
+        "state": "Mississippi",
+        "zip": "95784"
+    },
+    "contact": {
+        "phone": "421.705.9922x36508",
+        "servicePhone": "800144071"
+    },
+    "birthday": "1957-30-09",
+    "ip": "192.190.50.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Save mention late step nice. Black process why question decade worry. My not worry year.\nDifference sometimes focus between may.\nMaybe probably body today sound its. Film left little state meeting.",
+        "bio": "So determine ask kind site positive front. Significant nature support home card sure."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}

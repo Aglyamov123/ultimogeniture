@@ -1,0 +1,25 @@
+{
+    "name": "Linda Ballard",
+    "age": 36,
+    "address": {
+        "street": "Hughes Alley",
+        "city": "Davisberg",
+        "state": "North Carolina",
+        "zip": "09123"
+    },
+    "contact": {
+        "phone": "5887684038",
+        "servicePhone": "800687341"
+    },
+    "birthday": "1989-15-01",
+    "ip": "118.216.63.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Century size sound realize camera. Drug take source forget.\nMovement least cover. Write student voice information language fast. Safe buy number special yourself speak lay.",
+        "bio": "Wonder picture paper break test late. Seek eight future economy.\nSport long character series enter whole town. Understand war gas create."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}

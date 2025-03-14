@@ -1,0 +1,25 @@
+{
+    "name": "Susan Costa",
+    "age": 107,
+    "address": {
+        "street": "Kaitlyn Spur",
+        "city": "West Kimberly",
+        "state": "New York",
+        "zip": "48529"
+    },
+    "contact": {
+        "phone": "568-835-2536x00808",
+        "servicePhone": "800406326"
+    },
+    "birthday": "1918-10-04",
+    "ip": "187.183.99.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Pick garden environmental interest. Ago design wide teach dog food list.\nStation late although good very good action physical. Me discussion crime several ask act clearly. Hot cold choice.",
+        "bio": "Station billion question break understand despite. Daughter yeah speak idea art glass. Candidate family decide soldier."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

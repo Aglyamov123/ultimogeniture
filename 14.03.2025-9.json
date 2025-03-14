@@ -1,0 +1,25 @@
+{
+    "name": "John Welch",
+    "age": 81,
+    "address": {
+        "street": "Alexa Court",
+        "city": "Lake Scotthaven",
+        "state": "Rhode Island",
+        "zip": "45073"
+    },
+    "contact": {
+        "phone": "383.712.8274x296",
+        "servicePhone": "800602586"
+    },
+    "birthday": "1944-17-03",
+    "ip": "180.212.162.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Item name off fear shoulder.\nExpect factor management friend bill throughout discussion. Raise soon tonight behind defense.\nWhich Mr audience I.",
+        "bio": "Anyone security performance. Imagine cold blood after pick field step. Media it stay stop TV enjoy commercial.\nReceive at room reflect treat police truth. Word into though. Keep billion world this."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}

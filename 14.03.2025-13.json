@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Peterson",
+    "age": 105,
+    "address": {
+        "street": "Robinson Squares",
+        "city": "West Brian",
+        "state": "Ohio",
+        "zip": "19051"
+    },
+    "contact": {
+        "phone": "001-401-851-2434x83391",
+        "servicePhone": "800814024"
+    },
+    "birthday": "1920-22-10",
+    "ip": "182.210.1.116",
+    "foo": "bar",
+    "profile": {
+        "about": "North friend short size any send. At specific increase hear budget increase.\nResearch far mean role about fall after crime. House response strong bit low.",
+        "bio": "Change especially house company address. Event shoulder home physical together southern trial religious."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}

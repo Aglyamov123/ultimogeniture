@@ -1,0 +1,25 @@
+{
+    "name": "Emily Alexander",
+    "age": 101,
+    "address": {
+        "street": "Holder Glens",
+        "city": "South Claudiaport",
+        "state": "Oklahoma",
+        "zip": "06673"
+    },
+    "contact": {
+        "phone": "001-428-997-3494x50904",
+        "servicePhone": "800613585"
+    },
+    "birthday": "1924-05-01",
+    "ip": "147.94.235.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Smile room prove size.\nFine lay thus event yourself head subject. Image model face foreign ask.",
+        "bio": "However cup land thing participant perform Mr. Decision interest woman sense.\nMe cover capital address. Ok education camera place house next. Street dream instead."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}

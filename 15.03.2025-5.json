@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Vargas",
+    "age": 89,
+    "address": {
+        "street": "Wilson Viaduct",
+        "city": "Turnermouth",
+        "state": "Alaska",
+        "zip": "87067"
+    },
+    "contact": {
+        "phone": "509-531-3479x44803",
+        "servicePhone": "800863635"
+    },
+    "birthday": "1936-13-05",
+    "ip": "98.109.185.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband after drug sign. Draw capital road several.\nApply finish soon good. Without shake blood many give water within economy. Fine number simply.",
+        "bio": "By democratic involve.\nHome research federal run executive. Usually machine his.\nPower I significant. Start use hotel soon. Notice economic me street."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Thompson",
+    "age": 8,
+    "address": {
+        "street": "Mitchell Junction",
+        "city": "Elizabethburgh",
+        "state": "Arkansas",
+        "zip": "49063"
+    },
+    "contact": {
+        "phone": "552.461.5741",
+        "servicePhone": "800148034"
+    },
+    "birthday": "2017-08-06",
+    "ip": "155.91.239.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Where ahead cost whom. Later assume sometimes school leave Congress.\nLikely boy be somebody song visit. Possible single friend rest especially figure. Huge thus morning wonder.",
+        "bio": "Month various ago skill drive unit. Discuss one trouble kind factor.\nSort morning training do test. Main cell point inside within art walk. Ability different sit can performance collection."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}

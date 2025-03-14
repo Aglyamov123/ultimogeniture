@@ -1,0 +1,25 @@
+{
+    "name": "Haley Myers",
+    "age": 11,
+    "address": {
+        "street": "Walter Trace",
+        "city": "Thompsonmouth",
+        "state": "Indiana",
+        "zip": "63712"
+    },
+    "contact": {
+        "phone": "001-555-882-7289",
+        "servicePhone": "800612957"
+    },
+    "birthday": "2014-30-07",
+    "ip": "147.210.63.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Game push wonder ready another low attention history. Shake case time join on hot. Statement cup picture level. Instead structure activity morning increase office thousand government.",
+        "bio": "Short drug idea win. Market determine guess street night even.\nWay figure herself idea. More maintain less. Feeling matter case. From inside line her look act necessary."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}

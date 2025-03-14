@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Blake Owens",
+    "age": 50,
+    "address": {
+        "street": "Charles Corners",
+        "city": "Nicoleport",
+        "state": "Louisiana",
+        "zip": "64010"
+    },
+    "contact": {
+        "phone": "(203)805-1254x4191",
+        "servicePhone": "800762345"
+    },
+    "birthday": "1975-28-11",
+    "ip": "143.160.166.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Entire or which group relationship.\nFull song fast same seat often. Reveal dark event outside team.\nSport interesting these girl those. Purpose available action hot.",
+        "bio": "Approach into huge personal if. Too quality like newspaper place."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}

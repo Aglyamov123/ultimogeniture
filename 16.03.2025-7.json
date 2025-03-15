@@ -1,0 +1,25 @@
+{
+    "name": "Michael Reed",
+    "age": 16,
+    "address": {
+        "street": "Meredith Mills",
+        "city": "Brianbury",
+        "state": "South Carolina",
+        "zip": "37011"
+    },
+    "contact": {
+        "phone": "493.345.3609",
+        "servicePhone": "800008056"
+    },
+    "birthday": "2009-03-09",
+    "ip": "217.19.9.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Certain happy turn back. On large probably response guy act prevent many.\nChurch collection bag show. Economy agent tonight number husband college hit.",
+        "bio": "Better heavy perhaps charge father. Every edge protect since. Job item try skin onto.\nKey develop network technology spend development. Attention benefit reality court."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Michael Marks",
+    "age": 58,
+    "address": {
+        "street": "Kimberly Squares",
+        "city": "Lake Jonathanstad",
+        "state": "Washington",
+        "zip": "87897"
+    },
+    "contact": {
+        "phone": "001-564-219-1930x620",
+        "servicePhone": "800978519"
+    },
+    "birthday": "1967-19-11",
+    "ip": "159.145.69.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Bill worry buy ten. Paper the if thus.\nReady story join. Seek century heart you. News sometimes sport radio be couple.\nPhone difficult boy their art shake. Book week protect catch.",
+        "bio": "Prove inside answer recent house thus. Character clear high huge later. Well stop compare option."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

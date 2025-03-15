@@ -1,0 +1,25 @@
+{
+    "name": "William Mccarty",
+    "age": 25,
+    "address": {
+        "street": "Judy Flat",
+        "city": "West Brian",
+        "state": "Nevada",
+        "zip": "21727"
+    },
+    "contact": {
+        "phone": "545.202.9336x3710",
+        "servicePhone": "800051935"
+    },
+    "birthday": "2000-12-11",
+    "ip": "54.229.12.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer major process involve leave moment other. Not these father win blue inside purpose.\nOnce protect I sit difficult career. High choice concern commercial huge yes. Cell entire them what.",
+        "bio": "Wish across know. Show spend so across baby group a.\nAgainst practice yeah spring involve trial buy mention.\nDrug fight training cultural identify culture."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

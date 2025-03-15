@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Parker",
+    "age": 81,
+    "address": {
+        "street": "Simpson Way",
+        "city": "Vickibury",
+        "state": "Idaho",
+        "zip": "06825"
+    },
+    "contact": {
+        "phone": "859.740.0624x32871",
+        "servicePhone": "800484460"
+    },
+    "birthday": "1944-05-03",
+    "ip": "45.195.223.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Say thousand sound in. Know imagine time interest. End large focus threat.\nEnvironment weight some approach design stay involve. Carry surface entire manager so shoulder.",
+        "bio": "Class treat song American degree. Machine exactly thing moment who cold.\nThan sport run outside military one Mr. Human long crime available."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}

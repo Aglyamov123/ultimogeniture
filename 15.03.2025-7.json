@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Smith",
+    "age": 33,
+    "address": {
+        "street": "Alan Fort",
+        "city": "Franklinberg",
+        "state": "Kansas",
+        "zip": "49770"
+    },
+    "contact": {
+        "phone": "371-848-9774x661",
+        "servicePhone": "800500285"
+    },
+    "birthday": "1992-24-05",
+    "ip": "170.80.79.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Author live become. Learn hundred ever.\nChoose sell he change military.",
+        "bio": "Next close system. Staff to three these.\nPopulation into guess foreign. Significant fish bill exactly car open likely. Cost write either."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}

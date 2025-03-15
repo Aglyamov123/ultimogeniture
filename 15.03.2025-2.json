@@ -1,0 +1,25 @@
+{
+    "name": "Robert Coleman",
+    "age": 52,
+    "address": {
+        "street": "Tanya Mission",
+        "city": "North Marc",
+        "state": "Georgia",
+        "zip": "53653"
+    },
+    "contact": {
+        "phone": "463-833-9130x232",
+        "servicePhone": "800227474"
+    },
+    "birthday": "1973-28-05",
+    "ip": "175.228.28.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Book loss south force success shoulder present. Without really hotel fire. Seek throughout that may manage perhaps.",
+        "bio": "Language time Congress either green happy. Traditional nothing explain example doctor suddenly song. Region arrive paper painting decision."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}

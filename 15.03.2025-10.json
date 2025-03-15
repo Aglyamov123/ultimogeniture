@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Gutierrez",
+    "age": 4,
+    "address": {
+        "street": "Zachary Park",
+        "city": "West Jonathanfurt",
+        "state": "California",
+        "zip": "04526"
+    },
+    "contact": {
+        "phone": "+1-733-903-4913",
+        "servicePhone": "800594499"
+    },
+    "birthday": "2021-22-01",
+    "ip": "131.184.83.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular town note yes similar hour. Every water market sea feeling trade.\nAvailable past image network its should. Address window trade young recognize. Thought treatment key direction believe Mr.",
+        "bio": "Security recognize likely training their great mention. Choose your such inside.\nReason claim wait item. Letter whole family. Course us energy light fine. Movie pretty leg meet deep."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}

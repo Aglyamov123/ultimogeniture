@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Casey",
+    "age": 86,
+    "address": {
+        "street": "Conner Pine",
+        "city": "New Justin",
+        "state": "Montana",
+        "zip": "88382"
+    },
+    "contact": {
+        "phone": "516.812.1497",
+        "servicePhone": "800143433"
+    },
+    "birthday": "1939-18-06",
+    "ip": "136.190.58.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Them ten daughter agent yourself save. Report seek billion much give card. Air billion glass hot talk take.\nEvery kind teacher other deep why often money. That approach site the often big.",
+        "bio": "Guess staff key one determine station. Security cover process poor. Pay you admit for at. Air stage call chance suddenly."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

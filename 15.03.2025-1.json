@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Thomas",
+    "age": 75,
+    "address": {
+        "street": "Bailey Hills",
+        "city": "Michaelhaven",
+        "state": "Vermont",
+        "zip": "98220"
+    },
+    "contact": {
+        "phone": "+1-974-953-8758x625",
+        "servicePhone": "800651862"
+    },
+    "birthday": "1950-05-03",
+    "ip": "116.126.151.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Any wonder difficult. Present bill sign my offer face any politics.",
+        "bio": "Style week week before attention beyond. Personal together baby easy because. Everybody sometimes space wall son police.\nJoin yeah itself stock. Decision knowledge partner treatment."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}

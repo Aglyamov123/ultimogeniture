@@ -1,0 +1,25 @@
+{
+    "name": "Erika Coleman",
+    "age": 94,
+    "address": {
+        "street": "Miller Crossing",
+        "city": "Bobmouth",
+        "state": "Tennessee",
+        "zip": "21036"
+    },
+    "contact": {
+        "phone": "+1-219-744-2241x8714",
+        "servicePhone": "800931335"
+    },
+    "birthday": "1931-17-03",
+    "ip": "184.146.3.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Admit economic catch boy. Agree public never through. Support leader both good size catch challenge.",
+        "bio": "Agreement add sing. What tax response another. Choose head mind draw indicate writer risk.\nSeat throw site now other piece. There star we manage accept. Set rather TV once."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}

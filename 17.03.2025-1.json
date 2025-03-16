@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Lee",
+    "age": 111,
+    "address": {
+        "street": "Samantha Plains",
+        "city": "West Allison",
+        "state": "Colorado",
+        "zip": "95223"
+    },
+    "contact": {
+        "phone": "+1-675-872-3784x5454",
+        "servicePhone": "800704312"
+    },
+    "birthday": "1914-20-06",
+    "ip": "27.110.188.68",
+    "foo": "bar",
+    "profile": {
+        "about": "True detail treat lose nation sport. Policy bag finish choice move address move news. Plant work test street including themselves.",
+        "bio": "Training accept provide coach each. Usually marriage space successful successful important rate."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

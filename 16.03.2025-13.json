@@ -1,0 +1,25 @@
+{
+    "name": "Mark Ward",
+    "age": 112,
+    "address": {
+        "street": "Todd Drives",
+        "city": "West Patricia",
+        "state": "Minnesota",
+        "zip": "85892"
+    },
+    "contact": {
+        "phone": "969-434-9913",
+        "servicePhone": "800122548"
+    },
+    "birthday": "1913-04-01",
+    "ip": "138.219.12.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay popular born along. Too administration democratic listen across.\nFund test camera eye exactly type. Fish experience public relate model art. Almost yet create. Great fall beyond attorney season.",
+        "bio": "Though society truth seem list open southern. Interest finish onto. Lose green wife.\nGeneration learn owner political. Occur east more hear drive simple."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Chavez",
+    "age": 67,
+    "address": {
+        "street": "Patrick Green",
+        "city": "Port Anna",
+        "state": "Florida",
+        "zip": "29297"
+    },
+    "contact": {
+        "phone": "264-692-0664x8897",
+        "servicePhone": "800955127"
+    },
+    "birthday": "1958-15-01",
+    "ip": "194.242.92.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Company represent provide network over. Thought day eat her social.\nSong human worry become have discussion finish.",
+        "bio": "Including himself coach number blood cultural. Authority money full nearly. Carry team answer.\nCharacter political color do."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}

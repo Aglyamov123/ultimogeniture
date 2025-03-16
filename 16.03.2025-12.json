@@ -1,0 +1,25 @@
+{
+    "name": "Jill Yoder",
+    "age": 49,
+    "address": {
+        "street": "Joshua Locks",
+        "city": "Port Bobby",
+        "state": "Maryland",
+        "zip": "43159"
+    },
+    "contact": {
+        "phone": "(761)981-6131",
+        "servicePhone": "800462670"
+    },
+    "birthday": "1976-15-09",
+    "ip": "173.57.58.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Group bit idea election buy structure center show. Develop debate draw democratic above enough act. Message team light total military discuss.",
+        "bio": "When beyond behind meet be them conference.\nKnowledge something she never into class yeah. Determine price table can present child. Pressure board speech strategy address none face hit."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

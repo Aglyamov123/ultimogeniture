@@ -1,0 +1,25 @@
+{
+    "name": "Caroline Rosales",
+    "age": 65,
+    "address": {
+        "street": "Sweeney Mount",
+        "city": "Andremouth",
+        "state": "Alabama",
+        "zip": "94590"
+    },
+    "contact": {
+        "phone": "+1-779-210-5519x835",
+        "servicePhone": "800599404"
+    },
+    "birthday": "1960-20-10",
+    "ip": "139.99.148.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Think I charge fill assume realize compare. Mission yet road crime manager. Window affect song edge serious.",
+        "bio": "Actually Republican woman after weight nothing five. Standard contain boy security short rich opportunity.\nBlack team garden situation interest. Purpose glass once threat very yes Mr land."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

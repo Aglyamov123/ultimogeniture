@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Campos",
+    "age": 63,
+    "address": {
+        "street": "White Villages",
+        "city": "West Tiffanymouth",
+        "state": "Nebraska",
+        "zip": "77411"
+    },
+    "contact": {
+        "phone": "507-331-1757",
+        "servicePhone": "800595056"
+    },
+    "birthday": "1962-02-02",
+    "ip": "47.6.192.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Ever stay increase letter. Lead first risk firm series good policy.",
+        "bio": "City hard race wear. All do parent try want test allow.\nRisk full sing world several green. Fly history too son fact power. Manage end choose note sense responsibility."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}

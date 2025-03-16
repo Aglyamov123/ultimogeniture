@@ -1,0 +1,25 @@
+{
+    "name": "Perry Miller",
+    "age": 33,
+    "address": {
+        "street": "Connie Parkway",
+        "city": "Jonesberg",
+        "state": "Michigan",
+        "zip": "04299"
+    },
+    "contact": {
+        "phone": "001-691-773-8801x59520",
+        "servicePhone": "800587077"
+    },
+    "birthday": "1992-29-01",
+    "ip": "9.52.119.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical thank page pretty new. Push itself authority.\nComputer establish everyone which hand president receive serious. Kind then much per start early affect happy.",
+        "bio": "Travel plant call price. Suggest season though go view floor likely.\nA usually not theory role treat read. Control low though player during movie."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

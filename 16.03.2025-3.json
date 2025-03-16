@@ -1,0 +1,25 @@
+{
+    "name": "Adam Evans",
+    "age": 34,
+    "address": {
+        "street": "Cowan Estates",
+        "city": "Lake Jacobborough",
+        "state": "Utah",
+        "zip": "46069"
+    },
+    "contact": {
+        "phone": "001-233-318-0879x547",
+        "servicePhone": "800816700"
+    },
+    "birthday": "1991-29-04",
+    "ip": "85.115.16.138",
+    "foo": "bar",
+    "profile": {
+        "about": "About behavior bit finally parent enter. Try our few serve chair.\nSell true candidate all. Room itself beautiful. While computer work wall pretty.",
+        "bio": "Door tell inside something professional reach. Watch shake case outside of would sense.\nWhatever six environmental use. Mr throughout decade. I down skill result very live environmental."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}

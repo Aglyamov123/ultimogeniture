@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Chavez",
+    "age": 57,
+    "address": {
+        "street": "Hahn Coves",
+        "city": "Danielville",
+        "state": "Utah",
+        "zip": "58829"
+    },
+    "contact": {
+        "phone": "+1-759-244-9666x0272",
+        "servicePhone": "800971973"
+    },
+    "birthday": "1968-22-04",
+    "ip": "45.31.11.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Strategy player need back both able parent. Box old sea few out morning life.\nArrive model contain. Machine be stock sing Mr. All finish product base address.",
+        "bio": "Detail talk dinner wide follow.\nBecome fear experience network region throughout test. Have could again good art. Apply health high show.\nUnit money commercial within rise perform."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}

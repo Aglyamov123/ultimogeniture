@@ -1,0 +1,25 @@
+{
+    "name": "Andre Matthews",
+    "age": 111,
+    "address": {
+        "street": "Chen Falls",
+        "city": "Eduardoburgh",
+        "state": "Utah",
+        "zip": "53242"
+    },
+    "contact": {
+        "phone": "533.270.8294",
+        "servicePhone": "800986269"
+    },
+    "birthday": "1914-16-12",
+    "ip": "86.245.22.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Play ability professor activity. Onto protect when.\nNews financial head help trial year education. Money within sure where speech fine amount no. Create run final bar speech worry this.",
+        "bio": "Despite if reveal prevent. Should learn list southern firm best west face.\nPolicy all either prevent happen. General indeed tend almost yourself table.\nWhile foreign follow grow."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}

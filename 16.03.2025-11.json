@@ -1,0 +1,25 @@
+{
+    "name": "Monica Henry",
+    "age": 46,
+    "address": {
+        "street": "Colleen Mountains",
+        "city": "Lake Amandaville",
+        "state": "Minnesota",
+        "zip": "60928"
+    },
+    "contact": {
+        "phone": "+1-836-608-8029x4908",
+        "servicePhone": "800320803"
+    },
+    "birthday": "1979-11-04",
+    "ip": "159.17.204.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Card benefit who instead fly collection bit. Year respond account morning Democrat. Bank room continue reason name positive significant follow.",
+        "bio": "Station conference seven discover. President door house her these. Another sea scientist.\nHusband such stage yourself kind industry approach. They four loss."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Chad Jones",
+    "age": 73,
+    "address": {
+        "street": "Diana Ville",
+        "city": "South Anitaburgh",
+        "state": "North Carolina",
+        "zip": "19795"
+    },
+    "contact": {
+        "phone": "+1-385-420-5046x8400",
+        "servicePhone": "800895130"
+    },
+    "birthday": "1952-12-10",
+    "ip": "59.220.225.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Save air sport. Performance and two yes century bit surface.\nSomething need wide painting head cold may. Popular them economic international thank dog once fight.",
+        "bio": "Young option seem wife law near. Hundred challenge stop imagine remain anyone begin. Structure serve every rate food."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Richard",
+    "age": 114,
+    "address": {
+        "street": "Oliver Road",
+        "city": "Port Benjamin",
+        "state": "Washington",
+        "zip": "63808"
+    },
+    "contact": {
+        "phone": "(542)867-9368x2275",
+        "servicePhone": "800269641"
+    },
+    "birthday": "1911-29-12",
+    "ip": "43.22.233.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Old oil evidence provide establish receive. Deep book good institution mention help. Across wonder scene always.",
+        "bio": "Tonight I movie baby property. Increase relate here middle. Ground support discuss international.\nReligious thank statement peace central step less morning. Sea painting treat travel assume."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}

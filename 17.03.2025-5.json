@@ -1,0 +1,25 @@
+{
+    "name": "Erica Ray",
+    "age": 74,
+    "address": {
+        "street": "Michael Heights",
+        "city": "Lake Johnathanfurt",
+        "state": "Iowa",
+        "zip": "49963"
+    },
+    "contact": {
+        "phone": "874.606.3212",
+        "servicePhone": "800875400"
+    },
+    "birthday": "1951-14-01",
+    "ip": "167.175.193.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine read nature. Explain you stuff herself.\nComputer model finally study present. Their total rule again.\nStrategy nation miss claim. Skill similar with right.",
+        "bio": "Make involve own how. Cause source seven catch throw piece. Different staff say per friend.\nSeven Congress guess name. Health happy member."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

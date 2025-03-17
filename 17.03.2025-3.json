@@ -1,0 +1,25 @@
+{
+    "name": "Heather Nichols",
+    "age": 37,
+    "address": {
+        "street": "Hampton Path",
+        "city": "North Dustintown",
+        "state": "Wyoming",
+        "zip": "05881"
+    },
+    "contact": {
+        "phone": "440.289.0534x948",
+        "servicePhone": "800709805"
+    },
+    "birthday": "1988-20-09",
+    "ip": "17.110.89.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover amount eat. Hand wait include nor sense past. Allow director front discuss leave now. From collection try thought visit finally have.",
+        "bio": "Crime model wind group crime. Natural radio see no address meeting tree. Officer writer stock main."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}

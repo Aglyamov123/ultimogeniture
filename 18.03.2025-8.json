@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Smith",
+    "age": 99,
+    "address": {
+        "street": "Bush Passage",
+        "city": "New Francisborough",
+        "state": "Alabama",
+        "zip": "01383"
+    },
+    "contact": {
+        "phone": "001-849-413-6058",
+        "servicePhone": "800914653"
+    },
+    "birthday": "1926-11-12",
+    "ip": "85.234.3.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Season yourself cause pull these. Into seven paper. With cultural process against job finally race.\nTeam same wall color where oil society.",
+        "bio": "Building trade carry something whose reveal. Statement between decade suffer like attention how southern.\nRace still issue score. Center need north he left."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}

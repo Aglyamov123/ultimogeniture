@@ -1,0 +1,25 @@
+{
+    "name": "John Hunt",
+    "age": 68,
+    "address": {
+        "street": "Kristin Row",
+        "city": "West Jamesfort",
+        "state": "New York",
+        "zip": "96756"
+    },
+    "contact": {
+        "phone": "545.776.9711",
+        "servicePhone": "800276982"
+    },
+    "birthday": "1957-15-10",
+    "ip": "48.210.35.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake attention decide woman. Task plant four son.\nStructure or serve because finally answer age. Table fight prevent it employee claim.",
+        "bio": "Church prevent seat much over black six tough. Skill buy compare cause voice set part. North technology source economic production create late."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}

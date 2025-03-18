@@ -1,0 +1,25 @@
+{
+    "name": "Daisy Chambers",
+    "age": 71,
+    "address": {
+        "street": "Donald View",
+        "city": "South Vickiemouth",
+        "state": "Michigan",
+        "zip": "41124"
+    },
+    "contact": {
+        "phone": "447-284-7350x29487",
+        "servicePhone": "800153627"
+    },
+    "birthday": "1954-05-05",
+    "ip": "98.6.134.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Natural when may opportunity tonight dream guess. Senior level language structure practice star road.\nParticularly tough newspaper effort form factor cause price. Easy college race alone television.",
+        "bio": "Throw wind never current. Guess early bag thousand.\nCreate particularly wear national security main experience. Hour check leg our report."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}

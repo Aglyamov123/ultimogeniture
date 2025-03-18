@@ -1,0 +1,25 @@
+{
+    "name": "Lee Harris",
+    "age": 83,
+    "address": {
+        "street": "Mark Fall",
+        "city": "Bennettside",
+        "state": "Colorado",
+        "zip": "16445"
+    },
+    "contact": {
+        "phone": "+1-685-884-6656x610",
+        "servicePhone": "800247411"
+    },
+    "birthday": "1942-14-08",
+    "ip": "17.158.79.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Fish four traditional. Material crime thought several not people. Also idea second east fact forward partner event.\nImprove better avoid recent compare. Teach when instead.",
+        "bio": "Garden second assume he time picture laugh. Eye on culture customer everybody growth.\nAgo certainly necessary sense provide here. Total including method week stage and."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}

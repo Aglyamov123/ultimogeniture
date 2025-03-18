@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Wiggins",
+    "age": 54,
+    "address": {
+        "street": "Edward Plain",
+        "city": "Romeroborough",
+        "state": "Connecticut",
+        "zip": "82056"
+    },
+    "contact": {
+        "phone": "302-772-8342x73877",
+        "servicePhone": "800246531"
+    },
+    "birthday": "1971-01-11",
+    "ip": "94.207.117.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Term there available ten race reach. Lot kind few open thank relate happen. Less explain reflect bed voice wonder explain. Time often example per yes car director clearly.",
+        "bio": "Floor method able interesting bag game evening.\nAgainst be three deep modern clearly treat."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}

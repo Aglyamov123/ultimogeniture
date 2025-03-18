@@ -1,0 +1,25 @@
+{
+    "name": "Allison Hernandez",
+    "age": 96,
+    "address": {
+        "street": "Patrick Hollow",
+        "city": "West Brandonhaven",
+        "state": "Kentucky",
+        "zip": "98664"
+    },
+    "contact": {
+        "phone": "001-500-927-2865x8209",
+        "servicePhone": "800624964"
+    },
+    "birthday": "1929-06-01",
+    "ip": "49.192.4.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Than write institution his institution fish into difficult.",
+        "bio": "Agree nor class design business threat newspaper. Sell identify particularly cause guy film move. May wonder let religious just."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

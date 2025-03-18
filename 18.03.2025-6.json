@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Wright",
+    "age": 47,
+    "address": {
+        "street": "Moore Viaduct",
+        "city": "Brownfurt",
+        "state": "Indiana",
+        "zip": "71363"
+    },
+    "contact": {
+        "phone": "943-362-5903",
+        "servicePhone": "800386641"
+    },
+    "birthday": "1978-04-05",
+    "ip": "52.65.216.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Next movie loss hour certain take data.\nCentury determine as spend face tend business research. Final buy Republican magazine third project. Institution since condition about owner that consider.",
+        "bio": "Believe animal evidence himself author within onto. General sound with him box prepare available.\nDiscussion rise school throw. Peace product voice present."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

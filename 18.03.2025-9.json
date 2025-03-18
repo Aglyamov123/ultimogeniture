@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Velasquez",
+    "age": 12,
+    "address": {
+        "street": "Allen Forks",
+        "city": "East Leslieburgh",
+        "state": "New Hampshire",
+        "zip": "36686"
+    },
+    "contact": {
+        "phone": "(687)806-4857",
+        "servicePhone": "800620956"
+    },
+    "birthday": "2013-23-09",
+    "ip": "130.20.174.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Year serve practice trade goal test situation. If within hope power station. Show think clearly.\nRest nature practice smile product old. Minute some section child medical everyone.",
+        "bio": "Front until management chance. Campaign medical sort section free data. Detail thousand look enter easy writer simple."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}

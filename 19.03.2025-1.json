@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Crawford",
+    "age": 56,
+    "address": {
+        "street": "Christine Mews",
+        "city": "Simmonsberg",
+        "state": "Missouri",
+        "zip": "42832"
+    },
+    "contact": {
+        "phone": "(721)569-1322",
+        "servicePhone": "800762208"
+    },
+    "birthday": "1969-15-05",
+    "ip": "142.89.240.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Bank middle effect their instead that suddenly. Drop majority outside party analysis serve. Focus where course field.\nBenefit why account great.",
+        "bio": "Call offer stand lay respond at against leg. Accept staff first.\nDebate action develop piece. Artist sea run central operation money."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}

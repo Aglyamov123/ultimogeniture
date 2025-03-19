@@ -1,0 +1,25 @@
+{
+    "name": "Elijah Henry",
+    "age": 80,
+    "address": {
+        "street": "Lopez Circle",
+        "city": "Owensfurt",
+        "state": "Wyoming",
+        "zip": "65198"
+    },
+    "contact": {
+        "phone": "525.278.1521x97139",
+        "servicePhone": "800509510"
+    },
+    "birthday": "1945-21-06",
+    "ip": "141.245.85.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Fall way front item fish cell none. He idea focus tax data alone. With today on physical.\nOur health dinner wall. Prove mission social do report teacher.",
+        "bio": "Address seem develop history trip. Meet paper include we drug usually.\nFull various history single natural your page. Popular economic whatever than college."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

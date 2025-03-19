@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Hernandez",
+    "age": 71,
+    "address": {
+        "street": "Courtney Manor",
+        "city": "South Mary",
+        "state": "Georgia",
+        "zip": "83953"
+    },
+    "contact": {
+        "phone": "+1-240-270-3289x678",
+        "servicePhone": "800844006"
+    },
+    "birthday": "1954-11-08",
+    "ip": "182.99.222.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Case should spend. Tree late again form. Leader product federal management. Tree successful notice church.",
+        "bio": "Person fight enjoy watch four mouth. Writer drive control job life society pay. Break like Republican animal factor country always authority."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

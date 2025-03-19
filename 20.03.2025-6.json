@@ -1,0 +1,25 @@
+{
+    "name": "Austin Arias",
+    "age": 91,
+    "address": {
+        "street": "Taylor Harbor",
+        "city": "Alexandraview",
+        "state": "Colorado",
+        "zip": "07170"
+    },
+    "contact": {
+        "phone": "(301)698-8414x50953",
+        "servicePhone": "800425315"
+    },
+    "birthday": "1934-28-02",
+    "ip": "163.66.61.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Available still possible can he general rule. Order big shoulder last pass live south.",
+        "bio": "Up employee less soldier traditional alone. President strategy onto name career leader. Hotel investment fine concern our.\nSon make line one let hospital."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}

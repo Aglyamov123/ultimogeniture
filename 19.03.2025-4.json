@@ -1,0 +1,25 @@
+{
+    "name": "Anna Aguilar",
+    "age": 30,
+    "address": {
+        "street": "Ho Ville",
+        "city": "New Heatherfurt",
+        "state": "Nevada",
+        "zip": "46748"
+    },
+    "contact": {
+        "phone": "+1-364-508-1096x6204",
+        "servicePhone": "800187624"
+    },
+    "birthday": "1995-10-10",
+    "ip": "40.33.136.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Up meeting poor whether involve laugh throughout less. Somebody leader fund actually enough cost.",
+        "bio": "Opportunity seat tough generation. Citizen listen partner probably finish.\nInclude subject company beat line collection apply manage. Federal friend both parent pick."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "John Mccullough",
+    "age": 25,
+    "address": {
+        "street": "Goodman Greens",
+        "city": "Port Geraldborough",
+        "state": "Virginia",
+        "zip": "51965"
+    },
+    "contact": {
+        "phone": "+1-693-272-9631x53095",
+        "servicePhone": "800954574"
+    },
+    "birthday": "2000-15-07",
+    "ip": "74.156.53.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Positive relationship sing main experience poor. Daughter personal various language.\nBuild stage actually case the. Spend clear describe agreement. Also need party contain area.",
+        "bio": "Me behind wide process. Measure pull determine his.\nThis admit art gun long outside maybe. Change last recognize conference eye mention college."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}

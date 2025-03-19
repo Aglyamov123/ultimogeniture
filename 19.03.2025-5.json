@@ -1,0 +1,25 @@
+{
+    "name": "Brian Hill",
+    "age": 31,
+    "address": {
+        "street": "Jones Mount",
+        "city": "East Mark",
+        "state": "Massachusetts",
+        "zip": "35342"
+    },
+    "contact": {
+        "phone": "853-368-7108x353",
+        "servicePhone": "800494338"
+    },
+    "birthday": "1994-29-06",
+    "ip": "14.185.233.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Beautiful tax debate indeed believe result past window. Star collection her.\nHead physical road save another commercial different. Well stage thus four dog quite call.",
+        "bio": "Her arrive special but create per nothing. Event hold trouble parent tend machine really individual. Important better so around knowledge life year. College customer onto real fund so poor."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}

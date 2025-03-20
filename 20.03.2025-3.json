@@ -1,0 +1,25 @@
+{
+    "name": "William Smith",
+    "age": 26,
+    "address": {
+        "street": "Anderson Valleys",
+        "city": "New Jenniferfort",
+        "state": "Wyoming",
+        "zip": "53146"
+    },
+    "contact": {
+        "phone": "528-647-6671x03013",
+        "servicePhone": "800731583"
+    },
+    "birthday": "1999-17-04",
+    "ip": "176.239.78.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Rest allow total many those forward. Traditional line particularly laugh against stock stuff line.\nSeat remain provide the.",
+        "bio": "Support whom decision. Us report just. Data heart fly soon fall.\nToo point its style mother. Yourself stuff trial pretty."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}

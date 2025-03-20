@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Marsh",
+    "age": 75,
+    "address": {
+        "street": "Gregory Terrace",
+        "city": "Phillipsfort",
+        "state": "Pennsylvania",
+        "zip": "92014"
+    },
+    "contact": {
+        "phone": "(749)253-1288x18714",
+        "servicePhone": "800486347"
+    },
+    "birthday": "1950-15-09",
+    "ip": "182.199.145.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Business population where probably next collection. Simple thousand represent two then ahead southern. Many recent pressure job day happen off avoid.",
+        "bio": "Green fact production lawyer from white decade. Trip land measure feeling type half.\nStart better suffer forget. Debate decide while specific his."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}

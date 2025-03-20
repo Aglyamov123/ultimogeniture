@@ -1,0 +1,25 @@
+{
+    "name": "Angela Rangel",
+    "age": 100,
+    "address": {
+        "street": "Jordan Parkways",
+        "city": "North Richardhaven",
+        "state": "Vermont",
+        "zip": "59988"
+    },
+    "contact": {
+        "phone": "001-788-627-9517",
+        "servicePhone": "800522302"
+    },
+    "birthday": "1925-18-02",
+    "ip": "96.71.125.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Moment who east specific arm him movement soon. Suffer event sign pattern again executive bring. Factor often measure consumer fire manager painting.",
+        "bio": "Individual although kitchen material purpose material. Themselves none modern quite full. Determine model cup open.\nEveryone like generation concern him."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}

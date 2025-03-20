@@ -1,0 +1,25 @@
+{
+    "name": "Claudia Ramos",
+    "age": 54,
+    "address": {
+        "street": "Kimberly Knolls",
+        "city": "Port Andrewmouth",
+        "state": "Vermont",
+        "zip": "20162"
+    },
+    "contact": {
+        "phone": "400.552.2875x425",
+        "servicePhone": "800228754"
+    },
+    "birthday": "1971-12-02",
+    "ip": "50.224.122.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Allow set everyone ten institution figure grow.\nBuilding us conference management. Table want always power. More from trial conference give.",
+        "bio": "Concern scene quite high majority. Step on tree energy bank one college less.\nValue movie example teach amount run. Career wonder drive power end thought politics."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}

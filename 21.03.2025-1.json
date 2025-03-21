@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Swanson",
+    "age": 29,
+    "address": {
+        "street": "Greene Flat",
+        "city": "New Julie",
+        "state": "Rhode Island",
+        "zip": "92577"
+    },
+    "contact": {
+        "phone": "+1-925-348-5499x160",
+        "servicePhone": "800812991"
+    },
+    "birthday": "1996-06-05",
+    "ip": "80.112.155.153",
+    "foo": "bar",
+    "profile": {
+        "about": "During member represent part listen skin. Town control wide industry economic. Tree teach compare pick. Organization step need close bad company tree product.",
+        "bio": "Against sign include. Executive house a push explain message other.\nThe teacher what attention. Difference door chance reveal I high husband. Stand determine bill reflect design TV."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}

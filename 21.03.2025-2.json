@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Santos",
+    "age": 39,
+    "address": {
+        "street": "Myers Plain",
+        "city": "South Allenmouth",
+        "state": "Missouri",
+        "zip": "16965"
+    },
+    "contact": {
+        "phone": "+1-221-796-0659",
+        "servicePhone": "800154842"
+    },
+    "birthday": "1986-29-09",
+    "ip": "108.16.148.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Say sometimes different enter.\nProvide manager either half medical. None really can. Reduce back run open perform.",
+        "bio": "Exactly look front animal appear me. Side decade standard how allow serve."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}

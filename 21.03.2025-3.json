@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Benton",
+    "age": 21,
+    "address": {
+        "street": "Lambert Forest",
+        "city": "Greenview",
+        "state": "Tennessee",
+        "zip": "08061"
+    },
+    "contact": {
+        "phone": "(360)262-6363x019",
+        "servicePhone": "800254864"
+    },
+    "birthday": "2004-10-09",
+    "ip": "149.247.155.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Member civil eye whether can. State civil together. Industry job notice real a recognize.",
+        "bio": "Push size television better language those. Site middle voice. Admit include price thought together matter."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}

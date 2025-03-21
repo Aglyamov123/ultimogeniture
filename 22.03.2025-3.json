@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Hampton",
+    "age": 63,
+    "address": {
+        "street": "Shannon Fields",
+        "city": "Heiditown",
+        "state": "Ohio",
+        "zip": "97351"
+    },
+    "contact": {
+        "phone": "(242)823-9068",
+        "servicePhone": "800150863"
+    },
+    "birthday": "1962-01-11",
+    "ip": "41.253.20.97",
+    "foo": "bar",
+    "profile": {
+        "about": "More yes concern federal myself later. Mouth need conference soon use position bar. Road note sure scene receive identify.\nHuman continue throughout business maintain live she name.",
+        "bio": "Could sea reality fund heart. Sometimes gas value exist.\nItem social wish yes police week. Knowledge great within stuff if all go foreign. Seek I four seven medical term choice."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}

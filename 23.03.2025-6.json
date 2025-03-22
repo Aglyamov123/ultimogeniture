@@ -1,0 +1,25 @@
+{
+    "name": "Peter Miller",
+    "age": 7,
+    "address": {
+        "street": "Phillips Lodge",
+        "city": "Jenkinschester",
+        "state": "New Mexico",
+        "zip": "45875"
+    },
+    "contact": {
+        "phone": "341.802.2445",
+        "servicePhone": "800382600"
+    },
+    "birthday": "2018-04-05",
+    "ip": "59.207.83.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Trouble fly family let ready make. Truth third environment front positive evening. Keep should customer but mind school.",
+        "bio": "Me ok type weight moment attention resource. Leg light country already system.\nMost lay forward ask subject pretty. Old fill choose trouble less west relationship. Middle why see."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Paul Moore",
+    "age": 89,
+    "address": {
+        "street": "Matthew Underpass",
+        "city": "Robinsonchester",
+        "state": "Oklahoma",
+        "zip": "29364"
+    },
+    "contact": {
+        "phone": "6888620507",
+        "servicePhone": "800977780"
+    },
+    "birthday": "1936-07-01",
+    "ip": "208.85.196.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Present onto decision way exactly go year. Agree rate child teacher politics area enter policy. Budget some event read civil.\nHead sit hour their country as. Body three member evening so no garden.",
+        "bio": "Happen source word bed center later.\nContinue company unit second toward modern. Career walk interesting clear happy process serve."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

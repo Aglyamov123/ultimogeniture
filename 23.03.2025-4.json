@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Bond",
+    "age": 62,
+    "address": {
+        "street": "Gregory Shoal",
+        "city": "East Donnaport",
+        "state": "Minnesota",
+        "zip": "86922"
+    },
+    "contact": {
+        "phone": "(735)646-7050x341",
+        "servicePhone": "800576301"
+    },
+    "birthday": "1963-04-12",
+    "ip": "185.147.73.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Range social wall. Her or family myself young particular state. Candidate skin manage.\nStreet sister world cause.",
+        "bio": "Employee service morning company. Western before foreign forward where reduce cell.\nWork member develop travel. General during allow south early.\nYes in PM executive soldier."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Maurice Armstrong",
+    "age": 83,
+    "address": {
+        "street": "Brown Forks",
+        "city": "West Colleenburgh",
+        "state": "Minnesota",
+        "zip": "30963"
+    },
+    "contact": {
+        "phone": "5052882444",
+        "servicePhone": "800479075"
+    },
+    "birthday": "1942-21-06",
+    "ip": "41.163.232.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Expect among south green ahead. Training can group threat difficult picture each.\nAs social majority campaign. Area positive particular tonight bar image.",
+        "bio": "Anything book reach nothing between return. Buy color certainly remain receive base learn.\nNot everybody week join affect reflect."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}

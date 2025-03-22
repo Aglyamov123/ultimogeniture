@@ -1,0 +1,25 @@
+{
+    "name": "Sydney Jackson",
+    "age": 105,
+    "address": {
+        "street": "Billy Via",
+        "city": "North Haleyton",
+        "state": "South Carolina",
+        "zip": "63898"
+    },
+    "contact": {
+        "phone": "+1-951-520-1964",
+        "servicePhone": "800945225"
+    },
+    "birthday": "1920-23-08",
+    "ip": "82.220.7.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Put support color still. Much technology information beat leave. Idea foot walk answer machine next will live.",
+        "bio": "Star property visit seven close politics we. Word memory adult somebody international.\nSafe service food policy tonight cut. Tough from better stay. Fish own house already light."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

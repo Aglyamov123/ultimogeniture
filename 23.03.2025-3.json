@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Decker",
+    "age": 33,
+    "address": {
+        "street": "Hudson Ports",
+        "city": "Port Johnmouth",
+        "state": "Georgia",
+        "zip": "25455"
+    },
+    "contact": {
+        "phone": "9773181113",
+        "servicePhone": "800480713"
+    },
+    "birthday": "1992-07-08",
+    "ip": "12.72.8.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface forward people recently. Of large place method research.\nCold although general never dog. Blood soon around.",
+        "bio": "Center dinner let political decide already course. Cost majority yes card bring imagine. Security of herself need.\nPerformance prevent visit important include cost. Contain local herself war they."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}

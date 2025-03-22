@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Parrish",
+    "age": 113,
+    "address": {
+        "street": "Dale Drives",
+        "city": "Sarahland",
+        "state": "New York",
+        "zip": "13888"
+    },
+    "contact": {
+        "phone": "941-938-4840x6685",
+        "servicePhone": "800604528"
+    },
+    "birthday": "1912-01-07",
+    "ip": "80.15.39.212",
+    "foo": "bar",
+    "profile": {
+        "about": "At mean price fire together. Including relationship performance city establish week. Risk like north.",
+        "bio": "Ten us agreement. Exist letter center represent weight expert instead you. Fish eye quite customer professor music race."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}

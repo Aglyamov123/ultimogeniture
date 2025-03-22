@@ -1,0 +1,25 @@
+{
+    "name": "Robert Sanchez",
+    "age": 113,
+    "address": {
+        "street": "Owens Throughway",
+        "city": "Brookebury",
+        "state": "South Dakota",
+        "zip": "52808"
+    },
+    "contact": {
+        "phone": "8076821782",
+        "servicePhone": "800782091"
+    },
+    "birthday": "1912-23-11",
+    "ip": "209.131.75.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Suddenly couple subject two environmental have. How land example economic special let other.\nBuilding serious current we tax town executive. Sound live who learn well idea today guy.",
+        "bio": "Left scene between wide particularly mind feel. Cup which blue in. Young unit reason buy kid color between manager. Evidence culture hard early cultural it its."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Guzman",
+    "age": 29,
+    "address": {
+        "street": "Christopher Isle",
+        "city": "Davidton",
+        "state": "Alabama",
+        "zip": "60791"
+    },
+    "contact": {
+        "phone": "5794516786",
+        "servicePhone": "800021262"
+    },
+    "birthday": "1996-09-04",
+    "ip": "152.168.6.1",
+    "foo": "bar",
+    "profile": {
+        "about": "According cultural road sing respond reflect down. Apply season friend where glass. Than another top officer against chair water.",
+        "bio": "Identify direction gas establish spring. Foreign beautiful road beautiful since leader development mission. Check discover design.\nBrother since little light effect remain memory. Moment loss scene."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}

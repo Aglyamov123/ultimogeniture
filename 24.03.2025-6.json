@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Danielle Smith DDS",
+    "age": 90,
+    "address": {
+        "street": "Gonzales Bypass",
+        "city": "East David",
+        "state": "Texas",
+        "zip": "17066"
+    },
+    "contact": {
+        "phone": "750.486.1533",
+        "servicePhone": "800730716"
+    },
+    "birthday": "1935-28-12",
+    "ip": "135.250.45.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat but its.\nBecause administration account staff.\nOn foot today support prevent baby bring will. Value hotel majority network local best.",
+        "bio": "Kind majority respond somebody such college although this. Wind happy phone up around author. Sit relationship style meet despite charge east which."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}

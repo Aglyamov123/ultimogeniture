@@ -1,0 +1,25 @@
+{
+    "name": "Mark Lee",
+    "age": 55,
+    "address": {
+        "street": "Krueger Drive",
+        "city": "Lake Karenborough",
+        "state": "Florida",
+        "zip": "05161"
+    },
+    "contact": {
+        "phone": "001-241-344-4858x32750",
+        "servicePhone": "800958896"
+    },
+    "birthday": "1970-16-06",
+    "ip": "204.65.92.13",
+    "foo": "bar",
+    "profile": {
+        "about": "International later view such operation. Himself from not against voice rich six.",
+        "bio": "Worry similar actually consider without win. Mind direction beautiful rate current.\nPm against company brother. Degree color professor body reality."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}

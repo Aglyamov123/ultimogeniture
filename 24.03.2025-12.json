@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Reed",
+    "age": 93,
+    "address": {
+        "street": "Dawson Extensions",
+        "city": "New Alexander",
+        "state": "Alabama",
+        "zip": "57797"
+    },
+    "contact": {
+        "phone": "323.462.9604x690",
+        "servicePhone": "800389602"
+    },
+    "birthday": "1932-06-02",
+    "ip": "31.141.57.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Develop give least wide season. Treatment reveal join firm break.\nAmong during suggest ground.\nCreate treatment thing decision book whether. South building us report research store art.",
+        "bio": "Official method bring common major go the key. Design surface dark why trip never order age. Bank administration detail happen now model high."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}

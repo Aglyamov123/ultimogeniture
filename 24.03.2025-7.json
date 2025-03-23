@@ -1,0 +1,25 @@
+{
+    "name": "Heather Velasquez",
+    "age": 67,
+    "address": {
+        "street": "Joyce Parkway",
+        "city": "Harmonborough",
+        "state": "California",
+        "zip": "49618"
+    },
+    "contact": {
+        "phone": "562-970-3461x34030",
+        "servicePhone": "800506470"
+    },
+    "birthday": "1958-20-01",
+    "ip": "134.81.18.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Address usually chance specific respond. Peace process save including can.\nRock financial statement usually environmental. Together mission hour hotel.",
+        "bio": "Without red choice talk information your. Certain pick tend anything. Nor anyone eat red ahead world foot."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

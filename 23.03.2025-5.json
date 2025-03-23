@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Hernandez",
+    "age": 113,
+    "address": {
+        "street": "Stephanie Wall",
+        "city": "South Thomas",
+        "state": "New Jersey",
+        "zip": "88361"
+    },
+    "contact": {
+        "phone": "(659)272-4709x9445",
+        "servicePhone": "800699123"
+    },
+    "birthday": "1912-29-05",
+    "ip": "208.116.2.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Fact art himself name military audience plan prevent. During law send. Day property people Mrs defense community forget.\nSignificant up help. Need learn police.",
+        "bio": "Reflect ever owner simply piece leg chance improve. Again work arm society thousand majority get. Position property argue want success. Once store information."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Ortiz",
+    "age": 7,
+    "address": {
+        "street": "Matthews Spur",
+        "city": "Craigport",
+        "state": "Arkansas",
+        "zip": "49099"
+    },
+    "contact": {
+        "phone": "(340)584-7337x881",
+        "servicePhone": "800229174"
+    },
+    "birthday": "2018-13-09",
+    "ip": "23.152.176.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Executive station any special in real than. Risk will clearly will talk.\nAccept share source more his. Information recognize happy car couple response significant upon.",
+        "bio": "Behavior relationship daughter everybody. Lead born amount community also tonight administration staff.\nKey message control get certain choice ever fly. Good subject science down nation serious push."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}

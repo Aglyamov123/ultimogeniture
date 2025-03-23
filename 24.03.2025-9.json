@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Richardson",
+    "age": 101,
+    "address": {
+        "street": "Wong Green",
+        "city": "West Sara",
+        "state": "Vermont",
+        "zip": "73102"
+    },
+    "contact": {
+        "phone": "001-988-947-2258x189",
+        "servicePhone": "800325907"
+    },
+    "birthday": "1924-12-02",
+    "ip": "37.151.23.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Your three itself some.\nCondition water paper debate this author picture house. Attorney have process special about. Move Mrs heavy focus series medical quite.",
+        "bio": "Building new despite great debate certainly over. Performance local girl major go person. Around be most trial so.\nMoney industry know close baby speak. Car thing beautiful imagine room reality."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}

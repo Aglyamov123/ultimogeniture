@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Smith",
+    "age": 111,
+    "address": {
+        "street": "Moore Prairie",
+        "city": "West Robert",
+        "state": "Colorado",
+        "zip": "04251"
+    },
+    "contact": {
+        "phone": "676.810.0438x0230",
+        "servicePhone": "800905259"
+    },
+    "birthday": "1914-23-04",
+    "ip": "197.203.11.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Property level news whole with check process. Accept money various.\nCompany beautiful need movement bit hand. Hit as couple always during oil no.",
+        "bio": "Page perhaps suffer drive artist today see. Relate it mother why wide.\nSuddenly out reflect power magazine bag difference certain. Finally again minute modern may pull institution. Red teach minute."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}

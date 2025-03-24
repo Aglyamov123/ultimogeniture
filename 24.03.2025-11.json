@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Hampton",
+    "age": 113,
+    "address": {
+        "street": "French Squares",
+        "city": "Monroeville",
+        "state": "Texas",
+        "zip": "01224"
+    },
+    "contact": {
+        "phone": "972.879.9206x13388",
+        "servicePhone": "800338586"
+    },
+    "birthday": "1912-01-07",
+    "ip": "22.159.189.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Actually believe fine. Admit off computer once husband.\nPosition rather institution decide miss share contain. Would spend woman about even international.",
+        "bio": "Turn president weight season.\nSoon finally important girl treat pass. Bill last doctor sister million. Lose series beyond institution somebody five president."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}

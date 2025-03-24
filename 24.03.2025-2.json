@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Martin",
+    "age": 105,
+    "address": {
+        "street": "Henderson Track",
+        "city": "Montoyafurt",
+        "state": "Pennsylvania",
+        "zip": "01722"
+    },
+    "contact": {
+        "phone": "874.580.8682",
+        "servicePhone": "800765848"
+    },
+    "birthday": "1920-28-07",
+    "ip": "99.161.129.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Five daughter huge support life successful. Never worry serious food network.\nCountry boy cost whom language pick operation your. Law religious stock. Program half base reach.",
+        "bio": "Black also financial environmental within. Sound maybe memory boy. Official all professor free.\nDaughter employee message animal himself. Move almost responsibility service off."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Larry Hooper",
+    "age": 60,
+    "address": {
+        "street": "Amanda Route",
+        "city": "Allenberg",
+        "state": "Arkansas",
+        "zip": "85931"
+    },
+    "contact": {
+        "phone": "+1-400-791-6135",
+        "servicePhone": "800184511"
+    },
+    "birthday": "1965-16-02",
+    "ip": "72.237.146.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Early pick understand house. Town southern with left yourself myself.",
+        "bio": "Security probably manage lose bill blue matter. Debate yeah sell nothing parent through. Friend glass time degree.\nPaper behavior focus show follow seven with. Well difference environmental until."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}

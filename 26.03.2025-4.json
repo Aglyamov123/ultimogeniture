@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Smith",
+    "age": 6,
+    "address": {
+        "street": "Baker Turnpike",
+        "city": "Alisonside",
+        "state": "Delaware",
+        "zip": "48175"
+    },
+    "contact": {
+        "phone": "(974)242-8703",
+        "servicePhone": "800065543"
+    },
+    "birthday": "2019-28-03",
+    "ip": "9.16.103.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm more law amount might value reveal. Factor most direction catch. Home force now.\nWorry produce church impact. Together rule imagine. Need religious friend government then movement.",
+        "bio": "Opportunity those minute but every stop. Establish nearly national window despite month end. Possible community skill reason."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}

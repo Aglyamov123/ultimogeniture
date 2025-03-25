@@ -1,0 +1,25 @@
+{
+    "name": "Devin Wagner",
+    "age": 5,
+    "address": {
+        "street": "Victor Locks",
+        "city": "Port Robert",
+        "state": "Ohio",
+        "zip": "75658"
+    },
+    "contact": {
+        "phone": "609.370.1490x00108",
+        "servicePhone": "800820432"
+    },
+    "birthday": "2020-23-07",
+    "ip": "154.31.117.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Young list these body bit particularly perform. Cultural heavy owner guess lawyer lay professional.",
+        "bio": "Hit price century how while call bad.\nBack garden order. Range present official. Scene certainly many paper.\nQuality start position half attorney not relate. Blood west both generation."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

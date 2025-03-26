@@ -1,0 +1,25 @@
+{
+    "name": "Mark Morrison",
+    "age": 2,
+    "address": {
+        "street": "Escobar Villages",
+        "city": "South Matthew",
+        "state": "Wyoming",
+        "zip": "75862"
+    },
+    "contact": {
+        "phone": "(746)428-7009",
+        "servicePhone": "800989430"
+    },
+    "birthday": "2023-21-12",
+    "ip": "65.25.78.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Price range environmental old operation court organization. Thought newspaper sea second.",
+        "bio": "Stay but treatment never. Citizen onto upon area behavior.\nDo last drop approach success wish democratic. Green listen purpose again moment effort effort."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

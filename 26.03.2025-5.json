@@ -1,0 +1,25 @@
+{
+    "name": "Robert Gomez",
+    "age": 3,
+    "address": {
+        "street": "Murphy Forest",
+        "city": "North Anthonyside",
+        "state": "North Carolina",
+        "zip": "01053"
+    },
+    "contact": {
+        "phone": "387.647.1907x3415",
+        "servicePhone": "800521000"
+    },
+    "birthday": "2022-31-03",
+    "ip": "190.227.64.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason act work game. Arm risk many any pressure fall ground. Tough who education.\nSomething show idea. Process voice partner.",
+        "bio": "Those trouble dark ball letter specific treat quickly. Business draw fill issue population."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

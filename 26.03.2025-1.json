@@ -1,0 +1,25 @@
+{
+    "name": "William Morrison",
+    "age": 55,
+    "address": {
+        "street": "Ramirez Inlet",
+        "city": "Johnsonmouth",
+        "state": "Texas",
+        "zip": "65082"
+    },
+    "contact": {
+        "phone": "(684)734-0622x5334",
+        "servicePhone": "800905158"
+    },
+    "birthday": "1970-03-05",
+    "ip": "210.205.176.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Son consumer make. Book however purpose. Against instead determine often source price.\nLocal world our show.\nWeek rule law station nothing maintain. Ever cause box understand soldier.",
+        "bio": "Right state stay executive ask. Stage turn south direction.\nWhat economic sort. Across thousand order more believe. Resource until citizen history."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}

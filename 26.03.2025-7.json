@@ -1,0 +1,25 @@
+{
+    "name": "Valerie Ashley",
+    "age": 17,
+    "address": {
+        "street": "Dennis Prairie",
+        "city": "Craigmouth",
+        "state": "Maryland",
+        "zip": "11784"
+    },
+    "contact": {
+        "phone": "(997)648-5983",
+        "servicePhone": "800658985"
+    },
+    "birthday": "2008-20-03",
+    "ip": "183.99.92.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Anything they as magazine everybody camera staff thousand. Particular every Mr attack.\nParty event thus science. Congress involve number hit increase language student.",
+        "bio": "Imagine argue return send. Field current manage trade eat.\nBe hospital blood be I popular down. College Mr quality second task well administration. Ago institution tend feel."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}

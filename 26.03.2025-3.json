@@ -1,0 +1,25 @@
+{
+    "name": "Audrey Bauer",
+    "age": 4,
+    "address": {
+        "street": "Patrick Glens",
+        "city": "Lake Nicoleberg",
+        "state": "Rhode Island",
+        "zip": "56551"
+    },
+    "contact": {
+        "phone": "+1-560-407-6953x1652",
+        "servicePhone": "800288605"
+    },
+    "birthday": "2021-26-10",
+    "ip": "134.239.97.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Ability more source usually front skill share be. Number box well suddenly financial ask. Support score event so song growth.\nSeason friend easy nice kitchen. My create include future.",
+        "bio": "Matter Mrs country need address. Fall color early debate fear movie many. According born remember design rock together."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}

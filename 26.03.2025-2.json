@@ -1,0 +1,25 @@
+{
+    "name": "Penny Ortiz",
+    "age": 20,
+    "address": {
+        "street": "Shannon Mission",
+        "city": "New Sarah",
+        "state": "Texas",
+        "zip": "43331"
+    },
+    "contact": {
+        "phone": "510-233-2011",
+        "servicePhone": "800270866"
+    },
+    "birthday": "2005-14-02",
+    "ip": "31.241.190.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Hotel discussion lead realize cup though serve result. Because perform notice magazine.\nCertain third western often. Those factor a strategy past another.",
+        "bio": "None particularly attorney about record my. That back language activity once look represent."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}

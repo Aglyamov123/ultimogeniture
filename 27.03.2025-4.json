@@ -1,0 +1,25 @@
+{
+    "name": "Richard Walker",
+    "age": 26,
+    "address": {
+        "street": "Gina Trail",
+        "city": "Carlosbury",
+        "state": "Kansas",
+        "zip": "29131"
+    },
+    "contact": {
+        "phone": "001-470-720-1265",
+        "servicePhone": "800494453"
+    },
+    "birthday": "1999-13-11",
+    "ip": "183.98.83.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Third body actually summer. Seek worry book threat number discover above us. Forward which this position.\nArt air argue contain father management. Mother really start actually require military.",
+        "bio": "Feeling crime go safe.\nFamily bar rich thing range current. Stock number century current assume throughout oil. Could instead draw cause entire."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}

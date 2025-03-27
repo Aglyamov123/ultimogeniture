@@ -1,0 +1,25 @@
+{
+    "name": "Cathy Roberts",
+    "age": 76,
+    "address": {
+        "street": "Peter Rapids",
+        "city": "East Ann",
+        "state": "Colorado",
+        "zip": "09494"
+    },
+    "contact": {
+        "phone": "2114699213",
+        "servicePhone": "800254201"
+    },
+    "birthday": "1949-18-04",
+    "ip": "70.37.111.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Program husband deal although. Where view address election employee simple.\nField them thus task among discuss. Work fact dog very.\nRest most hair commercial marriage moment compare dark.",
+        "bio": "Worker type determine job participant her citizen. Reveal resource compare always year.\nStudent can evidence citizen. Book smile glass shake note.\nActually her bed."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Rojas",
+    "age": 39,
+    "address": {
+        "street": "Brianna Skyway",
+        "city": "Benjaminville",
+        "state": "Texas",
+        "zip": "22108"
+    },
+    "contact": {
+        "phone": "355-371-4902",
+        "servicePhone": "800661780"
+    },
+    "birthday": "1986-11-10",
+    "ip": "179.217.206.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Scientist set day evening tough day step. History front site heavy such. Return player cause teacher. Ball own indeed paper student response task.",
+        "bio": "Citizen quickly line to travel back.\nEnergy shake suffer exist south management stage. Both movement kid decide protect PM. Discussion particularly now reveal high lot."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

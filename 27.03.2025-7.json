@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Cook",
+    "age": 74,
+    "address": {
+        "street": "Crystal Roads",
+        "city": "Lake Trevorstad",
+        "state": "Mississippi",
+        "zip": "51256"
+    },
+    "contact": {
+        "phone": "(442)621-2619",
+        "servicePhone": "800538820"
+    },
+    "birthday": "1951-09-06",
+    "ip": "87.222.150.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag fill who walk another well so experience. Himself address decision upon.\nWait wish local subject service reduce. While might hard option hope. Hard attack wonder station.",
+        "bio": "Bank region create center similar. Discussion southern begin. His first imagine positive.\nHeavy indicate hand. Hand left next institution drop mean difficult. Family course certain hair describe."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}

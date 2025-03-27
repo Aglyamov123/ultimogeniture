@@ -1,0 +1,25 @@
+{
+    "name": "Jason Powers",
+    "age": 49,
+    "address": {
+        "street": "Jessica Trace",
+        "city": "Gregoryport",
+        "state": "Idaho",
+        "zip": "72532"
+    },
+    "contact": {
+        "phone": "3202530450",
+        "servicePhone": "800923325"
+    },
+    "birthday": "1976-26-04",
+    "ip": "14.124.45.8",
+    "foo": "bar",
+    "profile": {
+        "about": "High particular religious operation lawyer. Either section trade political every world. Left coach too contain degree green.",
+        "bio": "Stop avoid travel. Thank feel police those state low shoulder. Suggest alone create cause law goal. High trouble true century heavy."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

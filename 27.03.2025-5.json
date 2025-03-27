@@ -1,0 +1,25 @@
+{
+    "name": "Tony Wagner MD",
+    "age": 114,
+    "address": {
+        "street": "Garcia Forge",
+        "city": "Owenstown",
+        "state": "Michigan",
+        "zip": "52213"
+    },
+    "contact": {
+        "phone": "488.739.8799x3083",
+        "servicePhone": "800567022"
+    },
+    "birthday": "1911-23-03",
+    "ip": "67.62.231.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Task give try strategy environmental president. Leg former establish.\nSide life reality sign. Foot will past apply.",
+        "bio": "Ok relationship as attack professional. Goal nothing government wear day. Watch range use evening."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}

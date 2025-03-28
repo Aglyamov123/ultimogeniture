@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Chang",
+    "age": 98,
+    "address": {
+        "street": "Dennis Vista",
+        "city": "New Katieview",
+        "state": "Connecticut",
+        "zip": "20786"
+    },
+    "contact": {
+        "phone": "001-736-661-8980",
+        "servicePhone": "800472815"
+    },
+    "birthday": "1927-23-07",
+    "ip": "198.229.226.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Green sit forget. Painting lose factor house about one. Listen left pay player assume.\nSkill respond letter. Sister present table market approach seem allow easy.",
+        "bio": "Animal her debate source. Continue less during new weight day. Down head appear likely seek.\nProbably stock law memory each job summer cause. He between old leave group as movement."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

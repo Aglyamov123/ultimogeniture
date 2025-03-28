@@ -1,0 +1,25 @@
+{
+    "name": "Melissa West",
+    "age": 22,
+    "address": {
+        "street": "Christina Forks",
+        "city": "Richardsstad",
+        "state": "Idaho",
+        "zip": "39155"
+    },
+    "contact": {
+        "phone": "876.869.0142",
+        "servicePhone": "800880394"
+    },
+    "birthday": "2003-28-11",
+    "ip": "196.118.21.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Actually manage big media other pattern. Give prepare month start inside raise. Room forward tree there give able upon one.",
+        "bio": "Effect test wall team arrive best. Which be carry structure sometimes activity. Sort later population member door about than they."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}

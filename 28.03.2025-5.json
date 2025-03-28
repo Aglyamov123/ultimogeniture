@@ -1,0 +1,25 @@
+{
+    "name": "Ian Walker",
+    "age": 78,
+    "address": {
+        "street": "Collins Highway",
+        "city": "South Maryberg",
+        "state": "Idaho",
+        "zip": "33514"
+    },
+    "contact": {
+        "phone": "(890)879-3175x05181",
+        "servicePhone": "800165629"
+    },
+    "birthday": "1947-24-11",
+    "ip": "70.39.84.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Try support boy crime series help. Door conference impact social.\nScience kind enough heart. Them he benefit specific. Let oil development summer I away off under.",
+        "bio": "Also picture garden business church maybe. Several under study media.\nPull pick up campaign man without account. Age home during various. Near new road head set behind trouble fight."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

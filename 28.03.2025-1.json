@@ -1,0 +1,25 @@
+{
+    "name": "Brian Blanchard",
+    "age": 17,
+    "address": {
+        "street": "Escobar Drive",
+        "city": "Aprilmouth",
+        "state": "Connecticut",
+        "zip": "99317"
+    },
+    "contact": {
+        "phone": "001-573-564-5966x4529",
+        "servicePhone": "800391938"
+    },
+    "birthday": "2008-02-02",
+    "ip": "43.95.31.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Protect sometimes enough according government particularly window. Boy trouble because present especially capital. Such plant because talk.",
+        "bio": "Condition know at smile though. Management capital at deal see.\nTraditional war state seven. Direction lay we election contain person unit."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}

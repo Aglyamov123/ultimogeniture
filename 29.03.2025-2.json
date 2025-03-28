@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Hawkins",
+    "age": 60,
+    "address": {
+        "street": "Victoria Via",
+        "city": "Port Lisastad",
+        "state": "Hawaii",
+        "zip": "35302"
+    },
+    "contact": {
+        "phone": "001-867-874-3369x54684",
+        "servicePhone": "800525597"
+    },
+    "birthday": "1965-07-05",
+    "ip": "77.147.97.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Own out place state than easy play. Reveal method bag ground. Four alone high born Republican force technology low.\nGoal wear accept book bad. My amount network whose hot stay service name.",
+        "bio": "Different expect within hospital manage which apply. Situation happen raise production entire."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

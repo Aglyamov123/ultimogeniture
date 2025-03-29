@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Maldonado PhD",
+    "age": 42,
+    "address": {
+        "street": "Compton Ridges",
+        "city": "Joshuachester",
+        "state": "Michigan",
+        "zip": "45468"
+    },
+    "contact": {
+        "phone": "8384734575",
+        "servicePhone": "800378221"
+    },
+    "birthday": "1983-25-03",
+    "ip": "173.100.220.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation instead teacher light enjoy modern size. Option daughter space public level break establish shake.",
+        "bio": "When field suddenly. Community together pattern politics pay ready financial. Home future thing letter study likely."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}

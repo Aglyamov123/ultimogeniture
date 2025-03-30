@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Smith",
+    "age": 40,
+    "address": {
+        "street": "Bush Fork",
+        "city": "Amberfort",
+        "state": "Hawaii",
+        "zip": "57069"
+    },
+    "contact": {
+        "phone": "481-658-0359x532",
+        "servicePhone": "800567267"
+    },
+    "birthday": "1985-13-08",
+    "ip": "25.124.227.95",
+    "foo": "bar",
+    "profile": {
+        "about": "There create factor near body present news. Operation know color church tough thought water. Would I sport not.",
+        "bio": "Quite design environmental tonight morning certain cut. Stop should wide apply who or reason then. Mind top language collection talk. Travel shake note do customer plan."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}

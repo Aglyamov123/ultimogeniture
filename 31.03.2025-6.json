@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Jones",
+    "age": 7,
+    "address": {
+        "street": "Harris Underpass",
+        "city": "West Dianaview",
+        "state": "Wisconsin",
+        "zip": "86933"
+    },
+    "contact": {
+        "phone": "001-778-252-9751",
+        "servicePhone": "800411221"
+    },
+    "birthday": "2018-20-02",
+    "ip": "6.172.49.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic politics class certainly world early improve. Expect boy low resource close under. Treat bit soldier maybe environmental enter. Consumer rock safe yeah single respond agreement religious.",
+        "bio": "Soldier itself item leader.\nFar moment hundred bit charge. Understand which generation accept. Speak out major meeting officer."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}

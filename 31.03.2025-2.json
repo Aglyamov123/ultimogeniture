@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Smith",
+    "age": 102,
+    "address": {
+        "street": "Reid Plaza",
+        "city": "Nicoleland",
+        "state": "Iowa",
+        "zip": "61734"
+    },
+    "contact": {
+        "phone": "001-855-841-7558x948",
+        "servicePhone": "800755961"
+    },
+    "birthday": "1923-09-12",
+    "ip": "33.196.85.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Door individual fill state old at paper. Glass house chance traditional again include concern significant.",
+        "bio": "Make later turn bank right different heart. Practice girl compare kid easy. Mother enough onto child late. Sort people sell so wall arm focus."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}

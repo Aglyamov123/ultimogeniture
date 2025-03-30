@@ -1,0 +1,25 @@
+{
+    "name": "Paul Perry",
+    "age": 16,
+    "address": {
+        "street": "Nancy Mountain",
+        "city": "Lake Jason",
+        "state": "Maine",
+        "zip": "12108"
+    },
+    "contact": {
+        "phone": "6545482379",
+        "servicePhone": "800864940"
+    },
+    "birthday": "2009-24-01",
+    "ip": "71.217.229.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Clear physical drop poor just result all store.\nOffer suggest card difficult continue. Prevent degree to relationship election.",
+        "bio": "Fund poor stage break place difficult. Matter majority I future brother by glass. Budget drop above join grow share adult. Manage hand garden sort always."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

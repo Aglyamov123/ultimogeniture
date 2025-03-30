@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hicks",
+    "age": 82,
+    "address": {
+        "street": "Shannon Road",
+        "city": "West Olivia",
+        "state": "Mississippi",
+        "zip": "63571"
+    },
+    "contact": {
+        "phone": "(379)499-5163",
+        "servicePhone": "800861524"
+    },
+    "birthday": "1943-21-12",
+    "ip": "22.94.138.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Them break serve since attack serious society. Performance wife president amount too.\nWill quite gun skill. General wish teach remember defense possible. Modern prove whether until why budget.",
+        "bio": "Hundred face now kitchen decision major. Amount indicate open note wife economic loss. This administration picture box piece."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}

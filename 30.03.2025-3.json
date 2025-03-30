@@ -1,0 +1,25 @@
+{
+    "name": "Billy Gonzalez",
+    "age": 33,
+    "address": {
+        "street": "Martin Brook",
+        "city": "Jenniferview",
+        "state": "Pennsylvania",
+        "zip": "26394"
+    },
+    "contact": {
+        "phone": "821-427-0952",
+        "servicePhone": "800429914"
+    },
+    "birthday": "1992-05-11",
+    "ip": "32.72.6.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup task him. Character rise moment research prevent friend.\nQuickly effort court really every fire international. Happy effort which class support citizen we sit.",
+        "bio": "Feel yourself bag just meeting surface. So occur TV. Power past for name yet hospital.\nWithout level network. Floor gun pull window likely while speech. Study notice pay spring industry."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}

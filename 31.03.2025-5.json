@@ -1,0 +1,25 @@
+{
+    "name": "William Kim",
+    "age": 110,
+    "address": {
+        "street": "Campbell Mountain",
+        "city": "West Mariamouth",
+        "state": "Indiana",
+        "zip": "52770"
+    },
+    "contact": {
+        "phone": "554.793.2101x1315",
+        "servicePhone": "800053394"
+    },
+    "birthday": "1915-05-08",
+    "ip": "185.82.114.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Impact doctor charge easy election debate field. Cover base gun improve person energy beat. Measure value drop late.\nNever Congress air theory. Last worker charge out part wait include.",
+        "bio": "Image nothing interview move wind few out season. Decision myself education ability recently her health property."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}

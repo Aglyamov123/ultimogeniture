@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Edwards",
+    "age": 105,
+    "address": {
+        "street": "Jennifer Coves",
+        "city": "New Jason",
+        "state": "Iowa",
+        "zip": "11567"
+    },
+    "contact": {
+        "phone": "456-953-2644",
+        "servicePhone": "800927169"
+    },
+    "birthday": "1920-21-03",
+    "ip": "85.176.136.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Put yeah contain college knowledge read. Smile risk difference next institution participant seem. Difficult say street six.",
+        "bio": "For allow court simple huge paper. Partner throw begin bad yourself certainly. Hair beyond property one.\nYes particular wait both wide same keep nearly. Administration add medical reflect."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}

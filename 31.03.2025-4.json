@@ -1,0 +1,25 @@
+{
+    "name": "Danny Holden",
+    "age": 25,
+    "address": {
+        "street": "Tracy Brooks",
+        "city": "Joshuamouth",
+        "state": "Nevada",
+        "zip": "48341"
+    },
+    "contact": {
+        "phone": "001-557-414-0728x5714",
+        "servicePhone": "800837035"
+    },
+    "birthday": "2000-11-03",
+    "ip": "17.10.42.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Pick statement important. Maintain teacher throw why small media firm.\nGeneration clear science agree century common behavior trip. Best run eye style list nearly east.",
+        "bio": "Low responsibility truth. Some its be type style.\nNotice key since enter southern. Yet girl sport face rise yes. May foot man year ago his first but."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

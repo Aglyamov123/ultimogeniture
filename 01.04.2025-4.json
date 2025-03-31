@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Taylor",
+    "age": 16,
+    "address": {
+        "street": "Kathryn Street",
+        "city": "Port Sherri",
+        "state": "Virginia",
+        "zip": "06891"
+    },
+    "contact": {
+        "phone": "980.727.9132x8979",
+        "servicePhone": "800453653"
+    },
+    "birthday": "2009-13-07",
+    "ip": "213.82.8.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Show somebody customer front direction special happen. Become whom church success. Head realize real shake lose blood exactly.",
+        "bio": "Party seek pressure story he role add kind. Network onto forget pass game. Pressure guess maybe attack short.\nBeyond modern later book. Happen economy from represent listen policy along city."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

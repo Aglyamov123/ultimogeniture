@@ -1,0 +1,25 @@
+{
+    "name": "Eric Gonzalez",
+    "age": 29,
+    "address": {
+        "street": "Linda Ford",
+        "city": "North Garyland",
+        "state": "Hawaii",
+        "zip": "94636"
+    },
+    "contact": {
+        "phone": "001-222-965-4548",
+        "servicePhone": "800442613"
+    },
+    "birthday": "1996-16-02",
+    "ip": "27.151.51.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought voice skill expect his standard several. Available respond different. Perhaps line on spend.\nImage perhaps charge once. Nor year challenge can both. Onto necessary model religious.",
+        "bio": "Order sister paper. Some third out thank glass expert.\nIdentify statement interview value hundred. South camera decade statement where. Away identify movement set."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}

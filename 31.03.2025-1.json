@@ -1,0 +1,25 @@
+{
+    "name": "John Hubbard",
+    "age": 25,
+    "address": {
+        "street": "Debbie Rapids",
+        "city": "Daybury",
+        "state": "New Mexico",
+        "zip": "31054"
+    },
+    "contact": {
+        "phone": "+1-236-939-0505x60947",
+        "servicePhone": "800967289"
+    },
+    "birthday": "2000-03-05",
+    "ip": "216.239.234.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Star of officer owner to. Rest fill brother charge. Be include century lay.\nPlant four list type land myself job arrive. Week them share system. Build pretty partner wife billion property available.",
+        "bio": "Professor message keep against another collection lot order. Bag course hundred. Matter room knowledge check policy report whatever term."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}

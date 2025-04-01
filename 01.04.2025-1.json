@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Ramsey",
+    "age": 3,
+    "address": {
+        "street": "Hardy Forest",
+        "city": "West Elizabethmouth",
+        "state": "North Carolina",
+        "zip": "70815"
+    },
+    "contact": {
+        "phone": "730-821-7912x454",
+        "servicePhone": "800308033"
+    },
+    "birthday": "2022-03-06",
+    "ip": "40.131.230.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Third tax record. Actually per response record goal throw professor.\nMr suffer example action impact take value. Center threat card everyone new interview score.",
+        "bio": "Stay area total reduce. Modern mention decade federal if the answer. Better list long strong if remember page.\nEvening expect should let any manager hit clear. When strong myself receive true."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}

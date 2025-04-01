@@ -1,0 +1,25 @@
+{
+    "name": "Gary Parker",
+    "age": 66,
+    "address": {
+        "street": "Davidson Extensions",
+        "city": "Tammyland",
+        "state": "Utah",
+        "zip": "87804"
+    },
+    "contact": {
+        "phone": "360-259-5161x9576",
+        "servicePhone": "800960174"
+    },
+    "birthday": "1959-09-01",
+    "ip": "10.110.6.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Project business future blood PM box.\nShoulder according industry. Huge station rate fill.\nIncrease up test hold then walk left. Value pattern owner meet whom name start.",
+        "bio": "Month him turn feel. Man begin hope lose guy garden.\nComputer have tell section possible crime. Adult prepare them imagine house believe financial."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

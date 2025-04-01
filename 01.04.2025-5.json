@@ -1,0 +1,25 @@
+{
+    "name": "Mark Mills",
+    "age": 33,
+    "address": {
+        "street": "Berry Unions",
+        "city": "East Isaiah",
+        "state": "New Jersey",
+        "zip": "98653"
+    },
+    "contact": {
+        "phone": "7612507943",
+        "servicePhone": "800833735"
+    },
+    "birthday": "1992-02-10",
+    "ip": "106.38.254.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Free career fire science.\nTown paper statement stock organization. Purpose church both past describe. Bit former mother executive.",
+        "bio": "Certain cell get effect out billion. Into suffer party weight interesting.\nHot above animal compare ability. Since stuff idea character."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

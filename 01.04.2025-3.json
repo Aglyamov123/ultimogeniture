@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Benton",
+    "age": 42,
+    "address": {
+        "street": "Collins Glen",
+        "city": "Lynchchester",
+        "state": "West Virginia",
+        "zip": "12089"
+    },
+    "contact": {
+        "phone": "001-929-363-0988x65989",
+        "servicePhone": "800907141"
+    },
+    "birthday": "1983-29-08",
+    "ip": "126.171.14.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Recently hotel start. Boy could really. Hand mother wind effort.\nConference much security then. So give result quite. Around leave half process Mr should.",
+        "bio": "Join understand upon about. Investment member I him bill method too. Degree share generation follow throughout some edge.\nAnimal defense discussion two concern. Assume almost green return heavy."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}

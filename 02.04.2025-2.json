@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Patterson",
+    "age": 101,
+    "address": {
+        "street": "Dougherty Skyway",
+        "city": "Andersonmouth",
+        "state": "North Carolina",
+        "zip": "51309"
+    },
+    "contact": {
+        "phone": "366-592-9462x8303",
+        "servicePhone": "800970492"
+    },
+    "birthday": "1924-26-04",
+    "ip": "150.10.43.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought government method top or Congress movement. Challenge behind action card ago difficult poor finish. Cultural leg art order scene type information physical.",
+        "bio": "Cut first mean provide attention wonder left. Try idea money heavy respond require.\nReality should talk assume both. Music inside south but laugh dream. Sell cause line item."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}

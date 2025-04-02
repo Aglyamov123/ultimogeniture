@@ -1,0 +1,25 @@
+{
+    "name": "Paula Carroll",
+    "age": 92,
+    "address": {
+        "street": "Rhonda Branch",
+        "city": "Chapmanmouth",
+        "state": "Iowa",
+        "zip": "88079"
+    },
+    "contact": {
+        "phone": "6416537080",
+        "servicePhone": "800551652"
+    },
+    "birthday": "1933-10-08",
+    "ip": "80.170.13.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack stuff create wish. Determine begin rich industry factor east. Wind big maintain who watch apply true just.\nToward soon though bring. Center wind know strong stand.",
+        "bio": "At despite federal plant claim phone list face. Small why society school hold send edge style. Deal notice leave.\nNear relationship idea. News open mission into certainly. Sit prove party what."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}

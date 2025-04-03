@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Dixon",
+    "age": 4,
+    "address": {
+        "street": "Meyers Center",
+        "city": "Andrehaven",
+        "state": "Wisconsin",
+        "zip": "67566"
+    },
+    "contact": {
+        "phone": "+1-399-788-2691",
+        "servicePhone": "800622757"
+    },
+    "birthday": "2021-22-04",
+    "ip": "98.4.165.93",
+    "foo": "bar",
+    "profile": {
+        "about": "West event new thought method deep. Suffer economic cost bit. Worker difficult history film involve improve late.",
+        "bio": "Usually common country shake begin. Attorney coach ask north election even character upon. Support direction effect democratic fall participant church."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}

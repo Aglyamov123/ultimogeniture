@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Suarez",
+    "age": 75,
+    "address": {
+        "street": "Walters Brook",
+        "city": "Caseymouth",
+        "state": "Texas",
+        "zip": "68474"
+    },
+    "contact": {
+        "phone": "(216)601-8577",
+        "servicePhone": "800955200"
+    },
+    "birthday": "1950-27-04",
+    "ip": "174.80.228.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank beat speech direction say environmental. Know likely discuss today. Summer military purpose information season.",
+        "bio": "Write bed suffer plant television sign. Police clear per treat until ten.\nHospital should will hundred century student on writer. Large ask both environmental car."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

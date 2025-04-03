@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Gallagher",
+    "age": 92,
+    "address": {
+        "street": "Mitchell Locks",
+        "city": "North James",
+        "state": "Alabama",
+        "zip": "23271"
+    },
+    "contact": {
+        "phone": "+1-244-400-4019x09086",
+        "servicePhone": "800908354"
+    },
+    "birthday": "1933-03-07",
+    "ip": "103.249.231.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Read road reveal now actually great police movie. Win term school work.\nFeel everything before yet will individual everyone.\nSecond city according. Surface rather yet discuss. Throw cell cost.",
+        "bio": "Behavior point system either. School work business together country attorney by. Month site rather get country front.\nBudget place agency. Claim learn glass. Stay magazine far more measure black."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}

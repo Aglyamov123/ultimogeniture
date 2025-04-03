@@ -1,0 +1,25 @@
+{
+    "name": "Susan Dennis",
+    "age": 85,
+    "address": {
+        "street": "Banks Parks",
+        "city": "Smithhaven",
+        "state": "Vermont",
+        "zip": "10114"
+    },
+    "contact": {
+        "phone": "592.779.0674x3937",
+        "servicePhone": "800367678"
+    },
+    "birthday": "1940-04-03",
+    "ip": "4.229.249.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Person structure science activity cover. Grow house as card along.\nCost investment write heavy treat system another remember. Lead issue result.",
+        "bio": "Project woman seat likely let produce spend. Cost behavior current maybe. Image may teach goal treatment phone.\nDrive people establish strategy consider. Detail today night road edge pull."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}

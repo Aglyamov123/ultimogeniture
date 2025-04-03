@@ -1,0 +1,25 @@
+{
+    "name": "David Marshall",
+    "age": 109,
+    "address": {
+        "street": "Rivera Road",
+        "city": "Greentown",
+        "state": "Louisiana",
+        "zip": "62152"
+    },
+    "contact": {
+        "phone": "759-834-8053",
+        "servicePhone": "800899152"
+    },
+    "birthday": "1916-31-08",
+    "ip": "46.54.168.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Everyone military prepare hand food. Note interesting later certainly face.\nExpert feel plan life. Join home eat late strategy.",
+        "bio": "Democrat claim knowledge about while. However story no condition tax a."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Johnson",
+    "age": 23,
+    "address": {
+        "street": "Robert Avenue",
+        "city": "Warrenchester",
+        "state": "Arizona",
+        "zip": "08686"
+    },
+    "contact": {
+        "phone": "964-208-4151x837",
+        "servicePhone": "800409511"
+    },
+    "birthday": "2002-20-01",
+    "ip": "201.231.165.80",
+    "foo": "bar",
+    "profile": {
+        "about": "College deal best mention. World thought realize discussion network. If actually big ready.\nOver low bed short tough writer unit painting.\nQuite however such seem. Detail reveal total.",
+        "bio": "Scientist not project lead speak. Skill action note upon answer poor gun.\nToward wind forget finish. When head everybody eat option. Must popular practice music by store."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}

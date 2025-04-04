@@ -1,0 +1,25 @@
+{
+    "name": "Rodney Good",
+    "age": 0,
+    "address": {
+        "street": "Tamara Crescent",
+        "city": "Lake Glennmouth",
+        "state": "Florida",
+        "zip": "98649"
+    },
+    "contact": {
+        "phone": "835-544-5777x6352",
+        "servicePhone": "800559329"
+    },
+    "birthday": "2025-16-01",
+    "ip": "185.105.103.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Seem let result while never front truth support. Nation defense chance team necessary magazine drug. A catch we big collection media maintain whose.",
+        "bio": "Great company school night.\nSeem threat present.\nWhite end inside open behind understand every people. Memory also single charge where."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}

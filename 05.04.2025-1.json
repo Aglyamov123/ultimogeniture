@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Morgan",
+    "age": 42,
+    "address": {
+        "street": "Hooper Gateway",
+        "city": "South Pamela",
+        "state": "Texas",
+        "zip": "13510"
+    },
+    "contact": {
+        "phone": "+1-900-784-4515x148",
+        "servicePhone": "800865656"
+    },
+    "birthday": "1983-10-07",
+    "ip": "19.83.100.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart here fall state here tough we market. Difficult check language song. Right find wind school create.",
+        "bio": "Beyond room more everyone.\nPerform job piece ever. Million eye include detail learn. Alone order sense which owner. President less idea focus lose author education wrong."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

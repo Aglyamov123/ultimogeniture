@@ -1,0 +1,25 @@
+{
+    "name": "Jeffery Anderson",
+    "age": 111,
+    "address": {
+        "street": "Richard Path",
+        "city": "North Sheliabury",
+        "state": "Oklahoma",
+        "zip": "46503"
+    },
+    "contact": {
+        "phone": "(503)520-8972",
+        "servicePhone": "800555124"
+    },
+    "birthday": "1914-17-07",
+    "ip": "41.246.17.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Race brother almost oil memory memory. Mission out lot action.\nSoon into letter help everything get. Threat news election third cell act. Such friend left for.",
+        "bio": "Arm five hear floor probably actually however action. Green others dog discussion find their personal. Well sometimes land other PM affect question situation."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}

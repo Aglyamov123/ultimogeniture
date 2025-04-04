@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Hanson",
+    "age": 68,
+    "address": {
+        "street": "Cox Prairie",
+        "city": "Grantstad",
+        "state": "North Dakota",
+        "zip": "05161"
+    },
+    "contact": {
+        "phone": "+1-229-681-7057x3490",
+        "servicePhone": "800722681"
+    },
+    "birthday": "1957-14-01",
+    "ip": "87.41.255.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Whom car very someone. Southern style play her through so suddenly.\nReport sometimes popular music per focus trouble. Top father meet radio.",
+        "bio": "Old position especially discover up dog eye ready. Ask pattern movement as.\nSection least may modern bad amount. Occur city option."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}

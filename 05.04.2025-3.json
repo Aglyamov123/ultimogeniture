@@ -1,0 +1,25 @@
+{
+    "name": "Christina Patel",
+    "age": 31,
+    "address": {
+        "street": "Rebecca Meadows",
+        "city": "Jamesville",
+        "state": "Arizona",
+        "zip": "88149"
+    },
+    "contact": {
+        "phone": "+1-237-303-3616x1248",
+        "servicePhone": "800071335"
+    },
+    "birthday": "1994-06-03",
+    "ip": "37.31.59.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally arm detail night research peace provide. New need player head prove identify particular.\nAct reason radio clear field. Understand and thus none seat believe something agent.",
+        "bio": "Now bank kind before model apply.\nItem easy financial hair hundred personal. Decide structure hair value."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}

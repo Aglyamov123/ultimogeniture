@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Thomas DDS",
+    "age": 111,
+    "address": {
+        "street": "Moore Divide",
+        "city": "North Jenniferport",
+        "state": "West Virginia",
+        "zip": "05718"
+    },
+    "contact": {
+        "phone": "305.367.9459x227",
+        "servicePhone": "800974468"
+    },
+    "birthday": "1914-09-06",
+    "ip": "62.79.157.44",
+    "foo": "bar",
+    "profile": {
+        "about": "School ask everything leg remember friend fall. Number data total color scientist.\nSee both while thought best. Own responsibility argue raise.",
+        "bio": "Wife whole agree energy fill. State although free anyone expert.\nShould perhaps everyone early cultural others market. Answer ever manage third expert like. System start meeting memory."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}

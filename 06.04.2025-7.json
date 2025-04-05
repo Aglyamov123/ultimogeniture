@@ -1,0 +1,25 @@
+{
+    "name": "Edward Buck",
+    "age": 38,
+    "address": {
+        "street": "Jimmy Bypass",
+        "city": "North Courtney",
+        "state": "Idaho",
+        "zip": "23677"
+    },
+    "contact": {
+        "phone": "809.269.2000",
+        "servicePhone": "800650468"
+    },
+    "birthday": "1987-16-07",
+    "ip": "192.177.145.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Staff energy the class somebody culture.\nWestern man tonight interesting open street send.\nWithin girl seem sense. Still pass fire with. Follow summer budget address service friend.",
+        "bio": "Would star pattern good hotel politics. Blue close development sing degree position.\nFour that month box. Ok leader win.\nIndeed hotel spring others. Former road western play address discuss."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}

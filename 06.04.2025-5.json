@@ -1,0 +1,25 @@
+{
+    "name": "Micheal Arnold",
+    "age": 93,
+    "address": {
+        "street": "Griffin Forge",
+        "city": "Munoztown",
+        "state": "Hawaii",
+        "zip": "00605"
+    },
+    "contact": {
+        "phone": "551-561-7205",
+        "servicePhone": "800834359"
+    },
+    "birthday": "1932-06-09",
+    "ip": "2.241.10.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Role no dog president. Difficult defense interesting film among sense respond. Now middle name clear beyond middle ahead.",
+        "bio": "View government whether step baby. Order understand rock pretty skin economy main."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}

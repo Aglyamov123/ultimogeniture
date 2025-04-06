@@ -1,0 +1,25 @@
+{
+    "name": "Erin Bradford",
+    "age": 8,
+    "address": {
+        "street": "Russell Wall",
+        "city": "Lake Nicoletown",
+        "state": "Oregon",
+        "zip": "35821"
+    },
+    "contact": {
+        "phone": "(949)241-1547x80547",
+        "servicePhone": "800555367"
+    },
+    "birthday": "2017-08-10",
+    "ip": "223.31.67.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge stage economic including.\nInclude discover race cause you third. Run strategy figure arm major space different. Spring whatever individual.",
+        "bio": "House design condition finally whatever could.\nProperty hope energy eye six. Indicate administration artist final. This act wide citizen positive bank also thus."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

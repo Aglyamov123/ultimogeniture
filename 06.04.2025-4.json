@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Wong",
+    "age": 102,
+    "address": {
+        "street": "Alexander Shoals",
+        "city": "Port Micheleshire",
+        "state": "Colorado",
+        "zip": "45542"
+    },
+    "contact": {
+        "phone": "994.855.1542x75052",
+        "servicePhone": "800271145"
+    },
+    "birthday": "1923-13-04",
+    "ip": "52.39.103.118",
+    "foo": "bar",
+    "profile": {
+        "about": "International rise dinner bar.\nTelevision score probably nation. Popular wife least large type similar weight.",
+        "bio": "Lose remain position final. Girl field project seem court officer ask shake.\nCivil chair his something. Truth recent behind seek art song rest.\nEat offer sing or former happy. Education report big."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Brown",
+    "age": 85,
+    "address": {
+        "street": "Rhonda Ford",
+        "city": "Ericachester",
+        "state": "New Hampshire",
+        "zip": "83586"
+    },
+    "contact": {
+        "phone": "(818)814-9571",
+        "servicePhone": "800562422"
+    },
+    "birthday": "1940-19-11",
+    "ip": "63.68.224.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Dinner reveal often computer grow gas. Question exactly health produce.\nStudy people cause still. Support yourself sport happen reality. Science own mission upon artist democratic detail.",
+        "bio": "Occur follow would coach season. Ask wife impact those through son admit animal. Land bar add exist political."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}

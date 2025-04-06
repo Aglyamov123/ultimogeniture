@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Brady",
+    "age": 88,
+    "address": {
+        "street": "Smith Stravenue",
+        "city": "Randyburgh",
+        "state": "Alaska",
+        "zip": "89382"
+    },
+    "contact": {
+        "phone": "+1-320-486-4504x36798",
+        "servicePhone": "800179211"
+    },
+    "birthday": "1937-21-01",
+    "ip": "104.23.143.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Prove point wrong especially good. Find market test his. List process support into.\nWalk season represent news. Out because nation news. Move cell speech get ground campaign.",
+        "bio": "Service story after former finish believe major simple. Third sea economic ago difference. Three meet learn focus method.\nResponse almost approach single."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}

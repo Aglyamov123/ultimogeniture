@@ -1,0 +1,25 @@
+{
+    "name": "Philip Jensen",
+    "age": 41,
+    "address": {
+        "street": "Fleming Expressway",
+        "city": "Crystalstad",
+        "state": "Delaware",
+        "zip": "49191"
+    },
+    "contact": {
+        "phone": "(980)920-6640",
+        "servicePhone": "800607065"
+    },
+    "birthday": "1984-28-11",
+    "ip": "32.9.184.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Stage always kitchen. Night human long dark. Save store style soldier ability play. Audience box technology effort whom outside.",
+        "bio": "More including book ball likely ground brother. Data politics community large without sometimes. Race decade party part. Similar along know window would."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}

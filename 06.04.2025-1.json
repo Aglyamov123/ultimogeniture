@@ -1,0 +1,25 @@
+{
+    "name": "Mary Meza",
+    "age": 46,
+    "address": {
+        "street": "Robert Prairie",
+        "city": "Smithbury",
+        "state": "Michigan",
+        "zip": "63917"
+    },
+    "contact": {
+        "phone": "972.355.6323",
+        "servicePhone": "800756549"
+    },
+    "birthday": "1979-02-03",
+    "ip": "94.229.213.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Million left mother everything always including. Include ok simply make natural own. Arm issue field word inside near happen.",
+        "bio": "Her tonight instead guy room east. Record your hotel where type sort. Attack easy cut second main campaign person. Across never president total.\nNation necessary air like old push."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Carmen Ellis",
+    "age": 11,
+    "address": {
+        "street": "Chaney Mill",
+        "city": "Lake Douglaston",
+        "state": "Montana",
+        "zip": "13624"
+    },
+    "contact": {
+        "phone": "(381)577-3398",
+        "servicePhone": "800047218"
+    },
+    "birthday": "2014-14-05",
+    "ip": "19.197.35.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Case rise and tell. Book simply least whose necessary bad line.\nMessage probably several agency participant within morning. Quite wall lawyer could.",
+        "bio": "Heart person painting tell plan open. Rather tell several report maintain manager ago. Wear over leave."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

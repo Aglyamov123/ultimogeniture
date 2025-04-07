@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Gonzalez",
+    "age": 60,
+    "address": {
+        "street": "Colleen Mount",
+        "city": "Williamsbury",
+        "state": "Maryland",
+        "zip": "67678"
+    },
+    "contact": {
+        "phone": "+1-658-670-3549x9939",
+        "servicePhone": "800209047"
+    },
+    "birthday": "1965-01-06",
+    "ip": "139.248.122.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Center clear kid decide base power. Human tough without detail send.",
+        "bio": "Light beautiful energy subject per. Ok reason now resource experience fund perform."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}

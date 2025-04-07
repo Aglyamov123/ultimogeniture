@@ -1,0 +1,25 @@
+{
+    "name": "Laura Watson",
+    "age": 100,
+    "address": {
+        "street": "John Land",
+        "city": "Baxterport",
+        "state": "Oregon",
+        "zip": "57025"
+    },
+    "contact": {
+        "phone": "8213168000",
+        "servicePhone": "800518601"
+    },
+    "birthday": "1925-13-03",
+    "ip": "70.189.146.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat couple model white figure response. Course morning fact consumer among.\nOf why use expert still management necessary find. Whom throw weight suggest. Live nation cost.",
+        "bio": "Whose hair wear. Of property paper significant game. Head soon total later mother.\nChild rate small education bag mean. Others rather bar world break. Pm ever a church turn."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jason Acosta",
+    "age": 13,
+    "address": {
+        "street": "Jeremiah Bridge",
+        "city": "East Travis",
+        "state": "New Hampshire",
+        "zip": "03914"
+    },
+    "contact": {
+        "phone": "(614)780-7782",
+        "servicePhone": "800986510"
+    },
+    "birthday": "2012-10-08",
+    "ip": "180.114.237.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Us him foreign anyone nor first. Even push defense buy.\nAttorney loss section than little. Sing father own color religious. Feel look hard do herself garden maintain.",
+        "bio": "Single dog day dream reason professional. Sell spring only store improve candidate. Kind father partner situation professional religious coach ok."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Barry Grant",
+    "age": 74,
+    "address": {
+        "street": "Ian Fall",
+        "city": "Lake Michaelborough",
+        "state": "Missouri",
+        "zip": "15090"
+    },
+    "contact": {
+        "phone": "284-205-0102x14602",
+        "servicePhone": "800879006"
+    },
+    "birthday": "1951-18-04",
+    "ip": "104.187.217.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Maybe wife receive. Eat unit sit part whatever pretty mission. Purpose office surface company bad.",
+        "bio": "Media sound strong report save indicate stop. Trouble yard available direction. Left child page who under. Dark daughter me company perhaps."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

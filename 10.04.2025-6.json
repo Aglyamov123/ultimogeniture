@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Scott",
+    "age": 5,
+    "address": {
+        "street": "Evans Radial",
+        "city": "Smithbury",
+        "state": "New Mexico",
+        "zip": "15959"
+    },
+    "contact": {
+        "phone": "001-460-435-5329x430",
+        "servicePhone": "800965110"
+    },
+    "birthday": "2020-17-08",
+    "ip": "171.42.141.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Firm beyond spend instead worry. Lose particular their bar. Occur oil forget coach fire use.\nAround drive might television idea edge matter. Animal benefit so change respond message send.",
+        "bio": "Us sit significant tend drug attorney. Rule magazine total star away third worry.\nAgent next agency however account."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}

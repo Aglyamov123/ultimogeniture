@@ -1,0 +1,25 @@
+{
+    "name": "Joseph West",
+    "age": 0,
+    "address": {
+        "street": "Katherine Heights",
+        "city": "Terrychester",
+        "state": "South Carolina",
+        "zip": "77356"
+    },
+    "contact": {
+        "phone": "4293349331",
+        "servicePhone": "800476930"
+    },
+    "birthday": "2025-17-06",
+    "ip": "121.176.243.69",
+    "foo": "bar",
+    "profile": {
+        "about": "South charge before. Actually consumer of yourself attorney represent. Difficult chair clearly campaign special anything stock.",
+        "bio": "War marriage conference father nature anyone.\nA street benefit trade common task several need. Dinner always assume cover nice pass agree."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}

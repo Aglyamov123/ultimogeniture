@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Mitchell",
+    "age": 34,
+    "address": {
+        "street": "Floyd Extension",
+        "city": "Mannfort",
+        "state": "Wisconsin",
+        "zip": "65130"
+    },
+    "contact": {
+        "phone": "310-239-9196x053",
+        "servicePhone": "800111501"
+    },
+    "birthday": "1991-28-06",
+    "ip": "222.123.24.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Visit third young anyone organization would. Staff cut through huge live help law. Speak throughout or game necessary prove seek health.",
+        "bio": "Sometimes because market line oil. Ok sure certainly.\nPaper medical result service yes instead. Form lose help minute. Contain into data stop quickly food sister two."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}

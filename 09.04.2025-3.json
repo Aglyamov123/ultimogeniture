@@ -1,0 +1,25 @@
+{
+    "name": "Claudia Rodriguez",
+    "age": 48,
+    "address": {
+        "street": "Edward Hills",
+        "city": "Lake Amberview",
+        "state": "Alaska",
+        "zip": "85465"
+    },
+    "contact": {
+        "phone": "522-232-1265",
+        "servicePhone": "800862208"
+    },
+    "birthday": "1977-07-08",
+    "ip": "176.53.30.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Street I baby chair finish nation interest. Loss effort sign response.\nRespond your suddenly administration if where brother. His likely require street. Score image hit card great owner body.",
+        "bio": "Hotel main reach standard blue. Speech white give part seem tell teacher. Mr lead final."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}

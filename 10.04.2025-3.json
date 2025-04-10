@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Everett",
+    "age": 55,
+    "address": {
+        "street": "Brown Fall",
+        "city": "Mooreville",
+        "state": "Minnesota",
+        "zip": "71196"
+    },
+    "contact": {
+        "phone": "755-975-8473",
+        "servicePhone": "800319989"
+    },
+    "birthday": "1970-15-05",
+    "ip": "85.181.226.181",
+    "foo": "bar",
+    "profile": {
+        "about": "American college sense care stock son. Pressure data assume mouth if. This surface grow gun somebody give.",
+        "bio": "Why administration majority.\nWoman should stand improve body. House ready produce Congress anyone."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}

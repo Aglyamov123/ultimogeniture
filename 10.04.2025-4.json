@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Brown",
+    "age": 31,
+    "address": {
+        "street": "Kemp Mount",
+        "city": "Lynchton",
+        "state": "Georgia",
+        "zip": "01304"
+    },
+    "contact": {
+        "phone": "(823)749-1002",
+        "servicePhone": "800079956"
+    },
+    "birthday": "1994-31-12",
+    "ip": "143.177.206.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Heavy specific our style also glass. Soon help cold cost assume offer list. Into travel our kind inside political pretty class.",
+        "bio": "Maybe social occur white approach when thought.\nClass carry low only dinner form result. Recognize father station concern mother its. Degree first public should dream rate."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

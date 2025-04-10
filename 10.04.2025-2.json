@@ -1,0 +1,25 @@
+{
+    "name": "Greg Cook",
+    "age": 73,
+    "address": {
+        "street": "Black Points",
+        "city": "Jonathanborough",
+        "state": "Iowa",
+        "zip": "11961"
+    },
+    "contact": {
+        "phone": "+1-939-718-8971x614",
+        "servicePhone": "800974327"
+    },
+    "birthday": "1952-24-06",
+    "ip": "60.101.54.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair nearly over. Party break cut fund general sense father.\nCultural manage just source strong make. Word civil difference tonight but community. Official idea growth open.",
+        "bio": "Radio entire culture include article energy. Your size listen catch sure quite cover.\nRadio watch employee assume easy pull. Thousand movement from."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}

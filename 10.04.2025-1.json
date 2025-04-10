@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Perez",
+    "age": 35,
+    "address": {
+        "street": "Shaun Courts",
+        "city": "Lake Tommyside",
+        "state": "Indiana",
+        "zip": "52249"
+    },
+    "contact": {
+        "phone": "+1-438-686-8484x3899",
+        "servicePhone": "800466263"
+    },
+    "birthday": "1990-05-05",
+    "ip": "47.222.158.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget general consumer study human safe. Safe pass newspaper maintain listen.\nHear generation property dream stage measure. If also short source. Identify society soon more point ask improve.",
+        "bio": "Region sort high site to thus. Kid sing use ability.\nSuddenly situation build key single high worry. Do loss open interest but. Control around also certainly collection economic."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}

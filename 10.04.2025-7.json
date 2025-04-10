@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Chandler",
+    "age": 42,
+    "address": {
+        "street": "Anthony Terrace",
+        "city": "Jackburgh",
+        "state": "South Dakota",
+        "zip": "01869"
+    },
+    "contact": {
+        "phone": "+1-789-772-8014x45569",
+        "servicePhone": "800994050"
+    },
+    "birthday": "1983-27-10",
+    "ip": "18.31.155.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Never truth which white professor about clear. Mean ready benefit will herself. Agree success where also season.\nOwn church during issue. White real lose upon.\nBase field draw ten.",
+        "bio": "Improve radio interest police recognize professional when. Difficult reality heart mean message authority threat. Challenge cold factor court next choice interesting most."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}

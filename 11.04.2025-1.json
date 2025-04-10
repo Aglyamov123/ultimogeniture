@@ -1,0 +1,25 @@
+{
+    "name": "Denise Baker",
+    "age": 23,
+    "address": {
+        "street": "Jenkins Mill",
+        "city": "East Michael",
+        "state": "Missouri",
+        "zip": "01868"
+    },
+    "contact": {
+        "phone": "9565290248",
+        "servicePhone": "800612708"
+    },
+    "birthday": "2002-12-08",
+    "ip": "172.77.247.163",
+    "foo": "bar",
+    "profile": {
+        "about": "On family away current there. Position American most condition set choice if.\nManage area hear trade imagine. Begin your again tax area career course future.",
+        "bio": "Standard player career check time. Sense significant system development cultural. Prepare maintain contain send player."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

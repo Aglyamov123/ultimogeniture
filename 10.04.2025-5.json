@@ -1,0 +1,25 @@
+{
+    "name": "Kim Hernandez",
+    "age": 13,
+    "address": {
+        "street": "Arnold Centers",
+        "city": "Rogersburgh",
+        "state": "Maine",
+        "zip": "25518"
+    },
+    "contact": {
+        "phone": "(706)687-7510",
+        "servicePhone": "800743480"
+    },
+    "birthday": "2012-09-11",
+    "ip": "165.193.92.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Administration particular trouble. Half perform project tough fall. Alone century onto air central where.",
+        "bio": "Social home particularly success support. Party stuff agree. Their then public investment better. Others financial suffer statement cold strong father."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}

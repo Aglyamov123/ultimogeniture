@@ -1,0 +1,25 @@
+{
+    "name": "Donna Hawkins DDS",
+    "age": 89,
+    "address": {
+        "street": "Donald Knolls",
+        "city": "South Yolandaview",
+        "state": "Illinois",
+        "zip": "14544"
+    },
+    "contact": {
+        "phone": "001-859-803-9062",
+        "servicePhone": "800439952"
+    },
+    "birthday": "1936-14-02",
+    "ip": "166.137.159.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience scene accept. Strong community American southern development teacher fall fill. Must effort book drop really.",
+        "bio": "Knowledge matter painting concern claim concern. Theory them out also spring interest rich.\nOld strong open spring center Republican.\nCharge popular break way set. Education now card compare low."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

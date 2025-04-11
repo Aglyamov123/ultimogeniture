@@ -1,0 +1,25 @@
+{
+    "name": "William Hanson",
+    "age": 91,
+    "address": {
+        "street": "Daniel Burgs",
+        "city": "Delgadostad",
+        "state": "North Carolina",
+        "zip": "67922"
+    },
+    "contact": {
+        "phone": "(715)301-8170x826",
+        "servicePhone": "800286247"
+    },
+    "birthday": "1934-18-04",
+    "ip": "64.125.242.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Participant before place expert experience. Describe determine form town take. Serve opportunity daughter certain movement school.",
+        "bio": "Blue edge age easy. Can third they enough degree sea song.\nWrite physical subject feel father cause. Truth only bit close. Sell culture natural street standard."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

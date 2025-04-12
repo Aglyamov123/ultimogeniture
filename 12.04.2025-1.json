@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Sims",
+    "age": 55,
+    "address": {
+        "street": "Jessica Wall",
+        "city": "East Matthew",
+        "state": "California",
+        "zip": "01189"
+    },
+    "contact": {
+        "phone": "001-309-713-1335x58960",
+        "servicePhone": "800564797"
+    },
+    "birthday": "1970-28-02",
+    "ip": "180.219.21.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark unit director middle character program appear main. All very forward show conference skin. Not level off article television say. Attorney box go for opportunity reach.",
+        "bio": "Himself else alone protect. Laugh own western create age feeling or.\nSimple summer small establish really. Scene TV trade push. End possible deal foot."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

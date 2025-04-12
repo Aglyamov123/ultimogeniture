@@ -1,0 +1,25 @@
+{
+    "name": "Angel Lee",
+    "age": 31,
+    "address": {
+        "street": "Rebecca Ports",
+        "city": "Valenzuelaland",
+        "state": "South Dakota",
+        "zip": "87434"
+    },
+    "contact": {
+        "phone": "+1-905-227-9376",
+        "servicePhone": "800838794"
+    },
+    "birthday": "1994-31-01",
+    "ip": "39.255.179.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Player expert benefit this. Rich body you pull deep. Oil well night choose side seat floor.\nOffer character tax last charge that white. Thousand his six. Stock sea future effect particularly.",
+        "bio": "Compare green as over. Above water hold because.\nField city once buy. Read general upon read international.\nGo just bit air whom catch bar. Night special industry prove take seek."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}

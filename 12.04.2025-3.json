@@ -1,0 +1,25 @@
+{
+    "name": "Ricardo Rogers",
+    "age": 50,
+    "address": {
+        "street": "Lawrence Ridges",
+        "city": "West Tracymouth",
+        "state": "Pennsylvania",
+        "zip": "88871"
+    },
+    "contact": {
+        "phone": "602.584.9875x3716",
+        "servicePhone": "800850964"
+    },
+    "birthday": "1975-31-05",
+    "ip": "71.154.165.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Attorney man four majority anything once. Realize floor movie we morning. Great job win walk sea.",
+        "bio": "Authority list husband land. Even professor security.\nSource many skin fly after others put. What main government. Sound born here evening. Task soon pressure deep."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

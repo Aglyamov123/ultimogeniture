@@ -1,0 +1,25 @@
+{
+    "name": "Julia Smith",
+    "age": 56,
+    "address": {
+        "street": "Solis Viaduct",
+        "city": "East Jeffrey",
+        "state": "Massachusetts",
+        "zip": "51795"
+    },
+    "contact": {
+        "phone": "+1-471-832-0762x1358",
+        "servicePhone": "800611901"
+    },
+    "birthday": "1969-28-05",
+    "ip": "145.169.214.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Dinner key instead act know head. Training process picture purpose whatever risk determine. Knowledge national skill exist marriage car whose.",
+        "bio": "Stay network art meeting sit someone poor. East eye usually do hundred.\nLine apply fine member. Show long page difference likely cultural anyone inside."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}

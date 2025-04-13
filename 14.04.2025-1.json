@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Clayton",
+    "age": 22,
+    "address": {
+        "street": "Allen Drives",
+        "city": "West Dennisland",
+        "state": "Mississippi",
+        "zip": "02511"
+    },
+    "contact": {
+        "phone": "492-348-0923x791",
+        "servicePhone": "800821978"
+    },
+    "birthday": "2003-12-05",
+    "ip": "128.13.86.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation firm worry product. Center practice court when.\nSay international whole least herself. Energy firm fish security.",
+        "bio": "These only hundred letter quickly change. Course just ask onto floor improve. Sometimes window young local."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "William Phillips",
+    "age": 85,
+    "address": {
+        "street": "Vaughn Ways",
+        "city": "Alexaview",
+        "state": "Texas",
+        "zip": "02525"
+    },
+    "contact": {
+        "phone": "(711)831-5249x429",
+        "servicePhone": "800669282"
+    },
+    "birthday": "1940-26-02",
+    "ip": "150.23.43.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Structure already look already season. Office animal best. Agree physical those.\nTough stuff rate sea section end yourself member. Mrs turn collection real financial any not.",
+        "bio": "Kitchen do foot let best scientist. Likely most speech team. Detail public response physical."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}

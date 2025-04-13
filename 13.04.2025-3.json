@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Klein",
+    "age": 100,
+    "address": {
+        "street": "Sanchez Loop",
+        "city": "Port Michael",
+        "state": "Michigan",
+        "zip": "22459"
+    },
+    "contact": {
+        "phone": "975.761.4284x4327",
+        "servicePhone": "800064837"
+    },
+    "birthday": "1925-01-04",
+    "ip": "16.222.157.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward anyone over last. Loss risk top bit fact effort. Entire challenge order themselves space.",
+        "bio": "Accept property step return. Should enough long others detail support director turn.\nVarious gun physical remember line challenge since approach. Health man still again member national capital."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

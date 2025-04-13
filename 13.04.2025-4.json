@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Brown",
+    "age": 102,
+    "address": {
+        "street": "Johnson Fork",
+        "city": "West Aaronview",
+        "state": "West Virginia",
+        "zip": "62839"
+    },
+    "contact": {
+        "phone": "215.421.4018x0875",
+        "servicePhone": "800605276"
+    },
+    "birthday": "1923-25-11",
+    "ip": "189.176.20.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Wide do lot matter. Sing by democratic economy response.\nLet employee able dog easy himself. Page computer lawyer realize me.\nIn worry offer suddenly decision. Police go their body.",
+        "bio": "Professional player inside doctor trade southern present. Maybe build yard meeting bar serious American.\nNewspaper environmental far leader character meet. Debate rule think another could."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}

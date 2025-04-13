@@ -1,0 +1,25 @@
+{
+    "name": "Paige Sherman",
+    "age": 92,
+    "address": {
+        "street": "Jennifer Roads",
+        "city": "South Barbara",
+        "state": "South Carolina",
+        "zip": "73545"
+    },
+    "contact": {
+        "phone": "001-948-676-0010",
+        "servicePhone": "800930893"
+    },
+    "birthday": "1933-04-07",
+    "ip": "57.204.252.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Red hundred body music American question environment. Choice old charge. Above blue human too though.",
+        "bio": "Protect hard quite maybe Republican top. Team since see do amount.\nNo million drop society thought member. Her kid indeed sing might occur."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}

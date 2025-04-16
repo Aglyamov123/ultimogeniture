@@ -1,0 +1,25 @@
+{
+    "name": "William Thomas",
+    "age": 106,
+    "address": {
+        "street": "Ryan Island",
+        "city": "South Francisco",
+        "state": "Minnesota",
+        "zip": "22951"
+    },
+    "contact": {
+        "phone": "+1-436-330-6173x241",
+        "servicePhone": "800398204"
+    },
+    "birthday": "1919-26-03",
+    "ip": "132.235.194.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Gun must address itself throw now adult. Lose market choice bank for manage. Sound market every else. Reduce fire situation Mrs interesting pressure deal.",
+        "bio": "Music lawyer grow TV. Approach along benefit miss.\nWrite culture home rule space indicate. Section pull own. Make glass may future six child."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}

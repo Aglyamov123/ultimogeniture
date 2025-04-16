@@ -1,0 +1,25 @@
+{
+    "name": "Richard Hanson",
+    "age": 34,
+    "address": {
+        "street": "Brenda Roads",
+        "city": "Khanside",
+        "state": "Nebraska",
+        "zip": "07194"
+    },
+    "contact": {
+        "phone": "(480)792-9094x94258",
+        "servicePhone": "800130912"
+    },
+    "birthday": "1991-23-03",
+    "ip": "24.51.38.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Large through consider world itself career police. Price test defense put which though model. Employee then any decide relationship until.\nPhysical which ever along beautiful play.",
+        "bio": "Cell admit recent next physical.\nLife say shoulder standard president human. Situation just notice industry chair very away appear. Value dream name case."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

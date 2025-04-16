@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Harris",
+    "age": 68,
+    "address": {
+        "street": "Chloe Landing",
+        "city": "South Lauramouth",
+        "state": "Maine",
+        "zip": "98088"
+    },
+    "contact": {
+        "phone": "493.550.7429x0334",
+        "servicePhone": "800465804"
+    },
+    "birthday": "1957-18-09",
+    "ip": "199.87.195.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Face career up outside maintain above only old. Put standard customer concern. Environmental small leg start number heavy improve.",
+        "bio": "Listen special success establish. Modern part second law later. Reveal chair mind arm court."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}

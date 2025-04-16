@@ -1,0 +1,25 @@
+{
+    "name": "Nina Benitez",
+    "age": 41,
+    "address": {
+        "street": "Robert Islands",
+        "city": "Parksberg",
+        "state": "New Jersey",
+        "zip": "02260"
+    },
+    "contact": {
+        "phone": "836-649-5393x5430",
+        "servicePhone": "800519267"
+    },
+    "birthday": "1984-04-04",
+    "ip": "21.126.78.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship before subject dinner. Garden side drop real.\nFar attack stand marriage all. They move hour strategy store instead law.",
+        "bio": "Only religious future billion involve. Animal item these marriage stock provide.\nKnowledge condition together professional respond investment write. Cover three certainly little at."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

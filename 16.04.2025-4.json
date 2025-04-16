@@ -1,0 +1,25 @@
+{
+    "name": "Travis Ball",
+    "age": 50,
+    "address": {
+        "street": "Sloan Corner",
+        "city": "Mezashire",
+        "state": "Pennsylvania",
+        "zip": "81391"
+    },
+    "contact": {
+        "phone": "(631)492-5525",
+        "servicePhone": "800680361"
+    },
+    "birthday": "1975-26-04",
+    "ip": "105.75.212.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Its training whom official simple able. Since blue stuff if maintain. People popular event deep even car develop culture.\nCity ground as apply stock. Politics despite large property foreign.",
+        "bio": "Trade good nice voice even. Soldier somebody ability he student. Stock another commercial should.\nProve less computer speak. Anything reason measure thing factor."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}

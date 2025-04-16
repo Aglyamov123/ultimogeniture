@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Woods",
+    "age": 17,
+    "address": {
+        "street": "Doyle Forks",
+        "city": "North Seanbury",
+        "state": "Montana",
+        "zip": "02497"
+    },
+    "contact": {
+        "phone": "+1-255-869-5554x03667",
+        "servicePhone": "800674197"
+    },
+    "birthday": "2008-10-06",
+    "ip": "202.132.211.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Possible sea human happy. Dark know then save work money.\nPerformance detail pay it grow response. She family like community only father. Tree if far laugh ago.",
+        "bio": "Least spend song. Foot bit work. Prepare Republican real hundred.\nWhile dog per in drive network send. Ok conference national throw trial century another help. Whatever law war statement describe."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

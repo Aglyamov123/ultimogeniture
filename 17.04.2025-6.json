@@ -1,0 +1,25 @@
+{
+    "name": "John Nichols",
+    "age": 16,
+    "address": {
+        "street": "Levine Grove",
+        "city": "Nguyenfurt",
+        "state": "Oregon",
+        "zip": "61063"
+    },
+    "contact": {
+        "phone": "883-882-4943",
+        "servicePhone": "800290257"
+    },
+    "birthday": "2009-08-04",
+    "ip": "57.20.161.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Worker right family century.\nTo appear make do thing. Ago should hospital measure explain rest several. Provide lose industry. Pm star little shoulder occur condition coach.",
+        "bio": "My weight seem prove. History here nature would guess mean risk. Memory upon build cut budget argue.\nWorker opportunity arrive religious argue. Today foreign since. Medical later participant."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

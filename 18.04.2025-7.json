@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Johnson",
+    "age": 20,
+    "address": {
+        "street": "Donna Landing",
+        "city": "Raymondton",
+        "state": "Connecticut",
+        "zip": "56731"
+    },
+    "contact": {
+        "phone": "001-838-650-4265x926",
+        "servicePhone": "800416743"
+    },
+    "birthday": "2005-08-08",
+    "ip": "120.49.25.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Several return security type movie billion bar better. Floor product your phone opportunity peace leg. Beyond most itself consumer security amount.",
+        "bio": "Thank machine page memory class her star. See main section. Indeed try model ball sure though address."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}

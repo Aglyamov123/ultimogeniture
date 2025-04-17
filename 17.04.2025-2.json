@@ -1,0 +1,25 @@
+{
+    "name": "Marcus Jackson",
+    "age": 38,
+    "address": {
+        "street": "Arnold Harbors",
+        "city": "West Ronaldside",
+        "state": "South Dakota",
+        "zip": "07462"
+    },
+    "contact": {
+        "phone": "3453786841",
+        "servicePhone": "800025084"
+    },
+    "birthday": "1987-05-11",
+    "ip": "41.231.14.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Rate these practice benefit.\nTravel send lawyer art meet head. Performance have black when kind name. Purpose sound natural.",
+        "bio": "Appear consider land buy hotel turn accept. Top like that himself. Able together five strategy rock."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}

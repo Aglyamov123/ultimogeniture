@@ -1,0 +1,25 @@
+{
+    "name": "Steven Watts",
+    "age": 19,
+    "address": {
+        "street": "Samantha Passage",
+        "city": "South Brandon",
+        "state": "Alabama",
+        "zip": "65369"
+    },
+    "contact": {
+        "phone": "256-248-2743x7311",
+        "servicePhone": "800038332"
+    },
+    "birthday": "2006-19-12",
+    "ip": "32.82.249.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Hand as than own project their along when. Still within car stand.\nFull reason experience us wall. Detail once result establish begin lay. Great century them receive value however far.",
+        "bio": "Occur option eight involve need age. Camera prepare a.\nPrice meeting task final what box require. Week conference pay less else."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}

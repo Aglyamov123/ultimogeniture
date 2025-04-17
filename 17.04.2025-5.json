@@ -1,0 +1,25 @@
+{
+    "name": "Johnny Waters",
+    "age": 7,
+    "address": {
+        "street": "Richard Wall",
+        "city": "South David",
+        "state": "Illinois",
+        "zip": "71013"
+    },
+    "contact": {
+        "phone": "001-576-328-4672x4514",
+        "servicePhone": "800331344"
+    },
+    "birthday": "2018-01-01",
+    "ip": "160.71.72.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason pattern smile stuff. Future team maintain paper. Network show listen goal.\nMonth final interesting. Window or any hundred study couple. Public organization ten level.",
+        "bio": "Age son matter line support end feel morning. Couple response imagine sure difficult. Show vote throw official."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}

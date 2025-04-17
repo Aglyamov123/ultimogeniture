@@ -1,0 +1,25 @@
+{
+    "name": "Drew Salas",
+    "age": 69,
+    "address": {
+        "street": "Johnson Harbors",
+        "city": "Jamesville",
+        "state": "Minnesota",
+        "zip": "22138"
+    },
+    "contact": {
+        "phone": "(747)523-8209x63609",
+        "servicePhone": "800486366"
+    },
+    "birthday": "1956-11-01",
+    "ip": "105.231.51.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Seem animal over item section child born. Outside technology audience late think save analysis. Property quite behind do imagine so follow.",
+        "bio": "Appear environment sense. Black since city then. Tell sort now citizen chair.\nNo rate than own. Technology quite success. Never choice save our long manager last."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}

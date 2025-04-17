@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Benjamin Valdez",
+    "age": 61,
+    "address": {
+        "street": "John Via",
+        "city": "North Joshuashire",
+        "state": "Idaho",
+        "zip": "88169"
+    },
+    "contact": {
+        "phone": "640-273-6288x357",
+        "servicePhone": "800452164"
+    },
+    "birthday": "1964-19-11",
+    "ip": "21.27.40.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother early approach election seven. Pretty plan lawyer personal next foreign time. Player song less draw often positive cultural.",
+        "bio": "Today both enough wish.\nNewspaper message trip I sign drive. Cover thus phone sometimes matter bank.\nMouth with practice best order reduce. Suffer argue wonder capital writer clear debate return."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

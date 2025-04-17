@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Ortega",
+    "age": 107,
+    "address": {
+        "street": "Anderson Viaduct",
+        "city": "Josephton",
+        "state": "Missouri",
+        "zip": "16914"
+    },
+    "contact": {
+        "phone": "+1-690-756-5269x4808",
+        "servicePhone": "800225962"
+    },
+    "birthday": "1918-29-08",
+    "ip": "209.187.226.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Power offer likely majority real have rise. Coach bar green but can young eye. Himself consumer arm main number generation.\nRed tell her understand quite buy.",
+        "bio": "Ground green program off some and draw build. Community image themselves ahead exactly pay."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}

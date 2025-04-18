@@ -1,0 +1,25 @@
+{
+    "name": "Laura Cochran",
+    "age": 32,
+    "address": {
+        "street": "David Estate",
+        "city": "Kennedymouth",
+        "state": "West Virginia",
+        "zip": "82640"
+    },
+    "contact": {
+        "phone": "(265)271-0105",
+        "servicePhone": "800402308"
+    },
+    "birthday": "1993-22-08",
+    "ip": "119.3.238.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Family class direction morning in skill. When bring cold Mrs majority.",
+        "bio": "Risk action also adult recently bag window. Toward pick base significant behavior.\nYet yourself hundred star fund citizen our. Admit industry hundred two oil."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}

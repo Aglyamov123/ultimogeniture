@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Wallace",
+    "age": 41,
+    "address": {
+        "street": "Sanchez Islands",
+        "city": "Lake Lisa",
+        "state": "Kentucky",
+        "zip": "97418"
+    },
+    "contact": {
+        "phone": "+1-802-667-2989x6324",
+        "servicePhone": "800891386"
+    },
+    "birthday": "1984-18-11",
+    "ip": "151.199.157.123",
+    "foo": "bar",
+    "profile": {
+        "about": "And campaign fly draw strategy maybe. Ahead gun benefit along treat war little.",
+        "bio": "True travel mention green we. Society leg chance hundred tax. During evidence power wind head administration pattern."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}

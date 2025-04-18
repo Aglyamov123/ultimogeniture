@@ -1,0 +1,25 @@
+{
+    "name": "April Duncan",
+    "age": 23,
+    "address": {
+        "street": "Katie Light",
+        "city": "New Angela",
+        "state": "Utah",
+        "zip": "15238"
+    },
+    "contact": {
+        "phone": "399.811.9476",
+        "servicePhone": "800878432"
+    },
+    "birthday": "2002-05-10",
+    "ip": "14.25.181.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Son around air report eight though as garden.\nSkill option everything hundred woman citizen light. Expect score eight teach need next ago.\nAbout indicate natural. Agree same off myself example.",
+        "bio": "Air bank just. Research offer low. House available hair store plan half red forward.\nWho officer magazine find. Far design exist. Arm test fact soon political PM."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}

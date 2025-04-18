@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Salazar",
+    "age": 33,
+    "address": {
+        "street": "Jaime Mill",
+        "city": "New Davidfort",
+        "state": "Mississippi",
+        "zip": "01635"
+    },
+    "contact": {
+        "phone": "(634)541-4805x575",
+        "servicePhone": "800311085"
+    },
+    "birthday": "1992-03-09",
+    "ip": "95.179.112.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Age claim traditional necessary. Data break lay before recent.\nParticipant thing family both. Huge big exactly oil suggest least nothing campaign.",
+        "bio": "Not by local there whether big cost. No finish reason home.\nBring room step four several. West such one short. Enter billion against stand notice woman know."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}

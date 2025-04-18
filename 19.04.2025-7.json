@@ -1,0 +1,25 @@
+{
+    "name": "William Atkinson",
+    "age": 88,
+    "address": {
+        "street": "Allen Passage",
+        "city": "East Pamelamouth",
+        "state": "Tennessee",
+        "zip": "47136"
+    },
+    "contact": {
+        "phone": "001-215-235-5568x85554",
+        "servicePhone": "800224139"
+    },
+    "birthday": "1937-12-06",
+    "ip": "171.28.174.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus writer significant system point special prepare. Moment particular though change whole manage.\nSister front actually. Matter personal standard himself night arm push. Happen work image reflect.",
+        "bio": "Republican top just opportunity. Bag article ago agency up. Operation through hotel job tonight clearly now.\nStatement example effect bag energy factor. Reduce section where sure production."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Gray",
+    "age": 45,
+    "address": {
+        "street": "Mata Square",
+        "city": "North Heatherburgh",
+        "state": "South Dakota",
+        "zip": "20567"
+    },
+    "contact": {
+        "phone": "203.866.6413",
+        "servicePhone": "800007661"
+    },
+    "birthday": "1980-22-03",
+    "ip": "200.38.10.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Scene benefit practice six. Whom poor phone figure student build pull. Six culture green meet.\nArtist little through probably four. Executive how live traditional situation them.",
+        "bio": "City outside full when. Dinner agree effect little. Set performance politics institution thousand kitchen.\nPoint appear purpose partner action. A certain open point American."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}

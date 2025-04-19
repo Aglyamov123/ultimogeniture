@@ -1,0 +1,25 @@
+{
+    "name": "Grace Howard",
+    "age": 29,
+    "address": {
+        "street": "Mathews Lake",
+        "city": "Amandaberg",
+        "state": "Kansas",
+        "zip": "09988"
+    },
+    "contact": {
+        "phone": "(205)668-5696x48014",
+        "servicePhone": "800777010"
+    },
+    "birthday": "1996-22-04",
+    "ip": "211.147.24.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Save particular guy candidate. Character too close moment.\nCenter fill few customer first admit bank. Enter among north hear hard body.",
+        "bio": "Dinner ahead special history reveal. Thus require leave television just. Especially national simply this across even."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}

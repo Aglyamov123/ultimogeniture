@@ -1,0 +1,25 @@
+{
+    "name": "Michael Randolph",
+    "age": 82,
+    "address": {
+        "street": "Sarah Plain",
+        "city": "South Kylebury",
+        "state": "North Dakota",
+        "zip": "17639"
+    },
+    "contact": {
+        "phone": "+1-316-264-4678x349",
+        "servicePhone": "800910905"
+    },
+    "birthday": "1943-01-02",
+    "ip": "205.221.178.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago stay summer movement officer argue prepare. Once no point plant cultural protect.\nForeign wife owner yard night whom. North baby enter effect heavy forget understand.",
+        "bio": "Pick book whatever way hold fish those. Term oil also. Here off raise they provide hair.\nThem within blue lawyer indicate energy identify. Computer yourself raise feeling time matter realize."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}

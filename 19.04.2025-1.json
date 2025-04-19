@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Thomas",
+    "age": 18,
+    "address": {
+        "street": "Carpenter Islands",
+        "city": "New Mary",
+        "state": "Iowa",
+        "zip": "54375"
+    },
+    "contact": {
+        "phone": "(940)490-7905x56378",
+        "servicePhone": "800283264"
+    },
+    "birthday": "2007-21-06",
+    "ip": "112.177.86.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Take research clearly suffer represent. Bill blue single ago our girl around. Office even most enter mother western.\nSection easy visit. Admit others fear become loss reality.",
+        "bio": "From water part education offer floor. Five chance company two general always in. Build day event time."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}

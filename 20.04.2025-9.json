@@ -1,0 +1,25 @@
+{
+    "name": "Robin Burns",
+    "age": 96,
+    "address": {
+        "street": "Mark Islands",
+        "city": "West Samuelburgh",
+        "state": "Arizona",
+        "zip": "40031"
+    },
+    "contact": {
+        "phone": "(715)892-8635",
+        "servicePhone": "800271132"
+    },
+    "birthday": "1929-09-06",
+    "ip": "4.179.215.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Far himself pretty book guy cut. Describe ten church federal read figure side.\nFall arrive sing lot able central.",
+        "bio": "Relationship when debate yourself class short back medical. Necessary explain best southern argue maybe effort."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Chase",
+    "age": 56,
+    "address": {
+        "street": "Daniel Trace",
+        "city": "Taylormouth",
+        "state": "Alabama",
+        "zip": "85694"
+    },
+    "contact": {
+        "phone": "001-212-504-2730x04257",
+        "servicePhone": "800239269"
+    },
+    "birthday": "1969-02-04",
+    "ip": "4.98.130.222",
+    "foo": "bar",
+    "profile": {
+        "about": "World give PM move something particularly. Memory time raise stand thank bad possible.\nMany this measure produce. Born agent fight situation third. Thank factor family behind past feel eight.",
+        "bio": "Rather east save town decide. Break never even Democrat approach whom attorney.\nDrug become allow sport drop attention others. Particularly imagine by which economy apply brother."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}

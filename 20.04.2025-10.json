@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Martin",
+    "age": 12,
+    "address": {
+        "street": "Karen Mount",
+        "city": "Travisburgh",
+        "state": "Oregon",
+        "zip": "72255"
+    },
+    "contact": {
+        "phone": "(929)968-2783x971",
+        "servicePhone": "800733669"
+    },
+    "birthday": "2013-12-07",
+    "ip": "106.136.131.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Discuss along today along drive. Know course each name watch enough discussion. Fish evening cultural evening scene he behind sing.",
+        "bio": "Nature computer source chair. Issue list leader face ask age right.\nFar audience always usually away. Develop important road wish until."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

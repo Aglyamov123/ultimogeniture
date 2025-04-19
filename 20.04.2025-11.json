@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Higgins",
+    "age": 34,
+    "address": {
+        "street": "David Trace",
+        "city": "Arnoldmouth",
+        "state": "Ohio",
+        "zip": "28662"
+    },
+    "contact": {
+        "phone": "6243541594",
+        "servicePhone": "800018235"
+    },
+    "birthday": "1991-20-11",
+    "ip": "38.234.147.138",
+    "foo": "bar",
+    "profile": {
+        "about": "May need able might laugh bar culture. Those conference yet. Similar design over top thus plan paper.\nClearly simple whole democratic should despite. Clearly season should population stuff ask share.",
+        "bio": "Challenge structure around while. Visit rich notice next style hit. Investment card assume ok the can.\nEducation he buy wear hot. Range who still. Live though hospital see top."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

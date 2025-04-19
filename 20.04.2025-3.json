@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Goodman",
+    "age": 26,
+    "address": {
+        "street": "Jasmine Pike",
+        "city": "Port Hannah",
+        "state": "Maine",
+        "zip": "33479"
+    },
+    "contact": {
+        "phone": "447-558-8951x6826",
+        "servicePhone": "800265672"
+    },
+    "birthday": "1999-07-04",
+    "ip": "138.179.25.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Out peace choice painting tough civil collection area. Different when seat and unit always miss.\nTheir where evening.\nRight dog teach walk life. Hundred degree type including wait worry.",
+        "bio": "Baby suffer light forget arrive talk class. Lawyer recognize door each range community. Top purpose speech rock."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

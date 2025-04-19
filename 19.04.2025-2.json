@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Walton",
+    "age": 32,
+    "address": {
+        "street": "Waller Walks",
+        "city": "Norrisside",
+        "state": "Ohio",
+        "zip": "59249"
+    },
+    "contact": {
+        "phone": "+1-684-206-5392x37236",
+        "servicePhone": "800347787"
+    },
+    "birthday": "1993-17-04",
+    "ip": "166.254.186.235",
+    "foo": "bar",
+    "profile": {
+        "about": "War run material. Prove future available. Discover attack certainly three join eat.",
+        "bio": "Agreement care garden wonder make find during. Organization really adult coach growth.\nSome foot can world."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}

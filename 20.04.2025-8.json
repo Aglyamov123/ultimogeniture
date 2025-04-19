@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Chambers",
+    "age": 32,
+    "address": {
+        "street": "Turner Glen",
+        "city": "Crawfordview",
+        "state": "Michigan",
+        "zip": "87976"
+    },
+    "contact": {
+        "phone": "001-679-872-5734x4888",
+        "servicePhone": "800022605"
+    },
+    "birthday": "1993-03-04",
+    "ip": "122.20.207.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare court not language might artist. Certainly test hand outside.\nBar future federal house someone sure us. Simple exist class note enter. Their second choice.",
+        "bio": "Person travel step he house occur. However person history often series authority eight. Might business which account tell establish work whole."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}

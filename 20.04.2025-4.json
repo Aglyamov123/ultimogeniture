@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Phillips",
+    "age": 111,
+    "address": {
+        "street": "Edwin Mission",
+        "city": "Debramouth",
+        "state": "Arkansas",
+        "zip": "34938"
+    },
+    "contact": {
+        "phone": "260.684.5629x61711",
+        "servicePhone": "800409799"
+    },
+    "birthday": "1914-12-03",
+    "ip": "207.172.132.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Town remember opportunity. Cut require successful often capital.\nThough let really far office debate smile former.\nHis arm beat government. Watch begin institution.",
+        "bio": "Example event else improve indeed see commercial him. Friend expert high."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}

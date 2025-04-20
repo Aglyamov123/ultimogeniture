@@ -1,0 +1,25 @@
+{
+    "name": "Cory Owens",
+    "age": 62,
+    "address": {
+        "street": "Jasmine Vista",
+        "city": "Port Timothy",
+        "state": "Illinois",
+        "zip": "38381"
+    },
+    "contact": {
+        "phone": "474-374-3828",
+        "servicePhone": "800732191"
+    },
+    "birthday": "1963-23-08",
+    "ip": "156.109.101.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Fear this shoulder be myself resource wrong manager. While nice continue similar.\nList during institution sense reason film on difference. Report site defense nice.",
+        "bio": "Seat ever response ago image lay top. Certain much speak hour impact data worker.\nScientist last camera whole. But set as reveal option not. Picture into north million."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}

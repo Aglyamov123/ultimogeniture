@@ -1,0 +1,25 @@
+{
+    "name": "John Brown",
+    "age": 2,
+    "address": {
+        "street": "Bright Islands",
+        "city": "Port Kimberlyshire",
+        "state": "New Mexico",
+        "zip": "84422"
+    },
+    "contact": {
+        "phone": "+1-793-252-0839x808",
+        "servicePhone": "800786799"
+    },
+    "birthday": "2023-29-09",
+    "ip": "55.45.201.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Similar miss home suddenly order them not box. Range table move action often ten. Heart ask once stock item.",
+        "bio": "Of film body wait maybe. Science mean social cost eat. Through career plan culture.\nAgency newspaper individual after language five assume. School well rather herself keep."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}

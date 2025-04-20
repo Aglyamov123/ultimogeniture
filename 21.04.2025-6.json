@@ -1,0 +1,25 @@
+{
+    "name": "Justin Schneider",
+    "age": 23,
+    "address": {
+        "street": "Wheeler Hills",
+        "city": "Powellchester",
+        "state": "Vermont",
+        "zip": "55771"
+    },
+    "contact": {
+        "phone": "302-581-1259",
+        "servicePhone": "800272683"
+    },
+    "birthday": "2002-13-07",
+    "ip": "97.157.106.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Girl relationship force. Unit pull smile middle much media past near. Sit continue up consider by share.\nWestern threat compare simply half choice fine. Huge dog important book.",
+        "bio": "Leg off local whole identify. Federal visit watch deep week health. Policy state effort."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}

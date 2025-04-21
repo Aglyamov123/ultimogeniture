@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Ballard",
+    "age": 58,
+    "address": {
+        "street": "Heather Wall",
+        "city": "East Peggyland",
+        "state": "Oklahoma",
+        "zip": "31094"
+    },
+    "contact": {
+        "phone": "552-703-3212",
+        "servicePhone": "800541799"
+    },
+    "birthday": "1967-25-12",
+    "ip": "206.154.51.2",
+    "foo": "bar",
+    "profile": {
+        "about": "While stop senior note big rule. Western move home heavy beautiful sell. Continue entire a or many fall follow management.\nAddress kind turn game paper become edge. Try name upon tree.",
+        "bio": "Like increase heavy bank. Social about seat piece prove front rich.\nMyself team west hard remember if. Reveal sometimes support executive."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Troy Spears",
+    "age": 68,
+    "address": {
+        "street": "Watson Underpass",
+        "city": "New Nicholasland",
+        "state": "Nebraska",
+        "zip": "44773"
+    },
+    "contact": {
+        "phone": "(633)673-1906x467",
+        "servicePhone": "800518967"
+    },
+    "birthday": "1957-24-09",
+    "ip": "93.122.57.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Turn join kind citizen major event theory Congress. Assume true apply base mean she per.\nFly training very child card hard. House rather one development boy.",
+        "bio": "Want what begin bank role. Again specific left upon."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}

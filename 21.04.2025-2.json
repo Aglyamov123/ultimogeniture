@@ -1,0 +1,25 @@
+{
+    "name": "Alex Ayala",
+    "age": 18,
+    "address": {
+        "street": "Adam Flats",
+        "city": "Mccormickberg",
+        "state": "Louisiana",
+        "zip": "74303"
+    },
+    "contact": {
+        "phone": "(539)211-4953x5122",
+        "servicePhone": "800342516"
+    },
+    "birthday": "2007-01-10",
+    "ip": "83.235.44.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason executive move across mention involve manager discover. Together federal guess change research.",
+        "bio": "Organization example hit late answer month add. It interesting establish pressure.\nMemory item economic partner health win.\nIn affect project when exactly. Responsibility at drug possible we."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}

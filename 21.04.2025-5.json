@@ -1,0 +1,25 @@
+{
+    "name": "Steven George",
+    "age": 53,
+    "address": {
+        "street": "Darren Meadows",
+        "city": "Port Christina",
+        "state": "New Hampshire",
+        "zip": "37303"
+    },
+    "contact": {
+        "phone": "001-906-846-7777",
+        "servicePhone": "800699412"
+    },
+    "birthday": "1972-04-02",
+    "ip": "106.25.181.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Provide in general little suggest ever glass. Raise light traditional article attention finally.",
+        "bio": "Serve wait out beautiful he about. Positive boy positive south cut.\nChair stand administration address. Focus both hand. Operation marriage although common camera."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

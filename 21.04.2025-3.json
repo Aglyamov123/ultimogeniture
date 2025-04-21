@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Jackson",
+    "age": 83,
+    "address": {
+        "street": "Wilson Mall",
+        "city": "Rodriguezfort",
+        "state": "Oregon",
+        "zip": "83748"
+    },
+    "contact": {
+        "phone": "001-882-594-4673x33293",
+        "servicePhone": "800369606"
+    },
+    "birthday": "1942-19-07",
+    "ip": "131.225.55.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Increase hope simple send others perhaps step hold. Yes partner way parent.\nGood city price international weight often. Protect consumer attention between memory top.",
+        "bio": "Mention situation that window window us. Court democratic maybe partner.\nInternational time bill drug. Role five trial strong year meeting during."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "David Boone",
+    "age": 46,
+    "address": {
+        "street": "Dominguez Turnpike",
+        "city": "Christinafurt",
+        "state": "California",
+        "zip": "51833"
+    },
+    "contact": {
+        "phone": "+1-426-746-3860",
+        "servicePhone": "800611845"
+    },
+    "birthday": "1979-29-06",
+    "ip": "203.13.128.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed off important build born nothing over. To culture cup lay number whole prove action.",
+        "bio": "Own amount matter quickly east card because. Movie what your stop reveal huge. Large fine factor college take."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

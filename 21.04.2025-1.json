@@ -1,0 +1,25 @@
+{
+    "name": "Todd Smith",
+    "age": 32,
+    "address": {
+        "street": "Reid Haven",
+        "city": "Port Jacquelineburgh",
+        "state": "Hawaii",
+        "zip": "36226"
+    },
+    "contact": {
+        "phone": "(415)864-8964x228",
+        "servicePhone": "800950179"
+    },
+    "birthday": "1993-02-08",
+    "ip": "74.220.158.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason her key computer several. Interesting special minute social learn theory join. Movement her different shake it. System church member author whole.",
+        "bio": "Create unit ten record country. Article senior event popular central else also. Ready production citizen."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

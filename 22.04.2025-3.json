@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Castillo",
+    "age": 78,
+    "address": {
+        "street": "Wright Crest",
+        "city": "Ramosburgh",
+        "state": "Texas",
+        "zip": "32189"
+    },
+    "contact": {
+        "phone": "001-206-795-2262x746",
+        "servicePhone": "800251468"
+    },
+    "birthday": "1947-03-05",
+    "ip": "163.51.71.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Ever product drive large western method. Here most field risk look particularly.\nFund loss partner song. Choose itself inside material same measure. Training no fill expect.",
+        "bio": "Court at seem business.\nHeart middle decide friend doctor eat or professional. Ok pick style bag about enjoy.\nTv significant interesting crime simply field. Through place series training."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Dana Schroeder",
+    "age": 39,
+    "address": {
+        "street": "Campbell Coves",
+        "city": "Michaelmouth",
+        "state": "Indiana",
+        "zip": "56147"
+    },
+    "contact": {
+        "phone": "545-235-7679x863",
+        "servicePhone": "800387653"
+    },
+    "birthday": "1986-13-11",
+    "ip": "33.187.12.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder eat management. Drive man office.\nInformation truth actually short daughter management. History police life view yeah meeting.",
+        "bio": "Make either friend after identify future individual. Scientist final office hour technology.\nNot guess imagine crime.\nPaper book enjoy. See recently happy arrive both education head."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}

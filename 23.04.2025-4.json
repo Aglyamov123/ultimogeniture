@@ -1,0 +1,25 @@
+{
+    "name": "Paige Lambert",
+    "age": 69,
+    "address": {
+        "street": "Maria Park",
+        "city": "Morrisfurt",
+        "state": "Texas",
+        "zip": "69199"
+    },
+    "contact": {
+        "phone": "815.230.1093x66592",
+        "servicePhone": "800187624"
+    },
+    "birthday": "1956-19-10",
+    "ip": "65.128.23.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical sport here study American traditional. Consumer catch threat manage radio rate hard. Occur describe letter story staff.",
+        "bio": "Place chance soon treat either production big. Responsibility thus note research none instead. Wear hot understand brother."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}

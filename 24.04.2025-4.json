@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Eric York",
+    "age": 98,
+    "address": {
+        "street": "Karen Inlet",
+        "city": "North Colleenburgh",
+        "state": "South Carolina",
+        "zip": "01016"
+    },
+    "contact": {
+        "phone": "+1-824-843-3458x424",
+        "servicePhone": "800898171"
+    },
+    "birthday": "1927-10-11",
+    "ip": "110.71.107.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Pattern focus baby writer red ok.\nEnergy might phone perhaps statement collection teacher.",
+        "bio": "Last age develop be. Down individual two long point mind.\nMoment plant consumer discuss."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Jennings",
+    "age": 50,
+    "address": {
+        "street": "King Common",
+        "city": "West Jamieburgh",
+        "state": "New York",
+        "zip": "09319"
+    },
+    "contact": {
+        "phone": "331.790.3753x621",
+        "servicePhone": "800988839"
+    },
+    "birthday": "1975-01-04",
+    "ip": "120.235.43.135",
+    "foo": "bar",
+    "profile": {
+        "about": "House treatment executive human agent off first employee. Television serious modern attorney market purpose common.\nArm wind she natural. Table minute hold.",
+        "bio": "Factor statement message above pull. Quickly work way building none staff.\nAgent play car simple record. Hear laugh too writer spend seven yet. Protect lay rate simply action what individual."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Roth",
+    "age": 8,
+    "address": {
+        "street": "Eddie Mills",
+        "city": "Chapmanstad",
+        "state": "Oregon",
+        "zip": "37203"
+    },
+    "contact": {
+        "phone": "295.728.9584x146",
+        "servicePhone": "800256315"
+    },
+    "birthday": "2017-29-06",
+    "ip": "113.88.3.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Attack issue product here how structure see. Anyone hand identify condition. Along whom talk third this thousand.",
+        "bio": "Road meeting region protect. Green natural artist close force prove record offer.\nFish along he hope. Truth research partner so owner hot.\nCentury relationship dream edge baby contain."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

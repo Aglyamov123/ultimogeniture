@@ -1,0 +1,25 @@
+{
+    "name": "Alice Harris",
+    "age": 22,
+    "address": {
+        "street": "Kimberly Plains",
+        "city": "Port Christopher",
+        "state": "Virginia",
+        "zip": "23300"
+    },
+    "contact": {
+        "phone": "882.474.9465x87599",
+        "servicePhone": "800982556"
+    },
+    "birthday": "2003-02-07",
+    "ip": "116.77.198.150",
+    "foo": "bar",
+    "profile": {
+        "about": "By size trouble also night. Choice agree number. Network certainly discover area.\nVarious while large key attention soon company. Establish reason might situation account over six sing.",
+        "bio": "Night foreign cut. Need foot ability now. Require issue enjoy create away possible meet. We as decade.\nArea drug president perform under bill focus. Show official commercial develop election quality."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}

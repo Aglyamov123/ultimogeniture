@@ -1,0 +1,25 @@
+{
+    "name": "Julie Barnes",
+    "age": 83,
+    "address": {
+        "street": "John Road",
+        "city": "South Brendaview",
+        "state": "Connecticut",
+        "zip": "58925"
+    },
+    "contact": {
+        "phone": "4372677811",
+        "servicePhone": "800819080"
+    },
+    "birthday": "1942-05-03",
+    "ip": "211.140.73.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring matter admit professional. Several ball director left every become usually. Win realize building matter themselves agreement enough.",
+        "bio": "Pattern painting tax let. Teacher fight up its hold take so.\nTurn then business phone machine why page. Sort white environment."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}

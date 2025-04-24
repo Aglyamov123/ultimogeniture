@@ -1,0 +1,25 @@
+{
+    "name": "Emily Swanson",
+    "age": 112,
+    "address": {
+        "street": "Mark Pines",
+        "city": "Kylemouth",
+        "state": "Tennessee",
+        "zip": "06103"
+    },
+    "contact": {
+        "phone": "300-309-2238x5879",
+        "servicePhone": "800447131"
+    },
+    "birthday": "1913-29-04",
+    "ip": "131.245.184.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire professional until born consumer. Later treat ahead scientist fish. Tell be subject message across century myself.",
+        "bio": "Likely staff other local kid memory. Mean information all attorney fine imagine beyond production."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

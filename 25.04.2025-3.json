@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Roberts",
+    "age": 27,
+    "address": {
+        "street": "Shawn Hills",
+        "city": "East Ronald",
+        "state": "Texas",
+        "zip": "38909"
+    },
+    "contact": {
+        "phone": "(593)944-5857x836",
+        "servicePhone": "800034542"
+    },
+    "birthday": "1998-11-04",
+    "ip": "131.209.76.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Carry yard cold push never hot think. Important else newspaper generation past good make.\nTonight newspaper threat forward law us. Also involve produce its group.",
+        "bio": "Result high employee offer. Interview country thousand few. Mrs worker land direction rest. Someone road something still form edge century."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

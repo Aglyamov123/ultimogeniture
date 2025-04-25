@@ -1,0 +1,25 @@
+{
+    "name": "Garrett Contreras",
+    "age": 101,
+    "address": {
+        "street": "Taylor Mews",
+        "city": "Luketon",
+        "state": "Virginia",
+        "zip": "85549"
+    },
+    "contact": {
+        "phone": "766-464-3083",
+        "servicePhone": "800722876"
+    },
+    "birthday": "1924-15-01",
+    "ip": "206.66.194.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture green lay ten. Recognize technology stand guy part.\nMagazine personal training. Enter draw recent care. Teacher test probably box trouble about sell.",
+        "bio": "Else could marriage say maintain because. Street lot reduce maintain foot."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

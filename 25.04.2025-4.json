@@ -1,0 +1,25 @@
+{
+    "name": "Dr. John Garcia",
+    "age": 62,
+    "address": {
+        "street": "David Garden",
+        "city": "Jacksonstad",
+        "state": "Oregon",
+        "zip": "54475"
+    },
+    "contact": {
+        "phone": "001-968-578-5655x6915",
+        "servicePhone": "800555980"
+    },
+    "birthday": "1963-25-04",
+    "ip": "206.133.103.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Class value race positive music chair. Painting size say receive last serve sister owner. Little must win government goal. Tax account system whether would beautiful worry.",
+        "bio": "Evidence seven better second individual least ask. Yourself relationship beat administration management set only level. Such woman source ball environmental little say tonight."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Michael Thomas",
+    "age": 70,
+    "address": {
+        "street": "Ruiz Valleys",
+        "city": "New Cassandra",
+        "state": "New Jersey",
+        "zip": "93763"
+    },
+    "contact": {
+        "phone": "001-507-940-4485x2577",
+        "servicePhone": "800503453"
+    },
+    "birthday": "1955-30-08",
+    "ip": "189.39.25.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Four go court letter ready. Spring simple difference decade.\nMove child realize evening. Write agent without never free finally yes. Address few job catch sit.",
+        "bio": "Since least short between generation serious. Mean church analysis growth unit.\nLeast decade nature board low someone. Hot community air customer century under open."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

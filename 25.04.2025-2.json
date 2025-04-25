@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Stanley",
+    "age": 44,
+    "address": {
+        "street": "Aaron Junctions",
+        "city": "Marissaberg",
+        "state": "Pennsylvania",
+        "zip": "91282"
+    },
+    "contact": {
+        "phone": "874-446-6414x02896",
+        "servicePhone": "800972537"
+    },
+    "birthday": "1981-21-08",
+    "ip": "216.163.57.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Energy organization difference buy.\nAuthority clearly order between baby grow bring. Cover middle truth form conference.\nClear attack wait.",
+        "bio": "After establish return ask institution key hand manager. Generation probably continue personal. Culture stock reflect about material suddenly yes determine."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Brian Campbell",
+    "age": 65,
+    "address": {
+        "street": "Nathan Ferry",
+        "city": "Kyleton",
+        "state": "Iowa",
+        "zip": "73390"
+    },
+    "contact": {
+        "phone": "(362)484-9036x498",
+        "servicePhone": "800199489"
+    },
+    "birthday": "1960-25-03",
+    "ip": "208.63.127.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Board picture involve impact. Speech hot debate on possible address.\nVoice would some show. Industry decide animal paper nature better room. Green travel staff term part staff.",
+        "bio": "Put view least tend there. Threat because hit today hour. Such hot unit role toward economy all specific.\nBag church above rather event good player yet. Ask hospital station call foreign."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

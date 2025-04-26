@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Taylor",
+    "age": 86,
+    "address": {
+        "street": "Jared Branch",
+        "city": "West Dave",
+        "state": "North Carolina",
+        "zip": "46851"
+    },
+    "contact": {
+        "phone": "(318)800-0476x5498",
+        "servicePhone": "800780676"
+    },
+    "birthday": "1939-31-05",
+    "ip": "181.227.58.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Per girl bring entire yet. Of much upon camera reality. Main body nature way.\nMost candidate heart myself former. Fill course contain act Democrat range month.",
+        "bio": "Indeed hand get feel. Score floor individual difficult subject heavy. Vote station bring growth."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Hansen",
+    "age": 76,
+    "address": {
+        "street": "Patrick Key",
+        "city": "Port Troyport",
+        "state": "Iowa",
+        "zip": "57077"
+    },
+    "contact": {
+        "phone": "001-560-798-3833x375",
+        "servicePhone": "800471947"
+    },
+    "birthday": "1949-19-08",
+    "ip": "81.115.196.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Hotel same degree thousand enough. Change remember family sell simply education.\nSmile treat vote opportunity federal clear store. Tough eight life music.",
+        "bio": "Career floor shake view alone laugh gun stand. Animal court easy would increase whether.\nWeek cup nearly case herself. They hotel protect option field."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}

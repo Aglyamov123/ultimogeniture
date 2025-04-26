@@ -1,0 +1,25 @@
+{
+    "name": "Louis Gray",
+    "age": 12,
+    "address": {
+        "street": "Kevin Freeway",
+        "city": "West Shanemouth",
+        "state": "Kansas",
+        "zip": "11386"
+    },
+    "contact": {
+        "phone": "(468)229-1809",
+        "servicePhone": "800993703"
+    },
+    "birthday": "2013-28-12",
+    "ip": "155.108.179.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Off choose vote address. Ability increase it argue woman. Admit military technology effort power.\nMeeting education quickly decision focus professor else. Live hotel quality certain affect.",
+        "bio": "Night possible western ever. Form wonder left most its evidence talk charge. Ever garden phone step parent give."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

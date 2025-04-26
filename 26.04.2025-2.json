@@ -1,0 +1,25 @@
+{
+    "name": "Eric Kirk",
+    "age": 110,
+    "address": {
+        "street": "Torres Greens",
+        "city": "Valeriemouth",
+        "state": "Indiana",
+        "zip": "23434"
+    },
+    "contact": {
+        "phone": "001-908-481-1885x2814",
+        "servicePhone": "800802902"
+    },
+    "birthday": "1915-09-06",
+    "ip": "154.214.41.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Research fund arrive international difficult. West most cup.\nBrother deep month view. Financial wide scientist speech. Fund share defense respond.",
+        "bio": "Relationship well also.\nListen evidence very night exactly. Minute try moment west choose. Speech represent community machine give.\nClaim field important. Wish seem friend mother."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

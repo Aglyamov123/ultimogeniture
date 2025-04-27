@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Oliver",
+    "age": 12,
+    "address": {
+        "street": "John Island",
+        "city": "Reedbury",
+        "state": "California",
+        "zip": "26300"
+    },
+    "contact": {
+        "phone": "466.430.1070x1211",
+        "servicePhone": "800847522"
+    },
+    "birthday": "2013-09-01",
+    "ip": "118.33.135.79",
+    "foo": "bar",
+    "profile": {
+        "about": "She through at lose nation information. Thousand item loss though you rock usually. Church what quality color interest authority left.",
+        "bio": "Four weight issue. Above shoulder audience else avoid news. Who born center know cell investment."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Graham",
+    "age": 79,
+    "address": {
+        "street": "Graham Mission",
+        "city": "South Michealmouth",
+        "state": "Oklahoma",
+        "zip": "12416"
+    },
+    "contact": {
+        "phone": "+1-641-248-7787x716",
+        "servicePhone": "800657758"
+    },
+    "birthday": "1946-27-10",
+    "ip": "180.235.21.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Almost color hot indicate first television recently. Fight know action recent sport. Have no which leave letter.",
+        "bio": "Interesting evidence learn population option Democrat.\nEffect knowledge gas successful mother sell message.\nChoose use degree little. Open training water. That on current my."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kara Mcclure",
+    "age": 36,
+    "address": {
+        "street": "Julie Highway",
+        "city": "Jonport",
+        "state": "Colorado",
+        "zip": "41031"
+    },
+    "contact": {
+        "phone": "618-788-6619",
+        "servicePhone": "800270473"
+    },
+    "birthday": "1989-20-06",
+    "ip": "138.234.253.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Media under majority pretty television magazine. Effort live training interesting career fill.",
+        "bio": "Less not you music so national event. Pressure do own new. Person record garden morning."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}

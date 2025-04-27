@@ -1,0 +1,25 @@
+{
+    "name": "John Clark",
+    "age": 37,
+    "address": {
+        "street": "Cortez Fall",
+        "city": "West Roberttown",
+        "state": "California",
+        "zip": "61813"
+    },
+    "contact": {
+        "phone": "001-838-867-4392x55930",
+        "servicePhone": "800053602"
+    },
+    "birthday": "1988-05-01",
+    "ip": "120.187.122.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Product wish own type. Weight out show pay. Interesting western bar owner girl.",
+        "bio": "Knowledge man same real under action whole. Expert life point civil rock team citizen. Notice station could leader bag field art."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Patrick",
+    "age": 61,
+    "address": {
+        "street": "Cochran Estate",
+        "city": "West Garymouth",
+        "state": "West Virginia",
+        "zip": "46761"
+    },
+    "contact": {
+        "phone": "830.674.3991x7391",
+        "servicePhone": "800886052"
+    },
+    "birthday": "1964-01-08",
+    "ip": "9.96.10.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Recognize simple here. Strong should produce right.\nProfessional represent business baby. My seem thought fast know often. Sell age development shake wonder.",
+        "bio": "Level know page some. Back cultural fund project wife religious future."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}

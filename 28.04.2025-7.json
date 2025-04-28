@@ -1,0 +1,25 @@
+{
+    "name": "Randall Salazar",
+    "age": 43,
+    "address": {
+        "street": "Mitchell Views",
+        "city": "South Lisafurt",
+        "state": "Arkansas",
+        "zip": "80811"
+    },
+    "contact": {
+        "phone": "(962)981-4763x49598",
+        "servicePhone": "800205286"
+    },
+    "birthday": "1982-16-05",
+    "ip": "36.58.53.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Just receive eight put debate Congress argue. Mother hot discover TV.",
+        "bio": "Throw work right indeed throw. Guy collection white late. Ask prevent structure environment pick make mention marriage."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}

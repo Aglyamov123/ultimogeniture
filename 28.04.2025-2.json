@@ -1,0 +1,25 @@
+{
+    "name": "Seth Miller",
+    "age": 39,
+    "address": {
+        "street": "Smith Stream",
+        "city": "Michelleborough",
+        "state": "Colorado",
+        "zip": "38400"
+    },
+    "contact": {
+        "phone": "263.461.8339",
+        "servicePhone": "800252573"
+    },
+    "birthday": "1986-24-08",
+    "ip": "141.252.223.54",
+    "foo": "bar",
+    "profile": {
+        "about": "South hundred marriage than. Crime better resource spend law necessary blood large. Forward employee start must ago say mind.",
+        "bio": "Think however find report under. Art baby executive whose service. Between model wide fast since drop responsibility."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

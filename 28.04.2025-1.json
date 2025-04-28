@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Knox",
+    "age": 109,
+    "address": {
+        "street": "Teresa Divide",
+        "city": "Lake Erica",
+        "state": "Massachusetts",
+        "zip": "58682"
+    },
+    "contact": {
+        "phone": "(235)762-2902",
+        "servicePhone": "800686161"
+    },
+    "birthday": "1916-10-03",
+    "ip": "35.199.117.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Major week table until dinner within believe. The century away anything lead. Politics coach go among unit son material news.\nDefense indeed get help. President people follow image.",
+        "bio": "It mission these green tend office candidate. Institution tree own many. Issue movie why person.\nDrive blue statement skill. Support learn season grow wrong can."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}

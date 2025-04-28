@@ -1,0 +1,25 @@
+{
+    "name": "Savannah Holt",
+    "age": 103,
+    "address": {
+        "street": "Andrea Manors",
+        "city": "East Glenn",
+        "state": "New York",
+        "zip": "17968"
+    },
+    "contact": {
+        "phone": "001-746-291-7241x8963",
+        "servicePhone": "800472802"
+    },
+    "birthday": "1922-10-01",
+    "ip": "101.118.237.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Quality expect test while man another.\nCertain hear short night. Actually themselves level realize. Million key region reason away source year.",
+        "bio": "Toward property southern line now nothing move whether. Teach case show finish. Art get fight already be. Least once source money.\nSometimes gas already realize throughout."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}

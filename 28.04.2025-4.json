@@ -1,0 +1,25 @@
+{
+    "name": "Larry Huerta",
+    "age": 34,
+    "address": {
+        "street": "Mark Courts",
+        "city": "North Anthony",
+        "state": "Minnesota",
+        "zip": "82170"
+    },
+    "contact": {
+        "phone": "+1-218-881-1304x859",
+        "servicePhone": "800608515"
+    },
+    "birthday": "1991-05-08",
+    "ip": "161.248.182.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Short defense cover sit local lose tough. Make best break claim act.\nPeople street be beat study remember. Government language organization central each drive. Billion piece eye fast spring.",
+        "bio": "Cultural matter property question manager cultural table. Single manager time by."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}

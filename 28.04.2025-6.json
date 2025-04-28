@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Bell",
+    "age": 92,
+    "address": {
+        "street": "Harvey Plains",
+        "city": "Sanchezmouth",
+        "state": "North Carolina",
+        "zip": "03057"
+    },
+    "contact": {
+        "phone": "968-904-9066x679",
+        "servicePhone": "800039010"
+    },
+    "birthday": "1933-09-07",
+    "ip": "12.10.27.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Student want what religious. Blue well senior edge their behind question. Arm value tax stuff.\nPopular sign each common ball mean town. Easy role his almost magazine remember.",
+        "bio": "Third hot its spend pass behind. Image cover build between. Strategy set suffer artist serious performance ask.\nTechnology force many positive I quickly. Article will from."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

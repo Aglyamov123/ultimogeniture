@@ -1,0 +1,25 @@
+{
+    "name": "Erik Smith",
+    "age": 81,
+    "address": {
+        "street": "Douglas Plains",
+        "city": "New Caleb",
+        "state": "Tennessee",
+        "zip": "76681"
+    },
+    "contact": {
+        "phone": "(401)861-2660x59708",
+        "servicePhone": "800602075"
+    },
+    "birthday": "1944-21-03",
+    "ip": "87.207.171.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Identify last best just raise foot safe. Almost hundred kind glass will article accept. Every already although fund phone need say our.\nExpect five spend down. Interest into popular money may.",
+        "bio": "Everything wall contain hotel picture."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

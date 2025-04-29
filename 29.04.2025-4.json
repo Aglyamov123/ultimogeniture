@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Carney",
+    "age": 106,
+    "address": {
+        "street": "Gregory Field",
+        "city": "Erikaport",
+        "state": "North Dakota",
+        "zip": "65773"
+    },
+    "contact": {
+        "phone": "892.790.8821",
+        "servicePhone": "800894847"
+    },
+    "birthday": "1919-14-01",
+    "ip": "45.27.151.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Suddenly majority cover new. Relate sell try these ball choice myself. Anything recognize reach future significant. Television newspaper drive guy market professor.",
+        "bio": "Six night not fire. Raise Mrs herself modern size remember catch. Several finally trial friend author candidate.\nMilitary interesting discuss right."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

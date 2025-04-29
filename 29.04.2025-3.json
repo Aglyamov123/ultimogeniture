@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Lee",
+    "age": 34,
+    "address": {
+        "street": "Gardner Extension",
+        "city": "New Stephanieville",
+        "state": "West Virginia",
+        "zip": "35284"
+    },
+    "contact": {
+        "phone": "470.985.6020",
+        "servicePhone": "800558746"
+    },
+    "birthday": "1991-10-06",
+    "ip": "190.115.235.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Along dinner fast character rise. Computer despite maintain student rest share. Heavy letter add loss affect fast real make. Building popular teach kitchen new animal.",
+        "bio": "Choice always paper firm.\nAlthough stay painting evidence past food. Drive building concern vote. Else create much she source big lead."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}

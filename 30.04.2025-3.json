@@ -1,0 +1,25 @@
+{
+    "name": "Jason Flores",
+    "age": 60,
+    "address": {
+        "street": "Angie River",
+        "city": "West Christopher",
+        "state": "Minnesota",
+        "zip": "86842"
+    },
+    "contact": {
+        "phone": "+1-933-721-2279x472",
+        "servicePhone": "800955296"
+    },
+    "birthday": "1965-16-03",
+    "ip": "7.220.214.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Firm create former few itself year. Ahead occur meet practice capital before send.\nInside hospital visit see might although. War back air never daughter. Include act yourself national.",
+        "bio": "Try half not star eat not where. Significant treatment forward rise call sister around. Rule because century offer two take shoulder."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

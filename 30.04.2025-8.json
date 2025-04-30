@@ -1,0 +1,25 @@
+{
+    "name": "Adam Taylor",
+    "age": 76,
+    "address": {
+        "street": "Harrison Well",
+        "city": "Sellersburgh",
+        "state": "Arizona",
+        "zip": "86509"
+    },
+    "contact": {
+        "phone": "429-630-0744x640",
+        "servicePhone": "800729725"
+    },
+    "birthday": "1949-06-10",
+    "ip": "166.93.38.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Son just raise. Glass Congress party bar matter cold nearly. Exactly film cost fund food loss day.\nInformation economy project section now body. Again theory like century.",
+        "bio": "Water even instead particular science whose decide.\nStand short leg although student knowledge story. Arrive traditional unit population here second lot. Summer president whatever throughout."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}

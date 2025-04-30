@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Garcia",
+    "age": 66,
+    "address": {
+        "street": "Elizabeth Light",
+        "city": "South Rebecca",
+        "state": "Wisconsin",
+        "zip": "37750"
+    },
+    "contact": {
+        "phone": "(231)277-2275",
+        "servicePhone": "800829207"
+    },
+    "birthday": "1959-16-11",
+    "ip": "205.227.42.109",
+    "foo": "bar",
+    "profile": {
+        "about": "House member wrong throughout stock ten. Hotel economic sign save thousand. Anything team herself card new home.\nMiss know able any their so man. Three might baby article stock college.",
+        "bio": "Only sell miss away imagine rise. Collection firm player ok discussion party. Open American able."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

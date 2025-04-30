@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Olson",
+    "age": 30,
+    "address": {
+        "street": "Christopher Drives",
+        "city": "East Karenfurt",
+        "state": "Alabama",
+        "zip": "86528"
+    },
+    "contact": {
+        "phone": "216.972.4426x49712",
+        "servicePhone": "800062497"
+    },
+    "birthday": "1995-11-04",
+    "ip": "74.60.27.188",
+    "foo": "bar",
+    "profile": {
+        "about": "True say cold hit main. Physical owner travel point open. List person enjoy training my.\nAlways gun might among.\nPlayer lot leave. Real data daughter phone view choice official.",
+        "bio": "Wrong sense senior upon me society. Career mouth one brother win production garden."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}

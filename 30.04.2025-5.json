@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Griffin",
+    "age": 111,
+    "address": {
+        "street": "Thomas Creek",
+        "city": "Lake Seanbury",
+        "state": "Washington",
+        "zip": "12252"
+    },
+    "contact": {
+        "phone": "+1-729-723-0650x028",
+        "servicePhone": "800505479"
+    },
+    "birthday": "1914-19-08",
+    "ip": "157.15.215.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Same learn discuss them. Land culture audience.\nModern notice study put forget. Matter almost little every figure.\nGround say model guess. Standard final college yourself.",
+        "bio": "Wear first around however. Idea bit suddenly audience manager whether despite.\nWest authority receive. Respond form exactly race born minute audience."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}

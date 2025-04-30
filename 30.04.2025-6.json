@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Hall",
+    "age": 50,
+    "address": {
+        "street": "Jackson Road",
+        "city": "Lake Jared",
+        "state": "Missouri",
+        "zip": "99541"
+    },
+    "contact": {
+        "phone": "5376974641",
+        "servicePhone": "800386298"
+    },
+    "birthday": "1975-30-03",
+    "ip": "56.146.236.59",
+    "foo": "bar",
+    "profile": {
+        "about": "West step contain. Half break card consider tell create specific human.",
+        "bio": "Rise trial ahead economic eye.\nBook Mrs again long last stock eight. Agree film interest grow assume. Though great option great maintain job arm."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

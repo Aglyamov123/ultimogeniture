@@ -1,0 +1,25 @@
+{
+    "name": "James Moore",
+    "age": 27,
+    "address": {
+        "street": "Norman Locks",
+        "city": "North Kimberly",
+        "state": "Oklahoma",
+        "zip": "72803"
+    },
+    "contact": {
+        "phone": "001-614-471-9081",
+        "servicePhone": "800376568"
+    },
+    "birthday": "1998-25-10",
+    "ip": "103.194.132.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Card value site particularly. Born of picture yes learn.\nReligious difference sea carry. Development amount last these truth chair four these.",
+        "bio": "Cover painting this sister win. Behavior color seem cultural still. Radio move its pay worker onto instead. Later eye concern might nearly."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}

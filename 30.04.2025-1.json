@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Joseph",
+    "age": 107,
+    "address": {
+        "street": "Thomas Field",
+        "city": "Ingramtown",
+        "state": "Kentucky",
+        "zip": "19205"
+    },
+    "contact": {
+        "phone": "363-668-0007x238",
+        "servicePhone": "800608109"
+    },
+    "birthday": "1918-06-07",
+    "ip": "63.59.142.211",
+    "foo": "bar",
+    "profile": {
+        "about": "There appear could keep up thing. Draw point nice successful save camera.",
+        "bio": "Somebody total give surface produce service admit. Our score second list someone television against.\nBit exist necessary. Billion free local be. Day record several participant break."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}

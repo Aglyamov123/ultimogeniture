@@ -1,0 +1,25 @@
+{
+    "name": "Monica Medina",
+    "age": 6,
+    "address": {
+        "street": "Franklin Crescent",
+        "city": "Sheenafurt",
+        "state": "Delaware",
+        "zip": "76357"
+    },
+    "contact": {
+        "phone": "(771)822-2310x0037",
+        "servicePhone": "800051025"
+    },
+    "birthday": "2019-16-01",
+    "ip": "40.21.160.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Strong interest allow music purpose language option. About son staff view debate wind study.\nAccount man say how feel smile main son.",
+        "bio": "Her meeting serious follow then. Among give low study cost office.\nAny quite drop performance sister travel black. Avoid book sport discuss. Head receive way daughter continue fight."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}

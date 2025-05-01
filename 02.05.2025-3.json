@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Harris",
+    "age": 5,
+    "address": {
+        "street": "Peterson Lights",
+        "city": "Victoriastad",
+        "state": "Tennessee",
+        "zip": "24844"
+    },
+    "contact": {
+        "phone": "442.701.7811",
+        "servicePhone": "800664864"
+    },
+    "birthday": "2020-17-10",
+    "ip": "50.107.35.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Put energy method wide. Student value tell health. Everybody among sometimes artist our music despite cost.",
+        "bio": "Situation choice economic take late professional later. Necessary floor second participant break.\nLeast toward goal who. Carry short exactly four ready.\nCard pass far including effect."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

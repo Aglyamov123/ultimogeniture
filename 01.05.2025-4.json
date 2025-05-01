@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Ward",
+    "age": 30,
+    "address": {
+        "street": "Watson Well",
+        "city": "Bakerstad",
+        "state": "Alaska",
+        "zip": "29339"
+    },
+    "contact": {
+        "phone": "001-311-375-7755x52663",
+        "servicePhone": "800881786"
+    },
+    "birthday": "1995-15-07",
+    "ip": "180.166.198.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference add how society range firm religious. Join none as relate party. Land put attack drug gun rest.",
+        "bio": "Computer body left lot break industry. Top fine nature yard. Officer pressure practice involve during maybe medical."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}

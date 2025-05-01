@@ -1,0 +1,25 @@
+{
+    "name": "Tonya Gonzales",
+    "age": 85,
+    "address": {
+        "street": "Anderson Land",
+        "city": "New Hannah",
+        "state": "Nevada",
+        "zip": "95036"
+    },
+    "contact": {
+        "phone": "885.871.8751x904",
+        "servicePhone": "800029491"
+    },
+    "birthday": "1940-24-04",
+    "ip": "34.53.156.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Who specific instead once leg. Side oil cup evening. Their dinner very store.",
+        "bio": "Action ten region court performance tough. Environmental job employee scene travel onto various.\nThing owner respond actually though situation after. Standard only staff interesting bit travel."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}

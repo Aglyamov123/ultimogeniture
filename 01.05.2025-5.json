@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Stevens",
+    "age": 89,
+    "address": {
+        "street": "Perkins Creek",
+        "city": "Maryshire",
+        "state": "Kansas",
+        "zip": "50158"
+    },
+    "contact": {
+        "phone": "001-945-357-6877x6449",
+        "servicePhone": "800004671"
+    },
+    "birthday": "1936-13-11",
+    "ip": "114.14.81.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Though up how pattern. Smile traditional list threat stand. Pull enough treat.",
+        "bio": "Series interesting show ahead. Similar successful vote save several. Successful hope cold deep window service."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}

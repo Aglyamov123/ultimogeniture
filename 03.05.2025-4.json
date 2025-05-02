@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Liu",
+    "age": 24,
+    "address": {
+        "street": "Parsons Mall",
+        "city": "Lake Shannon",
+        "state": "North Dakota",
+        "zip": "38829"
+    },
+    "contact": {
+        "phone": "693.423.9062",
+        "servicePhone": "800551651"
+    },
+    "birthday": "2001-15-09",
+    "ip": "176.63.138.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Table television usually explain. Training feel interesting those build common.\nHigh to improve market recent behind commercial.",
+        "bio": "Scene alone serious. Dream with young.\nGeneral point seem term edge. Leg until pressure top. Position office should tend wish already foreign travel."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}

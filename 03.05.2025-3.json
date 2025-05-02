@@ -1,0 +1,25 @@
+{
+    "name": "Amber Robinson",
+    "age": 70,
+    "address": {
+        "street": "Angela Trafficway",
+        "city": "West Colleen",
+        "state": "Delaware",
+        "zip": "45111"
+    },
+    "contact": {
+        "phone": "+1-379-704-5826x0139",
+        "servicePhone": "800522791"
+    },
+    "birthday": "1955-25-03",
+    "ip": "19.145.137.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Early someone good positive citizen. Daughter reason food. Development shake popular concern bar. Democratic look their everybody.\nEverything anyone factor though. Court can air month.",
+        "bio": "Budget according region three. Notice black make per box speech.\nAffect according note hotel operation night hold media. Pick necessary difficult. Group knowledge environment glass me."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}

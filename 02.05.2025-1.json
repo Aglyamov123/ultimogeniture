@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Huff",
+    "age": 68,
+    "address": {
+        "street": "Samuel Prairie",
+        "city": "Briggsside",
+        "state": "Nevada",
+        "zip": "57681"
+    },
+    "contact": {
+        "phone": "001-711-611-4149x1315",
+        "servicePhone": "800654465"
+    },
+    "birthday": "1957-30-04",
+    "ip": "47.56.70.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Well tonight analysis side if test investment. Hospital station that work stay. State hot represent nothing TV pattern officer.",
+        "bio": "Evidence could follow guy campaign charge. Change pull environment professional indeed step win action.\nWhatever affect learn week lot dinner company. Indeed east money decade else."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}

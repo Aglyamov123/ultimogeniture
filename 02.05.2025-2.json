@@ -1,0 +1,25 @@
+{
+    "name": "Blake Miller",
+    "age": 94,
+    "address": {
+        "street": "Calhoun Lock",
+        "city": "Millerberg",
+        "state": "Arizona",
+        "zip": "16124"
+    },
+    "contact": {
+        "phone": "+1-480-726-7474",
+        "servicePhone": "800639887"
+    },
+    "birthday": "1931-02-08",
+    "ip": "218.153.222.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Seem these if money better month try lawyer. Suffer cut air.\nMinute statement not government form task fish attention. Plan over have performance.",
+        "bio": "Mother research respond until. Entire over cover break analysis charge.\nInterest develop either guy Mrs again. Southern sport art hold. Under occur key how weight."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}

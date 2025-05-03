@@ -1,0 +1,25 @@
+{
+    "name": "Derrick Carrillo",
+    "age": 84,
+    "address": {
+        "street": "Waller Ports",
+        "city": "North Karen",
+        "state": "Oklahoma",
+        "zip": "36003"
+    },
+    "contact": {
+        "phone": "(504)581-5808x67881",
+        "servicePhone": "800509548"
+    },
+    "birthday": "1941-15-03",
+    "ip": "91.198.127.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Wait not attention executive four teacher country letter. Run book long will relationship. Begin top participant red.",
+        "bio": "Though future apply degree watch I play. Newspaper voice she.\nAction point production. Cell this serve other. Movement her change stay spend may knowledge."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tyrone Deleon",
+    "age": 58,
+    "address": {
+        "street": "April Extensions",
+        "city": "Port Joshua",
+        "state": "Indiana",
+        "zip": "58731"
+    },
+    "contact": {
+        "phone": "(419)354-3169",
+        "servicePhone": "800195322"
+    },
+    "birthday": "1967-24-06",
+    "ip": "41.194.144.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair nearly everything artist. Help performance book rather up something amount record.",
+        "bio": "Report exactly you movement environmental. Fill seat four theory. Detail school agreement war open area.\nNever speak exist itself describe. Clearly clearly never."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

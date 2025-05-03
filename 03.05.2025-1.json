@@ -1,0 +1,25 @@
+{
+    "name": "John Carroll",
+    "age": 23,
+    "address": {
+        "street": "Howell Mountains",
+        "city": "Wilsonfort",
+        "state": "South Carolina",
+        "zip": "07641"
+    },
+    "contact": {
+        "phone": "001-433-346-1762x8934",
+        "servicePhone": "800261810"
+    },
+    "birthday": "2002-27-04",
+    "ip": "194.195.146.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer above information else avoid. Conference language realize first choose would operation career. Me under why something.\nFactor summer can memory. Kid bad find doctor.",
+        "bio": "Late east fire inside claim. Job teacher task work time crime leave nature. Heavy expert ahead machine management else."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}

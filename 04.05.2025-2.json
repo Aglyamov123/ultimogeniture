@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Kennedy",
+    "age": 101,
+    "address": {
+        "street": "Trevino Islands",
+        "city": "Reidstad",
+        "state": "Arkansas",
+        "zip": "38921"
+    },
+    "contact": {
+        "phone": "001-596-904-6256x8879",
+        "servicePhone": "800256520"
+    },
+    "birthday": "1924-10-10",
+    "ip": "141.84.118.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior stay speak soldier.\nFine organization tax speak up future thank study. Detail by past listen least again lay. Stock town me politics store always rich.",
+        "bio": "Gun turn nothing trial buy world. Rich total I.\nCard myself paper provide success question later life. Gas season exist have series. Significant performance far discover pick."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}

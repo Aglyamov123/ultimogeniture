@@ -1,0 +1,25 @@
+{
+    "name": "Julian Hughes",
+    "age": 32,
+    "address": {
+        "street": "Davis Road",
+        "city": "East Christineport",
+        "state": "Texas",
+        "zip": "87969"
+    },
+    "contact": {
+        "phone": "(369)897-3163x97822",
+        "servicePhone": "800596147"
+    },
+    "birthday": "1993-03-01",
+    "ip": "5.39.203.140",
+    "foo": "bar",
+    "profile": {
+        "about": "The education land. Move thing reason opportunity address. No speak level must.\nSomebody manage that information certainly.",
+        "bio": "Attention deep hope fly development control. Option board room feel visit.\nSummer organization visit serious real employee safe. Walk either key add thank."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

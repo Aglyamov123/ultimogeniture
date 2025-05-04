@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Morgan",
+    "age": 40,
+    "address": {
+        "street": "Stephanie Coves",
+        "city": "South Tamara",
+        "state": "Wisconsin",
+        "zip": "45207"
+    },
+    "contact": {
+        "phone": "463.863.5163x15755",
+        "servicePhone": "800563918"
+    },
+    "birthday": "1985-27-03",
+    "ip": "124.48.59.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Central region wear effort player statement myself image. Economic collection billion. Order table exist identify style. Reveal front matter easy.",
+        "bio": "Let sell positive radio expert song five.\nPicture remember ready usually member. Fund however piece next.\nAs trouble PM hold. Challenge traditional investment measure."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}

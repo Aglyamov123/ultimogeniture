@@ -1,0 +1,25 @@
+{
+    "name": "Carrie Myers",
+    "age": 109,
+    "address": {
+        "street": "Nina Crest",
+        "city": "Arnoldview",
+        "state": "Idaho",
+        "zip": "48300"
+    },
+    "contact": {
+        "phone": "(878)424-8000x4093",
+        "servicePhone": "800920630"
+    },
+    "birthday": "1916-07-11",
+    "ip": "108.47.116.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Car add help serve floor. Direction several she work evidence. Study camera rather success baby.\nService worker worry may cause. Direction window decision. Man through start realize chair win during.",
+        "bio": "Mouth strategy toward song offer phone. Rise old nation continue. Crime cover upon matter letter final scene artist.\nEvery structure cultural stay everybody."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}

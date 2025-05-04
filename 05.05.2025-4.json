@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Anderson",
+    "age": 110,
+    "address": {
+        "street": "Sheila Gardens",
+        "city": "Leeview",
+        "state": "Vermont",
+        "zip": "47373"
+    },
+    "contact": {
+        "phone": "212.435.3034",
+        "servicePhone": "800176359"
+    },
+    "birthday": "1915-15-10",
+    "ip": "206.227.54.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure artist best worker baby. Interesting hair because realize.\nOil Congress black choose glass election. Condition note hour physical.\nPresent party today fear.",
+        "bio": "Difference current consider blood lay. See treatment team reduce. Test always significant own body parent."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}

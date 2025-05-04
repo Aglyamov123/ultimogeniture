@@ -1,0 +1,25 @@
+{
+    "name": "Harry Munoz",
+    "age": 48,
+    "address": {
+        "street": "Krause Landing",
+        "city": "Patriciaburgh",
+        "state": "Alabama",
+        "zip": "23740"
+    },
+    "contact": {
+        "phone": "377-703-5658",
+        "servicePhone": "800988548"
+    },
+    "birthday": "1977-27-07",
+    "ip": "186.241.206.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship center month deep our wall do score. Ok stuff age start my occur nothing. Garden tell window interest little several woman.",
+        "bio": "Group mission similar actually him treatment. Property key interest. Budget like goal still bill."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

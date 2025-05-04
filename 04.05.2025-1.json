@@ -1,0 +1,25 @@
+{
+    "name": "Karen King",
+    "age": 10,
+    "address": {
+        "street": "Michael Forks",
+        "city": "Port Donnabury",
+        "state": "Louisiana",
+        "zip": "38313"
+    },
+    "contact": {
+        "phone": "(938)748-1700x065",
+        "servicePhone": "800677311"
+    },
+    "birthday": "2015-07-12",
+    "ip": "114.22.47.131",
+    "foo": "bar",
+    "profile": {
+        "about": "There war table determine claim center argue. Significant pretty hour blood cause understand.",
+        "bio": "Population either on mention.\nSing save among hope place most color. Government memory do character class still.\nEat area bit leg rock hospital free teach. Drug these simply business."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}

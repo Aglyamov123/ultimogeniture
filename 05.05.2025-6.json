@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Moody",
+    "age": 44,
+    "address": {
+        "street": "Costa Lodge",
+        "city": "Hebertfurt",
+        "state": "Colorado",
+        "zip": "29761"
+    },
+    "contact": {
+        "phone": "338.289.5727",
+        "servicePhone": "800517117"
+    },
+    "birthday": "1981-26-02",
+    "ip": "79.55.245.214",
+    "foo": "bar",
+    "profile": {
+        "about": "With political college tough series amount. Congress too card where. Coach ask support increase.\nUntil window these now word skin. Kind spend quality pretty dinner letter several.",
+        "bio": "Activity nor want team mission talk message artist. Something join concern off life.\nAmong true we stage he fill. Run market sure condition tend."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}

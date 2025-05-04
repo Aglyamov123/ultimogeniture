@@ -1,0 +1,25 @@
+{
+    "name": "Mark Williams",
+    "age": 85,
+    "address": {
+        "street": "Carla Ports",
+        "city": "Stevensville",
+        "state": "Florida",
+        "zip": "11588"
+    },
+    "contact": {
+        "phone": "001-240-896-0206x35175",
+        "servicePhone": "800613494"
+    },
+    "birthday": "1940-26-08",
+    "ip": "181.63.236.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Lose unit something often kid. Among support light hear.\nCost central manage table forward recent system dream. Exactly idea hundred off bill cup. Rule member ask.",
+        "bio": "Event size attack. State purpose explain.\nNatural owner throw cup white sign whatever. Bit task whose near important black player."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}

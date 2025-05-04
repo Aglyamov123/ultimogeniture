@@ -1,0 +1,25 @@
+{
+    "name": "Brian Lucas",
+    "age": 104,
+    "address": {
+        "street": "Michael Manor",
+        "city": "Dianastad",
+        "state": "Oregon",
+        "zip": "42393"
+    },
+    "contact": {
+        "phone": "205.321.8512",
+        "servicePhone": "800199957"
+    },
+    "birthday": "1921-09-02",
+    "ip": "17.164.34.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Than different once city risk memory. Recognize toward send. Option window deal structure learn. Kind staff front culture time these manage.\nGrowth seven according old teach year information.",
+        "bio": "Run huge would produce walk politics understand. Or cup simply leave so. Tax campaign rise century include."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

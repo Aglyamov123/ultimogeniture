@@ -1,0 +1,25 @@
+{
+    "name": "Katrina Lawrence",
+    "age": 2,
+    "address": {
+        "street": "Thompson Track",
+        "city": "Cassandraburgh",
+        "state": "Wyoming",
+        "zip": "89156"
+    },
+    "contact": {
+        "phone": "(789)575-5245x430",
+        "servicePhone": "800126866"
+    },
+    "birthday": "2023-07-12",
+    "ip": "154.207.154.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice news decision cell power four camera. Among national stuff for rich. Institution college decide list different.",
+        "bio": "Behavior soon hair nearly.\nChallenge produce base piece team official.\nThat central education school store news. Meet wide want day employee."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

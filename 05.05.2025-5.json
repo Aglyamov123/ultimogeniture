@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Smith",
+    "age": 52,
+    "address": {
+        "street": "Lindsey Knolls",
+        "city": "Amandaburgh",
+        "state": "Louisiana",
+        "zip": "85573"
+    },
+    "contact": {
+        "phone": "001-249-806-2187",
+        "servicePhone": "800174623"
+    },
+    "birthday": "1973-01-02",
+    "ip": "62.187.17.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Occur born meeting third red brother. Hair daughter rule point agency pass. Outside policy opportunity political prepare.",
+        "bio": "Suddenly see miss consumer part human. For mean national may business good church put.\nMember high film ground environment rule."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

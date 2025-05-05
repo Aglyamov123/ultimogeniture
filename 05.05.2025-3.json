@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Rivers",
+    "age": 5,
+    "address": {
+        "street": "Jordan Way",
+        "city": "North Denniston",
+        "state": "New Hampshire",
+        "zip": "41434"
+    },
+    "contact": {
+        "phone": "232-214-8749x873",
+        "servicePhone": "800949622"
+    },
+    "birthday": "2020-03-10",
+    "ip": "111.118.51.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Create box blood I president writer. Difficult stop option for suddenly join coach certain.",
+        "bio": "Opportunity however middle shake.\nListen report popular parent series. Store hold along public maybe begin. Enjoy major local whether chair. Reality choose wait hair measure employee interest argue."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Edward Perry",
+    "age": 77,
+    "address": {
+        "street": "Chase Cove",
+        "city": "Katherinetown",
+        "state": "Delaware",
+        "zip": "60575"
+    },
+    "contact": {
+        "phone": "5356964627",
+        "servicePhone": "800193494"
+    },
+    "birthday": "1948-10-10",
+    "ip": "121.5.72.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth about stuff author speech pressure produce network. Participant game me people threat only coach could. Couple face rich or everybody impact body.",
+        "bio": "Yet game tough instead. Carry pay side house or. Market camera break artist property discuss hear.\nYes across ability want offer. Make game data hospital. Glass real peace over."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Williams",
+    "age": 9,
+    "address": {
+        "street": "Duane Field",
+        "city": "Kennethhaven",
+        "state": "Alabama",
+        "zip": "32506"
+    },
+    "contact": {
+        "phone": "8858271973",
+        "servicePhone": "800661977"
+    },
+    "birthday": "2016-02-05",
+    "ip": "38.240.96.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Book something make. Put real family behind analysis team glass.\nResponse physical also these note. Bed little money opportunity. Present real son Mr ever.\nSpring almost imagine job.",
+        "bio": "Result audience eye on daughter modern effort. Hand season daughter term source hear. Weight remain teacher whose summer off though serve."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

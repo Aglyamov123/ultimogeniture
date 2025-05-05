@@ -1,0 +1,25 @@
+{
+    "name": "Melinda Simpson",
+    "age": 19,
+    "address": {
+        "street": "Williams Greens",
+        "city": "Joshuahaven",
+        "state": "New Jersey",
+        "zip": "36463"
+    },
+    "contact": {
+        "phone": "926-542-6016x0404",
+        "servicePhone": "800592859"
+    },
+    "birthday": "2006-30-04",
+    "ip": "75.183.214.142",
+    "foo": "bar",
+    "profile": {
+        "about": "It performance east. Remember happen door away.\nIt understand become serious go provide. Full get woman miss minute board. Sense left attack cost difficult action during.",
+        "bio": "Direction system challenge sometimes generation. Through produce election use present."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}

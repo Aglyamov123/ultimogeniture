@@ -1,0 +1,25 @@
+{
+    "name": "Gabriel Patel",
+    "age": 100,
+    "address": {
+        "street": "Griffin Plain",
+        "city": "East Denise",
+        "state": "Georgia",
+        "zip": "18923"
+    },
+    "contact": {
+        "phone": "565-250-9490x899",
+        "servicePhone": "800066951"
+    },
+    "birthday": "1925-03-08",
+    "ip": "19.47.23.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Person fire occur stop with buy effect. Happen never fall statement soldier special.",
+        "bio": "Job strong oil guy brother myself. Spring official open certainly always five. Alone environmental especially science billion statement.\nAccount table detail.\nRoad agency see full effort TV agree."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

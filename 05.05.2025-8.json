@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Stokes",
+    "age": 99,
+    "address": {
+        "street": "Stewart Hill",
+        "city": "Markfort",
+        "state": "Colorado",
+        "zip": "00799"
+    },
+    "contact": {
+        "phone": "2156636668",
+        "servicePhone": "800891913"
+    },
+    "birthday": "1926-11-11",
+    "ip": "200.95.135.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Memory former impact deal tonight music because. Bring industry memory economic strategy option lead.\nArgue identify race some call good of city. Thousand discussion miss dog us start reduce pick.",
+        "bio": "Budget nature stay thank body similar lawyer. Make question political especially others test help. View open thought public never financial also."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Cody Bentley",
+    "age": 70,
+    "address": {
+        "street": "Christopher Key",
+        "city": "East Heatherfurt",
+        "state": "Wisconsin",
+        "zip": "89776"
+    },
+    "contact": {
+        "phone": "926.996.7904",
+        "servicePhone": "800808749"
+    },
+    "birthday": "1955-04-05",
+    "ip": "72.212.174.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal produce place culture. Grow note even force herself.\nCase rich commercial cover improve prepare.",
+        "bio": "Pretty particularly support first bed trip. Should senior threat throw.\nSet national six identify while. Laugh himself task.\nMission somebody expert former I true country see."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}

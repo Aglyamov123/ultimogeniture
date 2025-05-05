@@ -1,0 +1,25 @@
+{
+    "name": "Eric Lee",
+    "age": 97,
+    "address": {
+        "street": "Herring Ramp",
+        "city": "Jamesborough",
+        "state": "Minnesota",
+        "zip": "69312"
+    },
+    "contact": {
+        "phone": "(518)425-0964",
+        "servicePhone": "800793768"
+    },
+    "birthday": "1928-14-02",
+    "ip": "54.4.123.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Budget above effort gun should quite across. Instead born information tough lead.",
+        "bio": "Western style action good discussion. Today citizen nation seat.\nAsk push including physical. Every might central two strong.\nAround us new week director. Main eye drop. Raise best first look."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}

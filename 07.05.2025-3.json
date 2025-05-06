@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Perez",
+    "age": 9,
+    "address": {
+        "street": "Susan Parks",
+        "city": "New Julie",
+        "state": "Kentucky",
+        "zip": "93575"
+    },
+    "contact": {
+        "phone": "001-626-224-6677",
+        "servicePhone": "800951958"
+    },
+    "birthday": "2016-19-04",
+    "ip": "40.87.5.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything employee institution he improve usually. Really civil plan former item degree everyone believe. Game ability party country the. Guy along land drive position.\nCollection conference these.",
+        "bio": "However yes pressure even always TV newspaper military. Admit could operation. Animal soon campaign early set drop provide."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}

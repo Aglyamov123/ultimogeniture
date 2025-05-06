@@ -1,0 +1,25 @@
+{
+    "name": "Robert Glass",
+    "age": 115,
+    "address": {
+        "street": "Hernandez Mill",
+        "city": "New Melissa",
+        "state": "Hawaii",
+        "zip": "61629"
+    },
+    "contact": {
+        "phone": "(721)229-0846",
+        "servicePhone": "800300506"
+    },
+    "birthday": "1910-05-05",
+    "ip": "139.159.189.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Actually among early economic should range. Mother conference term prove protect human. Put concern evidence.",
+        "bio": "Herself despite important worry management model approach. Sing spring town keep sister next body. Box protect generation door pick."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}

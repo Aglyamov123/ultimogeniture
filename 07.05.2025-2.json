@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Carey",
+    "age": 109,
+    "address": {
+        "street": "Karen Forge",
+        "city": "Alyssastad",
+        "state": "Michigan",
+        "zip": "19146"
+    },
+    "contact": {
+        "phone": "338.202.7307",
+        "servicePhone": "800955101"
+    },
+    "birthday": "1916-22-09",
+    "ip": "75.41.29.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Practice sea trouble accept.\nYard each capital. Management person nothing drug suggest.\nLong that piece leader. Various guy half discussion collection box speech.",
+        "bio": "Daughter reduce bad part prepare space wear.\nFamily good finally. Policy able employee pattern skin either answer. Light general event threat."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Schmitt",
+    "age": 101,
+    "address": {
+        "street": "Carrie Lights",
+        "city": "Annaside",
+        "state": "Florida",
+        "zip": "16590"
+    },
+    "contact": {
+        "phone": "954.612.8756x1971",
+        "servicePhone": "800855225"
+    },
+    "birthday": "1924-19-10",
+    "ip": "174.26.162.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Add talk school small detail offer opportunity.",
+        "bio": "Career reflect however this charge yet cup. Drive growth although.\nNever question around fill serve paper room. Serious design paper."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}

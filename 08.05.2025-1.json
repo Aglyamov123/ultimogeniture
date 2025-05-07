@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Carter",
+    "age": 41,
+    "address": {
+        "street": "Gary Spur",
+        "city": "East Sean",
+        "state": "Missouri",
+        "zip": "46443"
+    },
+    "contact": {
+        "phone": "3258283421",
+        "servicePhone": "800600654"
+    },
+    "birthday": "1984-10-05",
+    "ip": "201.104.48.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Become western guy method modern art moment. Discuss change ago again tax.\nDevelop support pattern realize Congress kid smile sea. Such less heavy moment.",
+        "bio": "Style arm prevent. Data conference word far usually.\nImagine professional single into expect. Truth start find difficult through benefit newspaper. Plan body per adult without."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

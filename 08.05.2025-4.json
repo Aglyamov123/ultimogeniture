@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Jordan",
+    "age": 90,
+    "address": {
+        "street": "Williams Junctions",
+        "city": "South Brian",
+        "state": "Texas",
+        "zip": "61530"
+    },
+    "contact": {
+        "phone": "(279)446-1383",
+        "servicePhone": "800330651"
+    },
+    "birthday": "1935-26-01",
+    "ip": "81.63.74.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon school degree often interest suffer season. Officer region according soon.",
+        "bio": "Build training study upon. Result line contain writer past good."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

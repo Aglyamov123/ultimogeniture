@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Ray",
+    "age": 104,
+    "address": {
+        "street": "Peck Ports",
+        "city": "East Chelseaton",
+        "state": "Montana",
+        "zip": "77878"
+    },
+    "contact": {
+        "phone": "(949)970-2733x9935",
+        "servicePhone": "800077450"
+    },
+    "birthday": "1921-01-09",
+    "ip": "205.158.3.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Reality up step level relate. Them identify generation kid.\nWhatever road contain.\nDevelopment PM after. Movie appear play window study. Expert debate son guess somebody one week.",
+        "bio": "Million very begin scientist. Practice international idea should employee effort. Work seem consider include life with serve.\nRange amount man discuss. Rather often choose source speech."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Manning",
+    "age": 7,
+    "address": {
+        "street": "Benjamin Glens",
+        "city": "Hudsontown",
+        "state": "Maryland",
+        "zip": "45762"
+    },
+    "contact": {
+        "phone": "843-514-9161",
+        "servicePhone": "800833598"
+    },
+    "birthday": "2018-22-12",
+    "ip": "14.3.62.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk brother interview serious court clearly sort. Development face result drug hope wind.",
+        "bio": "Discuss environment she image think ever small. Animal entire close land sure PM huge. Wind local out believe source."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

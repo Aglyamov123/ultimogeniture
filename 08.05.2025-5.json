@@ -1,0 +1,25 @@
+{
+    "name": "Christy Mason",
+    "age": 21,
+    "address": {
+        "street": "Carmen Center",
+        "city": "Port Sharon",
+        "state": "Oregon",
+        "zip": "65381"
+    },
+    "contact": {
+        "phone": "859.650.8620x6856",
+        "servicePhone": "800901257"
+    },
+    "birthday": "2004-26-03",
+    "ip": "148.197.215.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring development foreign receive policy character enter challenge. Compare development so then least try. Defense factor security where left focus half run.",
+        "bio": "Happen note investment. Physical season full them real time couple piece. Television each worry hard machine."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}

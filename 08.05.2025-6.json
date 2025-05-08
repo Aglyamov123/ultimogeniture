@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Lamb",
+    "age": 91,
+    "address": {
+        "street": "Sarah Mission",
+        "city": "East Daltonport",
+        "state": "California",
+        "zip": "98492"
+    },
+    "contact": {
+        "phone": "899-492-2407",
+        "servicePhone": "800193830"
+    },
+    "birthday": "1934-09-06",
+    "ip": "220.219.18.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Control subject language strategy various direction. Develop watch career attorney buy administration. Property first area difference score.",
+        "bio": "Left walk between natural line sell employee. Leave especially artist blood.\nData where special yeah former fish. Evidence discuss assume threat method them east resource."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}

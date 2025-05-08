@@ -1,0 +1,25 @@
+{
+    "name": "Michael Reese",
+    "age": 66,
+    "address": {
+        "street": "Melinda Mountains",
+        "city": "Steeleside",
+        "state": "Idaho",
+        "zip": "55309"
+    },
+    "contact": {
+        "phone": "585-294-8206",
+        "servicePhone": "800870444"
+    },
+    "birthday": "1959-22-10",
+    "ip": "34.31.119.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward person against but air buy.\nBill have thousand more organization character reason year. Best small single voice. Next at front myself small happy energy.",
+        "bio": "Economic organization learn save society. Administration dog before see create."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

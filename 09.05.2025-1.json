@@ -1,0 +1,25 @@
+{
+    "name": "Colin Jenkins",
+    "age": 11,
+    "address": {
+        "street": "Clark Fort",
+        "city": "Taylorside",
+        "state": "Pennsylvania",
+        "zip": "50968"
+    },
+    "contact": {
+        "phone": "(893)954-3283x20408",
+        "servicePhone": "800397612"
+    },
+    "birthday": "2014-10-12",
+    "ip": "5.133.107.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Worry process young work.\nCare seven cut interview record suggest class until. Low of structure do court. Finish should picture national.\nHowever so seat. History them coach hold late.",
+        "bio": "Step current politics fire no. Use tree remember oil maintain sea suddenly open.\nLeast least stop. Thus whom camera ever despite. Second morning reality enter store art."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

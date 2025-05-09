@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Garner",
+    "age": 27,
+    "address": {
+        "street": "Nunez Mountain",
+        "city": "Port Jasonberg",
+        "state": "New Jersey",
+        "zip": "61879"
+    },
+    "contact": {
+        "phone": "313.631.4687",
+        "servicePhone": "800444238"
+    },
+    "birthday": "1998-06-07",
+    "ip": "212.175.195.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Truth involve involve pull let whole. Case already TV inside cover later. Sea behavior product statement turn benefit already raise. Cup work so kid above cell a.",
+        "bio": "Half in recent huge. West require money evening. Among catch thing keep answer best form next.\nOffer fly situation degree purpose. These water large rock politics."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}

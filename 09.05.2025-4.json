@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Fox",
+    "age": 107,
+    "address": {
+        "street": "Alejandro Expressway",
+        "city": "West Keith",
+        "state": "South Dakota",
+        "zip": "68225"
+    },
+    "contact": {
+        "phone": "001-203-983-8869x655",
+        "servicePhone": "800645720"
+    },
+    "birthday": "1918-11-07",
+    "ip": "180.192.154.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Memory teach game toward. Off walk view. Decide parent born process interesting boy health she.",
+        "bio": "Around community record grow plan event point nice. Outside size white must computer clearly week. Baby say market. Hold hot civil fact."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}

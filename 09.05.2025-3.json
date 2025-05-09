@@ -1,0 +1,25 @@
+{
+    "name": "Regina Lane",
+    "age": 39,
+    "address": {
+        "street": "Brandon Mills",
+        "city": "East Richard",
+        "state": "Nebraska",
+        "zip": "45578"
+    },
+    "contact": {
+        "phone": "473-405-5813",
+        "servicePhone": "800797589"
+    },
+    "birthday": "1986-20-03",
+    "ip": "198.9.213.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional him natural movement network easy. Usually full effect real.\nPublic produce president race build health difficult. Resource dog five our class. Serve city add grow site interesting.",
+        "bio": "Throughout head pressure only management opportunity."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

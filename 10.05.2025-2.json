@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Gray",
+    "age": 92,
+    "address": {
+        "street": "Morse Ferry",
+        "city": "Mathisborough",
+        "state": "Minnesota",
+        "zip": "66649"
+    },
+    "contact": {
+        "phone": "001-373-491-5292",
+        "servicePhone": "800861702"
+    },
+    "birthday": "1933-25-12",
+    "ip": "164.65.1.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Agency feeling which career surface age. Ever stuff small outside maintain. Little receive itself onto.",
+        "bio": "Century although finally door service. Growth herself specific. Else speech entire alone. Line simply mission recently."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}

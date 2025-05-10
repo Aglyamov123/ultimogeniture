@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Frye",
+    "age": 87,
+    "address": {
+        "street": "Reyes Divide",
+        "city": "Port Wendy",
+        "state": "Missouri",
+        "zip": "63748"
+    },
+    "contact": {
+        "phone": "(592)592-1063",
+        "servicePhone": "800426343"
+    },
+    "birthday": "1938-08-06",
+    "ip": "9.18.71.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Community either result whatever. Challenge memory money exist far.\nNice control worker box wife. Reach while down worker anyone write. Republican land thing face. Own environmental nature.",
+        "bio": "Probably test article white probably between unit. Item the only talk suffer small when officer.\nYou laugh with quite clear well. Form drive during. Rock risk full or job worker effect."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Eric Bell",
+    "age": 73,
+    "address": {
+        "street": "Navarro Field",
+        "city": "New Debbiemouth",
+        "state": "Rhode Island",
+        "zip": "23842"
+    },
+    "contact": {
+        "phone": "+1-302-630-1680x8258",
+        "servicePhone": "800492417"
+    },
+    "birthday": "1952-13-04",
+    "ip": "174.98.130.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred recent history important build color. Response control side officer hard behavior court traditional.\nExpert green instead simply smile simple. Staff third either building themselves too.",
+        "bio": "Lot avoid pattern least pattern continue must. Appear under fund commercial successful.\nUse method leave throw.\nService someone enter them evening. While especially attorney become."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}

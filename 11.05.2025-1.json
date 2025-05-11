@@ -1,0 +1,25 @@
+{
+    "name": "Richard Gomez",
+    "age": 7,
+    "address": {
+        "street": "Wood Circles",
+        "city": "Audreyport",
+        "state": "South Dakota",
+        "zip": "26244"
+    },
+    "contact": {
+        "phone": "937.637.1301",
+        "servicePhone": "800390989"
+    },
+    "birthday": "2018-03-11",
+    "ip": "181.194.13.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Create knowledge dog act management. Sing prove word trip. Then situation view public.\nIndividual language rest light and current. Than hit officer you on. Hold into vote service bad when pass ready.",
+        "bio": "Page place thank whether. Executive decide than audience fly. Apply Mr thought.\nEducation bad turn worker everybody do. Manager ten night authority. Among staff by likely without friend."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}

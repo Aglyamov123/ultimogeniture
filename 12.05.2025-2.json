@@ -1,0 +1,25 @@
+{
+    "name": "Michael Young",
+    "age": 91,
+    "address": {
+        "street": "Shields Lane",
+        "city": "Lake Hayley",
+        "state": "New York",
+        "zip": "40768"
+    },
+    "contact": {
+        "phone": "001-225-868-4773x057",
+        "servicePhone": "800472931"
+    },
+    "birthday": "1934-15-08",
+    "ip": "98.213.103.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Herself above weight country put.\nLocal music him experience find new speak miss. Although choose wait outside treatment. Prepare change key least run window lot.",
+        "bio": "President base investment bag skin. Little return the nothing meeting remember across. Across consumer throughout model position health."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}

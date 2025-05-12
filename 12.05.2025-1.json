@@ -1,0 +1,25 @@
+{
+    "name": "Pam Hawkins",
+    "age": 32,
+    "address": {
+        "street": "Sandra Village",
+        "city": "West Marcusfort",
+        "state": "Hawaii",
+        "zip": "71725"
+    },
+    "contact": {
+        "phone": "853.260.7630x9049",
+        "servicePhone": "800621273"
+    },
+    "birthday": "1993-12-11",
+    "ip": "126.180.250.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Language always friend describe indicate role adult.\nUsually teach bit respond increase where response. Source whatever themselves music for drive year. Reflect book pass amount.",
+        "bio": "Teacher program occur allow low. Book stay them available. Score similar successful child security magazine long."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}

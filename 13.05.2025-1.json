@@ -1,0 +1,25 @@
+{
+    "name": "Destiny Richardson",
+    "age": 97,
+    "address": {
+        "street": "David Fords",
+        "city": "West Ashleystad",
+        "state": "Michigan",
+        "zip": "50302"
+    },
+    "contact": {
+        "phone": "(890)241-6547",
+        "servicePhone": "800933677"
+    },
+    "birthday": "1928-18-05",
+    "ip": "184.232.231.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Article treat positive sure environmental form. Help lose back wife attack become yet. Special kid its speak speech second.",
+        "bio": "Rate computer edge memory drop right happen. Drive million go side. Ever hot seem science seek."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}

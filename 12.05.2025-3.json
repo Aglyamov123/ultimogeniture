@@ -1,0 +1,25 @@
+{
+    "name": "Maria Adams",
+    "age": 17,
+    "address": {
+        "street": "Brown Green",
+        "city": "Susanberg",
+        "state": "Iowa",
+        "zip": "01221"
+    },
+    "contact": {
+        "phone": "506-962-7120",
+        "servicePhone": "800353099"
+    },
+    "birthday": "2008-29-09",
+    "ip": "93.33.195.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Law attack summer never part direction. On moment get house. Appear reduce measure.\nReligious benefit trial those them time. On drive individual wall art direction.",
+        "bio": "American scientist maintain building step where. Only station will. Expect push time short country he.\nClass personal behavior line one apply. Child girl sound do news range."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

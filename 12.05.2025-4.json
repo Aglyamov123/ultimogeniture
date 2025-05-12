@@ -1,0 +1,25 @@
+{
+    "name": "Cody Taylor",
+    "age": 54,
+    "address": {
+        "street": "Antonio Turnpike",
+        "city": "Cassidyville",
+        "state": "Vermont",
+        "zip": "47845"
+    },
+    "contact": {
+        "phone": "(404)579-1038x26897",
+        "servicePhone": "800802152"
+    },
+    "birthday": "1971-26-05",
+    "ip": "135.146.21.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience least book term organization notice. Ten direction challenge figure. Inside from the method group wind.\nGrowth event face throw.\nMaybe my camera image. Range not ever receive though.",
+        "bio": "Decision owner who task appear meet with. Reach cultural lead table. Speak manager class mean."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

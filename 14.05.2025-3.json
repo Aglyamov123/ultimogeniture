@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Gonzalez",
+    "age": 31,
+    "address": {
+        "street": "Hodges Ferry",
+        "city": "Toddport",
+        "state": "New Hampshire",
+        "zip": "44172"
+    },
+    "contact": {
+        "phone": "+1-345-767-3684x0432",
+        "servicePhone": "800010056"
+    },
+    "birthday": "1994-03-01",
+    "ip": "113.51.99.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Contain consumer then reflect character. Whole view assume decision. Power camera suffer approach kid.",
+        "bio": "Finally dog experience hot particular. Write imagine open star.\nFew take line news. See summer plan sometimes them. Whose wonder represent decade Republican fire."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}

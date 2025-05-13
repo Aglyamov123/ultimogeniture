@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Harris",
+    "age": 20,
+    "address": {
+        "street": "Jones Park",
+        "city": "Owensmouth",
+        "state": "North Carolina",
+        "zip": "35893"
+    },
+    "contact": {
+        "phone": "625.223.4073",
+        "servicePhone": "800669852"
+    },
+    "birthday": "2005-26-07",
+    "ip": "103.91.192.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead everybody research section himself eye chair. Within look catch explain. Them check someone build should.\nTrip station than including computer offer. Response contain seat woman world when.",
+        "bio": "Which myself continue might usually. Military available similar leave various away step.\nEverything place they site because try system. Senior wear create upon."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}

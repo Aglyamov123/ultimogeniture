@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Richardson",
+    "age": 48,
+    "address": {
+        "street": "Owens Views",
+        "city": "Meganburgh",
+        "state": "New Mexico",
+        "zip": "93778"
+    },
+    "contact": {
+        "phone": "679-984-0580",
+        "servicePhone": "800053084"
+    },
+    "birthday": "1977-27-09",
+    "ip": "192.114.91.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Deep get among look. Anyone world more.\nGround under clearly perform spend voice worry.",
+        "bio": "Particularly politics left great suddenly sing realize. Fear pick order benefit always. Throughout way three health final single."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

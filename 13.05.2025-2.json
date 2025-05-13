@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Hansen",
+    "age": 80,
+    "address": {
+        "street": "Anthony Turnpike",
+        "city": "East Jamesfort",
+        "state": "Illinois",
+        "zip": "33449"
+    },
+    "contact": {
+        "phone": "001-819-909-9497x4551",
+        "servicePhone": "800161975"
+    },
+    "birthday": "1945-30-03",
+    "ip": "191.162.9.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Those behind finally particularly enter glass move. Hospital picture bill half impact. Over today five true.\nBill participant short. May city family hold read. Field art for start.",
+        "bio": "Station defense not natural understand open. Lead site he say standard.\nShare single rock address seem kind thing. Fine your evidence himself investment responsibility."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}

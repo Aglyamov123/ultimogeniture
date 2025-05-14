@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Kim Moran",
+    "age": 63,
+    "address": {
+        "street": "Lynn Underpass",
+        "city": "Elliston",
+        "state": "Indiana",
+        "zip": "79696"
+    },
+    "contact": {
+        "phone": "617-657-7451x60557",
+        "servicePhone": "800331252"
+    },
+    "birthday": "1962-03-09",
+    "ip": "128.232.253.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Note need watch own. Pattern to age not. Charge social have about interest improve crime loss.\nCertainly movement trial it lay. Them wonder really.",
+        "bio": "Protect pressure attention figure into. Do operation president task wide.\nInvolve training off expert consumer live never say."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

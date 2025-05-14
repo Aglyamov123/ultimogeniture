@@ -1,0 +1,25 @@
+{
+    "name": "Brandy Erickson",
+    "age": 22,
+    "address": {
+        "street": "Solomon Land",
+        "city": "East Lisahaven",
+        "state": "Ohio",
+        "zip": "55769"
+    },
+    "contact": {
+        "phone": "758-836-8522",
+        "servicePhone": "800581223"
+    },
+    "birthday": "2003-19-02",
+    "ip": "182.46.139.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Much play information clearly hospital even. Possible son instead cause speak try community.",
+        "bio": "Character my produce case camera somebody enjoy. Majority particularly raise simply."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}

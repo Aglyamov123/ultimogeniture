@@ -1,0 +1,25 @@
+{
+    "name": "Lawrence Scott",
+    "age": 91,
+    "address": {
+        "street": "Craig Springs",
+        "city": "Reneetown",
+        "state": "South Dakota",
+        "zip": "39387"
+    },
+    "contact": {
+        "phone": "863-690-3519",
+        "servicePhone": "800998887"
+    },
+    "birthday": "1934-09-09",
+    "ip": "221.48.27.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Inside thousand sound down bad beyond building fear. True stand center child entire peace. Dark in face soldier help against.",
+        "bio": "Seek red figure government short southern happy. Quality of matter industry main. End wrong make many relationship."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}

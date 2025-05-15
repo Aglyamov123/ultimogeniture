@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Howell",
+    "age": 113,
+    "address": {
+        "street": "Crystal Inlet",
+        "city": "Mariahaven",
+        "state": "Virginia",
+        "zip": "20592"
+    },
+    "contact": {
+        "phone": "940.623.9399",
+        "servicePhone": "800018889"
+    },
+    "birthday": "1912-03-07",
+    "ip": "122.249.7.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Right issue right watch.\nLot system large benefit apply always establish. Your government step read. Develop great soldier either seek character.",
+        "bio": "Common beyond charge care model down meeting. Reflect month quite face affect.\nGun everyone many all culture. More move worker final store two audience political. Edge candidate hair girl."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

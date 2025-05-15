@@ -1,0 +1,25 @@
+{
+    "name": "Brian Williams",
+    "age": 93,
+    "address": {
+        "street": "Laura Forks",
+        "city": "Beltranfurt",
+        "state": "California",
+        "zip": "77232"
+    },
+    "contact": {
+        "phone": "+1-897-992-2023x61785",
+        "servicePhone": "800065420"
+    },
+    "birthday": "1932-13-08",
+    "ip": "23.170.6.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Along edge assume share executive prepare. Could table try push.\nHeart century customer none. Or billion society the. Very author truth box agree.",
+        "bio": "Material since treatment still wear charge own. Whom hundred eye sound democratic woman."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

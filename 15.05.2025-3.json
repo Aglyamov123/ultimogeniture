@@ -1,0 +1,25 @@
+{
+    "name": "Roger Roberts",
+    "age": 64,
+    "address": {
+        "street": "Garcia Isle",
+        "city": "Williamsbury",
+        "state": "New York",
+        "zip": "68345"
+    },
+    "contact": {
+        "phone": "001-730-983-0912x0313",
+        "servicePhone": "800214574"
+    },
+    "birthday": "1961-10-02",
+    "ip": "136.176.191.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Month media write moment Mr teacher business. Purpose available wide economy finally.\nEither back real art interview. By write form born oil player.\nWill more employee buy. Mind mean director.",
+        "bio": "Employee production character statement blood network. Collection maybe inside. Fine foreign leg.\nLong when enjoy. Free approach buy consumer size. Challenge address step while purpose two ago."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

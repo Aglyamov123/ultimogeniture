@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Rodriguez",
+    "age": 78,
+    "address": {
+        "street": "Brown Unions",
+        "city": "Lake Shannonville",
+        "state": "Connecticut",
+        "zip": "34635"
+    },
+    "contact": {
+        "phone": "675-258-5221x2398",
+        "servicePhone": "800036120"
+    },
+    "birthday": "1947-24-10",
+    "ip": "19.57.132.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Member citizen task husband. Couple heavy wife force little break really.\nSite single medical her. Concern process trip success truth series. Or leave garden agreement position glass.",
+        "bio": "Without today do think join near specific. Charge behind individual. Cause truth clearly little evening without thus. Now house style hit simply."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Shelby Jones",
+    "age": 87,
+    "address": {
+        "street": "Kylie Ridge",
+        "city": "Williamton",
+        "state": "North Carolina",
+        "zip": "78913"
+    },
+    "contact": {
+        "phone": "001-866-572-2929x79316",
+        "servicePhone": "800394565"
+    },
+    "birthday": "1938-20-10",
+    "ip": "193.7.238.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular war serve as event. Their effort approach. Pull those thank entire show represent away myself.",
+        "bio": "Gas fact writer pick. Themselves world perhaps task figure. Which lay officer personal.\nJob material author establish natural. Her lead nearly degree product. Sit fall join necessary research while."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}

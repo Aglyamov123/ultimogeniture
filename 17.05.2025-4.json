@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Moore",
+    "age": 67,
+    "address": {
+        "street": "Sutton River",
+        "city": "New Johnton",
+        "state": "Virginia",
+        "zip": "82436"
+    },
+    "contact": {
+        "phone": "443-229-0363x32734",
+        "servicePhone": "800621240"
+    },
+    "birthday": "1958-12-10",
+    "ip": "209.48.228.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Under still whose you everything player radio. Letter over return deep our weight. After maybe common into low official often. Skill level perform wide.",
+        "bio": "Almost skin else new size trip. Sit seek edge. Pull late letter approach plan send though car."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}

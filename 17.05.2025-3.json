@@ -1,0 +1,25 @@
+{
+    "name": "Robert Wise",
+    "age": 61,
+    "address": {
+        "street": "Amanda Vista",
+        "city": "Port Paulmouth",
+        "state": "Oregon",
+        "zip": "02667"
+    },
+    "contact": {
+        "phone": "984.264.9032x05971",
+        "servicePhone": "800952395"
+    },
+    "birthday": "1964-28-12",
+    "ip": "28.22.150.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Week language discover about staff boy. Already prove people lead dream out. Structure buy health peace with.",
+        "bio": "Look power evening young. Like Congress notice believe born."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}

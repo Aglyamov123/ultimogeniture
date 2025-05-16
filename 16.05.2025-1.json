@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Torres",
+    "age": 101,
+    "address": {
+        "street": "William Hill",
+        "city": "Victoriastad",
+        "state": "Oklahoma",
+        "zip": "47115"
+    },
+    "contact": {
+        "phone": "(371)323-9992x3593",
+        "servicePhone": "800840300"
+    },
+    "birthday": "1924-12-03",
+    "ip": "200.102.195.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Carry alone product expect. Hit discover message culture. Send poor able player environment likely.\nLead visit certainly personal system.",
+        "bio": "Process foreign beat and. Wall son wait member course option.\nOrder step election. Know hotel always she. Do movie beautiful behavior task police part."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "William Parker",
+    "age": 41,
+    "address": {
+        "street": "Cooper Neck",
+        "city": "Sylviaburgh",
+        "state": "Florida",
+        "zip": "51592"
+    },
+    "contact": {
+        "phone": "340.456.0373",
+        "servicePhone": "800256426"
+    },
+    "birthday": "1984-25-08",
+    "ip": "50.74.101.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Perform full live meet. Later soon realize everybody change treat.\nSomeone yet us.\nBillion test break structure available style apply authority. West family happy. Reach on miss beyond least thus.",
+        "bio": "Strategy rich test professor hot. Institution front today throughout activity.\nNatural speech early film than relate trade. Yeah own successful firm commercial. Region television dark past."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}

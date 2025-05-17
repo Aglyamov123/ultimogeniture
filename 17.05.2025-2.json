@@ -1,0 +1,25 @@
+{
+    "name": "Amy Phillips",
+    "age": 78,
+    "address": {
+        "street": "Gould Row",
+        "city": "East Wayne",
+        "state": "West Virginia",
+        "zip": "63193"
+    },
+    "contact": {
+        "phone": "295.253.4834x773",
+        "servicePhone": "800176021"
+    },
+    "birthday": "1947-29-01",
+    "ip": "40.150.88.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow family night loss. May throw young fine lay there. Yet at test chance bill face.\nSend full yard nature. Option approach arrive democratic produce start discover. Sport them open fund fear.",
+        "bio": "Drive have college floor walk third both. Material kind free for team. Exist add would space four. Space dinner space really either nearly list.\nEnvironment order stay city itself appear every ball."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}

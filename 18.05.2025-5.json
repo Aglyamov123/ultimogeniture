@@ -1,0 +1,25 @@
+{
+    "name": "James Johns",
+    "age": 103,
+    "address": {
+        "street": "Scott Manor",
+        "city": "North Lisa",
+        "state": "New Jersey",
+        "zip": "81329"
+    },
+    "contact": {
+        "phone": "467-986-3172",
+        "servicePhone": "800707370"
+    },
+    "birthday": "1922-23-03",
+    "ip": "167.250.49.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Effort mouth good since arm. Good from total discuss fly guy. Face cover east different despite. Stand trade war prevent spend degree.",
+        "bio": "Hard model oil federal treatment various. Throw make wear senior tough.\nCampaign mother Congress give. Treat camera strong Democrat build record science. Avoid require performance sign couple speech."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}

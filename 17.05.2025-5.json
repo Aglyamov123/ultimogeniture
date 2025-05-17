@@ -1,0 +1,25 @@
+{
+    "name": "Sara Davidson",
+    "age": 67,
+    "address": {
+        "street": "Barton Forest",
+        "city": "Duranborough",
+        "state": "Arkansas",
+        "zip": "80482"
+    },
+    "contact": {
+        "phone": "+1-662-987-4225x925",
+        "servicePhone": "800574050"
+    },
+    "birthday": "1958-07-11",
+    "ip": "17.36.11.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Own amount customer his successful top. Wear several concern. Trouble base maybe town whether particularly.",
+        "bio": "Treatment third mother mission half site. Ahead talk much mouth perhaps free.\nComputer must on beautiful plan. Interesting street network property."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}

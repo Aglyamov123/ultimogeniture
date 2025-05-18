@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Goodwin",
+    "age": 42,
+    "address": {
+        "street": "Peterson Via",
+        "city": "Adamston",
+        "state": "Mississippi",
+        "zip": "91623"
+    },
+    "contact": {
+        "phone": "642.539.2034",
+        "servicePhone": "800533758"
+    },
+    "birthday": "1983-18-08",
+    "ip": "188.243.115.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago strategy charge easy person country music economic. Whole window onto material when.\nLight nice figure commercial music. Mission health pretty budget buy maintain.",
+        "bio": "Woman item sell give. Write foot read shake sometimes final itself.\nBreak music season popular. Run heart shake seek.\nLoss add civil capital want. Expect describe institution process."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}

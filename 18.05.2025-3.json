@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Jones",
+    "age": 45,
+    "address": {
+        "street": "Sara Station",
+        "city": "Lake Anthony",
+        "state": "Oklahoma",
+        "zip": "60131"
+    },
+    "contact": {
+        "phone": "001-971-446-3021x8295",
+        "servicePhone": "800572354"
+    },
+    "birthday": "1980-21-12",
+    "ip": "30.121.42.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Up everyone coach. Leave ago agent affect police price give.\nGlass talk audience few treat with image. Whose nearly probably and treatment.",
+        "bio": "Tonight identify amount environmental especially lead evidence national."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Lopez",
+    "age": 63,
+    "address": {
+        "street": "Mary Mountains",
+        "city": "Joshuatown",
+        "state": "New York",
+        "zip": "29473"
+    },
+    "contact": {
+        "phone": "001-362-633-6148x59710",
+        "servicePhone": "800131533"
+    },
+    "birthday": "1962-27-09",
+    "ip": "194.141.52.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture film bill compare field own forward. Level significant upon often whom couple all.",
+        "bio": "Late read institution station hospital agency. History remember plan.\nPractice bill discuss woman man lay. Happy across ground industry fear tax. Piece tough range book act."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}

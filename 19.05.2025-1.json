@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Hunt",
+    "age": 52,
+    "address": {
+        "street": "Ramirez Manors",
+        "city": "North Craigton",
+        "state": "South Carolina",
+        "zip": "24207"
+    },
+    "contact": {
+        "phone": "001-780-269-3537",
+        "servicePhone": "800478856"
+    },
+    "birthday": "1973-05-03",
+    "ip": "204.189.34.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Tax program key final artist. Watch American as beat wish light. Film old speech space interesting agency I money.",
+        "bio": "First smile such eat eat only. Difficult rule learn another guy. Film common adult."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Mcdonald",
+    "age": 35,
+    "address": {
+        "street": "Price Stream",
+        "city": "Melvintown",
+        "state": "Texas",
+        "zip": "96393"
+    },
+    "contact": {
+        "phone": "904.976.1349x44337",
+        "servicePhone": "800919710"
+    },
+    "birthday": "1990-24-02",
+    "ip": "175.216.125.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Area mention increase approach interest almost. Job sort test rate firm line. Time civil offer wall former week.",
+        "bio": "Second service somebody nation. Medical through floor a certain. The exist place reach apply become growth would."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}

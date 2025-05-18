@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Grant",
+    "age": 27,
+    "address": {
+        "street": "Cantu Terrace",
+        "city": "Jensentown",
+        "state": "South Carolina",
+        "zip": "38051"
+    },
+    "contact": {
+        "phone": "270.708.1390",
+        "servicePhone": "800700279"
+    },
+    "birthday": "1998-31-12",
+    "ip": "47.79.249.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Tend address toward. Wind upon wall school quickly specific. Above remain material.",
+        "bio": "Charge place address later sign. Even set guess plan sort example. Reason keep different cut.\nEffort interview pay hand. Common relationship it body."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

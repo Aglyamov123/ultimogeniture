@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Reyes",
+    "age": 44,
+    "address": {
+        "street": "Kelly Ville",
+        "city": "Ortizburgh",
+        "state": "Nevada",
+        "zip": "37783"
+    },
+    "contact": {
+        "phone": "349.696.0075",
+        "servicePhone": "800379659"
+    },
+    "birthday": "1981-17-04",
+    "ip": "180.109.66.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Dog day let sport of. Power allow development ago. Each family cut heavy actually learn.\nReflect fire party. Wonder book over two probably.",
+        "bio": "Himself western structure approach worker sound similar great. Six safe across what rise involve indicate night. Four lot owner into best commercial."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}

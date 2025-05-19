@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Warner",
+    "age": 99,
+    "address": {
+        "street": "Christina Ramp",
+        "city": "East Cherylfurt",
+        "state": "Alaska",
+        "zip": "38599"
+    },
+    "contact": {
+        "phone": "915-667-4163x8728",
+        "servicePhone": "800503760"
+    },
+    "birthday": "1926-05-11",
+    "ip": "182.85.17.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Land lay language bar character address green. Address center I single against move.\nWork rock chance that number. Sense enjoy sea according his free.",
+        "bio": "Appear mind event year focus society benefit. Hot meet wait add response.\nWhich wife produce poor speech. Fall watch against region occur.\nSubject itself pull. Learn western instead nation."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}

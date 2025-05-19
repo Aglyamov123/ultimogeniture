@@ -1,0 +1,25 @@
+{
+    "name": "Candace Davis",
+    "age": 76,
+    "address": {
+        "street": "Justin Mission",
+        "city": "Adrienneview",
+        "state": "West Virginia",
+        "zip": "34642"
+    },
+    "contact": {
+        "phone": "570.328.9947",
+        "servicePhone": "800416710"
+    },
+    "birthday": "1949-29-11",
+    "ip": "149.157.173.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Another place tough whose admit type myself. Example each color believe culture dark. Hear present professor environment.",
+        "bio": "Begin throughout support hundred expect grow computer. Blue everything artist particular present.\nFew trade set wonder do which. Drive address perhaps parent.\nRegion music else about."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}

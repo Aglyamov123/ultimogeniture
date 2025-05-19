@@ -1,0 +1,25 @@
+{
+    "name": "David Owens",
+    "age": 38,
+    "address": {
+        "street": "Reed Haven",
+        "city": "Lake Robin",
+        "state": "New Jersey",
+        "zip": "06669"
+    },
+    "contact": {
+        "phone": "743.922.7829x03023",
+        "servicePhone": "800829633"
+    },
+    "birthday": "1987-12-09",
+    "ip": "33.175.173.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Affect ground thus war. Whose movie check them artist over design state.",
+        "bio": "Manager song financial the. Foreign hospital ask production military animal involve.\nMember argue within husband agency oil. Share not front particular half. Left market produce wife."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}

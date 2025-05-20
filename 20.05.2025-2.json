@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Lawson",
+    "age": 30,
+    "address": {
+        "street": "Ramirez Corner",
+        "city": "Port Wesley",
+        "state": "Colorado",
+        "zip": "12330"
+    },
+    "contact": {
+        "phone": "526-531-8650",
+        "servicePhone": "800628953"
+    },
+    "birthday": "1995-15-10",
+    "ip": "12.62.200.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair maintain forward general operation. Factor interview the media goal. While approach strategy.",
+        "bio": "Process friend better. Why second beautiful apply face Mrs operation.\nHeavy test TV understand action across painting role. Ever moment run staff perhaps."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

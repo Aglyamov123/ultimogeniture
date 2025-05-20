@@ -1,0 +1,25 @@
+{
+    "name": "Kara Parrish",
+    "age": 104,
+    "address": {
+        "street": "Frank Streets",
+        "city": "Middletonstad",
+        "state": "Washington",
+        "zip": "92422"
+    },
+    "contact": {
+        "phone": "(625)622-7490x2169",
+        "servicePhone": "800599758"
+    },
+    "birthday": "1921-04-04",
+    "ip": "16.165.234.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Young wide behavior learn character defense position. Yourself coach agree fear detail environment leg. Above soldier chance view build product.",
+        "bio": "Site reduce everybody strong. Situation discover team beat vote.\nItself that speech quickly. Federal science poor west consider."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}

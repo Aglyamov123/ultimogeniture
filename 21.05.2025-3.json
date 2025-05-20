@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Young",
+    "age": 16,
+    "address": {
+        "street": "Miller Common",
+        "city": "Smithton",
+        "state": "Alabama",
+        "zip": "45900"
+    },
+    "contact": {
+        "phone": "(399)673-9093",
+        "servicePhone": "800896390"
+    },
+    "birthday": "2009-27-08",
+    "ip": "126.34.196.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Name magazine soon even he strategy support. Newspaper room key weight man measure.\nFar open big involve single seek miss.\nOut stock offer specific.",
+        "bio": "Film green television wife. Clearly here will simple win. Huge which piece fight through practice next. Series matter relate point single."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}

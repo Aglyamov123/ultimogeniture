@@ -1,0 +1,25 @@
+{
+    "name": "Paul Maynard",
+    "age": 22,
+    "address": {
+        "street": "Riley Flats",
+        "city": "Russellborough",
+        "state": "California",
+        "zip": "41426"
+    },
+    "contact": {
+        "phone": "001-819-846-9123x85703",
+        "servicePhone": "800141621"
+    },
+    "birthday": "2003-04-09",
+    "ip": "140.152.181.92",
+    "foo": "bar",
+    "profile": {
+        "about": "East success accept rule everything. Operation statement its born.\nAs contain character voice read buy. Audience meet imagine soldier worker future.",
+        "bio": "Fish through choice their song approach information. Future ten resource financial whole experience myself name. It attorney firm here including best."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

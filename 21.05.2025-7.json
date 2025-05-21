@@ -1,0 +1,25 @@
+{
+    "name": "Richard Moss Jr.",
+    "age": 89,
+    "address": {
+        "street": "Kenneth Knolls",
+        "city": "New Rebecca",
+        "state": "Kentucky",
+        "zip": "38809"
+    },
+    "contact": {
+        "phone": "266-375-6720",
+        "servicePhone": "800407446"
+    },
+    "birthday": "1936-18-07",
+    "ip": "111.207.202.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus sea response firm. Lay energy dinner language lose style enter.\nIndividual commercial war exactly office pressure oil. Fire change happen really tonight by TV state.",
+        "bio": "Be especially soon growth science door. Say development word culture live material. Agent time authority treat.\nBack service teacher she environmental. Available factor such second rich."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

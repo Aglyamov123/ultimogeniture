@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Mendoza",
+    "age": 85,
+    "address": {
+        "street": "Wolf Turnpike",
+        "city": "Spencerview",
+        "state": "New Mexico",
+        "zip": "31899"
+    },
+    "contact": {
+        "phone": "269.660.2349x045",
+        "servicePhone": "800178347"
+    },
+    "birthday": "1940-31-08",
+    "ip": "91.37.188.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Indicate see claim name. Feel quickly various idea audience mother.\nFederal rise fire occur kid.\nClass after condition amount sing deal.",
+        "bio": "Front economic agent officer public relationship. Imagine no pass able condition. Thing catch statement blue situation now."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

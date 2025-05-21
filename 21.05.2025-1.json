@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Webb",
+    "age": 85,
+    "address": {
+        "street": "Lisa Meadow",
+        "city": "Port Zachary",
+        "state": "Kansas",
+        "zip": "68425"
+    },
+    "contact": {
+        "phone": "+1-736-620-3338x535",
+        "servicePhone": "800528803"
+    },
+    "birthday": "1940-12-02",
+    "ip": "115.151.22.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Place become despite fine of. Instead work wait term form effort score.\nWell tonight room important table politics news. Someone identify marriage. Bag down growth senior stay north value.",
+        "bio": "Affect wait else buy experience will. Night research now according.\nNotice audience mention car democratic somebody head. Under new apply purpose people like. Be water hair performance."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}

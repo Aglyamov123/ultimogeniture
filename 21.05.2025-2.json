@@ -1,0 +1,25 @@
+{
+    "name": "Rose Newton DVM",
+    "age": 112,
+    "address": {
+        "street": "Morrison Field",
+        "city": "Port Michaela",
+        "state": "Florida",
+        "zip": "26261"
+    },
+    "contact": {
+        "phone": "+1-543-366-7964x99035",
+        "servicePhone": "800855726"
+    },
+    "birthday": "1913-30-10",
+    "ip": "153.196.248.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat manager practice across article price. Sister personal way agency go lawyer.\nNotice meeting father bad very. Employee generation price wear.",
+        "bio": "Act through although could as list character task. General address make rule apply learn reality. Just evidence toward minute history indeed purpose.\nUnit movement even my reach individual."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

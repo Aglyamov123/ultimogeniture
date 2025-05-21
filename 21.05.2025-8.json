@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Moore",
+    "age": 67,
+    "address": {
+        "street": "Michelle Fall",
+        "city": "Evansland",
+        "state": "Hawaii",
+        "zip": "48165"
+    },
+    "contact": {
+        "phone": "+1-882-326-6159x331",
+        "servicePhone": "800695560"
+    },
+    "birthday": "1958-25-01",
+    "ip": "140.2.68.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Pressure of generation in set. Table contain chance significant per she my. Build total movie word.",
+        "bio": "Ahead machine fine much. Author program sense conference none focus. Budget discuss share early term. Later work decision force represent cost concern."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

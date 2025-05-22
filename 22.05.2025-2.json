@@ -1,0 +1,25 @@
+{
+    "name": "John Perez",
+    "age": 36,
+    "address": {
+        "street": "Davis Neck",
+        "city": "West Jennifer",
+        "state": "Oregon",
+        "zip": "48363"
+    },
+    "contact": {
+        "phone": "990.290.7844x84493",
+        "servicePhone": "800926387"
+    },
+    "birthday": "1989-18-10",
+    "ip": "151.226.59.169",
+    "foo": "bar",
+    "profile": {
+        "about": "No upon behind pressure hospital. Daughter production main building somebody stage. Behind anyone improve much force carry natural.",
+        "bio": "Force difficult anyone red whose top agency compare. Season positive reality no television.\nBig few article picture. Well concern various. Cover suddenly door do."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

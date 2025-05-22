@@ -1,0 +1,25 @@
+{
+    "name": "Ms. Jamie Miller MD",
+    "age": 54,
+    "address": {
+        "street": "Smith Brooks",
+        "city": "New Mariabury",
+        "state": "California",
+        "zip": "36410"
+    },
+    "contact": {
+        "phone": "+1-881-420-5532x47371",
+        "servicePhone": "800725656"
+    },
+    "birthday": "1971-20-11",
+    "ip": "109.99.35.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother entire see short especially those future. History although leave budget same very model draw. Window do real consider drug.",
+        "bio": "In whole security find. Until recently this large similar me offer. Bed him machine movement computer."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}

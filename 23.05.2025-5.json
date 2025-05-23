@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Calhoun",
+    "age": 22,
+    "address": {
+        "street": "Brown Mews",
+        "city": "East Gabrielstad",
+        "state": "Michigan",
+        "zip": "23263"
+    },
+    "contact": {
+        "phone": "(579)288-1048",
+        "servicePhone": "800897891"
+    },
+    "birthday": "2003-06-12",
+    "ip": "124.153.99.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Very step image push turn wonder. Worry table sometimes remember. Wall brother debate too.",
+        "bio": "Over his program even draw watch dog. Should write its style. Young certainly Republican concern though drug rock.\nOk both room gun. Air need occur."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}

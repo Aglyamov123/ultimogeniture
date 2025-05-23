@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Brown",
+    "age": 37,
+    "address": {
+        "street": "Moran Dam",
+        "city": "South Willietown",
+        "state": "North Carolina",
+        "zip": "96265"
+    },
+    "contact": {
+        "phone": "328-560-0939",
+        "servicePhone": "800576257"
+    },
+    "birthday": "1988-10-03",
+    "ip": "71.29.3.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad least west after. Crime try building choose. Term type end past everybody despite some.",
+        "bio": "Model still fight whether receive sing town. Gas middle sometimes until quickly."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Reginald Stevenson",
+    "age": 114,
+    "address": {
+        "street": "Barry Unions",
+        "city": "Gibsonport",
+        "state": "Kentucky",
+        "zip": "97342"
+    },
+    "contact": {
+        "phone": "396.371.8188x900",
+        "servicePhone": "800170009"
+    },
+    "birthday": "1911-09-07",
+    "ip": "44.98.159.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Rise example miss your act. Culture husband soon single policy. Mean which begin current more citizen hospital cause. Billion movement just relationship past.",
+        "bio": "Never sit society page hospital have. Another street treatment question. Away see every call.\nDespite week accept. Join physical water white look American moment."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Aaron King",
+    "age": 42,
+    "address": {
+        "street": "Jasmine Land",
+        "city": "Stephenfort",
+        "state": "Indiana",
+        "zip": "78329"
+    },
+    "contact": {
+        "phone": "943.465.1181x445",
+        "servicePhone": "800517347"
+    },
+    "birthday": "1983-14-10",
+    "ip": "144.238.122.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Attorney ground address agree. Nothing speak let kind.\nPresident system figure vote generation. Executive care act financial anyone firm memory. Imagine despite focus happen general worker American.",
+        "bio": "Why table lot simple help relationship. Past why rest skill still others determine. Stop share change agree worry store from."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tabitha Dominguez",
+    "age": 24,
+    "address": {
+        "street": "Reese Walks",
+        "city": "Mariafort",
+        "state": "Georgia",
+        "zip": "77259"
+    },
+    "contact": {
+        "phone": "9027582927",
+        "servicePhone": "800107165"
+    },
+    "birthday": "2001-15-11",
+    "ip": "172.197.210.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Region enough husband year. There finish simple power. Record rise woman citizen.\nMovement shoulder surface always radio evidence determine. News pay interesting other media.\nRoom individual account.",
+        "bio": "Adult put far understand stand just. Nature against book chair seat even.\nGrowth I able need beautiful against federal. Color Congress term."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}

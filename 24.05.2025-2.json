@@ -1,0 +1,25 @@
+{
+    "name": "Scott Reese",
+    "age": 19,
+    "address": {
+        "street": "Gray Roads",
+        "city": "Chavezland",
+        "state": "Mississippi",
+        "zip": "72046"
+    },
+    "contact": {
+        "phone": "425-300-8539x104",
+        "servicePhone": "800398632"
+    },
+    "birthday": "2006-28-03",
+    "ip": "142.10.82.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Member power she reason truth toward name role. Its could whose tax image animal. Those give of.\nOffer month next effort quite add to. Argue visit security majority them reduce event.",
+        "bio": "Thank health authority above effort. Relationship appear enough number level board. Shoulder figure ok prepare just.\nManage speech provide sort. Matter window ten.\nHand work issue physical."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}

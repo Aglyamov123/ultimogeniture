@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Ayala",
+    "age": 51,
+    "address": {
+        "street": "Allen Meadows",
+        "city": "Lake Gabriel",
+        "state": "Iowa",
+        "zip": "09415"
+    },
+    "contact": {
+        "phone": "(222)750-8222",
+        "servicePhone": "800972173"
+    },
+    "birthday": "1974-29-12",
+    "ip": "123.77.188.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Dream new day Congress question run. Above board join lay.\nRed seek she your. Husband step girl history. She though plan ability join. Hand after so office north item writer.",
+        "bio": "Year business focus little.\nWill place then place keep he actually morning. Though three late peace toward. Minute night administration success any."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}

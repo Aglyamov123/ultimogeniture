@@ -1,0 +1,25 @@
+{
+    "name": "Brendan Salas",
+    "age": 75,
+    "address": {
+        "street": "Velazquez Radial",
+        "city": "Kimberlyside",
+        "state": "Georgia",
+        "zip": "88439"
+    },
+    "contact": {
+        "phone": "(651)700-8878x882",
+        "servicePhone": "800345761"
+    },
+    "birthday": "1950-16-11",
+    "ip": "57.243.107.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Yourself partner represent. Start learn team.\nPerform unit stock happy source something discover. Simply various surface join remember capital respond bank.",
+        "bio": "Ball become month party hear it. Order free rate everyone. Finish investment life power series hot.\nStaff billion employee situation population alone section financial. Director meet same."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}

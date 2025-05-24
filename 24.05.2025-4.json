@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Garcia",
+    "age": 81,
+    "address": {
+        "street": "Chris Center",
+        "city": "Hectormouth",
+        "state": "Alabama",
+        "zip": "02023"
+    },
+    "contact": {
+        "phone": "798-564-5771x4239",
+        "servicePhone": "800500640"
+    },
+    "birthday": "1944-01-11",
+    "ip": "185.87.116.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Time store leave dark morning theory lay. Common pull peace image why develop drop color. Ok picture discuss need.",
+        "bio": "Commercial else increase final yourself simply case. Size serious establish long name particularly true.\nFly identify beat stock mother institution. Here month science miss official beat."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

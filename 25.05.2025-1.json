@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Schultz",
+    "age": 34,
+    "address": {
+        "street": "Randolph Plaza",
+        "city": "Hillview",
+        "state": "Wyoming",
+        "zip": "86623"
+    },
+    "contact": {
+        "phone": "001-571-383-7667",
+        "servicePhone": "800351180"
+    },
+    "birthday": "1991-24-09",
+    "ip": "145.212.210.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Become market weight simple tree former. Else investment heart consider. Marriage try certain bar Congress.",
+        "bio": "Analysis final far plan talk. Hundred build direction protect really stuff.\nForget traditional father guess. Rest assume also easy recent choose cause."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}

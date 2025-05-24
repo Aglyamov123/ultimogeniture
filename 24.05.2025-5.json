@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Long",
+    "age": 95,
+    "address": {
+        "street": "Christina Parks",
+        "city": "New Hollytown",
+        "state": "Virginia",
+        "zip": "61214"
+    },
+    "contact": {
+        "phone": "870.364.2148x78940",
+        "servicePhone": "800531836"
+    },
+    "birthday": "1930-14-11",
+    "ip": "99.244.108.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Behind mouth style assume idea ok matter. Work along animal individual arrive my interview. Reach lot learn listen father personal.",
+        "bio": "Hope material born science yet. Keep interesting safe there father.\nTreatment either forget current talk attack go. Amount attack next week.\nSpeak blood wide worry any enjoy head."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}

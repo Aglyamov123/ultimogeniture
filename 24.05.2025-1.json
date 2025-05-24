@@ -1,0 +1,25 @@
+{
+    "name": "Melinda Cannon",
+    "age": 61,
+    "address": {
+        "street": "Adams Hills",
+        "city": "South Debrabury",
+        "state": "Hawaii",
+        "zip": "39573"
+    },
+    "contact": {
+        "phone": "7037374322",
+        "servicePhone": "800870590"
+    },
+    "birthday": "1964-13-07",
+    "ip": "106.17.126.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Game sense various which firm kind way. Development huge develop stop beyond game president.",
+        "bio": "Per knowledge short medical. Father change nearly use. Theory although ready crime realize. Coach cell key company visit.\nAvoid necessary win return family foreign."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}

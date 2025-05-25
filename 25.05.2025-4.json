@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Lee",
+    "age": 50,
+    "address": {
+        "street": "Walls Throughway",
+        "city": "Sanchezmouth",
+        "state": "Colorado",
+        "zip": "63056"
+    },
+    "contact": {
+        "phone": "343-797-8885x3973",
+        "servicePhone": "800043946"
+    },
+    "birthday": "1975-28-12",
+    "ip": "8.149.15.48",
+    "foo": "bar",
+    "profile": {
+        "about": "Strong though of.\nStation food beautiful section write. Pull car phone whatever least.\nOffice people matter dream go better.\nScore while night nice family thus natural. End within main story head.",
+        "bio": "Station station present hit effect day paper none. Suffer outside crime art action area. Answer continue bit reason record."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}

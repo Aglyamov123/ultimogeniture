@@ -1,0 +1,25 @@
+{
+    "name": "Lucas Frank",
+    "age": 92,
+    "address": {
+        "street": "Justin Brooks",
+        "city": "Gutierrezmouth",
+        "state": "Tennessee",
+        "zip": "19066"
+    },
+    "contact": {
+        "phone": "869.666.1072",
+        "servicePhone": "800677446"
+    },
+    "birthday": "1933-20-05",
+    "ip": "84.9.70.254",
+    "foo": "bar",
+    "profile": {
+        "about": "White good way. Cultural else wear enter a amount she. Policy animal huge.\nPerson half wear throw. Break guess around expert hospital billion.",
+        "bio": "Similar take matter relate history their. Project make sell around record simply evening. Put through exactly director for.\nDirection drop wait baby. Weight energy image use floor mother now."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}

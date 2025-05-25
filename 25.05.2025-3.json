@@ -1,0 +1,25 @@
+{
+    "name": "John Porter",
+    "age": 13,
+    "address": {
+        "street": "Butler Trace",
+        "city": "Greenborough",
+        "state": "Florida",
+        "zip": "71448"
+    },
+    "contact": {
+        "phone": "817-332-3872",
+        "servicePhone": "800962741"
+    },
+    "birthday": "2012-25-01",
+    "ip": "67.249.23.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Environmental idea performance house heart. On six doctor piece life win oil dark. On certainly television walk.\nWest indeed exactly source. Phone morning audience more.",
+        "bio": "Decision often feeling actually source.\nKey natural require product government. Part best plan admit major control trip knowledge. Strategy professor available professional."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}

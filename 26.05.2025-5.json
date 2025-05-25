@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Hall",
+    "age": 74,
+    "address": {
+        "street": "Robert Streets",
+        "city": "Lake James",
+        "state": "Nebraska",
+        "zip": "54006"
+    },
+    "contact": {
+        "phone": "001-693-516-9689",
+        "servicePhone": "800580533"
+    },
+    "birthday": "1951-08-09",
+    "ip": "8.97.220.150",
+    "foo": "bar",
+    "profile": {
+        "about": "By travel community situation. Kind choice through catch enjoy top. High look drive would draw.\nOfficial nice condition quite anything. Mission talk majority might firm.",
+        "bio": "Me art building usually certain. Record short beat lot policy national reality. Order push risk.\nUpon opportunity that certain strategy half. Government action house throw family fear nature."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}

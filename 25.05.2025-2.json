@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Wong",
+    "age": 95,
+    "address": {
+        "street": "Linda Locks",
+        "city": "Davidchester",
+        "state": "Kentucky",
+        "zip": "87084"
+    },
+    "contact": {
+        "phone": "(892)586-5824x05980",
+        "servicePhone": "800771379"
+    },
+    "birthday": "1930-21-10",
+    "ip": "178.53.218.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Subject official meet nor then.\nMeasure tonight simple ok member sell. Recently billion space evidence. World site activity.",
+        "bio": "Any own across court. Believe arrive community major talk. Affect act child artist full mouth others. Dinner conference section."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}

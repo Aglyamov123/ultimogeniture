@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Young",
+    "age": 88,
+    "address": {
+        "street": "Amy Walk",
+        "city": "Port Alexischester",
+        "state": "Florida",
+        "zip": "33075"
+    },
+    "contact": {
+        "phone": "001-634-769-0909x557",
+        "servicePhone": "800983056"
+    },
+    "birthday": "1937-04-11",
+    "ip": "75.49.200.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Threat general cost well. Network whose night lead modern.\nAlthough hospital bank music third east pass. Get manager few first. Church food understand.",
+        "bio": "Treat glass ago. In participant serve early modern wait remember. Effort professional recognize.\nDaughter hour state brother foreign sport. See threat several relationship right."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}

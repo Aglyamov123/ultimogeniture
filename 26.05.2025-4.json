@@ -1,0 +1,25 @@
+{
+    "name": "Holly Thompson",
+    "age": 7,
+    "address": {
+        "street": "Wanda Plaza",
+        "city": "Jonesstad",
+        "state": "Hawaii",
+        "zip": "72536"
+    },
+    "contact": {
+        "phone": "221-841-5249x2378",
+        "servicePhone": "800194847"
+    },
+    "birthday": "2018-13-09",
+    "ip": "25.250.32.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Small throw perform result. Quite everybody someone theory whatever detail us seat. Within test network do office order up person.",
+        "bio": "Business speech break top sure. Get bed activity different strategy walk own.\nPower season should run. Most former partner protect so source sign just. Discuss receive laugh say."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

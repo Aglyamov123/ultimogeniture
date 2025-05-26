@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Benson",
+    "age": 39,
+    "address": {
+        "street": "Lisa Wells",
+        "city": "East Davidland",
+        "state": "Colorado",
+        "zip": "63937"
+    },
+    "contact": {
+        "phone": "+1-732-975-4699",
+        "servicePhone": "800875482"
+    },
+    "birthday": "1986-19-01",
+    "ip": "68.195.165.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Mission always walk visit leader analysis check. Scientist agreement box value arm begin. Open player early small enough away station.",
+        "bio": "Worker some detail along dog stay room.\nForget center listen sister across. Agree yard all interest. Current save head small father.\nSeem hand others cell letter."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}

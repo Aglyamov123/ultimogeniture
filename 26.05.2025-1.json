@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Rogers",
+    "age": 76,
+    "address": {
+        "street": "Walker Fork",
+        "city": "South Kayla",
+        "state": "Indiana",
+        "zip": "27740"
+    },
+    "contact": {
+        "phone": "(751)387-4757x27182",
+        "servicePhone": "800777628"
+    },
+    "birthday": "1949-10-07",
+    "ip": "148.61.133.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist civil year sign others suffer less. Remain measure always.",
+        "bio": "Movie sit change talk. For stop put bar now. Degree run cold arm leg.\nLight be organization site apply. Him look recognize ability. Beautiful rather coach between certainly plant green."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

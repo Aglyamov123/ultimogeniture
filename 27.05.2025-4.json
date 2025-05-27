@@ -1,0 +1,25 @@
+{
+    "name": "Erik Novak",
+    "age": 45,
+    "address": {
+        "street": "Wilcox Bridge",
+        "city": "Lauraport",
+        "state": "Delaware",
+        "zip": "92728"
+    },
+    "contact": {
+        "phone": "+1-246-671-5316x53798",
+        "servicePhone": "800856070"
+    },
+    "birthday": "1980-27-07",
+    "ip": "151.232.37.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Part area for ten likely eye. Receive bill crime eight.\nThemselves goal century also. Our listen exist.",
+        "bio": "Deal response sort physical. Cover threat president down. System lead certainly customer health."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}

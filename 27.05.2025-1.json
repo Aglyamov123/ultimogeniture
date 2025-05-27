@@ -1,0 +1,25 @@
+{
+    "name": "Monica Blackwell",
+    "age": 110,
+    "address": {
+        "street": "Jeremy Junction",
+        "city": "New Connie",
+        "state": "Mississippi",
+        "zip": "38589"
+    },
+    "contact": {
+        "phone": "+1-758-895-2050x287",
+        "servicePhone": "800771728"
+    },
+    "birthday": "1915-14-05",
+    "ip": "85.211.211.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Bit heavy some analysis. Stage stay smile wall daughter. Question series focus against laugh.\nSeven mission drop serve watch. Within know think thus. Memory language someone store consider security.",
+        "bio": "Democrat here take section. Field group military else. Whole dinner base food senior maybe type.\nSee laugh alone compare program meeting necessary. Before head either me down else."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}

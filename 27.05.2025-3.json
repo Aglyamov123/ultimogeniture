@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Lloyd",
+    "age": 6,
+    "address": {
+        "street": "Nelson Islands",
+        "city": "Snyderstad",
+        "state": "Indiana",
+        "zip": "05640"
+    },
+    "contact": {
+        "phone": "628-938-4002",
+        "servicePhone": "800516217"
+    },
+    "birthday": "2019-13-01",
+    "ip": "141.17.83.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Too kid agency state make but three. Out history large exactly worry success main entire.\nSign color night character tax.",
+        "bio": "Usually wrong class store issue even hand. Though meet per provide never.\nTo anything hard try rich. Individual task deep onto me way."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}

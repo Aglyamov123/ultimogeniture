@@ -1,0 +1,25 @@
+{
+    "name": "David Mckinney",
+    "age": 73,
+    "address": {
+        "street": "Jackson Mall",
+        "city": "Dylanburgh",
+        "state": "Oregon",
+        "zip": "01949"
+    },
+    "contact": {
+        "phone": "978-590-0157x38910",
+        "servicePhone": "800249614"
+    },
+    "birthday": "1952-10-10",
+    "ip": "90.199.156.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Pattern grow television factor girl. Interview same reduce good attorney section. West else trial meeting run what.\nCourse full agency woman often this live. Thank finish save official Mrs.",
+        "bio": "Bit first such mouth marriage run probably. Law beat newspaper almost pay."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}

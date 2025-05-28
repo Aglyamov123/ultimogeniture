@@ -1,0 +1,25 @@
+{
+    "name": "Christian Herring",
+    "age": 100,
+    "address": {
+        "street": "West Trace",
+        "city": "East Kevinton",
+        "state": "Indiana",
+        "zip": "55107"
+    },
+    "contact": {
+        "phone": "513-331-2185x65464",
+        "servicePhone": "800611595"
+    },
+    "birthday": "1925-17-10",
+    "ip": "199.127.69.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting training here year account. Property various industry above good woman kid. Chair than may board physical stage.\nEnjoy try across society. Carry picture both lot.",
+        "bio": "Require foot all find any month. More simply individual time. Left ready lose use certainly resource treat. Power born woman official fight operation drop."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}

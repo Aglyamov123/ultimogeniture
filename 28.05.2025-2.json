@@ -1,0 +1,25 @@
+{
+    "name": "Hayley Butler",
+    "age": 95,
+    "address": {
+        "street": "Parker Plaza",
+        "city": "Amandabury",
+        "state": "Delaware",
+        "zip": "30258"
+    },
+    "contact": {
+        "phone": "+1-526-200-2676x832",
+        "servicePhone": "800936802"
+    },
+    "birthday": "1930-08-07",
+    "ip": "175.90.163.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Because spring whose usually than history. Service section benefit poor. Cold trial almost job. Show hair full adult blue.",
+        "bio": "Morning front large option modern. Gas military finally. Song price box show dog accept also.\nNight listen laugh statement individual most hear. Game lot discussion.\nFeel term more admit."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}

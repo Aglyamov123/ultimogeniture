@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Reeves",
+    "age": 17,
+    "address": {
+        "street": "Nathaniel Pines",
+        "city": "Stonemouth",
+        "state": "Oklahoma",
+        "zip": "55129"
+    },
+    "contact": {
+        "phone": "(838)440-3107",
+        "servicePhone": "800547706"
+    },
+    "birthday": "2008-27-10",
+    "ip": "207.39.52.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Station similar interview truth cold difference. Stage set which social door. Reduce book plant than.",
+        "bio": "Care rich politics cause cut agree. Course financial also candidate news record.\nInstitution series agree environmental former or perhaps manager. Large and market."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

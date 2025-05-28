@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Gonzales",
+    "age": 92,
+    "address": {
+        "street": "Christian Fields",
+        "city": "Gonzalesborough",
+        "state": "New Hampshire",
+        "zip": "36526"
+    },
+    "contact": {
+        "phone": "804-570-2972x03918",
+        "servicePhone": "800640115"
+    },
+    "birthday": "1933-18-05",
+    "ip": "58.62.25.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Floor executive school while bill be just.",
+        "bio": "Daughter general read. Rather place wide war box risk. Stand describe car large blood sign.\nWorld half activity necessary spring without."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}

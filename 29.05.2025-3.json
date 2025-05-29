@@ -1,0 +1,25 @@
+{
+    "name": "David Huang",
+    "age": 115,
+    "address": {
+        "street": "Christine Grove",
+        "city": "South Alexischester",
+        "state": "Arizona",
+        "zip": "22232"
+    },
+    "contact": {
+        "phone": "001-270-525-0262x09534",
+        "servicePhone": "800310100"
+    },
+    "birthday": "1910-05-02",
+    "ip": "54.178.59.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare dream attention point. Station day now series. This let cell PM myself this across.",
+        "bio": "Suggest staff market food kind. Simple large market model order.\nReport along area change mention through especially natural. Pressure political learn TV require source."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}

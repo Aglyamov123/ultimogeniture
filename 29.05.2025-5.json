@@ -1,0 +1,25 @@
+{
+    "name": "Latoya Love",
+    "age": 26,
+    "address": {
+        "street": "David Crest",
+        "city": "Carlosville",
+        "state": "Alabama",
+        "zip": "43422"
+    },
+    "contact": {
+        "phone": "001-615-234-1571x37977",
+        "servicePhone": "800139536"
+    },
+    "birthday": "1999-13-12",
+    "ip": "11.105.52.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist total true sign ok. Responsibility white instead green laugh big thousand.",
+        "bio": "Yeah claim great teach ok want and. Head people bag ahead."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}

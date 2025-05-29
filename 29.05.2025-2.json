@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda Grant",
+    "age": 84,
+    "address": {
+        "street": "Brandon Square",
+        "city": "Anneland",
+        "state": "New Hampshire",
+        "zip": "90291"
+    },
+    "contact": {
+        "phone": "211-352-2817x8725",
+        "servicePhone": "800161560"
+    },
+    "birthday": "1941-03-02",
+    "ip": "63.94.219.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Anything boy believe include hold pretty network alone. Occur bag debate forward themselves stand.\nWay son society. Record leg though leader. Activity kind glass century.",
+        "bio": "Learn example vote first ok stock discussion. Forward out appear through pretty despite hope. Majority TV middle true blue."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}

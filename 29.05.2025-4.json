@@ -1,0 +1,25 @@
+{
+    "name": "Miss Barbara Gomez DDS",
+    "age": 10,
+    "address": {
+        "street": "Taylor Plaza",
+        "city": "East Roy",
+        "state": "Texas",
+        "zip": "92682"
+    },
+    "contact": {
+        "phone": "578.784.4152",
+        "servicePhone": "800327644"
+    },
+    "birthday": "2015-01-07",
+    "ip": "214.80.202.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive move per never environmental agreement. Three believe accept election recognize sister president mother. Garden camera test cover recently inside magazine.",
+        "bio": "Member from concern rest no. Model enjoy media meet finally. Generation change health rich position member various old."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

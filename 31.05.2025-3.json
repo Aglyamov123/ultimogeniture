@@ -1,0 +1,25 @@
+{
+    "name": "Joan Carroll",
+    "age": 96,
+    "address": {
+        "street": "Simmons Locks",
+        "city": "Sabrinahaven",
+        "state": "Virginia",
+        "zip": "76349"
+    },
+    "contact": {
+        "phone": "488-607-1983",
+        "servicePhone": "800740991"
+    },
+    "birthday": "1929-15-10",
+    "ip": "54.194.97.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Always quality sister thank share sense eight sure. Arrive right experience detail wind late ago in. Election guy nothing central region wait accept.",
+        "bio": "Live large window whether table only. Bag usually learn purpose their manage determine. Memory large send through choose surface. Try blue people country."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}

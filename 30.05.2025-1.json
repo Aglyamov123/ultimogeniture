@@ -1,0 +1,25 @@
+{
+    "name": "Laura Phillips",
+    "age": 36,
+    "address": {
+        "street": "Vincent Mills",
+        "city": "West Jacobshire",
+        "state": "Mississippi",
+        "zip": "73232"
+    },
+    "contact": {
+        "phone": "920.456.2834",
+        "servicePhone": "800177790"
+    },
+    "birthday": "1989-07-04",
+    "ip": "95.64.150.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Special resource economic network carry. Official generation view concern woman. Above yeah operation.\nSubject note animal edge stand you about. Place you let.",
+        "bio": "Low war already after plant most. Generation hit never floor style middle. Employee sport return sister mention.\nReturn government parent. Care check cell often sometimes hospital heavy."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "David Johnson",
+    "age": 66,
+    "address": {
+        "street": "Williams Point",
+        "city": "Carterfort",
+        "state": "Minnesota",
+        "zip": "85600"
+    },
+    "contact": {
+        "phone": "001-472-374-0147x978",
+        "servicePhone": "800156528"
+    },
+    "birthday": "1959-22-12",
+    "ip": "65.210.135.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Treatment institution could discover deal. Should point husband need throughout kitchen.\nBreak for individual hold. Middle party great everybody. Hard nor involve plan land through.",
+        "bio": "Claim service meeting anything fill. Particularly white population total how. Fish marriage account. Degree agent concern hold particular.\nTable mission if decade. Interview player strong test."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}

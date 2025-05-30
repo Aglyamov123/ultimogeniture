@@ -1,0 +1,25 @@
+{
+    "name": "Tim Hamilton",
+    "age": 44,
+    "address": {
+        "street": "Burton Avenue",
+        "city": "Suttonshire",
+        "state": "Idaho",
+        "zip": "32459"
+    },
+    "contact": {
+        "phone": "(674)672-7906x526",
+        "servicePhone": "800850241"
+    },
+    "birthday": "1981-25-05",
+    "ip": "209.166.13.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Pass political determine yourself fear maybe. Be contain especially example account. Instead your general senior appear what agreement.",
+        "bio": "This positive officer discover fly break. Form beat maintain involve do seat fine address."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}

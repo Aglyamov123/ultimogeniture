@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Spencer",
+    "age": 72,
+    "address": {
+        "street": "Tate Alley",
+        "city": "Lake Alyssabury",
+        "state": "Arizona",
+        "zip": "13772"
+    },
+    "contact": {
+        "phone": "(226)209-4792x531",
+        "servicePhone": "800369130"
+    },
+    "birthday": "1953-08-02",
+    "ip": "171.193.10.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Prepare together past leg do deal rich. Kid both very. Garden arrive worry animal go.",
+        "bio": "Social much hope cut against success. Why matter scene into girl group. Quite beat order own. Rate prevent present travel wife discover such cell."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Javier Hill",
+    "age": 20,
+    "address": {
+        "street": "Mccullough Spring",
+        "city": "Olsenborough",
+        "state": "West Virginia",
+        "zip": "15685"
+    },
+    "contact": {
+        "phone": "867-486-3976",
+        "servicePhone": "800004959"
+    },
+    "birthday": "2005-13-07",
+    "ip": "217.134.112.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Those generation eight before. Happen economic somebody once care. Much top they.\nLate option to president exist break.",
+        "bio": "Half ground shake. Serve development break financial would plant three. Democratic three data world investment attention gas there. Catch trial school difference."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}

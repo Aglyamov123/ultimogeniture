@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Wilson",
+    "age": 16,
+    "address": {
+        "street": "Gill Harbors",
+        "city": "Andrewsmouth",
+        "state": "New Hampshire",
+        "zip": "21094"
+    },
+    "contact": {
+        "phone": "911.288.8783x018",
+        "servicePhone": "800162571"
+    },
+    "birthday": "2009-23-11",
+    "ip": "177.205.249.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake kid baby itself course huge small. Company direction offer feeling yet with teacher.\nAttorney operation receive course so language. Region politics next ten.",
+        "bio": "Hope card your sit piece. Marriage local ago few. Approach statement score remember ago.\nModern life lawyer huge. Economy experience visit direction. Around mother poor feeling risk year clear."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}

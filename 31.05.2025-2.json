@@ -1,0 +1,25 @@
+{
+    "name": "Brian Boone",
+    "age": 47,
+    "address": {
+        "street": "Kayla Freeway",
+        "city": "Meganport",
+        "state": "Alabama",
+        "zip": "40007"
+    },
+    "contact": {
+        "phone": "(891)392-3778",
+        "servicePhone": "800388626"
+    },
+    "birthday": "1978-13-09",
+    "ip": "166.238.21.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Two rock late marriage. Low into gas plan will concern.\nDecade third accept both lead evening. Heart away care there check understand. Commercial democratic him cultural.",
+        "bio": "Affect particularly else performance analysis democratic. Job other miss.\nThousand station suddenly employee soon. Drive everybody nor share until. Remember claim energy base treatment whose term."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}

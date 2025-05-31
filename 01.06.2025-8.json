@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Martin",
+    "age": 57,
+    "address": {
+        "street": "Davis Trail",
+        "city": "Brittanyland",
+        "state": "Rhode Island",
+        "zip": "58311"
+    },
+    "contact": {
+        "phone": "(466)792-2634",
+        "servicePhone": "800359897"
+    },
+    "birthday": "1968-17-08",
+    "ip": "214.52.244.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical suggest meet on.\nDetail structure wrong box.\nFather use happen despite more prepare. College including hair ever get near.\nEye look loss check. Pass everything within part rise month.",
+        "bio": "Pay dream wait particularly fear fast. Later life professional success garden surface.\nOffice develop fight election remember wrong however. Purpose summer office."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}

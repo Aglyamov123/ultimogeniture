@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Buchanan",
+    "age": 90,
+    "address": {
+        "street": "Jones Lodge",
+        "city": "Matthewport",
+        "state": "Mississippi",
+        "zip": "74012"
+    },
+    "contact": {
+        "phone": "204.369.8135",
+        "servicePhone": "800636873"
+    },
+    "birthday": "1935-16-04",
+    "ip": "219.231.82.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Skin campaign bill detail. Discussion around myself over especially consumer section.",
+        "bio": "Direction into risk inside page stuff end. Television probably operation religious feel tend size event. Despite federal president lot civil body.\nWish its yeah woman."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

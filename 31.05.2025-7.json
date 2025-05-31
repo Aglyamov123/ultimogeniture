@@ -1,0 +1,25 @@
+{
+    "name": "Marilyn Lam",
+    "age": 7,
+    "address": {
+        "street": "Allison Underpass",
+        "city": "West Veronica",
+        "state": "Illinois",
+        "zip": "45366"
+    },
+    "contact": {
+        "phone": "2393487903",
+        "servicePhone": "800032718"
+    },
+    "birthday": "2018-30-12",
+    "ip": "213.241.255.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Someone even support.\nPartner color likely wonder wonder explain stage collection. Themselves rule main price case least road near.",
+        "bio": "Case care more baby common next official author. Nice month spring.\nDecide although billion gas less. Message Congress democratic party."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

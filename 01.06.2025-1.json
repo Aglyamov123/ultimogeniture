@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Cox",
+    "age": 11,
+    "address": {
+        "street": "Carter Place",
+        "city": "Lake Randy",
+        "state": "Mississippi",
+        "zip": "37704"
+    },
+    "contact": {
+        "phone": "(651)656-5950x86416",
+        "servicePhone": "800512862"
+    },
+    "birthday": "2014-21-09",
+    "ip": "165.59.55.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Already month usually. Born financial guy land.\nStandard it audience theory relationship investment attention. Discuss campaign film. Every practice election produce our accept.",
+        "bio": "Let man pull yes house step whether so. Wish town real indicate because home. Federal recently bed measure defense."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

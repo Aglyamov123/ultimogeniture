@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Gonzalez",
+    "age": 41,
+    "address": {
+        "street": "Jason Crossroad",
+        "city": "Lake Heatherton",
+        "state": "South Carolina",
+        "zip": "47957"
+    },
+    "contact": {
+        "phone": "8603473757",
+        "servicePhone": "800114952"
+    },
+    "birthday": "1984-30-08",
+    "ip": "169.183.96.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate land first form let be threat capital. Radio head early tonight.\nMedia each throw person art task smile indeed. Practice music state network minute.",
+        "bio": "Arm option do style stock fine early. Or media raise early least situation."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}

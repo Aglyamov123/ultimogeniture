@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Jacobs",
+    "age": 13,
+    "address": {
+        "street": "Terri Streets",
+        "city": "Williamland",
+        "state": "New York",
+        "zip": "86072"
+    },
+    "contact": {
+        "phone": "683.429.6043x937",
+        "servicePhone": "800533850"
+    },
+    "birthday": "2012-11-03",
+    "ip": "48.231.197.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Treatment light figure measure article space point. Media blood six. Issue employee ten season pick sort.",
+        "bio": "Operation town not campaign. Down price sort magazine.\nConcern indicate style. Meet let itself interest good head set. Memory instead long cold they meeting hit."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}

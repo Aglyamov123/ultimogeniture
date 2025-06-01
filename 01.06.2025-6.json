@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Jackson",
+    "age": 39,
+    "address": {
+        "street": "Caroline Drive",
+        "city": "New Edward",
+        "state": "Wisconsin",
+        "zip": "57061"
+    },
+    "contact": {
+        "phone": "738-532-1061",
+        "servicePhone": "800084912"
+    },
+    "birthday": "1986-24-04",
+    "ip": "35.235.53.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer story a top born moment information.\nLife personal wish inside. Share degree remain relationship some similar space.",
+        "bio": "Action same take. Republican of you gas fish together dinner. Stage bed there direction under pay hit federal."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Estrada",
+    "age": 105,
+    "address": {
+        "street": "Lee Summit",
+        "city": "West Danielleland",
+        "state": "North Dakota",
+        "zip": "54183"
+    },
+    "contact": {
+        "phone": "(411)330-9964x89585",
+        "servicePhone": "800911235"
+    },
+    "birthday": "1920-15-02",
+    "ip": "68.8.207.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Just despite defense hear heart pressure inside three. Second soldier new the. Message base form thing near scientist.",
+        "bio": "Mr military but imagine wind. Loss act yeah fine body.\nCollection together watch investment area later around. Support country wall describe serve."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}

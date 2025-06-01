@@ -1,0 +1,25 @@
+{
+    "name": "Jason Glass",
+    "age": 79,
+    "address": {
+        "street": "Jerry Islands",
+        "city": "Scottchester",
+        "state": "Oregon",
+        "zip": "65160"
+    },
+    "contact": {
+        "phone": "670.623.5966x26247",
+        "servicePhone": "800130368"
+    },
+    "birthday": "1946-02-01",
+    "ip": "192.89.92.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Change great either poor.\nCreate best it anything spring never not. Science assume send national.",
+        "bio": "Economic wish term soon. Sport Congress clearly five. Human song cost.\nRather both some as training. Magazine read family government floor. Such now approach list pull wind order."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}

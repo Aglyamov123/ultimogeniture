@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Diaz",
+    "age": 112,
+    "address": {
+        "street": "Steven Ramp",
+        "city": "North Kristenburgh",
+        "state": "Texas",
+        "zip": "82459"
+    },
+    "contact": {
+        "phone": "635-408-4773",
+        "servicePhone": "800686460"
+    },
+    "birthday": "1913-01-10",
+    "ip": "163.155.90.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Defense only spring top produce meeting president.\nUntil clear science sometimes bed. Section note main trouble mention forget sing student. Source about general must.",
+        "bio": "Operation few these others economy. Country hard fire will particularly. Business nor thousand him true picture.\nUnit tonight from hear threat develop. Big center run as economy where traditional."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

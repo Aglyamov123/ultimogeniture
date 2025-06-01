@@ -1,0 +1,25 @@
+{
+    "name": "Julie Young",
+    "age": 15,
+    "address": {
+        "street": "Tamara Corner",
+        "city": "South Kristen",
+        "state": "California",
+        "zip": "41365"
+    },
+    "contact": {
+        "phone": "929-522-2154x43246",
+        "servicePhone": "800030174"
+    },
+    "birthday": "2010-20-11",
+    "ip": "97.205.157.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Out million rule. Follow region coach explain author before production. Report board north him reason option worker practice.\nCustomer five pick base man those. Cause cup nearly poor quality.",
+        "bio": "Relationship source quality against official question. Drop television vote mother kid government."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Cassie Smith",
+    "age": 15,
+    "address": {
+        "street": "Christopher Dam",
+        "city": "South Christine",
+        "state": "North Dakota",
+        "zip": "90891"
+    },
+    "contact": {
+        "phone": "001-656-692-6623x467",
+        "servicePhone": "800012210"
+    },
+    "birthday": "2010-31-07",
+    "ip": "160.104.148.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Black million energy Republican full bed.\nManagement customer human itself suggest order action. Happen lawyer technology include wear send be. The new whole structure part.",
+        "bio": "Politics dinner success participant.\nTime note remain listen movie radio protect. Policy suggest but total party agent exactly. Customer relationship other spend stock either."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

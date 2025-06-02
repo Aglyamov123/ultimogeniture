@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Wilcox",
+    "age": 10,
+    "address": {
+        "street": "Perez Center",
+        "city": "Rachelport",
+        "state": "Virginia",
+        "zip": "14096"
+    },
+    "contact": {
+        "phone": "240.924.0909x4816",
+        "servicePhone": "800734110"
+    },
+    "birthday": "2015-09-01",
+    "ip": "194.5.242.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Call PM arm where to those beat. Leave small kitchen its. Rule three apply both provide raise type.\nArt knowledge add occur throw source sing. Politics chair decide avoid away project.",
+        "bio": "Probably cold their detail say finally. Themselves fire stay difficult.\nCountry suffer major great bit. Fish democratic white opportunity. Customer other particular."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}

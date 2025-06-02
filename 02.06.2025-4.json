@@ -1,0 +1,25 @@
+{
+    "name": "Wayne Parker",
+    "age": 31,
+    "address": {
+        "street": "Moore Bypass",
+        "city": "Port Stephaniefurt",
+        "state": "Tennessee",
+        "zip": "50282"
+    },
+    "contact": {
+        "phone": "(642)435-0746",
+        "servicePhone": "800283012"
+    },
+    "birthday": "1994-19-06",
+    "ip": "19.11.103.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Win other should leave because. Example stage identify professor party cell. Say maintain mouth without fine student.",
+        "bio": "Discussion else positive see city. Others us avoid right or.\nFeel chance organization. Member since respond end result. Focus figure TV medical baby."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

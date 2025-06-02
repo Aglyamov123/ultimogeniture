@@ -1,0 +1,25 @@
+{
+    "name": "Jeremiah White",
+    "age": 91,
+    "address": {
+        "street": "Cook Stream",
+        "city": "Bonniebury",
+        "state": "Mississippi",
+        "zip": "63660"
+    },
+    "contact": {
+        "phone": "(963)871-8611x34892",
+        "servicePhone": "800293822"
+    },
+    "birthday": "1934-15-12",
+    "ip": "131.16.100.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Forward and stuff message black indeed during. Agency community myself record have form certainly. Physical school treat analysis.",
+        "bio": "Available put develop trial here project. Service big dinner machine interview a road hair.\nArgue owner several onto million."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}

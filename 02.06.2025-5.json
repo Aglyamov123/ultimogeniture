@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Ward",
+    "age": 103,
+    "address": {
+        "street": "Brown Light",
+        "city": "Lake Lorraineview",
+        "state": "Montana",
+        "zip": "21814"
+    },
+    "contact": {
+        "phone": "918.201.2104x17411",
+        "servicePhone": "800510165"
+    },
+    "birthday": "1922-20-11",
+    "ip": "2.249.183.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Officer better evening describe reason budget. Citizen save almost good might something look. Follow beautiful act set degree build more.",
+        "bio": "Form account billion member western citizen throw.\nCard its common majority quite top poor well. Yourself question executive early mind star eight. Different where protect ago minute."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}

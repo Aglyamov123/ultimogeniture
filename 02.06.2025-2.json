@@ -1,0 +1,25 @@
+{
+    "name": "Angelica Holloway",
+    "age": 76,
+    "address": {
+        "street": "Jackson Lodge",
+        "city": "Port Amandabury",
+        "state": "Michigan",
+        "zip": "39212"
+    },
+    "contact": {
+        "phone": "(382)895-5272",
+        "servicePhone": "800972634"
+    },
+    "birthday": "1949-25-02",
+    "ip": "134.195.9.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement wonder development future first. Especially less poor science Congress. Majority dinner commercial which region affect agreement.",
+        "bio": "Style however a clearly.\nPerform respond indeed nice still vote.\nOne sing democratic wide rule. Allow top position middle tree. Next deal until decide support bed TV. Today data risk."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Phillip Baker",
+    "age": 34,
+    "address": {
+        "street": "Kristopher Street",
+        "city": "South Juanmouth",
+        "state": "Louisiana",
+        "zip": "43759"
+    },
+    "contact": {
+        "phone": "643-527-7930x2404",
+        "servicePhone": "800930932"
+    },
+    "birthday": "1991-16-01",
+    "ip": "77.205.45.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Allow six yourself job find. Also sing increase away occur.\nImagine home partner natural gas. Prevent thought market. Control forget need may study too rich.",
+        "bio": "Recent business of have among. Agent different sea school agree.\nThere offer until term this course alone. Improve daughter speak city why really."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "James Howell",
+    "age": 106,
+    "address": {
+        "street": "Perkins Manors",
+        "city": "South Melissa",
+        "state": "Michigan",
+        "zip": "35164"
+    },
+    "contact": {
+        "phone": "(401)839-6320x19861",
+        "servicePhone": "800675306"
+    },
+    "birthday": "1919-23-09",
+    "ip": "202.134.246.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Against but exist soon bad. Yard if stay much. Section gun administration born cell among never table.",
+        "bio": "Out during decision medical second impact. Call tonight Mr seem nor. Friend market help against beautiful. Even station while impact.\nPolitics drug work become other."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}

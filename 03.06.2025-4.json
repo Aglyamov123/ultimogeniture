@@ -1,0 +1,25 @@
+{
+    "name": "Eric Jensen",
+    "age": 71,
+    "address": {
+        "street": "Travis Turnpike",
+        "city": "Graymouth",
+        "state": "Wyoming",
+        "zip": "61300"
+    },
+    "contact": {
+        "phone": "001-319-688-8958x96518",
+        "servicePhone": "800749995"
+    },
+    "birthday": "1954-31-05",
+    "ip": "29.123.162.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Mind environmental service describe finally cut blue. Today adult general stock story radio area.\nMeeting any finish she by control pattern. Order whole radio cup final week enough.",
+        "bio": "Example local piece involve story wish behavior. Skin agency ten ask cultural.\nMe many area listen order become eight test. Page anyone resource property against family rise radio."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

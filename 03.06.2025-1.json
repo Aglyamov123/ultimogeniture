@@ -1,0 +1,25 @@
+{
+    "name": "Craig Peterson",
+    "age": 10,
+    "address": {
+        "street": "Mcmahon Ferry",
+        "city": "Ashleyfurt",
+        "state": "Alaska",
+        "zip": "15069"
+    },
+    "contact": {
+        "phone": "756-871-7069x8309",
+        "servicePhone": "800923434"
+    },
+    "birthday": "2015-25-05",
+    "ip": "97.98.240.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Work nature arrive her seven best. Physical same assume guy hundred can. Especially site investment knowledge remain.\nBeautiful hot leader tax. Perhaps family individual see own much carry.",
+        "bio": "Conference laugh low grow. Nation real he election interest surface. Through every require surface environment."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}

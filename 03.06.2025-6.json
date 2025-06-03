@@ -1,0 +1,25 @@
+{
+    "name": "Angela Baldwin",
+    "age": 12,
+    "address": {
+        "street": "Joshua Keys",
+        "city": "Jeremyhaven",
+        "state": "Michigan",
+        "zip": "96907"
+    },
+    "contact": {
+        "phone": "(835)928-8785",
+        "servicePhone": "800957280"
+    },
+    "birthday": "2013-29-07",
+    "ip": "210.102.140.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Improve through little color nature nation right nothing. Guess edge couple similar newspaper maintain movie. Charge political pull type.\nFly money few recently. Deep special free happy something.",
+        "bio": "Hold end your thank point skin sister technology. Grow camera oil.\nExperience daughter without rather imagine significant size.\nBudget likely material do second specific. Support carry back car day."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}

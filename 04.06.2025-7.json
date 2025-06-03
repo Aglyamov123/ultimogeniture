@@ -1,0 +1,25 @@
+{
+    "name": "Monica Trevino",
+    "age": 97,
+    "address": {
+        "street": "Velazquez Loaf",
+        "city": "West Davidport",
+        "state": "Arkansas",
+        "zip": "78382"
+    },
+    "contact": {
+        "phone": "313-784-4961x3946",
+        "servicePhone": "800591437"
+    },
+    "birthday": "1928-13-10",
+    "ip": "206.63.208.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Recently then other soldier girl through. Social hundred cost give. For method from five health traditional. Up lay wait nor turn spring.",
+        "bio": "Positive thousand people two effect.\nHappen feeling agency eight fast bring on.\nHerself peace senior personal south try expect. Know month couple."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}

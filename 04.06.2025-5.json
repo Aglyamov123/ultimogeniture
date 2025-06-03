@@ -1,0 +1,25 @@
+{
+    "name": "Marie Wilson",
+    "age": 79,
+    "address": {
+        "street": "Johnson Ford",
+        "city": "Port Briana",
+        "state": "Arkansas",
+        "zip": "46082"
+    },
+    "contact": {
+        "phone": "001-845-380-5183x8745",
+        "servicePhone": "800868366"
+    },
+    "birthday": "1946-20-06",
+    "ip": "103.18.251.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Each about how. Positive leader herself minute.\nAs little owner reduce. Director example agency see give result heavy design.",
+        "bio": "Television low increase become quickly red. Necessary professor push art. Mr two president media especially."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

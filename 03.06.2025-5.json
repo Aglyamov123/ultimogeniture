@@ -1,0 +1,25 @@
+{
+    "name": "Steven Chavez",
+    "age": 2,
+    "address": {
+        "street": "Petersen Dam",
+        "city": "New Denisehaven",
+        "state": "Wyoming",
+        "zip": "08806"
+    },
+    "contact": {
+        "phone": "(626)919-8259",
+        "servicePhone": "800417206"
+    },
+    "birthday": "2023-17-01",
+    "ip": "83.125.40.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Realize central type lawyer ready. Billion today region under hope role. Democrat me practice receive.\nNow somebody tree. Year say argue event piece fast stand.\nControl simple yourself daughter.",
+        "bio": "Detail leader whom our teach value gun.\nDirector news however price eye perform too.\nOr stage TV rest whatever. Score yes relate letter bank training but."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}

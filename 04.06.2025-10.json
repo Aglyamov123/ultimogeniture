@@ -1,0 +1,25 @@
+{
+    "name": "Emma Williams",
+    "age": 49,
+    "address": {
+        "street": "Miguel Ranch",
+        "city": "Douglasland",
+        "state": "Vermont",
+        "zip": "00554"
+    },
+    "contact": {
+        "phone": "(295)592-2123",
+        "servicePhone": "800757111"
+    },
+    "birthday": "1976-10-04",
+    "ip": "97.232.165.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Order reality pay agreement. Purpose street fly form boy red much join. Score around two character particularly get international.\nMyself design build nearly. Thought figure left world.",
+        "bio": "Material prove kid employee physical throw. Know door debate simple.\nTree between argue language front once."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}

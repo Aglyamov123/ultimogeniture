@@ -1,0 +1,25 @@
+{
+    "name": "Erin Jones",
+    "age": 103,
+    "address": {
+        "street": "Long Plaza",
+        "city": "Mccarthyside",
+        "state": "Rhode Island",
+        "zip": "10284"
+    },
+    "contact": {
+        "phone": "+1-282-602-8273x228",
+        "servicePhone": "800295262"
+    },
+    "birthday": "1922-29-09",
+    "ip": "179.65.171.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider recently town. Up sport poor herself require.\nThrough choose performance some require. Treat million city.\nTend position receive. Amount allow model society road computer.",
+        "bio": "Standard season argue they believe. First edge rule line.\nResponsibility begin daughter receive nearly candidate have process. Staff far against behavior economy young."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

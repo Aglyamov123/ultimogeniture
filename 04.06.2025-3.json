@@ -1,0 +1,25 @@
+{
+    "name": "Caitlin Coleman",
+    "age": 46,
+    "address": {
+        "street": "Amy Crescent",
+        "city": "Annaburgh",
+        "state": "West Virginia",
+        "zip": "35290"
+    },
+    "contact": {
+        "phone": "+1-796-560-0965x5514",
+        "servicePhone": "800624092"
+    },
+    "birthday": "1979-16-02",
+    "ip": "165.78.199.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Speak close answer toward group. Own worry save yes capital do.\nFour agent look speak staff rock section mention. Large cut article.",
+        "bio": "Once read culture young several effort blood. Add father lead issue. Why should develop bit since nor Mrs."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}

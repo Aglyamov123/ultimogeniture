@@ -1,0 +1,25 @@
+{
+    "name": "James Crawford",
+    "age": 100,
+    "address": {
+        "street": "Knox Forks",
+        "city": "West Crystalview",
+        "state": "Arkansas",
+        "zip": "08817"
+    },
+    "contact": {
+        "phone": "(521)628-4598",
+        "servicePhone": "800379181"
+    },
+    "birthday": "1925-20-08",
+    "ip": "182.147.173.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Seem direction civil dark feeling. You thus where might save. Team evidence within could spend your both.\nBook true grow like environment nearly. Economic item Mrs great truth type.",
+        "bio": "Medical among tonight bed. Child place agree especially.\nSpring seven whole leader. Industry attorney citizen school. Play five I year these another doctor.\nGas better should approach."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "April Martinez",
+    "age": 26,
+    "address": {
+        "street": "Beck Square",
+        "city": "East Melissa",
+        "state": "Rhode Island",
+        "zip": "28790"
+    },
+    "contact": {
+        "phone": "249-832-8300",
+        "servicePhone": "800246142"
+    },
+    "birthday": "1999-14-04",
+    "ip": "195.216.18.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Century small recent traditional. Old between season ok agency. So century but.\nToward actually forward. Nice beautiful education quite moment cut behavior. Often someone east none bad above.",
+        "bio": "Look per research see owner. Learn leader president north various car bag give. Thus heart paper book wear want.\nNews try whom local. Enough size able least vote."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

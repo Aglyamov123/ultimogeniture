@@ -1,0 +1,25 @@
+{
+    "name": "Robert Brown",
+    "age": 41,
+    "address": {
+        "street": "Horton Roads",
+        "city": "Roachstad",
+        "state": "Kentucky",
+        "zip": "76142"
+    },
+    "contact": {
+        "phone": "+1-810-490-4251x77005",
+        "servicePhone": "800891804"
+    },
+    "birthday": "1984-20-06",
+    "ip": "106.244.130.89",
+    "foo": "bar",
+    "profile": {
+        "about": "At position charge. Street letter area firm through.\nSimilar today recently study tough writer question. Room husband prepare listen customer both.",
+        "bio": "Raise world for new add. Expert beautiful smile various practice court employee most."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}

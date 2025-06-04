@@ -1,0 +1,25 @@
+{
+    "name": "Randy Cisneros",
+    "age": 85,
+    "address": {
+        "street": "Renee Wall",
+        "city": "Millsmouth",
+        "state": "Vermont",
+        "zip": "10677"
+    },
+    "contact": {
+        "phone": "001-211-483-0730x680",
+        "servicePhone": "800525999"
+    },
+    "birthday": "1940-25-12",
+    "ip": "187.82.65.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart still choose place. Statement but level quite.\nTell check democratic. Town ask ok loss treat step. Guess what pattern moment point field.",
+        "bio": "On sense note operation high you. Everything main skill.\nHuman else ten crime then television. Learn end produce carry.\nRead respond source agent certain exist. Hour range wife your."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}

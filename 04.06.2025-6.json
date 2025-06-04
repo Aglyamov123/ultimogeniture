@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Lauren White",
+    "age": 34,
+    "address": {
+        "street": "Giles Summit",
+        "city": "Whitehaven",
+        "state": "Oklahoma",
+        "zip": "63745"
+    },
+    "contact": {
+        "phone": "890.386.9258",
+        "servicePhone": "800659830"
+    },
+    "birthday": "1991-20-09",
+    "ip": "215.226.143.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Concern energy thank would head. Husband stay necessary brother garden project appear.\nFollow really rise a. Evidence feel sea.\nWonder response also game. Treat station like.",
+        "bio": "Week article charge husband western have international whole. Everything dog indicate culture everyone."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

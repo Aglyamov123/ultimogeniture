@@ -1,0 +1,25 @@
+{
+    "name": "Phillip White",
+    "age": 100,
+    "address": {
+        "street": "Barbara Mission",
+        "city": "Alisonmouth",
+        "state": "Oklahoma",
+        "zip": "30508"
+    },
+    "contact": {
+        "phone": "461-294-6044x609",
+        "servicePhone": "800636553"
+    },
+    "birthday": "1925-03-11",
+    "ip": "30.7.139.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Fund hold could military resource parent parent society.",
+        "bio": "Say ready ready society next address. Reason act option fight voice boy.\nRoom yet black body information. Behavior choose fine very assume box there. Customer rate great attention itself appear."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}

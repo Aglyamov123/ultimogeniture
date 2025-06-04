@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Velasquez",
+    "age": 12,
+    "address": {
+        "street": "William Isle",
+        "city": "Pierceville",
+        "state": "New Jersey",
+        "zip": "62049"
+    },
+    "contact": {
+        "phone": "364-844-6428",
+        "servicePhone": "800832337"
+    },
+    "birthday": "2013-30-09",
+    "ip": "69.121.64.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Management consider evidence cell. So economy student include although and. So Mr author and already.",
+        "bio": "Vote network war economic daughter popular range. Forget black free factor only. Major score job that main lawyer. Week sort everyone standard training future."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

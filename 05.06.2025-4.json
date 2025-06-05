@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Bean",
+    "age": 102,
+    "address": {
+        "street": "Flores Lock",
+        "city": "Granthaven",
+        "state": "Minnesota",
+        "zip": "97843"
+    },
+    "contact": {
+        "phone": "(347)203-6939",
+        "servicePhone": "800807745"
+    },
+    "birthday": "1923-09-05",
+    "ip": "58.0.252.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Fund international wall guess exist.\nUpon station image view contain structure soldier. Course culture age war draw.",
+        "bio": "Lawyer arm she recently smile. Strategy successful who necessary voice born suddenly. Clearly open present chair these."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}

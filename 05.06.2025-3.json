@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Campos",
+    "age": 40,
+    "address": {
+        "street": "Elizabeth Extensions",
+        "city": "West Zacharyview",
+        "state": "Vermont",
+        "zip": "84180"
+    },
+    "contact": {
+        "phone": "786.963.9126",
+        "servicePhone": "800402370"
+    },
+    "birthday": "1985-28-05",
+    "ip": "14.2.64.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Special after study carry. State over change use gun firm share. Decision enjoy put produce similar tend civil natural. Forward lead job face.",
+        "bio": "Money vote throughout bit. In decide west. Clearly law last there."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}

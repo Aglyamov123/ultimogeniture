@@ -1,0 +1,25 @@
+{
+    "name": "Robert Huff",
+    "age": 8,
+    "address": {
+        "street": "Allison Roads",
+        "city": "Stevenville",
+        "state": "Louisiana",
+        "zip": "61655"
+    },
+    "contact": {
+        "phone": "2578732456",
+        "servicePhone": "800138961"
+    },
+    "birthday": "2017-10-04",
+    "ip": "179.107.93.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Daughter seem song budget state maybe. Catch possible forward result. Ten reality have scientist mission.\nAlong as live. About another draw recently significant smile.",
+        "bio": "Record agent soldier truth performance call mouth. Purpose degree ready quality politics politics. Capital mouth effort future wear ahead talk."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Kelly",
+    "age": 13,
+    "address": {
+        "street": "Philip Fields",
+        "city": "New Rebeccaport",
+        "state": "Tennessee",
+        "zip": "04718"
+    },
+    "contact": {
+        "phone": "801-508-1423x72235",
+        "servicePhone": "800053451"
+    },
+    "birthday": "2012-25-01",
+    "ip": "130.217.139.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother beautiful sign feeling cultural consumer. Chair meet someone behavior set respond seem financial. Ground his program not until method then. Stage sometimes accept central great entire red.",
+        "bio": "Same two choice set. Develop national hard majority major. Hear either election factor suffer analysis.\nEmployee like color. Total already general tree."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}

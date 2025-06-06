@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Bautista",
+    "age": 113,
+    "address": {
+        "street": "Mccormick Hollow",
+        "city": "Ericfurt",
+        "state": "Arizona",
+        "zip": "07401"
+    },
+    "contact": {
+        "phone": "908-634-7491x915",
+        "servicePhone": "800936018"
+    },
+    "birthday": "1912-28-02",
+    "ip": "183.127.99.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Study husband experience husband main. Kid shoulder teach. Each but continue among news kind science. Opportunity painting add prove pattern meet focus.",
+        "bio": "Design plan among. Majority role eat. Glass man door house approach across heart month.\nDemocratic mouth point sell maybe major box. Leader not three able sing soldier believe."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}

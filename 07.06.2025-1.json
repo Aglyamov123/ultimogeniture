@@ -1,0 +1,25 @@
+{
+    "name": "Ian Salazar",
+    "age": 27,
+    "address": {
+        "street": "Kevin Mission",
+        "city": "Johnborough",
+        "state": "Tennessee",
+        "zip": "64556"
+    },
+    "contact": {
+        "phone": "(569)832-1012",
+        "servicePhone": "800806661"
+    },
+    "birthday": "1998-11-12",
+    "ip": "41.199.204.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Provide for rate industry today.\nProve exactly consumer. Analysis say focus write discover film.\nSay future knowledge society he. Five consider arm fact court capital piece.",
+        "bio": "Without special nice next whatever value. School physical until him wait detail run exist. Benefit tend hot across rise.\nTrouble plant table end. Maybe his action each hour civil I."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}

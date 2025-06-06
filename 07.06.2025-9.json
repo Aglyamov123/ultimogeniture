@@ -1,0 +1,25 @@
+{
+    "name": "Kim Sanchez",
+    "age": 71,
+    "address": {
+        "street": "Oscar Springs",
+        "city": "Youngland",
+        "state": "Georgia",
+        "zip": "85701"
+    },
+    "contact": {
+        "phone": "836.245.8472",
+        "servicePhone": "800574427"
+    },
+    "birthday": "1954-02-02",
+    "ip": "12.178.133.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Result present respond. Vote daughter wall individual. Sit tax specific national easy movement phone.\nAlmost here real cell area production. Else kid south value.",
+        "bio": "Plan dream hold meeting some. Thus cover stuff order her together. Discover nature stock something must professor voice west."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

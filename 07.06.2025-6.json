@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Nielsen",
+    "age": 6,
+    "address": {
+        "street": "Barron Union",
+        "city": "South Joshuatown",
+        "state": "Arkansas",
+        "zip": "33906"
+    },
+    "contact": {
+        "phone": "306.372.8318x349",
+        "servicePhone": "800959656"
+    },
+    "birthday": "2019-12-04",
+    "ip": "203.215.24.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Parent race gun mother term executive. Design author language weight. Material manager best stand.\nSenior candidate deal make. Among commercial institution seem miss after weight.",
+        "bio": "Any happen yourself pretty officer everyone. Six physical base.\nKey certain describe much sign office executive. Bag certainly professional air."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}

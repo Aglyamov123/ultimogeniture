@@ -1,0 +1,25 @@
+{
+    "name": "Glenn Rodriguez",
+    "age": 26,
+    "address": {
+        "street": "Allen Overpass",
+        "city": "Whitestad",
+        "state": "Hawaii",
+        "zip": "22631"
+    },
+    "contact": {
+        "phone": "+1-879-911-0158x421",
+        "servicePhone": "800510054"
+    },
+    "birthday": "1999-27-09",
+    "ip": "80.192.218.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Pattern media by old reason. Next dark time hair. Prepare company anything see finally.\nEducation yet while. Sister them name stop. Drive go they collection.",
+        "bio": "Among popular civil security amount professional sound her.\nTogether nor only follow much involve."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}

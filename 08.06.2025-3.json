@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hall",
+    "age": 73,
+    "address": {
+        "street": "Mccarthy Courts",
+        "city": "South Nathan",
+        "state": "Louisiana",
+        "zip": "61088"
+    },
+    "contact": {
+        "phone": "(231)833-6828x01498",
+        "servicePhone": "800840254"
+    },
+    "birthday": "1952-14-08",
+    "ip": "42.191.34.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill fine no identify manager far. Growth bit face president Mrs out could. Production tend another myself.",
+        "bio": "Poor church research democratic tough role usually question. Office church daughter. Name would involve challenge establish white never.\nIndeed ground often anyone movie."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

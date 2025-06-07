@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Singh",
+    "age": 67,
+    "address": {
+        "street": "Hammond Mews",
+        "city": "South Elizabethchester",
+        "state": "Missouri",
+        "zip": "09020"
+    },
+    "contact": {
+        "phone": "381.288.3667x892",
+        "servicePhone": "800163363"
+    },
+    "birthday": "1958-29-08",
+    "ip": "9.141.108.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Town glass remember office cost. Book should car source power.\nDetail increase heavy south mind. Great within light turn campaign democratic information hot.",
+        "bio": "Outside other anyone prove. Probably bit final decision subject week tree.\nSay people light least age physical. Station enjoy lay clear full oil. Bad home real realize."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Hall",
+    "age": 26,
+    "address": {
+        "street": "Brandon Burg",
+        "city": "Walkerside",
+        "state": "New Hampshire",
+        "zip": "31137"
+    },
+    "contact": {
+        "phone": "(713)616-6592x768",
+        "servicePhone": "800663006"
+    },
+    "birthday": "1999-14-07",
+    "ip": "7.231.6.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Black arrive most best. Trouble fight unit matter ability fish smile.\nMy bill should order. Week door company she significant sometimes.",
+        "bio": "Usually process everyone size certain. Nothing lead ten fast law adult line. Want message successful performance.\nNews huge policy when mission. Bed present fight whatever."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

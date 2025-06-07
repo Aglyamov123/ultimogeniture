@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Mooney",
+    "age": 83,
+    "address": {
+        "street": "Blake Union",
+        "city": "Whitebury",
+        "state": "Iowa",
+        "zip": "29091"
+    },
+    "contact": {
+        "phone": "(226)580-8902",
+        "servicePhone": "800765468"
+    },
+    "birthday": "1942-07-07",
+    "ip": "137.196.246.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Soon increase poor whose. Concern offer even situation easy. Fear ok back floor hit suffer.\nWhat special forget general same. Image wait building.",
+        "bio": "Know imagine me describe consumer. Protect need suffer management.\nMy lose television each. Also them able wear key. Follow rich it education."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}

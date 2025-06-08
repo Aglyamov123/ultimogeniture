@@ -1,0 +1,25 @@
+{
+    "name": "Jody Holland",
+    "age": 20,
+    "address": {
+        "street": "Burgess Avenue",
+        "city": "New Debraton",
+        "state": "Florida",
+        "zip": "64139"
+    },
+    "contact": {
+        "phone": "804-503-4416x2640",
+        "servicePhone": "800091913"
+    },
+    "birthday": "2005-24-12",
+    "ip": "187.98.194.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Level even court federal six.\nBed explain name what talk continue computer. Dinner area drug it card probably security. Box somebody standard cell phone billion.",
+        "bio": "Sell environmental them ahead. Send family door force create senior a. Modern growth turn. Bar above interview enough forget gas cause.\nMean growth friend throw data something role."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

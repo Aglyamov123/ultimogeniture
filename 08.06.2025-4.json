@@ -1,0 +1,25 @@
+{
+    "name": "Whitney Clark",
+    "age": 90,
+    "address": {
+        "street": "Emily Key",
+        "city": "Katherinehaven",
+        "state": "Louisiana",
+        "zip": "40555"
+    },
+    "contact": {
+        "phone": "001-374-238-2468x873",
+        "servicePhone": "800306317"
+    },
+    "birthday": "1935-06-04",
+    "ip": "172.86.172.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Around become face voice course trouble commercial turn. Reduce a country may government store. Four region investment case move consumer wall onto.",
+        "bio": "Grow different understand strong. Now eight prove place. Picture director letter information against whose truth."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}

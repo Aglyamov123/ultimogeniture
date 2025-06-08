@@ -1,0 +1,25 @@
+{
+    "name": "Kristi Vaughn",
+    "age": 65,
+    "address": {
+        "street": "Lewis Hill",
+        "city": "Bradyfurt",
+        "state": "Mississippi",
+        "zip": "37386"
+    },
+    "contact": {
+        "phone": "243.333.2023",
+        "servicePhone": "800871067"
+    },
+    "birthday": "1960-19-04",
+    "ip": "201.123.39.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Treatment seem at the then boy. Watch direction understand. Recent wait beautiful sit upon.",
+        "bio": "Approach cause do surface pull. Significant thank just three approach.\nSuggest role project speak see. Either tree room stock sing.\nAnswer talk PM score ability against. Nation college on old."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

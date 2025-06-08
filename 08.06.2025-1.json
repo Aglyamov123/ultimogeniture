@@ -1,0 +1,25 @@
+{
+    "name": "Heather Ware",
+    "age": 96,
+    "address": {
+        "street": "David Inlet",
+        "city": "Timothychester",
+        "state": "Pennsylvania",
+        "zip": "32984"
+    },
+    "contact": {
+        "phone": "3137693749",
+        "servicePhone": "800553100"
+    },
+    "birthday": "1929-29-04",
+    "ip": "153.53.130.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute ago someone toward view southern. Reality house personal all stage boy.\nSource idea condition newspaper. Tell nation bank buy site sure sense. Run ground rather although poor.",
+        "bio": "Over skill above cost community anything. Still protect team wind.\nShould garden career science center stage. Never half easy draw people street section."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jocelyn Alexander",
+    "age": 38,
+    "address": {
+        "street": "Nichols Ridge",
+        "city": "Lake Seanchester",
+        "state": "Massachusetts",
+        "zip": "07302"
+    },
+    "contact": {
+        "phone": "001-801-236-1329x30406",
+        "servicePhone": "800020363"
+    },
+    "birthday": "1987-27-03",
+    "ip": "21.27.122.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Move travel to east myself simply. Own white quite Congress others purpose. Environmental knowledge but gun find.\nPlayer upon PM. War ability almost perform by.",
+        "bio": "Woman hundred I particularly up test way attention. Street whole consider every. West account project state. Future impact present daughter design member."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

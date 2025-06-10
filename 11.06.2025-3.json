@@ -1,0 +1,25 @@
+{
+    "name": "Emily Zimmerman",
+    "age": 10,
+    "address": {
+        "street": "Brown Ranch",
+        "city": "West Michael",
+        "state": "Nebraska",
+        "zip": "63815"
+    },
+    "contact": {
+        "phone": "883-669-7410",
+        "servicePhone": "800482526"
+    },
+    "birthday": "2015-18-06",
+    "ip": "22.200.238.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Success marriage phone who audience at. Recent check campaign include teacher whole power. Occur free report commercial organization now so.\nEven particular respond draw.",
+        "bio": "Down finally trip people success bill. Total natural brother sure southern. Herself Congress near.\nIndicate entire level have address allow."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}

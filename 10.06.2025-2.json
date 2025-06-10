@@ -1,0 +1,25 @@
+{
+    "name": "Rose Moore",
+    "age": 107,
+    "address": {
+        "street": "Boyd Divide",
+        "city": "New Nathanport",
+        "state": "New Jersey",
+        "zip": "25240"
+    },
+    "contact": {
+        "phone": "001-343-517-2849",
+        "servicePhone": "800319000"
+    },
+    "birthday": "1918-25-02",
+    "ip": "170.140.165.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Discuss smile personal sport soon girl red. Cell until pass away. Ok program its another serious choice.\nCup design respond. Room anyone key service game. Office necessary voice feel then.",
+        "bio": "Car certainly accept produce site east give. Together hour hundred detail need oil various."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}

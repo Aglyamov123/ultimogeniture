@@ -1,0 +1,25 @@
+{
+    "name": "Antonio Ford",
+    "age": 73,
+    "address": {
+        "street": "Maxwell Keys",
+        "city": "Brianburgh",
+        "state": "Nebraska",
+        "zip": "04557"
+    },
+    "contact": {
+        "phone": "264-486-1799",
+        "servicePhone": "800124415"
+    },
+    "birthday": "1952-31-12",
+    "ip": "44.125.254.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Suggest identify father I. Understand test performance southern happen education.\nProduction card term. Sort draw international shake.",
+        "bio": "Democratic heavy exist in. Accept ever upon moment. Region process war expert perform.\nGarden allow western old two Mr stay peace. Leader partner energy step anyone practice rate. Rule current worry."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}

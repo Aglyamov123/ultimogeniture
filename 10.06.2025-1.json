@@ -1,0 +1,25 @@
+{
+    "name": "Beth Watts",
+    "age": 39,
+    "address": {
+        "street": "Williams Stream",
+        "city": "New Keith",
+        "state": "Arkansas",
+        "zip": "28248"
+    },
+    "contact": {
+        "phone": "792.970.7762",
+        "servicePhone": "800006886"
+    },
+    "birthday": "1986-29-08",
+    "ip": "175.123.253.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Customer never successful. Brother choice difference.\nThree authority fear quality. Show or true by nearly message kid.",
+        "bio": "Buy already because stay. Success design who sense ask student.\nSoon body scene special no. Sign admit responsibility speak dark to day. Order art home represent vote mean."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}

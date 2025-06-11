@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Larsen",
+    "age": 15,
+    "address": {
+        "street": "Randall Row",
+        "city": "Kaylaville",
+        "state": "Florida",
+        "zip": "76295"
+    },
+    "contact": {
+        "phone": "662.787.0709x5646",
+        "servicePhone": "800658750"
+    },
+    "birthday": "2010-21-05",
+    "ip": "11.68.162.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Discuss around out million. Camera thing control science past adult just. Easy here care run week employee.",
+        "bio": "Job think fly official. Various support dinner mind right evidence writer. Expert best learn your pay mission usually.\nMedical exist hope her value."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}

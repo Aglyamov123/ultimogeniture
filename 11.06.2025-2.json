@@ -1,0 +1,25 @@
+{
+    "name": "Kyle White",
+    "age": 52,
+    "address": {
+        "street": "Melvin Locks",
+        "city": "Lake Samantha",
+        "state": "New York",
+        "zip": "96304"
+    },
+    "contact": {
+        "phone": "(734)815-5221",
+        "servicePhone": "800931626"
+    },
+    "birthday": "1973-31-03",
+    "ip": "11.38.218.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Mind whose majority speak. Hear forward more fill care science have goal. Into turn mission participant training result. Rock option admit score pressure history.",
+        "bio": "Alone while scene look about deal. Phone peace time responsibility same allow part. The wear low fill. Argue door break eight difficult institution."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

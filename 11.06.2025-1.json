@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Young",
+    "age": 86,
+    "address": {
+        "street": "Ramos Inlet",
+        "city": "Woodchester",
+        "state": "Kentucky",
+        "zip": "90004"
+    },
+    "contact": {
+        "phone": "(811)436-0232x01965",
+        "servicePhone": "800233047"
+    },
+    "birthday": "1939-06-08",
+    "ip": "6.20.25.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark success bit event quality effort actually seat. Employee door there issue national former least.\nFoot population hope family office remain middle capital. Field drive Mr red race see theory.",
+        "bio": "None pick give. Even final appear fire machine discover.\nLocal become night senior receive over. Teacher indicate board people. Occur concern mouth."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}

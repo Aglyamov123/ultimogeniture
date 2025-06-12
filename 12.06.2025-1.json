@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Myers",
+    "age": 0,
+    "address": {
+        "street": "Benson Estates",
+        "city": "New Matthewshire",
+        "state": "Pennsylvania",
+        "zip": "39530"
+    },
+    "contact": {
+        "phone": "001-283-282-5214",
+        "servicePhone": "800455461"
+    },
+    "birthday": "2025-10-06",
+    "ip": "219.101.39.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Threat save democratic such summer avoid under. Trial establish choice man. Usually above enter conference throw between short.",
+        "bio": "Blood quite professional customer people without. Sit the attack together.\nMuch election parent away pressure phone. Doctor firm sound huge."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}

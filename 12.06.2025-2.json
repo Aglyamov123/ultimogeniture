@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Molina",
+    "age": 69,
+    "address": {
+        "street": "Brent Throughway",
+        "city": "South Brandymouth",
+        "state": "Maine",
+        "zip": "78209"
+    },
+    "contact": {
+        "phone": "001-764-825-9426x473",
+        "servicePhone": "800971024"
+    },
+    "birthday": "1956-08-01",
+    "ip": "9.43.107.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Something certainly cultural. Give receive region hundred.",
+        "bio": "Rest court born score. Lot foreign manager increase describe behavior across pressure.\nMemory current in although surface social.\nAdd when product receive owner indicate. Night partner price manager."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}

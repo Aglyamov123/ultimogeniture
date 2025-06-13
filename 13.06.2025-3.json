@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Wright",
+    "age": 48,
+    "address": {
+        "street": "Baker Walk",
+        "city": "Allisonside",
+        "state": "Rhode Island",
+        "zip": "22354"
+    },
+    "contact": {
+        "phone": "891-504-7640",
+        "servicePhone": "800070186"
+    },
+    "birthday": "1977-17-10",
+    "ip": "203.169.93.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Himself team prepare probably brother pattern trip. Build ok notice series.\nStyle enjoy seat specific light. Everyone offer could leave only particular. Number must explain finish own much write.",
+        "bio": "Everybody Republican majority turn condition leader strong. Fire about great myself remain part.\nPaper meeting can agree. Work resource front run company."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}

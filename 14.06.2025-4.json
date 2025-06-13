@@ -1,0 +1,25 @@
+{
+    "name": "Mario Taylor DVM",
+    "age": 25,
+    "address": {
+        "street": "Brian Ville",
+        "city": "West Deanland",
+        "state": "South Carolina",
+        "zip": "08044"
+    },
+    "contact": {
+        "phone": "001-802-307-9378",
+        "servicePhone": "800581831"
+    },
+    "birthday": "2000-12-07",
+    "ip": "178.174.157.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Painting figure likely operation. Almost including never we. Use fear out because.\nA yet ago board. Late through size at sign.",
+        "bio": "Month south born paper.\nCut bit want well certainly message tonight. Market hear ground pick. Power measure business system ok full beyond."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}

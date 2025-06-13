@@ -1,0 +1,25 @@
+{
+    "name": "Karen Collins",
+    "age": 38,
+    "address": {
+        "street": "Jeremy Ramp",
+        "city": "Lake Johnnyburgh",
+        "state": "Florida",
+        "zip": "63536"
+    },
+    "contact": {
+        "phone": "+1-692-638-0132x9510",
+        "servicePhone": "800799290"
+    },
+    "birthday": "1987-01-03",
+    "ip": "58.157.198.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Item series low current. Yeah early process establish there coach. Their main fight responsibility such.\nRequire like rule director end edge. Day why stay prepare trouble officer fly research.",
+        "bio": "Wind change on cold challenge. Audience town its trial less decision sit. Decision ever she scientist well part."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

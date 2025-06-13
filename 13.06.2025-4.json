@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Lee",
+    "age": 79,
+    "address": {
+        "street": "Smith Dale",
+        "city": "Lindamouth",
+        "state": "Nevada",
+        "zip": "05009"
+    },
+    "contact": {
+        "phone": "(908)433-2347",
+        "servicePhone": "800798657"
+    },
+    "birthday": "1946-20-08",
+    "ip": "7.82.52.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Sit place land statement reflect stop commercial. Care rule investment pass.\nThem expert student difficult might. Newspaper else director option risk inside rule from.",
+        "bio": "Money nothing three region. List of into explain back.\nDirection answer drug perhaps into control certainly interesting."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}

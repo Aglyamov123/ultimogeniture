@@ -1,0 +1,25 @@
+{
+    "name": "Justin Ramos",
+    "age": 92,
+    "address": {
+        "street": "Escobar Parkways",
+        "city": "Alanstad",
+        "state": "West Virginia",
+        "zip": "14368"
+    },
+    "contact": {
+        "phone": "427.704.8433",
+        "servicePhone": "800906167"
+    },
+    "birthday": "1933-19-12",
+    "ip": "210.159.201.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Answer hotel grow exactly cultural determine receive. Baby cover specific exactly.",
+        "bio": "Company create firm. Have former card rest continue difficult. Include she white.\nAuthor have discover their. Movement size down continue animal."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

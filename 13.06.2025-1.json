@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Coleman",
+    "age": 31,
+    "address": {
+        "street": "Gomez Drive",
+        "city": "East Laurastad",
+        "state": "New Hampshire",
+        "zip": "56124"
+    },
+    "contact": {
+        "phone": "614.387.3456",
+        "servicePhone": "800508862"
+    },
+    "birthday": "1994-10-07",
+    "ip": "86.129.14.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Our medical number teacher indicate.\nImpact new score but. Suggest such officer maybe expert according though ground.\nBudget there through watch.",
+        "bio": "Finally become soon white general challenge fish. Out me student three."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Erin Alexander",
+    "age": 54,
+    "address": {
+        "street": "Garcia Stream",
+        "city": "East Jill",
+        "state": "North Dakota",
+        "zip": "41665"
+    },
+    "contact": {
+        "phone": "664-998-2072x020",
+        "servicePhone": "800090466"
+    },
+    "birthday": "1971-20-01",
+    "ip": "215.93.45.209",
+    "foo": "bar",
+    "profile": {
+        "about": "War every quality civil others. Yard dinner live learn guy watch hit it.\nDefense anything budget. When method culture thing. Fly economy anyone discussion.\nPrice energy point save vote mouth.",
+        "bio": "Pm sister strong strong. Natural reach peace believe professor true special.\nMiss crime among nation. Strategy glass major just deal. Through nor quality here pattern anything these."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

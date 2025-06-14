@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Singh",
+    "age": 42,
+    "address": {
+        "street": "Newton Rue",
+        "city": "New Mirandafort",
+        "state": "Utah",
+        "zip": "80151"
+    },
+    "contact": {
+        "phone": "+1-639-401-6733",
+        "servicePhone": "800350566"
+    },
+    "birthday": "1983-03-05",
+    "ip": "112.25.207.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Kitchen person oil. Base occur ask occur well simply themselves reach.\nForget behavior service north from than.",
+        "bio": "Thousand government who next enter.\nBed government program cost. Think picture yourself pay car. Ten scene whatever professor prevent knowledge.\nAfter once suggest cause kid. Alone check small race."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}

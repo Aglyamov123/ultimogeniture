@@ -1,0 +1,25 @@
+{
+    "name": "Larry Moore",
+    "age": 10,
+    "address": {
+        "street": "Townsend Square",
+        "city": "Payneport",
+        "state": "Minnesota",
+        "zip": "76575"
+    },
+    "contact": {
+        "phone": "001-655-314-5088x39490",
+        "servicePhone": "800695114"
+    },
+    "birthday": "2015-27-08",
+    "ip": "159.0.138.115",
+    "foo": "bar",
+    "profile": {
+        "about": "South good outside. My project others ground place reveal. Total house point.\nStrong attack try only care alone.",
+        "bio": "East traditional agent measure strategy. Management how option concern agreement. Occur administration nor fight off read process."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}

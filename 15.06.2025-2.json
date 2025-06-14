@@ -1,0 +1,25 @@
+{
+    "name": "Sydney Taylor",
+    "age": 46,
+    "address": {
+        "street": "Dan Path",
+        "city": "North Aprilville",
+        "state": "Montana",
+        "zip": "62558"
+    },
+    "contact": {
+        "phone": "(714)410-0863",
+        "servicePhone": "800333743"
+    },
+    "birthday": "1979-20-01",
+    "ip": "179.55.174.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Music rock church brother window six trial. Job writer population society. Look thing woman almost.\nOut most generation reality break. Response manage else bit. Mind talk worker him vote heart lead.",
+        "bio": "Natural floor figure mouth answer whose. System strong edge time church meet.\nAnd hundred child. Police continue crime itself present. Tough involve may wide nation paper specific."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Mark Li",
+    "age": 113,
+    "address": {
+        "street": "Farmer Extensions",
+        "city": "Lake Frankview",
+        "state": "Wyoming",
+        "zip": "32648"
+    },
+    "contact": {
+        "phone": "997-535-0680x144",
+        "servicePhone": "800160958"
+    },
+    "birthday": "1912-27-10",
+    "ip": "30.248.200.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass medical health hot road others conference. Even affect fish improve data. Term movement either food stage piece.",
+        "bio": "Compare determine left pay raise guy way position. Future eat recent maybe.\nNumber include especially couple financial. Sell forward matter be success Democrat."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}

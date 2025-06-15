@@ -1,0 +1,25 @@
+{
+    "name": "Mary Graham",
+    "age": 99,
+    "address": {
+        "street": "Andrew Islands",
+        "city": "Rickeyside",
+        "state": "Vermont",
+        "zip": "28601"
+    },
+    "contact": {
+        "phone": "(281)845-8543x96954",
+        "servicePhone": "800494275"
+    },
+    "birthday": "1926-24-10",
+    "ip": "73.0.38.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Room boy reduce nor line cover rather. Environment field opportunity car PM responsibility upon. Seven career travel.\nSet institution mother southern lay thus eight. Ball usually team paper game.",
+        "bio": "Lot cause travel night buy. Subject represent however without relate real.\nFact he organization live major. You leg site top film experience. People understand claim.\nSave public fact Democrat."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}

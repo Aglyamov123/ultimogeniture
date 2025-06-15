@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Barbara Gonzales",
+    "age": 16,
+    "address": {
+        "street": "Rachel Ford",
+        "city": "Port Elizabethview",
+        "state": "Tennessee",
+        "zip": "46210"
+    },
+    "contact": {
+        "phone": "316-678-6059",
+        "servicePhone": "800097669"
+    },
+    "birthday": "2009-07-05",
+    "ip": "196.9.186.78",
+    "foo": "bar",
+    "profile": {
+        "about": "During program store say machine draw. Those either a use move lose.\nDemocratic easy western cultural model box.",
+        "bio": "Above job institution again. Along put action off shake. Issue camera event region author citizen. Himself thing successful without deep will son."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

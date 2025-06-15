@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Patel",
+    "age": 25,
+    "address": {
+        "street": "Bryan Trail",
+        "city": "Montgomeryview",
+        "state": "Massachusetts",
+        "zip": "69993"
+    },
+    "contact": {
+        "phone": "787-947-8802x45707",
+        "servicePhone": "800114992"
+    },
+    "birthday": "2000-28-09",
+    "ip": "122.192.20.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Yard full network energy.\nEast skill what.\nSay present charge door popular take short away. Industry administration great.\nSurface authority own arm tree. Identify president daughter control.",
+        "bio": "Expect threat month cut. Mean budget line certainly knowledge whole issue represent.\nSometimes go drug key television. Industry staff open say magazine subject least."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}

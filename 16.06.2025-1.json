@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Lopez",
+    "age": 105,
+    "address": {
+        "street": "Ashley Ranch",
+        "city": "Melaniemouth",
+        "state": "Hawaii",
+        "zip": "42825"
+    },
+    "contact": {
+        "phone": "602.489.8232x6687",
+        "servicePhone": "800398921"
+    },
+    "birthday": "1920-04-09",
+    "ip": "194.166.235.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Him try along option piece agree senior. Participant star political direction. Rather TV range blood appear which.",
+        "bio": "House fly owner apply important.\nMain hear front over those cost onto fear. Seem rock light perhaps business dinner yourself. Increase also room hope."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "David Christensen",
+    "age": 97,
+    "address": {
+        "street": "Thomas Gardens",
+        "city": "New Tara",
+        "state": "New York",
+        "zip": "45209"
+    },
+    "contact": {
+        "phone": "+1-962-435-6736x8289",
+        "servicePhone": "800387351"
+    },
+    "birthday": "1928-10-07",
+    "ip": "25.141.230.105",
+    "foo": "bar",
+    "profile": {
+        "about": "I building company station measure. Real job possible though long position player.",
+        "bio": "Maybe should research. Successful writer rest certainly walk. Only foreign only force ten cell adult.\nSmile state opportunity traditional. Federal dinner for shoulder."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}

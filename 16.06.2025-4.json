@@ -1,0 +1,25 @@
+{
+    "name": "Lindsay Brennan",
+    "age": 8,
+    "address": {
+        "street": "Mark Rapid",
+        "city": "Eileenborough",
+        "state": "Wyoming",
+        "zip": "22938"
+    },
+    "contact": {
+        "phone": "7048051079",
+        "servicePhone": "800882303"
+    },
+    "birthday": "2017-16-07",
+    "ip": "39.171.185.161",
+    "foo": "bar",
+    "profile": {
+        "about": "High glass personal. Change real whose poor article impact close. Third example continue chance.",
+        "bio": "Four drug fact course top check.\nChoose support tell anything attack. They end catch ask approach information. Care in support organization night leave huge."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}

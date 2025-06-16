@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Padilla",
+    "age": 97,
+    "address": {
+        "street": "Nicholas Freeway",
+        "city": "East Elizabeth",
+        "state": "Pennsylvania",
+        "zip": "37714"
+    },
+    "contact": {
+        "phone": "987.319.0327x1129",
+        "servicePhone": "800993961"
+    },
+    "birthday": "1928-22-03",
+    "ip": "189.212.89.201",
+    "foo": "bar",
+    "profile": {
+        "about": "None letter yard why. Exist fear level deep. Act suffer voice Democrat field here.\nScore international turn visit. Station seek from other outside reach science. Bag us spend low nor test.",
+        "bio": "Author management nearly sort employee.\nMaybe protect again plan set system. Front throughout right what as."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}

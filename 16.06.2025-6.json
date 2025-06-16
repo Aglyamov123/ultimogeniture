@@ -1,0 +1,25 @@
+{
+    "name": "Billy Gomez",
+    "age": 92,
+    "address": {
+        "street": "Peterson Rest",
+        "city": "Port Lindseyberg",
+        "state": "Connecticut",
+        "zip": "32952"
+    },
+    "contact": {
+        "phone": "(513)824-0856x708",
+        "servicePhone": "800263808"
+    },
+    "birthday": "1933-15-03",
+    "ip": "162.127.72.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Every relate firm expect. Name personal help man dog impact real.\nDiscuss single bad. Medical specific operation interesting. Human position both walk loss care.",
+        "bio": "Concern newspaper rather miss. Tend century third certainly.\nTown change thing wind start number nor large. Election hotel indeed matter experience. More others skin cost condition capital become."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}

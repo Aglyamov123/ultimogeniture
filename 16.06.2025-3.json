@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Perry MD",
+    "age": 73,
+    "address": {
+        "street": "Danielle Mission",
+        "city": "Port Sarah",
+        "state": "North Carolina",
+        "zip": "06423"
+    },
+    "contact": {
+        "phone": "(486)894-8150x47734",
+        "servicePhone": "800209873"
+    },
+    "birthday": "1952-26-03",
+    "ip": "136.100.210.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Center sign room. Others season degree deep.\nPaper unit education study down with laugh. Leave anyone cut soon agree sell behavior lawyer.",
+        "bio": "Leg laugh record size follow play. Public nature eye pass."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}

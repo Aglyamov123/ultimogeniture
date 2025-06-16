@@ -1,0 +1,25 @@
+{
+    "name": "Melanie Fisher",
+    "age": 26,
+    "address": {
+        "street": "Anderson Isle",
+        "city": "New Brookestad",
+        "state": "Wyoming",
+        "zip": "53358"
+    },
+    "contact": {
+        "phone": "(950)706-5970",
+        "servicePhone": "800296897"
+    },
+    "birthday": "1999-24-12",
+    "ip": "154.96.49.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Democratic ball back thing leave generation him. Team citizen speak factor civil modern every. Fear education thank end off far. Organization claim benefit Democrat themselves house.",
+        "bio": "Very fast usually although. Major perform Democrat your conference sort top."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

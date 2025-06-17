@@ -1,0 +1,25 @@
+{
+    "name": "Erin Pearson",
+    "age": 46,
+    "address": {
+        "street": "White Course",
+        "city": "Lake Brenda",
+        "state": "New Mexico",
+        "zip": "95183"
+    },
+    "contact": {
+        "phone": "(750)993-3889x925",
+        "servicePhone": "800439304"
+    },
+    "birthday": "1979-07-08",
+    "ip": "35.105.21.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Control there what speak performance father. So yeah statement force.\nRed fish person wonder defense bag. Recognize news sister watch name new pick. Walk newspaper wide hour politics.",
+        "bio": "Dark doctor young read. Social everyone poor early fill factor room. Challenge scene option among."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Burns",
+    "age": 99,
+    "address": {
+        "street": "Lewis Field",
+        "city": "North Michelle",
+        "state": "Tennessee",
+        "zip": "88491"
+    },
+    "contact": {
+        "phone": "665-575-9251x15725",
+        "servicePhone": "800193277"
+    },
+    "birthday": "1926-15-10",
+    "ip": "126.255.228.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Military step culture through you. Kid bad than should ago mother the husband.",
+        "bio": "Step rule ball determine. Decade trouble charge make production resource tell.\nShort contain entire attorney. Chair food anything gun fall. About perhaps run account the fall."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

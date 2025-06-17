@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Mitchell",
+    "age": 27,
+    "address": {
+        "street": "Frank Keys",
+        "city": "East Kenneth",
+        "state": "Arizona",
+        "zip": "03213"
+    },
+    "contact": {
+        "phone": "(812)964-6290x55508",
+        "servicePhone": "800674215"
+    },
+    "birthday": "1998-13-08",
+    "ip": "1.70.170.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager new area situation institution offer value suddenly. Clear still agreement.\nKeep resource executive. Adult force pass occur article. Fund although everything TV in example.",
+        "bio": "Benefit account fund road. Program seven simply middle edge fall. Husband front huge model television tend a.\nScene name wait really officer represent. Pretty final use."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}

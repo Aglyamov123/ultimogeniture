@@ -1,0 +1,25 @@
+{
+    "name": "Melanie Lopez",
+    "age": 28,
+    "address": {
+        "street": "Samantha Fields",
+        "city": "Lesliebury",
+        "state": "Hawaii",
+        "zip": "76667"
+    },
+    "contact": {
+        "phone": "964-485-1919x56416",
+        "servicePhone": "800058157"
+    },
+    "birthday": "1997-27-01",
+    "ip": "169.89.177.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Stop name require hope. Certainly catch often claim get person. Business late yard someone quite cause.\nFind sport wife. Third environmental drop suffer owner.",
+        "bio": "Loss staff claim music identify. A take group happy bill become. Loss board myself.\nGrowth though next suddenly training study. Find anything whether center ability actually thing."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

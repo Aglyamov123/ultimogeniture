@@ -1,0 +1,25 @@
+{
+    "name": "Steven Wilson",
+    "age": 65,
+    "address": {
+        "street": "Nancy Orchard",
+        "city": "Shahstad",
+        "state": "South Carolina",
+        "zip": "50078"
+    },
+    "contact": {
+        "phone": "+1-743-424-5927x63715",
+        "servicePhone": "800400353"
+    },
+    "birthday": "1960-21-03",
+    "ip": "8.86.238.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Son great check scene sound political. Civil program power cover her middle agree. Leave represent success difficult president size either.",
+        "bio": "Care left government agree significant. Claim receive minute see him week however. Car four beautiful entire approach."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}

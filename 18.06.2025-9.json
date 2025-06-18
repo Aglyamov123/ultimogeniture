@@ -1,0 +1,25 @@
+{
+    "name": "Emily Davis",
+    "age": 54,
+    "address": {
+        "street": "Trevor Flat",
+        "city": "Hollandhaven",
+        "state": "Colorado",
+        "zip": "60738"
+    },
+    "contact": {
+        "phone": "2386740032",
+        "servicePhone": "800110535"
+    },
+    "birthday": "1971-19-07",
+    "ip": "54.121.88.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Different let amount there world course. Speech window walk lose.\nTree state series. Remain garden across realize.",
+        "bio": "Analysis about opportunity traditional cup. Such be them but.\nWeight which real fly project. Outside about tough safe responsibility hundred big."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

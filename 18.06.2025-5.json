@@ -1,0 +1,25 @@
+{
+    "name": "Debra Brown",
+    "age": 23,
+    "address": {
+        "street": "Daniel Plains",
+        "city": "Elizabethberg",
+        "state": "Utah",
+        "zip": "34310"
+    },
+    "contact": {
+        "phone": "913.626.0847",
+        "servicePhone": "800711907"
+    },
+    "birthday": "2002-16-03",
+    "ip": "56.150.210.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Level already environment enjoy. Audience most show others low myself. Paper discover not back evidence least.\nSister main wall himself music life evening skill. Crime back result.",
+        "bio": "Care family institution as news share Democrat. Service get wind tree week various article. Board light station. Sister let blood difficult Congress."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}

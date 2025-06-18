@@ -1,0 +1,25 @@
+{
+    "name": "Shaun Vazquez",
+    "age": 30,
+    "address": {
+        "street": "Curtis Estate",
+        "city": "Port Gabrielamouth",
+        "state": "Ohio",
+        "zip": "01396"
+    },
+    "contact": {
+        "phone": "(851)962-8116",
+        "servicePhone": "800339726"
+    },
+    "birthday": "1995-06-07",
+    "ip": "147.110.41.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Any represent season. Goal possible defense region eye nothing season. Option wear part middle degree economy bar. If card force in commercial half performance.",
+        "bio": "Those car tough. Develop against team computer.\nRoom before picture these visit others turn. Anyone prevent responsibility night memory manager. Heart south international into method similar."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}

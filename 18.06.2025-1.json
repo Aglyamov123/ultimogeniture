@@ -1,0 +1,25 @@
+{
+    "name": "Kristina Peters",
+    "age": 84,
+    "address": {
+        "street": "Kevin Points",
+        "city": "Port Tanyahaven",
+        "state": "Tennessee",
+        "zip": "80378"
+    },
+    "contact": {
+        "phone": "212.355.0723x042",
+        "servicePhone": "800866868"
+    },
+    "birthday": "1941-22-06",
+    "ip": "185.104.199.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate house professor. Fish image officer again example face. Its which option significant matter read.\nFeel plant glass.",
+        "bio": "Dog which third feeling. Cell serious whole bring while require seek true.\nAddress about leader time college. Upon charge population star try reveal. Nothing once natural why night."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}

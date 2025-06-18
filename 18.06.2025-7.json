@@ -1,0 +1,25 @@
+{
+    "name": "Amy Hall",
+    "age": 17,
+    "address": {
+        "street": "Dalton Lake",
+        "city": "South Thomasside",
+        "state": "Texas",
+        "zip": "24040"
+    },
+    "contact": {
+        "phone": "(436)757-1631x4326",
+        "servicePhone": "800857553"
+    },
+    "birthday": "2008-24-11",
+    "ip": "11.184.140.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe share lead goal. Thousand stop like likely chair between.\nAddress everybody public few. Around behind fine story represent part.\nMore treatment attack answer be somebody simple.",
+        "bio": "Claim value loss environment. Thousand candidate image generation executive seem. Allow service both organization to somebody audience."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

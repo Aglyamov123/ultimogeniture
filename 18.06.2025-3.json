@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Delgado",
+    "age": 69,
+    "address": {
+        "street": "Ryan Valleys",
+        "city": "Salashaven",
+        "state": "Maine",
+        "zip": "56788"
+    },
+    "contact": {
+        "phone": "(751)455-5290",
+        "servicePhone": "800182982"
+    },
+    "birthday": "1956-01-04",
+    "ip": "9.134.24.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Light draw stand project. Onto tax bag fund. Party teach you seven just say our event.",
+        "bio": "Fear Mrs company. Now hour soldier car sign fine church. Up allow art ground never."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}

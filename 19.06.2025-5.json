@@ -1,0 +1,25 @@
+{
+    "name": "Paul Strong",
+    "age": 87,
+    "address": {
+        "street": "Best Dam",
+        "city": "Lorifort",
+        "state": "Hawaii",
+        "zip": "62583"
+    },
+    "contact": {
+        "phone": "(986)205-1254",
+        "servicePhone": "800280006"
+    },
+    "birthday": "1938-19-02",
+    "ip": "182.133.110.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate enter they decide. Common official rise something single ability call.\nSomeone pull thing ground wide. Economy sound theory they.",
+        "bio": "Ready book sign dog. Adult camera staff music. Others happen two control why bring find.\nAttack authority leader staff assume staff bed. Practice mean card. Maintain foot matter course own."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}

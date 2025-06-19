@@ -1,0 +1,25 @@
+{
+    "name": "Diana Doyle",
+    "age": 64,
+    "address": {
+        "street": "Darren Square",
+        "city": "Port Douglas",
+        "state": "Mississippi",
+        "zip": "49381"
+    },
+    "contact": {
+        "phone": "(671)622-6773x477",
+        "servicePhone": "800833803"
+    },
+    "birthday": "1961-18-11",
+    "ip": "58.150.247.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing station position else life none. Bed international try small window office director. See form power grow wife college.\nWriter last accept hot author majority.",
+        "bio": "Capital fight need almost. Perform can particular miss something allow car. Road understand capital feeling they behind physical. Add rock sea rule ask."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}

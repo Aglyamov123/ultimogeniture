@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Chen",
+    "age": 14,
+    "address": {
+        "street": "Le Street",
+        "city": "Hughesville",
+        "state": "New York",
+        "zip": "94667"
+    },
+    "contact": {
+        "phone": "+1-203-227-7474x9029",
+        "servicePhone": "800487442"
+    },
+    "birthday": "2011-18-03",
+    "ip": "90.214.57.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Another miss understand drug center suddenly social final. Certain face current save so some.\nOffer unit describe.",
+        "bio": "Agent able arm look room or.\nHelp none eight do question if. Trouble modern may husband turn wall but. Most property available town once."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}

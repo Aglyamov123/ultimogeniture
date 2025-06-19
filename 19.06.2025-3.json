@@ -1,0 +1,25 @@
+{
+    "name": "Susan Ellis",
+    "age": 17,
+    "address": {
+        "street": "Rangel Roads",
+        "city": "Turnermouth",
+        "state": "Kansas",
+        "zip": "58363"
+    },
+    "contact": {
+        "phone": "+1-791-443-7753x89262",
+        "servicePhone": "800871431"
+    },
+    "birthday": "2008-20-07",
+    "ip": "69.9.1.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Need bad if Congress once report. Third top relationship local feel weight western.",
+        "bio": "Forward a despite create several Congress.\nFree most can. Seek manage such car peace explain enjoy."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Theresa Schwartz",
+    "age": 42,
+    "address": {
+        "street": "Gilmore Roads",
+        "city": "Lake Steven",
+        "state": "New Hampshire",
+        "zip": "31239"
+    },
+    "contact": {
+        "phone": "529-247-9022",
+        "servicePhone": "800504473"
+    },
+    "birthday": "1983-26-08",
+    "ip": "114.35.197.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Air white floor coach. Close else fact organization.\nSave support once until Mr concern various this. Other future carry system officer hot. State up arrive reality billion really can use.",
+        "bio": "Threat yet speech prevent staff some radio. Because claim million decision still when. Soldier similar begin me information main husband. Father base line stock view red."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}

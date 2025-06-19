@@ -1,0 +1,25 @@
+{
+    "name": "James Knox",
+    "age": 36,
+    "address": {
+        "street": "Robert Court",
+        "city": "Lake Timothybury",
+        "state": "Alaska",
+        "zip": "75302"
+    },
+    "contact": {
+        "phone": "(354)422-7243x87290",
+        "servicePhone": "800619255"
+    },
+    "birthday": "1989-15-05",
+    "ip": "91.123.15.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Loss question factor authority child tell meet rock. Who early stock director fly house day. Technology city note edge.\nJust magazine major PM. Remain here cause allow current generation let.",
+        "bio": "Choice all join often whatever cause. Better senior thank various. Go year student explain history article."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}

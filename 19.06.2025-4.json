@@ -1,0 +1,25 @@
+{
+    "name": "John Christensen",
+    "age": 111,
+    "address": {
+        "street": "Ramirez Greens",
+        "city": "Leonardview",
+        "state": "Arizona",
+        "zip": "84653"
+    },
+    "contact": {
+        "phone": "001-791-248-6479",
+        "servicePhone": "800553608"
+    },
+    "birthday": "1914-16-12",
+    "ip": "164.9.16.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake response finish. Church heavy feeling foreign official family. Human similar coach identify.",
+        "bio": "Low TV door stop. Third fall successful fine. Hour listen wonder.\nPopulation perhaps crime perform them lay. Yes keep opportunity listen test station."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}

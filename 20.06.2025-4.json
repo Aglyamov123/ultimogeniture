@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Mills",
+    "age": 1,
+    "address": {
+        "street": "Gomez Center",
+        "city": "Michaelport",
+        "state": "Vermont",
+        "zip": "15692"
+    },
+    "contact": {
+        "phone": "464-316-2332",
+        "servicePhone": "800405388"
+    },
+    "birthday": "2024-19-05",
+    "ip": "123.210.225.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce field bar positive decade point. Serve size clearly few. Candidate money training skill why. Time yet language listen loss friend recognize.",
+        "bio": "Federal health blood listen.\nNone old attorney mouth card perform evening. Loss sense form glass white interview entire coach."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}

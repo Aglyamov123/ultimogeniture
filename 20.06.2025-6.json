@@ -1,0 +1,25 @@
+{
+    "name": "John Moore",
+    "age": 111,
+    "address": {
+        "street": "Carrie Hills",
+        "city": "Hollandside",
+        "state": "Iowa",
+        "zip": "79889"
+    },
+    "contact": {
+        "phone": "001-442-391-8048",
+        "servicePhone": "800024523"
+    },
+    "birthday": "1914-05-08",
+    "ip": "93.188.33.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Care six special exist receive long first. Know body few education hour huge. State scientist air candidate. Recognize song simply sure personal current nor.",
+        "bio": "Available charge these go kitchen game. Detail sound end.\nItem business a assume store early image. Sea determine station ability candidate cultural. Development nation save glass consumer."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

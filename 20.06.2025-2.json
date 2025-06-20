@@ -1,0 +1,25 @@
+{
+    "name": "Alisha Bradley",
+    "age": 69,
+    "address": {
+        "street": "Alex Junctions",
+        "city": "East Robertborough",
+        "state": "Florida",
+        "zip": "11179"
+    },
+    "contact": {
+        "phone": "001-220-303-6429",
+        "servicePhone": "800800926"
+    },
+    "birthday": "1956-24-08",
+    "ip": "131.135.237.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Few pull nation. For pass read question expert. Mean fast consider live who white without.\nRoad have cell hand. Sort security partner play away knowledge leg smile. Cold maybe shoulder.",
+        "bio": "Member throughout audience senior. Employee off fact up. Rule purpose mean PM simple. On study goal.\nEvent be affect school. Capital science kind level."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

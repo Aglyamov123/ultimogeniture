@@ -1,0 +1,25 @@
+{
+    "name": "Jason Shea",
+    "age": 65,
+    "address": {
+        "street": "Sanders Flat",
+        "city": "Sullivanfort",
+        "state": "Missouri",
+        "zip": "72251"
+    },
+    "contact": {
+        "phone": "710.967.0346",
+        "servicePhone": "800279264"
+    },
+    "birthday": "1960-14-11",
+    "ip": "186.232.251.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity dream interest herself here building back. Appear culture bring. And image two.\nConference performance story science bad. Lose think figure imagine even. Write note no couple take answer.",
+        "bio": "Modern represent reason line can more send onto. Course degree account early Mr agreement. Run recent until."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}

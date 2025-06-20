@@ -1,0 +1,25 @@
+{
+    "name": "John Williams",
+    "age": 65,
+    "address": {
+        "street": "Jennifer Crossing",
+        "city": "Gatesview",
+        "state": "Kansas",
+        "zip": "68195"
+    },
+    "contact": {
+        "phone": "+1-843-794-2806x6941",
+        "servicePhone": "800686524"
+    },
+    "birthday": "1960-10-05",
+    "ip": "54.64.196.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Response painting various source. Cell whether could today meeting other another. Product know create again morning.",
+        "bio": "Bed open mean structure however player. Book conference child."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

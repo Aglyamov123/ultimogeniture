@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Garcia",
+    "age": 60,
+    "address": {
+        "street": "Frederick Plains",
+        "city": "South Crystal",
+        "state": "Illinois",
+        "zip": "77415"
+    },
+    "contact": {
+        "phone": "776.516.5563",
+        "servicePhone": "800197094"
+    },
+    "birthday": "1965-26-05",
+    "ip": "97.45.25.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Available list require shoulder. Manager wife talk.",
+        "bio": "Situation ago ten respond during. According walk start goal store today. Force administration message foot learn."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}

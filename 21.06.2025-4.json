@@ -1,0 +1,25 @@
+{
+    "name": "Walter Reynolds",
+    "age": 92,
+    "address": {
+        "street": "Tina Corner",
+        "city": "Lake Stephenstad",
+        "state": "Tennessee",
+        "zip": "65973"
+    },
+    "contact": {
+        "phone": "873-936-9988x69935",
+        "servicePhone": "800754568"
+    },
+    "birthday": "1933-23-02",
+    "ip": "149.129.199.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Least as collection threat born worker your. Lay chair involve six probably together. Rest hot capital read sell per.",
+        "bio": "Look business room yes. Including parent pretty involve beyond.\nInstead yeah movie gas star our risk. Scene writer stand create. Early return just few sell car court."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}

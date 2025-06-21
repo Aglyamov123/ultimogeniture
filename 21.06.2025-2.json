@@ -1,0 +1,25 @@
+{
+    "name": "Allison Green",
+    "age": 55,
+    "address": {
+        "street": "Randall Camp",
+        "city": "Jasonmouth",
+        "state": "West Virginia",
+        "zip": "41121"
+    },
+    "contact": {
+        "phone": "001-984-594-2196x597",
+        "servicePhone": "800639696"
+    },
+    "birthday": "1970-22-04",
+    "ip": "130.249.15.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Move size identify occur nice involve. All lay behavior.\nHelp front finish least soldier policy dream.\nMore personal kitchen listen student. Allow skill task ability contain attack would lay.",
+        "bio": "Meeting dark Mrs type. Offer coach product else my. Teacher recognize this American resource."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Louis Edwards",
+    "age": 56,
+    "address": {
+        "street": "Brooke Plain",
+        "city": "Nelsontown",
+        "state": "Virginia",
+        "zip": "99089"
+    },
+    "contact": {
+        "phone": "001-374-528-3295x41126",
+        "servicePhone": "800368359"
+    },
+    "birthday": "1969-03-06",
+    "ip": "15.82.184.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist drive too situation. Social we tough meet trial catch wind actually. Service voice none attorney attorney.",
+        "bio": "Lot executive there close car cover. Most toward now event example."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}

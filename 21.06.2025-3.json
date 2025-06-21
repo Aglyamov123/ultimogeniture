@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Spears",
+    "age": 1,
+    "address": {
+        "street": "Alexandra Circles",
+        "city": "Torresfurt",
+        "state": "South Carolina",
+        "zip": "50731"
+    },
+    "contact": {
+        "phone": "(518)732-9051",
+        "servicePhone": "800520718"
+    },
+    "birthday": "2024-02-04",
+    "ip": "67.151.48.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Window professor degree. Class support member three especially pick wind. Back themselves contain rock save amount class.",
+        "bio": "See best offer such. Social white woman full. Exist school kind western.\nWithout individual politics board. Because fight meeting alone. Member real bank could responsibility relationship write."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}

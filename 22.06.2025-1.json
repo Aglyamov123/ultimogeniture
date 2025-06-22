@@ -1,0 +1,25 @@
+{
+    "name": "Damon Petty",
+    "age": 84,
+    "address": {
+        "street": "John Rue",
+        "city": "Danielside",
+        "state": "New Jersey",
+        "zip": "63463"
+    },
+    "contact": {
+        "phone": "001-563-328-0726x79564",
+        "servicePhone": "800769832"
+    },
+    "birthday": "1941-10-03",
+    "ip": "139.70.140.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Animal floor open build industry. Character site a.\nStay them born it last. Level nothing live behavior should few ahead. Direction economic benefit someone.",
+        "bio": "Voice happen summer question sing. Bank everyone my mother shoulder clearly door. Stand note begin though economy conference. You reveal bring him plan inside over."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Angela Mccormick",
+    "age": 62,
+    "address": {
+        "street": "Thomas Vista",
+        "city": "Thompsonberg",
+        "state": "Kentucky",
+        "zip": "57940"
+    },
+    "contact": {
+        "phone": "(463)565-1420",
+        "servicePhone": "800557464"
+    },
+    "birthday": "1963-29-07",
+    "ip": "37.214.130.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Three remember visit almost must action election. Everyone body seven feel teach. Alone treat employee record defense. Particular success so.\nEmployee foreign behavior herself impact.",
+        "bio": "History sea process skin shoulder nation. Industry thought drive sign stock environmental music lead.\nBehavior sing government. Sound time media everything charge protect support."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}

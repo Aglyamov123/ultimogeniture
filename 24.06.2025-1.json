@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Orozco",
+    "age": 112,
+    "address": {
+        "street": "Peterson Lake",
+        "city": "New Debrastad",
+        "state": "Colorado",
+        "zip": "38229"
+    },
+    "contact": {
+        "phone": "001-618-865-9901x44860",
+        "servicePhone": "800748462"
+    },
+    "birthday": "1913-08-09",
+    "ip": "33.30.253.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid actually my. Institution body gun detail capital. Give any term factor wait peace.\nSkin for car here near health catch. Where development begin picture explain product.",
+        "bio": "Body international shoulder practice. Question everybody early on. Event think former yet role indeed glass. Beat house news father.\nLaugh finally particularly."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}

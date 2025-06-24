@@ -1,0 +1,25 @@
+{
+    "name": "Erin Perez",
+    "age": 43,
+    "address": {
+        "street": "Fernando Trace",
+        "city": "Jamesland",
+        "state": "Idaho",
+        "zip": "31262"
+    },
+    "contact": {
+        "phone": "+1-754-476-7142x76348",
+        "servicePhone": "800799911"
+    },
+    "birthday": "1982-09-09",
+    "ip": "149.110.33.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Court piece discuss movie eat produce look. Remain mouth get piece.\nSpeak writer require meeting open cup society draw. Whose manage include simply. Enough more and recently performance add.",
+        "bio": "Money everyone tend economy. Garden ever through mother suffer.\nKeep say idea describe war perhaps range. Imagine attack economy similar. Three less perhaps face cold close particular sort."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Gomez",
+    "age": 21,
+    "address": {
+        "street": "Dean Parkway",
+        "city": "Florestown",
+        "state": "New York",
+        "zip": "99947"
+    },
+    "contact": {
+        "phone": "(948)936-7551",
+        "servicePhone": "800637895"
+    },
+    "birthday": "2004-11-10",
+    "ip": "115.60.100.189",
+    "foo": "bar",
+    "profile": {
+        "about": "History whom store establish then response know. Production apply window model training tax.\nPolitics law bank must real father some. Follow green catch young.",
+        "bio": "Character television short vote chair. Assume yes ever fall perform big."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}

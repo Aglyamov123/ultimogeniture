@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Lane",
+    "age": 105,
+    "address": {
+        "street": "Kelly Run",
+        "city": "Simpsonborough",
+        "state": "Washington",
+        "zip": "95574"
+    },
+    "contact": {
+        "phone": "(210)603-6118x7397",
+        "servicePhone": "800231980"
+    },
+    "birthday": "1920-28-07",
+    "ip": "129.191.178.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Final inside industry decision once paper option compare. Beyond room quickly person or begin food field.",
+        "bio": "Establish over reveal never set tell. Course choose approach read hot put huge.\nDemocratic who but church stand less site. Usually town owner record."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

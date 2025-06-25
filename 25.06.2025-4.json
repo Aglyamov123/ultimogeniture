@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Hardy",
+    "age": 38,
+    "address": {
+        "street": "Wendy Gardens",
+        "city": "Fosterfurt",
+        "state": "Kansas",
+        "zip": "36235"
+    },
+    "contact": {
+        "phone": "2962700283",
+        "servicePhone": "800675082"
+    },
+    "birthday": "1987-16-11",
+    "ip": "95.139.10.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Owner financial tax fear size. His than force material collection end accept. Try card against peace his situation.",
+        "bio": "But time check red expect officer draw. Between event cost hand try view. Old other claim often light.\nClaim Mrs agree soon. Culture many billion media."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}

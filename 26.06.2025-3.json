@@ -1,0 +1,25 @@
+{
+    "name": "James Woods",
+    "age": 56,
+    "address": {
+        "street": "Nicholas Route",
+        "city": "West Mary",
+        "state": "Alaska",
+        "zip": "65377"
+    },
+    "contact": {
+        "phone": "001-283-722-0868x76576",
+        "servicePhone": "800144186"
+    },
+    "birthday": "1969-19-04",
+    "ip": "8.222.202.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture guy agency section eat avoid girl. Professional these imagine hand. Water identify institution leg road.\nClass push whether individual. Prove rest through manage.",
+        "bio": "Wear million speak research. Strategy throughout inside remain design language."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}

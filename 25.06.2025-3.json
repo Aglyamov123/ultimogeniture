@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Terrell",
+    "age": 46,
+    "address": {
+        "street": "Kristy Well",
+        "city": "North Jake",
+        "state": "Alabama",
+        "zip": "10217"
+    },
+    "contact": {
+        "phone": "+1-634-707-3245x14162",
+        "servicePhone": "800111609"
+    },
+    "birthday": "1979-15-02",
+    "ip": "41.171.122.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Certain same until.\nLawyer specific produce sing speak possible better. Kitchen hope pull thing work pressure. Claim upon mind despite.",
+        "bio": "Fear operation respond affect. Offer all arrive notice.\nMajority buy hotel evidence. Fight foot rich federal here message against ball."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}

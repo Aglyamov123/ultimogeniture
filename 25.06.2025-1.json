@@ -1,0 +1,25 @@
+{
+    "name": "Robin Jordan",
+    "age": 19,
+    "address": {
+        "street": "Kimberly Cove",
+        "city": "North Alan",
+        "state": "Mississippi",
+        "zip": "27154"
+    },
+    "contact": {
+        "phone": "001-623-996-3773x5893",
+        "servicePhone": "800369072"
+    },
+    "birthday": "2006-16-05",
+    "ip": "218.189.238.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Opportunity five especially glass address local. Child together measure positive campaign.\nPattern bank operation officer ability. Have yourself resource attention hospital continue.",
+        "bio": "Military pull make believe before surface easy whatever. Thus choice huge away ahead official. Which not process thousand.\nLast fill interview along. Why rather lawyer two run green sound but."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}

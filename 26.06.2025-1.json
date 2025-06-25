@@ -1,0 +1,25 @@
+{
+    "name": "Andre Gomez",
+    "age": 16,
+    "address": {
+        "street": "Gonzalez Causeway",
+        "city": "Lake Theresashire",
+        "state": "Alaska",
+        "zip": "22894"
+    },
+    "contact": {
+        "phone": "+1-652-527-5818x454",
+        "servicePhone": "800601930"
+    },
+    "birthday": "2009-17-04",
+    "ip": "173.137.83.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Strategy right apply war reveal. Seat cell same house against. Return probably executive serious.",
+        "bio": "Yet generation trouble president. Speech size agree man drug design get.\nResult appear baby man base sort eat theory."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}

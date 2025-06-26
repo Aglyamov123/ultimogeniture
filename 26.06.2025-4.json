@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Torres",
+    "age": 61,
+    "address": {
+        "street": "Matthew Roads",
+        "city": "Lynchport",
+        "state": "New Jersey",
+        "zip": "89774"
+    },
+    "contact": {
+        "phone": "428.511.7920x2781",
+        "servicePhone": "800020171"
+    },
+    "birthday": "1964-21-11",
+    "ip": "173.89.48.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Amount rich whole edge. Wish parent hospital evening. Simply Mr whom every agree those.\nChair fly hard executive. But religious weight history forget heart politics any.",
+        "bio": "Oil star yourself indeed however mind move computer. Area close effect notice change but nation security. Purpose ahead name wear nation structure everything."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Scott Williams",
+    "age": 88,
+    "address": {
+        "street": "Knight Curve",
+        "city": "Washingtonland",
+        "state": "Pennsylvania",
+        "zip": "95383"
+    },
+    "contact": {
+        "phone": "(471)634-9561x06309",
+        "servicePhone": "800957876"
+    },
+    "birthday": "1937-05-11",
+    "ip": "98.224.144.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Low conference town same allow own hand gun. Police feeling there message.\nChoice ground nice walk.",
+        "bio": "Benefit phone military bank list college. Notice decide light set.\nAllow it risk meeting book could knowledge. Choose future wide return maintain go hit."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}

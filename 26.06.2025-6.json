@@ -1,0 +1,25 @@
+{
+    "name": "Robert Baker",
+    "age": 91,
+    "address": {
+        "street": "Lisa Skyway",
+        "city": "Smithport",
+        "state": "Kentucky",
+        "zip": "04983"
+    },
+    "contact": {
+        "phone": "(226)411-1862",
+        "servicePhone": "800464719"
+    },
+    "birthday": "1934-17-09",
+    "ip": "186.149.130.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Amount later position. Production experience take specific low mean. Social region issue. Trade role might oil instead miss himself.",
+        "bio": "For sport save style. Pull staff set author decision. Contain surface watch born site month.\nHalf simple food measure. Agree money drive occur pay.\nAll yourself article before."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

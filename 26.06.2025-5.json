@@ -1,0 +1,25 @@
+{
+    "name": "Roger Smith",
+    "age": 66,
+    "address": {
+        "street": "Susan Estates",
+        "city": "Port Karenshire",
+        "state": "Hawaii",
+        "zip": "64543"
+    },
+    "contact": {
+        "phone": "+1-533-501-2018x75641",
+        "servicePhone": "800212839"
+    },
+    "birthday": "1959-23-09",
+    "ip": "201.100.235.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Different account speech fear. Turn per research number buy.\nKnowledge girl consumer range those. Into character fly rest sell. I enter view discover assume.",
+        "bio": "Five including force media heavy. Two opportunity read approach cover page. Enter forget southern read development."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}

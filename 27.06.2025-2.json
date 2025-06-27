@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Williams",
+    "age": 103,
+    "address": {
+        "street": "Ian Station",
+        "city": "Maxwellmouth",
+        "state": "Louisiana",
+        "zip": "92345"
+    },
+    "contact": {
+        "phone": "001-818-251-3987",
+        "servicePhone": "800335316"
+    },
+    "birthday": "1922-06-01",
+    "ip": "210.77.146.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Buy analysis job light sense short among federal. Week find remember young. Event hospital especially effort north.\nSocial company for attorney note sound.",
+        "bio": "Pretty party run kid today focus book event. Almost those account certainly represent. Have control share hotel east.\nNow finally section back during model old. Several describe find through land."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Haley Glass",
+    "age": 85,
+    "address": {
+        "street": "Billy Row",
+        "city": "North Jamesville",
+        "state": "Illinois",
+        "zip": "58639"
+    },
+    "contact": {
+        "phone": "001-497-835-7221x86616",
+        "servicePhone": "800817229"
+    },
+    "birthday": "1940-20-06",
+    "ip": "192.54.3.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything society west myself accept remember consumer. Time ok have nothing more moment table. Film else whose either often.\nDuring order on. Instead born himself.",
+        "bio": "Somebody hard ago forget performance accept. Seat management better into would. Through will staff per."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

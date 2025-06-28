@@ -1,0 +1,25 @@
+{
+    "name": "Darrell Porter",
+    "age": 54,
+    "address": {
+        "street": "Evans Shore",
+        "city": "Mccormickville",
+        "state": "Rhode Island",
+        "zip": "47901"
+    },
+    "contact": {
+        "phone": "952.529.9590",
+        "servicePhone": "800841015"
+    },
+    "birthday": "1971-20-05",
+    "ip": "215.245.108.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Section hard provide director worry song country.\nBetween force another price. Study leg onto answer.",
+        "bio": "Drop expect direction difference third concern might. Inside public city play as though heavy. Air present bar there test check find.\nTerm race measure condition body. Whole smile rate whole."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}

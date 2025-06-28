@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Hoffman",
+    "age": 75,
+    "address": {
+        "street": "Michael Forges",
+        "city": "Ryanview",
+        "state": "Alabama",
+        "zip": "96911"
+    },
+    "contact": {
+        "phone": "001-807-304-2032x640",
+        "servicePhone": "800681450"
+    },
+    "birthday": "1950-02-09",
+    "ip": "54.129.66.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour which attack fund notice discuss area visit. Factor fish team television weight commercial.\nStructure name tend hundred. Baby clearly require election.",
+        "bio": "Song from action benefit we.\nWestern decide region account say before glass. None develop as media author large. Fine middle figure consider create floor."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}

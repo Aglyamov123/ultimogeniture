@@ -1,0 +1,25 @@
+{
+    "name": "Eric Scott",
+    "age": 10,
+    "address": {
+        "street": "Briana Dale",
+        "city": "West Jason",
+        "state": "Wyoming",
+        "zip": "52482"
+    },
+    "contact": {
+        "phone": "861-635-0019",
+        "servicePhone": "800672372"
+    },
+    "birthday": "2015-28-04",
+    "ip": "34.207.64.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist memory accept resource way. Card determine own fall pass career whose.\nSing it area. The safe firm sense operation.",
+        "bio": "Other whom industry station. On movement your participant whole chance large. Few there five concern go blue.\nCity relate gun can. Time whole suddenly whole show live account."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}

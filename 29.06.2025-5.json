@@ -1,0 +1,25 @@
+{
+    "name": "Brandi Obrien",
+    "age": 21,
+    "address": {
+        "street": "Clark Ridge",
+        "city": "Kevinside",
+        "state": "North Carolina",
+        "zip": "79159"
+    },
+    "contact": {
+        "phone": "+1-234-763-5062x0080",
+        "servicePhone": "800292366"
+    },
+    "birthday": "2004-18-04",
+    "ip": "82.40.216.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Sure large recognize strategy seek identify same government. Term design Mr result grow mind travel. Suffer list wife with nearly improve listen between.",
+        "bio": "Bring morning which opportunity. Artist nation age item member step. Population change think above series.\nLaugh respond loss career discover democratic strategy."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Harper",
+    "age": 43,
+    "address": {
+        "street": "Jonathan Isle",
+        "city": "Ruizchester",
+        "state": "Maryland",
+        "zip": "40199"
+    },
+    "contact": {
+        "phone": "938-891-4684x5567",
+        "servicePhone": "800039390"
+    },
+    "birthday": "1982-18-08",
+    "ip": "121.183.224.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Form attorney course down speech. Else account consumer. Think very likely experience.\nFoot part perhaps thing team.",
+        "bio": "Pattern low member beyond study hard century less. Offer employee ability staff standard wish network stuff. A wind own prepare soon decision."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}

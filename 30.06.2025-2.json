@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Hunter",
+    "age": 101,
+    "address": {
+        "street": "Sheila Ville",
+        "city": "Lanehaven",
+        "state": "Kentucky",
+        "zip": "95898"
+    },
+    "contact": {
+        "phone": "781-425-5616x7287",
+        "servicePhone": "800186497"
+    },
+    "birthday": "1924-01-02",
+    "ip": "86.178.26.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Member beyond whose memory indeed protect. Small health type quite left agreement quality develop.\nKey station light place really. International benefit simple key among.",
+        "bio": "Treat behavior son thousand analysis have each manage. Deal data cultural rich.\nWhich person good politics fly. Them its word card production crime."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

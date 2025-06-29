@@ -1,0 +1,25 @@
+{
+    "name": "Bruce Johnson",
+    "age": 96,
+    "address": {
+        "street": "Veronica Cape",
+        "city": "South Laurenborough",
+        "state": "Wisconsin",
+        "zip": "30018"
+    },
+    "contact": {
+        "phone": "699.335.0570x616",
+        "servicePhone": "800169518"
+    },
+    "birthday": "1929-23-06",
+    "ip": "113.31.80.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Despite project time spring various price hospital. Bit physical senior writer. Cover Mrs want recently meeting term.",
+        "bio": "Expert hard fall type part reduce candidate.\nStuff herself though condition company. Laugh market public people huge not."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

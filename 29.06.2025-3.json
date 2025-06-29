@@ -1,0 +1,25 @@
+{
+    "name": "Adam Kent",
+    "age": 51,
+    "address": {
+        "street": "Alexis Lights",
+        "city": "Aaronburgh",
+        "state": "Minnesota",
+        "zip": "39125"
+    },
+    "contact": {
+        "phone": "220.341.0693",
+        "servicePhone": "800150601"
+    },
+    "birthday": "1974-31-12",
+    "ip": "34.25.229.140",
+    "foo": "bar",
+    "profile": {
+        "about": "School discussion space us easy five back. Who bring value however first option.\nLive production federal student material fish myself himself. Civil food standard treat control.",
+        "bio": "Both hospital travel. Young near ground save.\nDream share get executive thank attorney break. Race pull by two positive American. Ever particular authority organization."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Vazquez",
+    "age": 90,
+    "address": {
+        "street": "Joseph Island",
+        "city": "West Jenniferhaven",
+        "state": "Wyoming",
+        "zip": "86035"
+    },
+    "contact": {
+        "phone": "750-473-5213",
+        "servicePhone": "800379316"
+    },
+    "birthday": "1935-26-02",
+    "ip": "166.212.70.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Form democratic would benefit rule something person. Fear design third last reach. Night determine develop guess.",
+        "bio": "Item brother human simply mention well. Tough these police great free south machine argue. Reflect most loss message."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

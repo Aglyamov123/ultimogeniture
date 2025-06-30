@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Ponce",
+    "age": 79,
+    "address": {
+        "street": "Joel Hill",
+        "city": "Avilahaven",
+        "state": "Indiana",
+        "zip": "59625"
+    },
+    "contact": {
+        "phone": "525-255-1962x67060",
+        "servicePhone": "800169268"
+    },
+    "birthday": "1946-19-03",
+    "ip": "135.58.217.36",
+    "foo": "bar",
+    "profile": {
+        "about": "Two letter specific rise order. Discuss beautiful activity executive hour bag station. Election drive young over.",
+        "bio": "Fund rather open on town discuss. Western certainly yes water teach affect theory study. Offer simple serious plan idea red political."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

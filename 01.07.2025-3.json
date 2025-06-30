@@ -1,0 +1,25 @@
+{
+    "name": "Adam Lewis",
+    "age": 56,
+    "address": {
+        "street": "David Mews",
+        "city": "East Kaitlynview",
+        "state": "Wisconsin",
+        "zip": "40059"
+    },
+    "contact": {
+        "phone": "+1-850-491-9813x0384",
+        "servicePhone": "800206656"
+    },
+    "birthday": "1969-25-12",
+    "ip": "65.16.169.154",
+    "foo": "bar",
+    "profile": {
+        "about": "According table will include glass evening citizen. Early create strong population use according.",
+        "bio": "Team Mrs seek goal. Mind truth type loss chance town sing."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Thomas",
+    "age": 56,
+    "address": {
+        "street": "Mitchell Springs",
+        "city": "Markshire",
+        "state": "Idaho",
+        "zip": "95327"
+    },
+    "contact": {
+        "phone": "001-885-249-3295x845",
+        "servicePhone": "800564136"
+    },
+    "birthday": "1969-24-06",
+    "ip": "169.145.23.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment production its former white. Interview partner wonder certainly pick.\nEdge office treat year could loss.",
+        "bio": "Beat lay box. Foreign easy nor tax little year hand.\nFor cut leader think black song. Religious especially chance campaign company close treatment."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}

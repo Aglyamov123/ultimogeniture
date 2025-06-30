@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Tran",
+    "age": 5,
+    "address": {
+        "street": "Wells Lodge",
+        "city": "Turnerview",
+        "state": "New Jersey",
+        "zip": "87153"
+    },
+    "contact": {
+        "phone": "(472)640-2109x984",
+        "servicePhone": "800227198"
+    },
+    "birthday": "2020-20-07",
+    "ip": "50.65.114.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Begin consumer window number mother. Indicate year where page impact light add yeah. Final either best guy final. Important generation hope goal.",
+        "bio": "Go soldier what concern responsibility by adult. Play near particular girl. Her argue others.\nTrip television class true leader six physical none."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}

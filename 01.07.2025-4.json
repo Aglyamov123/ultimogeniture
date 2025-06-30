@@ -1,0 +1,25 @@
+{
+    "name": "Joann Schmidt",
+    "age": 4,
+    "address": {
+        "street": "Rogers Pike",
+        "city": "Ortegahaven",
+        "state": "Kansas",
+        "zip": "35006"
+    },
+    "contact": {
+        "phone": "519.325.7867x95128",
+        "servicePhone": "800792875"
+    },
+    "birthday": "2021-28-01",
+    "ip": "105.231.182.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Room even according build professor TV part. Center in choose over population. Individual data chair recent data same central.",
+        "bio": "Rather recognize foreign law oil. Nor method tough art couple win. Admit war affect explain huge.\nThemselves room street kitchen scene that staff run."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}

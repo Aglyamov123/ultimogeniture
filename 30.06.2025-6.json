@@ -1,0 +1,25 @@
+{
+    "name": "Emily Smith",
+    "age": 63,
+    "address": {
+        "street": "Lee Manors",
+        "city": "Walkerborough",
+        "state": "Arizona",
+        "zip": "58153"
+    },
+    "contact": {
+        "phone": "001-595-776-6177x2963",
+        "servicePhone": "800586821"
+    },
+    "birthday": "1962-07-07",
+    "ip": "120.152.77.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Food church fly product writer. Painting personal book ever.\nThem still rule foot seek spend. Light history far feeling southern.",
+        "bio": "Stay American real forget pressure accept wall. However official member response. Present social mean resource land drug audience."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}

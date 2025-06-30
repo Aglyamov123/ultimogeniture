@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Snow",
+    "age": 99,
+    "address": {
+        "street": "Yvonne Pines",
+        "city": "Ibarraburgh",
+        "state": "Oklahoma",
+        "zip": "92796"
+    },
+    "contact": {
+        "phone": "512-211-1190x680",
+        "servicePhone": "800622711"
+    },
+    "birthday": "1926-24-07",
+    "ip": "223.68.231.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Care way you. Wait a daughter perhaps.\nIn ground fine sort.\nTake off likely politics care stop beautiful. None why seek become our offer. American technology final look save follow.",
+        "bio": "Accept how class who wear. Guy view about. Address large indeed there appear couple than.\nWalk build woman couple water change through. Different nation huge number reveal benefit reach generation."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}

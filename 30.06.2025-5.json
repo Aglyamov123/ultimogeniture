@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Welch",
+    "age": 89,
+    "address": {
+        "street": "Steele Flats",
+        "city": "East Rebeccachester",
+        "state": "South Dakota",
+        "zip": "00549"
+    },
+    "contact": {
+        "phone": "+1-985-499-2093x344",
+        "servicePhone": "800249728"
+    },
+    "birthday": "1936-19-09",
+    "ip": "31.122.22.223",
+    "foo": "bar",
+    "profile": {
+        "about": "International room sound dark reality realize. Goal on before keep likely. Red religious plant respond make later before.\nRich fact trip bad.",
+        "bio": "Machine community compare return agency produce for commercial.\nStart look day development usually hospital. Adult cell through power impact. Road language scientist modern exist audience support."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

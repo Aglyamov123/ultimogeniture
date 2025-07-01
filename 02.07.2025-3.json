@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Gross",
+    "age": 0,
+    "address": {
+        "street": "Sanchez Overpass",
+        "city": "Hillborough",
+        "state": "Hawaii",
+        "zip": "66275"
+    },
+    "contact": {
+        "phone": "(355)752-7666",
+        "servicePhone": "800708084"
+    },
+    "birthday": "2025-08-07",
+    "ip": "106.238.64.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Long plant might oil city. Color shake small always tell can.\nMachine direction share recent why choice. Water number effect process government fall. Record agree water institution.",
+        "bio": "Although picture magazine. Purpose energy about.\nCase board gas management plant. Ability almost seek total.\nMrs laugh protect rate time win accept. Character my really senior check artist or."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

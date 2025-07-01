@@ -1,0 +1,25 @@
+{
+    "name": "James White",
+    "age": 36,
+    "address": {
+        "street": "Miller Dam",
+        "city": "West Connie",
+        "state": "Maryland",
+        "zip": "44629"
+    },
+    "contact": {
+        "phone": "(713)431-3764x6106",
+        "servicePhone": "800602586"
+    },
+    "birthday": "1989-16-03",
+    "ip": "88.92.166.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic push with really. Family build side out toward.\nTeacher product want sport line. Force its out trial similar. Like bag protect somebody way. Life none three against better choose expert.",
+        "bio": "Dinner phone field boy ground run certain. Expert really administration head cup.\nMedical defense maybe phone mouth go into. Voice always standard person become popular."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}

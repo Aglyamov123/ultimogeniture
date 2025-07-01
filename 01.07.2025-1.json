@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Garcia",
+    "age": 32,
+    "address": {
+        "street": "Nguyen Grove",
+        "city": "Millerburgh",
+        "state": "South Dakota",
+        "zip": "05684"
+    },
+    "contact": {
+        "phone": "912.766.2427x145",
+        "servicePhone": "800273273"
+    },
+    "birthday": "1993-10-11",
+    "ip": "139.28.160.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Worker someone parent. Light even back open human with follow. Entire couple purpose name scientist price establish.",
+        "bio": "High personal front mouth early ahead night. Somebody stage responsibility fly.\nStandard thing capital government reflect. Represent prevent ball lay."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

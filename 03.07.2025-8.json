@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Salazar",
+    "age": 104,
+    "address": {
+        "street": "Hunter Pass",
+        "city": "South Amber",
+        "state": "South Dakota",
+        "zip": "18279"
+    },
+    "contact": {
+        "phone": "(999)750-4750",
+        "servicePhone": "800396292"
+    },
+    "birthday": "1921-09-11",
+    "ip": "136.175.230.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Food himself another moment how most. Must safe wall others lose week million.",
+        "bio": "Nothing adult agent home right. Southern pretty accept program turn. Nearly bill idea about figure truth provide mean."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}

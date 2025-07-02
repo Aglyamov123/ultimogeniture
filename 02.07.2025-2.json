@@ -1,0 +1,25 @@
+{
+    "name": "Beverly Watson",
+    "age": 16,
+    "address": {
+        "street": "Lin Cliff",
+        "city": "Lake Edwardstad",
+        "state": "Connecticut",
+        "zip": "99848"
+    },
+    "contact": {
+        "phone": "001-479-593-9073x71269",
+        "servicePhone": "800387136"
+    },
+    "birthday": "2009-06-11",
+    "ip": "144.20.7.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Nor rule news during could trial situation.\nFoot lose behavior. Teach natural then fund explain.\nState understand low another nature who case. Series here everything.",
+        "bio": "Else positive question interesting business piece. Heart performance exactly far.\nLight create husband section test various. Congress position help include.\nBecome serve game senior."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

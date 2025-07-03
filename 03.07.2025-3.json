@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Suzanne Hicks",
+    "age": 51,
+    "address": {
+        "street": "Richard Court",
+        "city": "New Bethville",
+        "state": "Iowa",
+        "zip": "03187"
+    },
+    "contact": {
+        "phone": "325.539.2395x827",
+        "servicePhone": "800939448"
+    },
+    "birthday": "1974-31-03",
+    "ip": "194.88.105.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Line personal full window. Question great throw those. Material tough owner low lay site.",
+        "bio": "Administration very kind. Save image discuss realize. Participant present case question as product present."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

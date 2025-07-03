@@ -1,0 +1,25 @@
+{
+    "name": "Francisco Pitts",
+    "age": 102,
+    "address": {
+        "street": "Taylor Squares",
+        "city": "Stephaniemouth",
+        "state": "Mississippi",
+        "zip": "85820"
+    },
+    "contact": {
+        "phone": "001-367-840-9288x385",
+        "servicePhone": "800078298"
+    },
+    "birthday": "1923-04-08",
+    "ip": "150.222.119.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Address maintain note space. Direction buy foreign south other. Born our general add standard.\nAhead operation few. Weight idea information plan director tend at.",
+        "bio": "Sound mention within send avoid figure rule. Operation western several yes how.\nCommon response edge among. Scene boy traditional. Play she add."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}

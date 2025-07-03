@@ -1,0 +1,25 @@
+{
+    "name": "Eric Hernandez",
+    "age": 34,
+    "address": {
+        "street": "Cheryl Causeway",
+        "city": "Mcdanielberg",
+        "state": "Massachusetts",
+        "zip": "94005"
+    },
+    "contact": {
+        "phone": "4938706156",
+        "servicePhone": "800970848"
+    },
+    "birthday": "1991-30-05",
+    "ip": "141.239.209.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Computer body miss nature. Laugh travel between forget live though.\nHusband structure front I worker talk right. Type response six create economic argue. Every professor kitchen dog.",
+        "bio": "Research example plan meeting a allow mission ahead. Music police success around view direction.\nDetail certain sing foot. Education value government lead enough listen gun."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}

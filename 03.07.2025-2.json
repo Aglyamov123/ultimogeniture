@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Lowe",
+    "age": 8,
+    "address": {
+        "street": "Kathleen Alley",
+        "city": "Jonville",
+        "state": "Mississippi",
+        "zip": "59852"
+    },
+    "contact": {
+        "phone": "+1-748-976-4452x5376",
+        "servicePhone": "800469643"
+    },
+    "birthday": "2017-13-06",
+    "ip": "182.129.103.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Task wonder article institution mind Congress dinner. Either company yet difference style. Team explain discussion pattern else.\nEnough involve prove customer.",
+        "bio": "Hand position international start cold run. Clear number someone finish image national they. Want cause sport air meet seven question establish."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

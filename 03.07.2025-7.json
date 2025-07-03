@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Fitzgerald",
+    "age": 15,
+    "address": {
+        "street": "Christina Cliff",
+        "city": "West Audreyburgh",
+        "state": "North Carolina",
+        "zip": "69498"
+    },
+    "contact": {
+        "phone": "+1-818-435-7481x900",
+        "servicePhone": "800464930"
+    },
+    "birthday": "2010-19-05",
+    "ip": "76.99.35.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Cold management involve rule.\nTrue lay cup need catch them send. Cause environment race consumer ready responsibility degree. Partner meet so worry feeling many.",
+        "bio": "Religious film thus opportunity four game likely.\nStuff much speak family forget write. The nice first. Toward this establish must."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}

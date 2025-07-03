@@ -1,0 +1,25 @@
+{
+    "name": "Justin Wells",
+    "age": 110,
+    "address": {
+        "street": "Mark Meadow",
+        "city": "North Jesseton",
+        "state": "South Dakota",
+        "zip": "57212"
+    },
+    "contact": {
+        "phone": "502.692.3011",
+        "servicePhone": "800818541"
+    },
+    "birthday": "1915-25-04",
+    "ip": "95.187.143.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Seven this reach mission yeah. In mention apply allow often bill center.\nSeek experience no central nation. Walk hear consider want pull nothing according.",
+        "bio": "Know rock trip soon human TV. Industry despite debate modern personal. Give site daughter in likely.\nSkin lay kitchen production put understand government which."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

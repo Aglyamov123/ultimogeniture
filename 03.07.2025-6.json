@@ -1,0 +1,25 @@
+{
+    "name": "Richard Boyd",
+    "age": 93,
+    "address": {
+        "street": "Howard Park",
+        "city": "Alejandraberg",
+        "state": "Alabama",
+        "zip": "28442"
+    },
+    "contact": {
+        "phone": "210.616.6454x504",
+        "servicePhone": "800860377"
+    },
+    "birthday": "1932-20-05",
+    "ip": "168.246.231.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart picture although talk behavior. Network oil spring would.\nMove opportunity bank cold around serious. Ok page save amount street day provide. Protect through break happen new young performance.",
+        "bio": "Alone management soon check goal off simply until. Degree available arrive answer and approach service. Present deal include special should.\nDetermine civil key trip."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

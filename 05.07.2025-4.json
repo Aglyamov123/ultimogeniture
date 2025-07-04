@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Cunningham",
+    "age": 9,
+    "address": {
+        "street": "John Station",
+        "city": "East Matthew",
+        "state": "Illinois",
+        "zip": "42077"
+    },
+    "contact": {
+        "phone": "001-310-494-3509x90903",
+        "servicePhone": "800338356"
+    },
+    "birthday": "2016-09-05",
+    "ip": "82.26.210.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Wear staff believe structure on project. Small street main both board.\nNote magazine plant whether concern finally blood meeting. View treatment follow happen summer. Week blood letter movie moment.",
+        "bio": "Level people edge interest movement control necessary candidate. Threat enjoy college into."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}

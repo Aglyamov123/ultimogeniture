@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Evans",
+    "age": 20,
+    "address": {
+        "street": "Finley Shoal",
+        "city": "Wilsonmouth",
+        "state": "Washington",
+        "zip": "12285"
+    },
+    "contact": {
+        "phone": "2726501168",
+        "servicePhone": "800602489"
+    },
+    "birthday": "2005-27-11",
+    "ip": "66.236.212.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Away see vote foot tonight phone than fire. Success open measure.\nFood somebody itself bring early of. Rise impact inside face collection those.",
+        "bio": "System character least local scene. Owner together determine herself write true. Whatever understand change director discover not."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}

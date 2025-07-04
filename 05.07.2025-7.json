@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Johnson",
+    "age": 17,
+    "address": {
+        "street": "Krista Course",
+        "city": "Morganmouth",
+        "state": "Louisiana",
+        "zip": "10021"
+    },
+    "contact": {
+        "phone": "(761)992-5190x46604",
+        "servicePhone": "800235688"
+    },
+    "birthday": "2008-18-04",
+    "ip": "196.74.250.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Suddenly figure each learn. Look Mrs mean matter surface ground. Something sea appear argue wall.",
+        "bio": "Adult international police him main friend everything. Other cost yard arrive stock attorney. Matter feeling time skill.\nHeavy pretty newspaper focus process. Thus owner say within defense say."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}

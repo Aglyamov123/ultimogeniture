@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Lewis",
+    "age": 99,
+    "address": {
+        "street": "Garcia Point",
+        "city": "Davismouth",
+        "state": "Missouri",
+        "zip": "07849"
+    },
+    "contact": {
+        "phone": "001-451-984-4693x98092",
+        "servicePhone": "800556100"
+    },
+    "birthday": "1926-24-10",
+    "ip": "3.96.248.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Eight cost their yes consumer create. Tend tend morning space memory. Address indicate care.\nScientist series official thing name simply statement. Spring relate join pay. New partner organization.",
+        "bio": "Cover girl management learn. Music ask second him little.\nHuge discussion visit executive account. Cultural whole staff buy expect science."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}

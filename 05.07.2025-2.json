@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Walters",
+    "age": 76,
+    "address": {
+        "street": "Matthew Branch",
+        "city": "Port Andrewshire",
+        "state": "Minnesota",
+        "zip": "24546"
+    },
+    "contact": {
+        "phone": "372-213-7203x25294",
+        "servicePhone": "800139554"
+    },
+    "birthday": "1949-01-05",
+    "ip": "54.37.204.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Evidence method morning window upon plant. Listen cause science suffer feel simply education administration. Condition education chair alone reason play financial group.",
+        "bio": "Cell season red eight capital live. Change allow purpose glass my sing. Writer close sea agreement."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}

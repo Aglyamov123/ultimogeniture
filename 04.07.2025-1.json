@@ -1,0 +1,25 @@
+{
+    "name": "April Mcfarland",
+    "age": 89,
+    "address": {
+        "street": "Brown Crossing",
+        "city": "Cameronbury",
+        "state": "Iowa",
+        "zip": "38816"
+    },
+    "contact": {
+        "phone": "6632791004",
+        "servicePhone": "800466468"
+    },
+    "birthday": "1936-21-11",
+    "ip": "24.148.204.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Oil again wall prevent society personal deep. Report must effort thus bad.\nIf central specific. American entire bring their yes resource.\nPolitical size rich debate form leg affect. Bring may yet.",
+        "bio": "Above case individual image. Bag find again order owner oil opportunity hard. We mission box huge friend.\nRoom summer understand month move song girl."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}

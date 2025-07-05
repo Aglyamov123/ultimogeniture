@@ -1,0 +1,25 @@
+{
+    "name": "Michael Peterson",
+    "age": 91,
+    "address": {
+        "street": "Campos Loaf",
+        "city": "Tinachester",
+        "state": "Vermont",
+        "zip": "47951"
+    },
+    "contact": {
+        "phone": "+1-880-626-2286x769",
+        "servicePhone": "800897644"
+    },
+    "birthday": "1934-03-12",
+    "ip": "139.91.188.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Similar store learn responsibility PM seat. Money represent opportunity test authority prepare weight. Director nice stuff music age shake.",
+        "bio": "Task leave own huge join yourself. Create responsibility family scientist out our star half.\nAgency though administration high of speech. Science relationship share."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}

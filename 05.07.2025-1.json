@@ -1,0 +1,25 @@
+{
+    "name": "Cesar Garcia",
+    "age": 50,
+    "address": {
+        "street": "Kathleen Mountain",
+        "city": "Veronicaburgh",
+        "state": "Nebraska",
+        "zip": "30682"
+    },
+    "contact": {
+        "phone": "652.546.0714",
+        "servicePhone": "800802490"
+    },
+    "birthday": "1975-12-01",
+    "ip": "81.107.84.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Raise his finish together late skill expert reduce. Service claim area approach whether suddenly.\nEnergy measure finish song. Model collection conference. Half increase return.",
+        "bio": "Save pretty manage nation arrive power. Parent item total economy half."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

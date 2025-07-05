@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Yu",
+    "age": 64,
+    "address": {
+        "street": "Craig Via",
+        "city": "Gutierrezstad",
+        "state": "Minnesota",
+        "zip": "91255"
+    },
+    "contact": {
+        "phone": "(798)868-6447x7084",
+        "servicePhone": "800581866"
+    },
+    "birthday": "1961-03-04",
+    "ip": "35.203.41.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Trial both yeah hair let agree parent. Rather law marriage fight begin describe very special. College sea best somebody religious condition.",
+        "bio": "Sing true high like. Know friend board hospital manager here. Everybody organization east generation over always blue."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}

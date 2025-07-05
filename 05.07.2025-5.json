@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Rice",
+    "age": 71,
+    "address": {
+        "street": "Foster Trail",
+        "city": "West Michaelborough",
+        "state": "New York",
+        "zip": "47128"
+    },
+    "contact": {
+        "phone": "992-468-6843",
+        "servicePhone": "800680396"
+    },
+    "birthday": "1954-26-03",
+    "ip": "119.192.76.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside treatment food shake. That benefit eye event choose suddenly to. Under position should.\nThat clear law company. Process make doctor Congress loss response.",
+        "bio": "Tv ask career. Edge security big model table save.\nTreat partner term very feeling. They cold yard strong finish interesting."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}

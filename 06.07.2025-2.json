@@ -1,0 +1,25 @@
+{
+    "name": "Steven Hubbard",
+    "age": 99,
+    "address": {
+        "street": "Garrett Prairie",
+        "city": "New Toddfort",
+        "state": "New Hampshire",
+        "zip": "49577"
+    },
+    "contact": {
+        "phone": "+1-441-509-6959x6128",
+        "servicePhone": "800476084"
+    },
+    "birthday": "1926-11-04",
+    "ip": "4.160.52.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice citizen fish figure. Fish teacher little.\nPresident must control mouth protect participant parent final. Couple them test event. Major against fish.",
+        "bio": "Industry well choice economy. Pretty fund they.\nPush country stand region. While threat choice news thing seven receive. Speak yet why marriage police. Million machine ball attack."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

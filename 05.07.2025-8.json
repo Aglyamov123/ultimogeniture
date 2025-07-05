@@ -1,0 +1,25 @@
+{
+    "name": "Diana Harrington",
+    "age": 116,
+    "address": {
+        "street": "Adam Parks",
+        "city": "Lake Justin",
+        "state": "Iowa",
+        "zip": "27822"
+    },
+    "contact": {
+        "phone": "716.784.6128",
+        "servicePhone": "800460621"
+    },
+    "birthday": "1909-04-11",
+    "ip": "61.14.123.131",
+    "foo": "bar",
+    "profile": {
+        "about": "West sometimes song public. Culture federal drug statement whether student. Save candidate animal short American spend.\nCommon sometimes us decade try me. Sea low civil should before its.",
+        "bio": "Hit become maybe find to board staff. Ever face girl artist which every.\nWall result end economic buy cold ball. Message candidate whatever glass discussion across."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

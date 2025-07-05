@@ -1,0 +1,25 @@
+{
+    "name": "Wendy Harris",
+    "age": 11,
+    "address": {
+        "street": "Frank Tunnel",
+        "city": "Port Markberg",
+        "state": "New Hampshire",
+        "zip": "25638"
+    },
+    "contact": {
+        "phone": "2792319091",
+        "servicePhone": "800207559"
+    },
+    "birthday": "2014-25-03",
+    "ip": "36.113.218.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Executive politics industry month lose. News a music job. Enjoy machine simply onto organization key seven.\nPlay enough language become on. Yet agree step type citizen wonder.\nJoin skin heart song.",
+        "bio": "Door avoid today often against shake especially information. Art home serve but.\nYear across sign happy according civil tree. Bed cover sister job. Boy as according keep interview save measure."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}

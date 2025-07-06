@@ -1,0 +1,25 @@
+{
+    "name": "Maria Watson",
+    "age": 58,
+    "address": {
+        "street": "Abbott Mountains",
+        "city": "Crawfordhaven",
+        "state": "Indiana",
+        "zip": "89006"
+    },
+    "contact": {
+        "phone": "634-277-8242x8979",
+        "servicePhone": "800223386"
+    },
+    "birthday": "1967-24-10",
+    "ip": "85.191.38.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Itself agency Congress second while face nearly. Future husband fact ahead step herself work. Red call expect clear form fall section.",
+        "bio": "Seek affect small important save. Such thought not above. American apply tough western design evidence happen."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}

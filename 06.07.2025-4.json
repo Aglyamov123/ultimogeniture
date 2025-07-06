@@ -1,0 +1,25 @@
+{
+    "name": "John Mccarthy",
+    "age": 99,
+    "address": {
+        "street": "Dominic Squares",
+        "city": "Bryanburgh",
+        "state": "Montana",
+        "zip": "95025"
+    },
+    "contact": {
+        "phone": "461-994-3526x1199",
+        "servicePhone": "800620076"
+    },
+    "birthday": "1926-25-11",
+    "ip": "48.176.86.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea couple end provide crime east. We Mr cut his listen.\nWhat tend heavy left. Road return phone poor call city foreign.",
+        "bio": "Fine star significant above above herself house. Stay lawyer person environmental.\nFederal affect talk explain base. Among read generation. A break explain economy."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}

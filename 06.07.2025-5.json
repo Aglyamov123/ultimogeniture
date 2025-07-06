@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Sanchez",
+    "age": 33,
+    "address": {
+        "street": "Curtis Cliff",
+        "city": "Jillmouth",
+        "state": "Indiana",
+        "zip": "98252"
+    },
+    "contact": {
+        "phone": "4428064470",
+        "servicePhone": "800096580"
+    },
+    "birthday": "1992-14-06",
+    "ip": "113.135.242.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship despite situation catch better yeah friend. Image leg opportunity article writer. Challenge in provide.",
+        "bio": "White then wind major far production after. General sport maintain soon product learn. Despite such rate same professor certain growth occur. Who sport wear speech."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}

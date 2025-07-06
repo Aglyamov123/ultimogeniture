@@ -1,0 +1,25 @@
+{
+    "name": "Angela Gibbs",
+    "age": 46,
+    "address": {
+        "street": "King Flat",
+        "city": "Davisland",
+        "state": "Pennsylvania",
+        "zip": "80088"
+    },
+    "contact": {
+        "phone": "528.665.6062x4402",
+        "servicePhone": "800911150"
+    },
+    "birthday": "1979-02-10",
+    "ip": "141.164.25.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad system task read town. Choose scene white feeling despite.\nRemember right big movie teacher food about. Opportunity across cup ten sing recent.",
+        "bio": "Democrat leg where all he but business. Reveal yourself dog body myself.\nIncluding send bag mention yet remain right. They ok far people protect economy."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

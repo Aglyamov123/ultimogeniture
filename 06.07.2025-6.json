@@ -1,0 +1,25 @@
+{
+    "name": "Katelyn Brown",
+    "age": 77,
+    "address": {
+        "street": "Boyer Meadow",
+        "city": "Wardside",
+        "state": "Delaware",
+        "zip": "59252"
+    },
+    "contact": {
+        "phone": "901.655.8733x9579",
+        "servicePhone": "800144277"
+    },
+    "birthday": "1948-20-06",
+    "ip": "205.18.5.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Ahead clear low court raise bed ready. Interesting within idea audience field position what. Stop data seek fall take ago.",
+        "bio": "Moment degree hold carry under operation least wonder. Under talk none dark community. Car involve thank pass."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}

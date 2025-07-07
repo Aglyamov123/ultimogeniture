@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Padilla",
+    "age": 85,
+    "address": {
+        "street": "Marvin Lane",
+        "city": "East Karlhaven",
+        "state": "New Jersey",
+        "zip": "42489"
+    },
+    "contact": {
+        "phone": "+1-474-794-3247",
+        "servicePhone": "800422633"
+    },
+    "birthday": "1940-04-07",
+    "ip": "72.79.36.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Station four seem write. Own range from or eight staff edge. Professor decade white increase stuff.",
+        "bio": "Try ability any contain clearly deal news. Wait they including development under range. While stand professional owner end team. Theory these well provide."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}

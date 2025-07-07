@@ -1,0 +1,25 @@
+{
+    "name": "Robert Marsh",
+    "age": 83,
+    "address": {
+        "street": "Graves Manors",
+        "city": "Sanchezstad",
+        "state": "Michigan",
+        "zip": "39419"
+    },
+    "contact": {
+        "phone": "850-395-4500x4535",
+        "servicePhone": "800866269"
+    },
+    "birthday": "1942-31-05",
+    "ip": "112.243.51.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer art common summer model society effort. Sound myself particularly girl the seat old. Structure keep dog fast with source.",
+        "bio": "Want green some in. Others thousand exactly the.\nLaugh discuss perform. Hit increase suggest agree option. Your culture education during remember appear protect language."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}

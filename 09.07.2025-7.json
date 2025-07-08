@@ -1,0 +1,25 @@
+{
+    "name": "Caitlin Hicks",
+    "age": 32,
+    "address": {
+        "street": "Sara Ranch",
+        "city": "East Jamesfurt",
+        "state": "New Mexico",
+        "zip": "73111"
+    },
+    "contact": {
+        "phone": "3538254698",
+        "servicePhone": "800770132"
+    },
+    "birthday": "1993-08-09",
+    "ip": "194.17.32.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic audience their particularly they. Middle newspaper second under performance laugh least.",
+        "bio": "Around final lot blood friend.\nSuch total well. Maybe themselves side law way talk indicate.\nSuffer term good skill attention two. Five protect right coach. Media power from around much."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

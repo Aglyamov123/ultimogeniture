@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Smith",
+    "age": 30,
+    "address": {
+        "street": "King Terrace",
+        "city": "Marcfurt",
+        "state": "Kentucky",
+        "zip": "47802"
+    },
+    "contact": {
+        "phone": "001-522-632-8271x2854",
+        "servicePhone": "800896735"
+    },
+    "birthday": "1995-04-11",
+    "ip": "184.101.150.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Hit fine toward itself kitchen drive. Reflect bad during forward school. Position project good foreign stuff stuff will behavior. Fast to live enjoy visit morning.",
+        "bio": "Anything him coach marriage not science recognize. Machine fish identify toward last service tough. Well happy seven she care."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}

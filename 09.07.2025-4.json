@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Turner",
+    "age": 106,
+    "address": {
+        "street": "Matthew Greens",
+        "city": "Greerville",
+        "state": "Nebraska",
+        "zip": "38913"
+    },
+    "contact": {
+        "phone": "445.828.7367",
+        "servicePhone": "800598630"
+    },
+    "birthday": "1919-22-02",
+    "ip": "19.247.113.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Choice situation goal wear. Letter far research country than choice. Decide miss himself program recently will sense.\nDetail among kid imagine someone.",
+        "bio": "Late check sense service inside effort too.\nSystem responsibility dog eight case tonight. Social feeling hard lot attack stop."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

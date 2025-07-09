@@ -1,0 +1,25 @@
+{
+    "name": "Kelli Gregory",
+    "age": 53,
+    "address": {
+        "street": "Kimberly Walks",
+        "city": "Taylorville",
+        "state": "Tennessee",
+        "zip": "10776"
+    },
+    "contact": {
+        "phone": "001-844-780-6498",
+        "servicePhone": "800438416"
+    },
+    "birthday": "1972-06-08",
+    "ip": "135.127.77.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Phone like arm project floor. Wait dark relationship relate great listen impact community. Chance teach trade executive follow. Quite staff which Mrs official after.",
+        "bio": "Necessary news interesting her. Business offer idea dog authority finish. Which put special too stop still. Least campaign family contain another fly consumer."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

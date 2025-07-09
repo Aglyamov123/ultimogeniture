@@ -1,0 +1,25 @@
+{
+    "name": "Heather Smith",
+    "age": 63,
+    "address": {
+        "street": "Harris Fords",
+        "city": "West Crystalton",
+        "state": "Connecticut",
+        "zip": "96814"
+    },
+    "contact": {
+        "phone": "001-726-930-6339x71603",
+        "servicePhone": "800456302"
+    },
+    "birthday": "1962-21-01",
+    "ip": "175.12.200.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Majority say possible move century fast east common. Whose serve card simply three.",
+        "bio": "View within commercial daughter question. Although outside ever sea heart face population stock.\nWrite industry defense enter. Piece window will garden others."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}

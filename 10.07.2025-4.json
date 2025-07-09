@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Kent",
+    "age": 54,
+    "address": {
+        "street": "Jennifer Via",
+        "city": "Michaelview",
+        "state": "California",
+        "zip": "01549"
+    },
+    "contact": {
+        "phone": "732.606.6623x299",
+        "servicePhone": "800941031"
+    },
+    "birthday": "1971-18-04",
+    "ip": "142.187.15.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal computer some ready his politics. Increase cover organization too.\nAway improve professional for end discover state. Beyond treat west event.",
+        "bio": "Good professional word admit movement group. Talk major operation recently year off tonight receive. Open special let she hold realize."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Johnston",
+    "age": 91,
+    "address": {
+        "street": "Bates Court",
+        "city": "Port Latoyashire",
+        "state": "New York",
+        "zip": "16253"
+    },
+    "contact": {
+        "phone": "747.418.6433x5717",
+        "servicePhone": "800768152"
+    },
+    "birthday": "1934-02-05",
+    "ip": "70.27.184.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Market put those long about open interesting read. Speak value game technology behavior. Pressure message first news light me.",
+        "bio": "Series bank six movie issue maintain become. Once image drop feeling.\nBox agree maybe court lot spend where stuff. Product skill soldier lead concern citizen. Per protect growth bit myself."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}

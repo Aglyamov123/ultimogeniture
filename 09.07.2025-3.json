@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Olson",
+    "age": 48,
+    "address": {
+        "street": "Ruiz Prairie",
+        "city": "North Nicholastown",
+        "state": "Louisiana",
+        "zip": "28349"
+    },
+    "contact": {
+        "phone": "+1-998-539-3289x784",
+        "servicePhone": "800496553"
+    },
+    "birthday": "1977-22-08",
+    "ip": "218.231.180.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Movie someone recent way. Magazine left cause.\nWorld eat daughter source whether pretty population. Product site else use performance. Rich quickly market hope plant threat.",
+        "bio": "Analysis as arm certain cut answer consumer necessary. Might head for without question. Right firm of investment sister.\nGoal mission however into. Nature shoulder back wish put official personal."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}

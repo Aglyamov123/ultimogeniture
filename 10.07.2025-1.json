@@ -1,0 +1,25 @@
+{
+    "name": "Alfred Brady",
+    "age": 68,
+    "address": {
+        "street": "Cohen Points",
+        "city": "Roberthaven",
+        "state": "Ohio",
+        "zip": "29529"
+    },
+    "contact": {
+        "phone": "001-980-422-9487x5408",
+        "servicePhone": "800148005"
+    },
+    "birthday": "1957-31-08",
+    "ip": "93.222.189.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Kitchen alone market cell employee never day. Or reach office station million. Off physical cost. Skin something also score.\nBag girl consider that agreement.",
+        "bio": "Fly defense radio author your true according. Chair guy school better improve player.\nMemory clear report approach buy third part fish."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}

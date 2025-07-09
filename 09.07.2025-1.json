@@ -1,0 +1,25 @@
+{
+    "name": "Anna Carter",
+    "age": 65,
+    "address": {
+        "street": "Cooper Fort",
+        "city": "South William",
+        "state": "Illinois",
+        "zip": "77181"
+    },
+    "contact": {
+        "phone": "543.270.9642x210",
+        "servicePhone": "800255018"
+    },
+    "birthday": "1960-28-02",
+    "ip": "101.123.135.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Rich positive lot production. Dinner already why record red story. Blue personal outside how.",
+        "bio": "Decade sense probably job might. Threat rather opportunity popular wonder yet serious environment. Day difficult throw item."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

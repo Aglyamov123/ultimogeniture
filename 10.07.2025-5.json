@@ -1,0 +1,25 @@
+{
+    "name": "Megan Harris",
+    "age": 49,
+    "address": {
+        "street": "Ruiz Tunnel",
+        "city": "Elizabethhaven",
+        "state": "Rhode Island",
+        "zip": "21627"
+    },
+    "contact": {
+        "phone": "001-426-277-2857x96740",
+        "servicePhone": "800458615"
+    },
+    "birthday": "1976-12-08",
+    "ip": "129.190.48.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Design identify worry. Product force next movie major Republican. Carry ability according place.",
+        "bio": "Federal car during. Standard after rise concern best us management.\nAssume will base true field husband. Bag indicate subject economic."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}

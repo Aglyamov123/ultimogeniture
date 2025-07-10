@@ -1,0 +1,25 @@
+{
+    "name": "Rodney Ramos",
+    "age": 21,
+    "address": {
+        "street": "Miller Lock",
+        "city": "West Sarah",
+        "state": "Virginia",
+        "zip": "44792"
+    },
+    "contact": {
+        "phone": "001-979-219-9801",
+        "servicePhone": "800567538"
+    },
+    "birthday": "2004-25-06",
+    "ip": "15.253.88.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Coach nearly watch. Enough area yeah difference.",
+        "bio": "Next factor write word. Federal let present hotel apply her project. Half effect do sign partner part this.\nMy first difficult option near administration. Hospital always person he."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

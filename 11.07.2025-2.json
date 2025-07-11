@@ -1,0 +1,25 @@
+{
+    "name": "Michael Rogers",
+    "age": 105,
+    "address": {
+        "street": "Paul Pines",
+        "city": "Port Meganstad",
+        "state": "Oklahoma",
+        "zip": "85406"
+    },
+    "contact": {
+        "phone": "001-873-376-3715",
+        "servicePhone": "800141730"
+    },
+    "birthday": "1920-16-01",
+    "ip": "172.222.99.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Need account almost. Matter development center own. Contain trouble western.\nMovie whole energy bit drug. Thousand truth before tax sport toward speak.",
+        "bio": "Lot decision agreement account piece stop moment. Professor next focus upon experience. Evening full relate company prove.\nWord idea defense night. Road per your pressure."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}

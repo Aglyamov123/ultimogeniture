@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Barry",
+    "age": 24,
+    "address": {
+        "street": "Kim Fields",
+        "city": "Tuckerberg",
+        "state": "West Virginia",
+        "zip": "89679"
+    },
+    "contact": {
+        "phone": "(767)926-8844",
+        "servicePhone": "800104274"
+    },
+    "birthday": "2001-30-06",
+    "ip": "47.168.213.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Effect evening cultural save draw imagine. Director activity soon successful. Sound kind standard political.",
+        "bio": "Somebody second gas person. May expert media word return tonight. Make fast one tree both general half.\nReach behavior throw. Enjoy wind into card. Either amount green reality Mr candidate ask."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}

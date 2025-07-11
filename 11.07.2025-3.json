@@ -1,0 +1,25 @@
+{
+    "name": "Justin Martinez",
+    "age": 48,
+    "address": {
+        "street": "Green Branch",
+        "city": "Lake Ericshire",
+        "state": "Louisiana",
+        "zip": "01278"
+    },
+    "contact": {
+        "phone": "+1-816-674-5753x13880",
+        "servicePhone": "800325144"
+    },
+    "birthday": "1977-01-09",
+    "ip": "179.142.119.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Back church about certainly could rule form. Long walk physical central. Very right mother later.\nMedia body remain huge. Receive sense election new receive member talk.",
+        "bio": "Word maybe blood behind class check professional several. Seem level glass see responsibility item. Attorney management any without final direction."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

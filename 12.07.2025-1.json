@@ -1,0 +1,25 @@
+{
+    "name": "Ralph David",
+    "age": 88,
+    "address": {
+        "street": "Wilson Islands",
+        "city": "New William",
+        "state": "Pennsylvania",
+        "zip": "12330"
+    },
+    "contact": {
+        "phone": "(255)582-4569x2096",
+        "servicePhone": "800243872"
+    },
+    "birthday": "1937-21-06",
+    "ip": "65.79.233.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Wind current note difference though remember medical. Congress newspaper industry seat process. Study there we pull his.\nSmall per and ok.",
+        "bio": "Great year look perhaps. According energy easy.\nBehind country nor serious affect response. Central personal hand follow body. Cost woman year police."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Franklin",
+    "age": 62,
+    "address": {
+        "street": "Crosby Landing",
+        "city": "East Ryan",
+        "state": "Maryland",
+        "zip": "19475"
+    },
+    "contact": {
+        "phone": "+1-757-973-5375x7591",
+        "servicePhone": "800030152"
+    },
+    "birthday": "1963-03-02",
+    "ip": "13.223.253.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Get benefit fact avoid across. Price half reduce government plan forward personal spend. Force mouth office fear enough similar research.",
+        "bio": "Compare only value their catch after clearly analysis. Tv campaign item always tell. Foot power most interesting somebody learn network."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Carla Campbell",
+    "age": 91,
+    "address": {
+        "street": "Ho Mountain",
+        "city": "West Laura",
+        "state": "New York",
+        "zip": "37494"
+    },
+    "contact": {
+        "phone": "628-945-9602x79249",
+        "servicePhone": "800386737"
+    },
+    "birthday": "1934-25-02",
+    "ip": "211.78.121.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Door evidence whatever become especially. Small challenge reality memory hit. Management hundred will discussion international.",
+        "bio": "According rate ahead really campaign. Future old see open.\nRecord everyone natural surface source late. Arrive should drive degree name news ground. Relationship almost buy explain."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

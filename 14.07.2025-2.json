@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Bradshaw",
+    "age": 81,
+    "address": {
+        "street": "Patterson Circle",
+        "city": "Williamsshire",
+        "state": "New Mexico",
+        "zip": "47540"
+    },
+    "contact": {
+        "phone": "551.563.8356x3431",
+        "servicePhone": "800566892"
+    },
+    "birthday": "1944-01-08",
+    "ip": "119.111.179.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Radio others over box cost leave next. Everything election service board movement read forget. Go fear answer perform.",
+        "bio": "Technology executive money film thus cost. Message poor number father list attorney president. Possible face state same organization oil join never.\nBrother nor when impact method."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Alexis Adkins",
+    "age": 20,
+    "address": {
+        "street": "Cortez Square",
+        "city": "Gravesland",
+        "state": "North Dakota",
+        "zip": "09767"
+    },
+    "contact": {
+        "phone": "(354)449-0694x1725",
+        "servicePhone": "800506229"
+    },
+    "birthday": "2005-15-07",
+    "ip": "95.201.89.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Some stop almost. Against can factor ago many hospital. Moment budget would fund unit. Shoulder imagine describe business explain face beyond with.",
+        "bio": "Particularly although scientist debate east debate stock agent. Technology guess check sense.\nSpecific which memory. Pressure benefit account. Suffer blue skill seat."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}

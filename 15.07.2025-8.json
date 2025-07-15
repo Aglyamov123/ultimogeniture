@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Allen",
+    "age": 80,
+    "address": {
+        "street": "Whitaker Burgs",
+        "city": "Michelleton",
+        "state": "Wisconsin",
+        "zip": "06420"
+    },
+    "contact": {
+        "phone": "6528666377",
+        "servicePhone": "800957079"
+    },
+    "birthday": "1945-05-09",
+    "ip": "145.214.102.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Support morning pretty measure room own. Read provide position factor serve because.\nWorld hard coach future well sense mean. Yeah lose notice over send probably thing.",
+        "bio": "Science line consider. Method PM exactly shoulder seven camera need. Contain here reflect voice relate. Poor one subject recognize baby win yourself company."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}

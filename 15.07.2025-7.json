@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Robinson",
+    "age": 29,
+    "address": {
+        "street": "Keller Cove",
+        "city": "Port Ronald",
+        "state": "California",
+        "zip": "93363"
+    },
+    "contact": {
+        "phone": "773.671.8560",
+        "servicePhone": "800106964"
+    },
+    "birthday": "1996-03-08",
+    "ip": "41.12.204.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Hand establish mission occur else. Remember remain simple.\nSpace eight affect or respond million.\nBig resource friend surface citizen according. Maybe it start degree. Page entire among.",
+        "bio": "Account yes despite forward. Red stay analysis large. Team thing heart life add building matter.\nUp single audience I and foot number. Economic onto stop."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}

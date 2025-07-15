@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Briggs",
+    "age": 10,
+    "address": {
+        "street": "Russo Groves",
+        "city": "East Melissaberg",
+        "state": "Colorado",
+        "zip": "10078"
+    },
+    "contact": {
+        "phone": "001-417-645-0383",
+        "servicePhone": "800617722"
+    },
+    "birthday": "2015-06-10",
+    "ip": "101.123.5.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect already bank mean religious. Major ready law along.\nVarious speech research must hour weight six. Site crime moment. Baby trip here environmental image.",
+        "bio": "Draw method heavy short. Pressure message involve.\nCongress put while fund plant. Movement specific police this. Work law quality position interview summer ground."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}

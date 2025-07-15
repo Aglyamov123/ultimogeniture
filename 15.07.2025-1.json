@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Hall",
+    "age": 13,
+    "address": {
+        "street": "Angela Pass",
+        "city": "Burnsstad",
+        "state": "Minnesota",
+        "zip": "68142"
+    },
+    "contact": {
+        "phone": "(823)813-6627x81830",
+        "servicePhone": "800962404"
+    },
+    "birthday": "2012-21-06",
+    "ip": "35.56.85.122",
+    "foo": "bar",
+    "profile": {
+        "about": "Take relationship about support speak hear seven. I certainly left live above where.",
+        "bio": "Maintain back more free. Sort return skill late although century.\nKnowledge apply simple imagine window phone. Care matter look thank half carry else. Fine laugh full growth."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

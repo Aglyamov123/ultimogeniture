@@ -1,0 +1,25 @@
+{
+    "name": "Karen Young",
+    "age": 102,
+    "address": {
+        "street": "Jason Shore",
+        "city": "Maryport",
+        "state": "North Carolina",
+        "zip": "16737"
+    },
+    "contact": {
+        "phone": "(777)986-6153",
+        "servicePhone": "800460077"
+    },
+    "birthday": "1923-28-02",
+    "ip": "150.122.86.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Eat yourself form. Morning hope arm third card majority us level. Rate perform management quality director ask affect.",
+        "bio": "Government news source agreement water. Too drug thing ask develop two hard visit.\nRed role space child style. Quickly authority good case no final."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}

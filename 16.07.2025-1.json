@@ -1,0 +1,25 @@
+{
+    "name": "Troy Sullivan",
+    "age": 106,
+    "address": {
+        "street": "Joel Stream",
+        "city": "West Jamesstad",
+        "state": "Montana",
+        "zip": "83162"
+    },
+    "contact": {
+        "phone": "806.399.0438",
+        "servicePhone": "800295843"
+    },
+    "birthday": "1919-30-06",
+    "ip": "196.164.217.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Threat another view author quickly. Front understand all role region ahead. Any to push nature board create store dream.\nPm hot effect teacher paper upon. Provide man with.\nAbout drug drop fill year.",
+        "bio": "Drop weight left behind despite lay. Boy music any finally center let food long.\nPlace enter later attack station although result. Role parent play fight involve."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

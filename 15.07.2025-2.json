@@ -1,0 +1,25 @@
+{
+    "name": "Michael Wright",
+    "age": 77,
+    "address": {
+        "street": "Chris Isle",
+        "city": "Millsburgh",
+        "state": "West Virginia",
+        "zip": "53873"
+    },
+    "contact": {
+        "phone": "(627)815-1903x9245",
+        "servicePhone": "800587573"
+    },
+    "birthday": "1948-18-10",
+    "ip": "207.32.138.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Present low federal nor. Next president hot town issue write head.\nHim add employee nice program yourself. Easy first action Mrs situation.",
+        "bio": "Out goal table certain southern. Gas whom accept western. Later teacher moment.\nTalk community agreement lawyer five cup these. Ability order base miss ok."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

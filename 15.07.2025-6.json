@@ -1,0 +1,25 @@
+{
+    "name": "Chelsey Evans",
+    "age": 70,
+    "address": {
+        "street": "West Inlet",
+        "city": "Port Natalieburgh",
+        "state": "Minnesota",
+        "zip": "50296"
+    },
+    "contact": {
+        "phone": "(558)751-8536x510",
+        "servicePhone": "800651271"
+    },
+    "birthday": "1955-19-12",
+    "ip": "63.84.212.121",
+    "foo": "bar",
+    "profile": {
+        "about": "North reflect bed hour tree against bring their. With article world bed. Modern sort enough brother even pressure.\nMonth bit may site simple loss land. Again how assume material.",
+        "bio": "Name hit list news management.\nHospital nothing experience you. Prepare trial determine evening enough catch one. Will generation specific general full tough though."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}

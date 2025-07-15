@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Foster",
+    "age": 23,
+    "address": {
+        "street": "Spears Summit",
+        "city": "New Brian",
+        "state": "Utah",
+        "zip": "83572"
+    },
+    "contact": {
+        "phone": "+1-514-656-9783x545",
+        "servicePhone": "800131857"
+    },
+    "birthday": "2002-10-01",
+    "ip": "162.111.71.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Likely public necessary reveal there place state. Behind authority take since fear owner down. Sister particularly former should state.",
+        "bio": "Organization purpose a exist. New suddenly movement. Knowledge necessary work nor Republican support whose model."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

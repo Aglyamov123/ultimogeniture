@@ -1,0 +1,25 @@
+{
+    "name": "Adam Wheeler",
+    "age": 7,
+    "address": {
+        "street": "Michael Trail",
+        "city": "Harveychester",
+        "state": "Florida",
+        "zip": "56781"
+    },
+    "contact": {
+        "phone": "+1-515-901-4391x103",
+        "servicePhone": "800311195"
+    },
+    "birthday": "2018-10-03",
+    "ip": "198.91.36.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Full here two close take others movie. Through industry then speak game.\nDiscussion soldier natural present.",
+        "bio": "From huge popular join recognize again half. Board medical which total.\nFor century follow wait question including according. Job soon down social."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

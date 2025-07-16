@@ -1,0 +1,25 @@
+{
+    "name": "Amy Hurst",
+    "age": 15,
+    "address": {
+        "street": "Sara Garden",
+        "city": "South Rachelburgh",
+        "state": "Vermont",
+        "zip": "89842"
+    },
+    "contact": {
+        "phone": "+1-795-441-2393x317",
+        "servicePhone": "800931030"
+    },
+    "birthday": "2010-11-08",
+    "ip": "133.1.146.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Realize lay possible table newspaper. Front ground bit provide this great.\nProduce or manager everything. Teach customer spend during order small good. Player better must issue skill walk.",
+        "bio": "Federal unit watch among part bank six bad. Speech tell operation director.\nUpon when yes total oil blood million. No organization form only.\nMusic language record point strategy."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

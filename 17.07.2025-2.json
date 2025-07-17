@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Woodard",
+    "age": 16,
+    "address": {
+        "street": "Baker Corners",
+        "city": "Farmerview",
+        "state": "Oregon",
+        "zip": "74554"
+    },
+    "contact": {
+        "phone": "(557)820-2913",
+        "servicePhone": "800069107"
+    },
+    "birthday": "2009-23-04",
+    "ip": "207.98.31.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Those bar less serve rest star. Wind fact old speak mother.\nManagement very interest organization pull cultural kind.",
+        "bio": "Game establish pass worry PM turn loss. Guy see way personal. Market really despite answer start answer.\nCustomer force charge charge. Make contain sound draw. During important single deep lose."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}

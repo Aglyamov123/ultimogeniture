@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Richardson",
+    "age": 75,
+    "address": {
+        "street": "Jacobs Cliffs",
+        "city": "Davisport",
+        "state": "Alabama",
+        "zip": "88245"
+    },
+    "contact": {
+        "phone": "802-454-6658x792",
+        "servicePhone": "800352090"
+    },
+    "birthday": "1950-05-09",
+    "ip": "187.102.151.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Value ready gun. Police need well mission.\nCell simple suddenly base. Specific couple after investment.",
+        "bio": "Late card medical well choice. Seat industry trade believe into position alone form. Camera range accept name allow floor best. Heavy whatever question interest material."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

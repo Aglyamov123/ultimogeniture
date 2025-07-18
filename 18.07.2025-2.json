@@ -1,0 +1,25 @@
+{
+    "name": "Amy Harding",
+    "age": 28,
+    "address": {
+        "street": "Peggy Springs",
+        "city": "West Ryanburgh",
+        "state": "Wisconsin",
+        "zip": "90922"
+    },
+    "contact": {
+        "phone": "214-507-2799x571",
+        "servicePhone": "800731145"
+    },
+    "birthday": "1997-28-12",
+    "ip": "13.135.146.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Low through difference goal during.\nInterview can return good fill fund.\nMuch anything after tough board every foreign. Realize tough indicate government national study.",
+        "bio": "Fly member development teacher song. Hear owner expert fire speak save speak one. Citizen listen travel live better.\nProduce young more buy edge develop law."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Geoffrey Marshall",
+    "age": 61,
+    "address": {
+        "street": "Christopher Vista",
+        "city": "Petersonville",
+        "state": "Georgia",
+        "zip": "96651"
+    },
+    "contact": {
+        "phone": "(433)908-7317x189",
+        "servicePhone": "800944509"
+    },
+    "birthday": "1964-15-07",
+    "ip": "56.155.137.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Positive same show end three politics actually.\nTrip recognize support question western. Training organization knowledge sort.",
+        "bio": "Claim education interest sport head.\nPolitics entire unit article use player. Read agree say spend police.\nSing must government window president."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}

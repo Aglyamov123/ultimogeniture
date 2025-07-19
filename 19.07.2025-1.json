@@ -1,0 +1,25 @@
+{
+    "name": "Michael Clark",
+    "age": 28,
+    "address": {
+        "street": "Veronica Fall",
+        "city": "Clarkshire",
+        "state": "Colorado",
+        "zip": "45443"
+    },
+    "contact": {
+        "phone": "441.704.7079x586",
+        "servicePhone": "800925617"
+    },
+    "birthday": "1997-01-04",
+    "ip": "119.159.74.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution edge message goal environmental forward receive. Hear note later. Change standard story kitchen.",
+        "bio": "Should tough likely value adult soon. Young great than husband out heavy.\nWindow life source everybody attack them dark. Continue also course boy month. Figure reveal create difficult beautiful baby."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}

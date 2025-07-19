@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Olson",
+    "age": 103,
+    "address": {
+        "street": "Scott Dale",
+        "city": "New Marvin",
+        "state": "Kansas",
+        "zip": "90279"
+    },
+    "contact": {
+        "phone": "457.251.5894",
+        "servicePhone": "800058244"
+    },
+    "birthday": "1922-13-12",
+    "ip": "82.24.97.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred final however idea air first. Teach if price guy. Deal describe industry break she successful matter.\nBest smile company against throw situation follow east. Teacher tough never my.",
+        "bio": "Pull stop where decision everything trip. Effect voice more TV federal star. Whose assume yet beat. City movie film test hour lay.\nCenter both from turn force relationship evening."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}

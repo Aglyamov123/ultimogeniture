@@ -1,0 +1,25 @@
+{
+    "name": "Scott Brock",
+    "age": 58,
+    "address": {
+        "street": "Sparks Run",
+        "city": "East Robert",
+        "state": "South Dakota",
+        "zip": "51233"
+    },
+    "contact": {
+        "phone": "548.491.4237",
+        "servicePhone": "800515252"
+    },
+    "birthday": "1967-30-08",
+    "ip": "16.226.221.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Account work likely agree task. Discuss cup energy west.\nMorning door all try listen doctor. Service medical market. To make treatment reach life million.",
+        "bio": "Design power race. Require concern reason development middle future in. Provide star could eye available thousand minute.\nLive hot agree. Beyond hair difficult. Ok example huge door."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}

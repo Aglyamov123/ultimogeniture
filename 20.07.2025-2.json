@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Hinton",
+    "age": 84,
+    "address": {
+        "street": "Jenna Island",
+        "city": "New Seth",
+        "state": "Maryland",
+        "zip": "11934"
+    },
+    "contact": {
+        "phone": "3516065644",
+        "servicePhone": "800827159"
+    },
+    "birthday": "1941-04-08",
+    "ip": "205.86.75.65",
+    "foo": "bar",
+    "profile": {
+        "about": "News somebody sign especially particularly often. Boy establish imagine exactly. Lay describe song third her.\nDrop idea rule continue whose.",
+        "bio": "Simple bad style about. Alone should election down theory.\nMove response idea star. Need but become prove individual attack yourself."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}

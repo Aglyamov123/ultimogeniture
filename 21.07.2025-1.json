@@ -1,0 +1,25 @@
+{
+    "name": "Donna Richards",
+    "age": 72,
+    "address": {
+        "street": "Avila Bypass",
+        "city": "Colleenfurt",
+        "state": "Mississippi",
+        "zip": "43642"
+    },
+    "contact": {
+        "phone": "9085432535",
+        "servicePhone": "800173551"
+    },
+    "birthday": "1953-17-08",
+    "ip": "122.248.139.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain either nation than collection administration painting. Impact serve interview item.",
+        "bio": "Assume large standard to feeling second focus. Sing decide particularly job order memory. Clearly receive establish suffer summer most moment force."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}

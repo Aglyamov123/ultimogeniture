@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Stewart",
+    "age": 47,
+    "address": {
+        "street": "Robert Track",
+        "city": "Jasonville",
+        "state": "Florida",
+        "zip": "94698"
+    },
+    "contact": {
+        "phone": "790-448-8607x438",
+        "servicePhone": "800556006"
+    },
+    "birthday": "1978-15-04",
+    "ip": "138.88.172.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Maybe minute yard wear doctor hit collection. Ahead anything discussion anyone.\nBeautiful well ability go people commercial. Give threat already section radio. Budget son political break.",
+        "bio": "Fear mission central whole writer. Research practice bad conference quality culture. Authority example remember daughter whatever."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

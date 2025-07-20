@@ -1,0 +1,25 @@
+{
+    "name": "Dustin Martinez",
+    "age": 98,
+    "address": {
+        "street": "Jamie Crossing",
+        "city": "East Tylermouth",
+        "state": "Massachusetts",
+        "zip": "52163"
+    },
+    "contact": {
+        "phone": "778.699.6804x8368",
+        "servicePhone": "800269442"
+    },
+    "birthday": "1927-20-11",
+    "ip": "54.54.68.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Character federal brother let. Unit thousand range lawyer data series subject.\nOpen nothing do eight dark. Painting likely road himself first. Fire like any game figure top oil talk.",
+        "bio": "Only member say seven last. Attack appear blue be night product. Choice car prove able.\nLike vote character cell likely southern any then. Method day thing true international."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}

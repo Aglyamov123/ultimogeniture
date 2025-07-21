@@ -1,0 +1,25 @@
+{
+    "name": "Robin Martin",
+    "age": 38,
+    "address": {
+        "street": "Danielle Fall",
+        "city": "East Jonathanburgh",
+        "state": "New York",
+        "zip": "70052"
+    },
+    "contact": {
+        "phone": "828-736-2257",
+        "servicePhone": "800868829"
+    },
+    "birthday": "1987-29-09",
+    "ip": "69.37.195.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup without she boy skill act.\nPolitics guess management open yes already. Need certainly certainly.\nTogether field toward phone dark bit.",
+        "bio": "Democrat power movement bad wrong. Beat policy campaign plant.\nPer development focus contain. Why small nature Democrat. Decade example business a fill challenge address him."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

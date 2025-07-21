@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Day",
+    "age": 62,
+    "address": {
+        "street": "Carroll Corners",
+        "city": "Hillchester",
+        "state": "New Jersey",
+        "zip": "10986"
+    },
+    "contact": {
+        "phone": "(995)700-9688",
+        "servicePhone": "800067851"
+    },
+    "birthday": "1963-12-06",
+    "ip": "96.197.129.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Vote likely reduce.\nAlmost trade mean bar. Last market if country however. Return medical film.",
+        "bio": "Determine memory without almost building. Impact research action bring. Despite senior miss travel whatever."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Eric Cruz",
+    "age": 12,
+    "address": {
+        "street": "Walker Fall",
+        "city": "Lake Sheila",
+        "state": "Kansas",
+        "zip": "06442"
+    },
+    "contact": {
+        "phone": "731-648-1115",
+        "servicePhone": "800289014"
+    },
+    "birthday": "2013-04-05",
+    "ip": "48.218.148.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Very rule career able same. Must so while trip bad. Fast drug product husband should election claim scientist.",
+        "bio": "Exactly prove security recent soon fast early. Teach develop audience.\nAlone lead many son movement happy. Gun history everyone set popular."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}

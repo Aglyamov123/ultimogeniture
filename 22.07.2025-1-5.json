@@ -1,0 +1,25 @@
+{
+    "name": "Paul Jackson",
+    "age": 108,
+    "address": {
+        "street": "Melanie Center",
+        "city": "Woodfort",
+        "state": "Kansas",
+        "zip": "51853"
+    },
+    "contact": {
+        "phone": "3953170282",
+        "servicePhone": "800592456"
+    },
+    "birthday": "1917-27-08",
+    "ip": "178.159.102.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Great soldier detail certainly model message. Couple water senior million become year young either.",
+        "bio": "Interest because focus certain. Anything bring outside point.\nDesign threat individual campaign nature. Example next evening."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}

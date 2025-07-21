@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Simpson",
+    "age": 107,
+    "address": {
+        "street": "Christopher Circle",
+        "city": "North Robertshire",
+        "state": "Vermont",
+        "zip": "57046"
+    },
+    "contact": {
+        "phone": "(389)270-6421",
+        "servicePhone": "800081055"
+    },
+    "birthday": "1918-13-07",
+    "ip": "102.163.65.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern statement well agreement ahead billion. Work power director thank single worry billion. Partner reach director term win lot at. Senior again power meeting husband shake model.",
+        "bio": "Sort change attorney writer. Interesting sign the police car image station position."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}

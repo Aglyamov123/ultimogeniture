@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Hart",
+    "age": 1,
+    "address": {
+        "street": "Green Ramp",
+        "city": "West Marcus",
+        "state": "Vermont",
+        "zip": "51002"
+    },
+    "contact": {
+        "phone": "(226)292-3364",
+        "servicePhone": "800271926"
+    },
+    "birthday": "2024-09-07",
+    "ip": "61.249.194.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Less want strategy it describe enjoy. Message degree office item.",
+        "bio": "Population before way economy station while.\nAcross health executive attack billion hospital relationship. Other walk still oil.\nAdmit our visit visit. Notice site remember color."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}

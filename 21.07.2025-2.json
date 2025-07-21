@@ -1,0 +1,25 @@
+{
+    "name": "Jared Moore",
+    "age": 74,
+    "address": {
+        "street": "Walker Via",
+        "city": "East Latasha",
+        "state": "South Dakota",
+        "zip": "14571"
+    },
+    "contact": {
+        "phone": "821.430.2599x7217",
+        "servicePhone": "800546320"
+    },
+    "birthday": "1951-27-02",
+    "ip": "146.118.15.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe know sing you. Thus professor save central.\nPrepare moment listen guess. Until money magazine time policy though involve. Herself idea old poor last central concern.",
+        "bio": "Want when rather. Perhaps several gas maintain remember report. Identify present seem responsibility seat culture.\nWant far car create piece. Prevent put Mrs or."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

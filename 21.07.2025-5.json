@@ -1,0 +1,25 @@
+{
+    "name": "Justin Perez",
+    "age": 40,
+    "address": {
+        "street": "Amy Lodge",
+        "city": "West Mark",
+        "state": "Rhode Island",
+        "zip": "30115"
+    },
+    "contact": {
+        "phone": "001-713-237-5328x5364",
+        "servicePhone": "800506281"
+    },
+    "birthday": "1985-10-07",
+    "ip": "182.61.155.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Argue four low clearly help. Democrat attack resource concern yeah his return Republican. Boy staff worry appear compare affect keep.",
+        "bio": "Because growth pick new recognize if. Often whole pressure hair model not.\nCampaign else daughter read. Hospital series remember thus arrive score. Determine which security this.\nMedical bit ask of."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Gray",
+    "age": 60,
+    "address": {
+        "street": "Marks Ferry",
+        "city": "West Kathleen",
+        "state": "Wisconsin",
+        "zip": "89839"
+    },
+    "contact": {
+        "phone": "(566)871-9128x7659",
+        "servicePhone": "800526602"
+    },
+    "birthday": "1965-07-05",
+    "ip": "151.6.26.179",
+    "foo": "bar",
+    "profile": {
+        "about": "West laugh dark time. Become film however. Oil eye behind food. Floor mean team economic list.\nForeign easy school someone instead require art. Mr less another.",
+        "bio": "Girl prove produce top attorney.\nEntire material single identify American type effort. Pass capital center human leave. State leader expert blood."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

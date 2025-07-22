@@ -1,0 +1,25 @@
+{
+    "name": "Mary Jackson",
+    "age": 40,
+    "address": {
+        "street": "Charles Parks",
+        "city": "West Nicole",
+        "state": "Wisconsin",
+        "zip": "11766"
+    },
+    "contact": {
+        "phone": "+1-380-587-1090x330",
+        "servicePhone": "800878653"
+    },
+    "birthday": "1985-21-07",
+    "ip": "14.95.169.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Structure thing section somebody. Real compare simply none.\nOwn article audience significant camera various nor. Seat by risk piece study style. Change truth view.",
+        "bio": "Morning fine offer. Board federal window year policy black accept.\nArt store even guy smile all among. Travel direction yard catch seem current kind. Help threat theory although western."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Robert Tran",
+    "age": 30,
+    "address": {
+        "street": "Michelle Views",
+        "city": "Lake Martha",
+        "state": "Wisconsin",
+        "zip": "13024"
+    },
+    "contact": {
+        "phone": "2372395619",
+        "servicePhone": "800781457"
+    },
+    "birthday": "1995-23-07",
+    "ip": "19.173.247.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Authority wide once reflect certain during. Peace degree stage enough all fact play most.\nForward stop few camera rest mean yeah. Generation particularly per as each. Four reason price task entire.",
+        "bio": "Agency financial final size sister politics.\nOk arrive necessary wind space recognize. Evening value book into forward.\nAction true none. Tax better our analysis.\nDecade hard couple safe ball."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}

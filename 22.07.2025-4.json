@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Watson",
+    "age": 48,
+    "address": {
+        "street": "Shane Trace",
+        "city": "New Frankhaven",
+        "state": "New Mexico",
+        "zip": "76094"
+    },
+    "contact": {
+        "phone": "001-403-361-4007x936",
+        "servicePhone": "800674735"
+    },
+    "birthday": "1977-25-04",
+    "ip": "85.70.69.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Standard task election. Do relate for win note course.\nHowever stuff argue start right ago sister. Study teach official effort. Daughter their hospital charge yet name.",
+        "bio": "Half company two course fear former may. Front if sort resource firm second. Natural around my defense fight dark art. Campaign item sense sell."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Roger White",
+    "age": 106,
+    "address": {
+        "street": "Robinson Isle",
+        "city": "Flemingchester",
+        "state": "North Carolina",
+        "zip": "60008"
+    },
+    "contact": {
+        "phone": "(589)819-2922x11198",
+        "servicePhone": "800385391"
+    },
+    "birthday": "1919-28-03",
+    "ip": "197.8.55.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Job state cell plant learn treat. Machine several night Congress billion. Population store around huge side same.",
+        "bio": "Yes physical seem debate really accept wife. Society human majority smile respond institution. Sense happy smile blood your both fine long."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}

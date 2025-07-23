@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Petty",
+    "age": 93,
+    "address": {
+        "street": "Daniel Manors",
+        "city": "South Paul",
+        "state": "Michigan",
+        "zip": "95870"
+    },
+    "contact": {
+        "phone": "(541)972-2916x486",
+        "servicePhone": "800153896"
+    },
+    "birthday": "1932-11-02",
+    "ip": "18.88.45.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Section suggest believe forget task. Bed determine such. The class true.\nSpace kid south be man a exist charge. Pick north dark one citizen least. Effort study player evening sure event understand.",
+        "bio": "Condition relationship indicate because. Institution adult themselves full consumer surface. Magazine project box too kind adult within. Study wonder college police."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}

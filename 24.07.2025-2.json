@@ -1,0 +1,25 @@
+{
+    "name": "Justin Barnett",
+    "age": 93,
+    "address": {
+        "street": "Jason Centers",
+        "city": "Port Natasha",
+        "state": "Maryland",
+        "zip": "32650"
+    },
+    "contact": {
+        "phone": "(571)721-4352x3206",
+        "servicePhone": "800084336"
+    },
+    "birthday": "1932-30-11",
+    "ip": "155.228.192.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Painting task old low result.\nUsually huge light successful remain. Woman three pressure effect travel side.\nCommon same mention when bit. Remember part building tend employee charge case.",
+        "bio": "Evidence late thus floor magazine thus. See especially state they.\nGlass chair beautiful. Recently around federal develop manager loss energy. It discover second bank."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}

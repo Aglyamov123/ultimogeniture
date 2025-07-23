@@ -1,0 +1,25 @@
+{
+    "name": "Robert Robinson",
+    "age": 55,
+    "address": {
+        "street": "Reese Throughway",
+        "city": "Lake Jennifer",
+        "state": "Georgia",
+        "zip": "95020"
+    },
+    "contact": {
+        "phone": "001-637-838-2582x948",
+        "servicePhone": "800302888"
+    },
+    "birthday": "1970-06-06",
+    "ip": "204.159.26.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Staff mention lose. Tend quality out yet. Amount decision reveal medical outside.\nOfficer type his course traditional majority region.",
+        "bio": "Speech born cut figure occur. South second money so word light beautiful.\nEverybody center ever cost. Education analysis note son practice want. Crime open clear company."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}

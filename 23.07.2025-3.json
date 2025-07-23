@@ -1,0 +1,25 @@
+{
+    "name": "Mark Norton",
+    "age": 20,
+    "address": {
+        "street": "Burgess Mountain",
+        "city": "North Sean",
+        "state": "Pennsylvania",
+        "zip": "77109"
+    },
+    "contact": {
+        "phone": "+1-314-545-1876",
+        "servicePhone": "800512245"
+    },
+    "birthday": "2005-12-07",
+    "ip": "200.125.137.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Senior each hundred southern middle method kitchen. Become too speak my practice something.",
+        "bio": "Yeah pressure front produce control. Citizen list single party."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}

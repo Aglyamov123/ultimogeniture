@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Carr",
+    "age": 86,
+    "address": {
+        "street": "Elliott Valley",
+        "city": "New Michelle",
+        "state": "North Carolina",
+        "zip": "69981"
+    },
+    "contact": {
+        "phone": "894.231.7363x6375",
+        "servicePhone": "800317316"
+    },
+    "birthday": "1939-01-07",
+    "ip": "197.141.27.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Peace after manager bring treatment. Car knowledge station even character find.\nOrganization while positive mean career those go. Number country citizen response interest.",
+        "bio": "Glass want behind by clear tough. Fight bring get crime feel. Bring smile kid during.\nTurn trouble east few personal."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}

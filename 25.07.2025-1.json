@@ -1,0 +1,25 @@
+{
+    "name": "Brian Stephens",
+    "age": 14,
+    "address": {
+        "street": "Jacob Pass",
+        "city": "Port Ericmouth",
+        "state": "North Dakota",
+        "zip": "92938"
+    },
+    "contact": {
+        "phone": "(228)476-3678x7798",
+        "servicePhone": "800845389"
+    },
+    "birthday": "2011-04-10",
+    "ip": "32.33.221.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Conference color establish reason know. Situation feeling action film people job explain.\nAlone plant rate black oil.",
+        "bio": "Past prevent church thing inside Mr number. Loss activity conference soldier cut truth hotel.\nMust than lawyer talk land mind senior. Size affect light foreign rise director hit way. Turn easy my."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}

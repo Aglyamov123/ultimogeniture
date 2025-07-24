@@ -1,0 +1,25 @@
+{
+    "name": "Kari Ruiz",
+    "age": 93,
+    "address": {
+        "street": "Megan Manors",
+        "city": "Olsonbury",
+        "state": "Ohio",
+        "zip": "34665"
+    },
+    "contact": {
+        "phone": "6414911410",
+        "servicePhone": "800458844"
+    },
+    "birthday": "1932-13-07",
+    "ip": "120.191.22.142",
+    "foo": "bar",
+    "profile": {
+        "about": "New main study discussion voice. Technology better single ok particularly recognize.",
+        "bio": "Building number set chance such century. Site billion majority ago can up.\nNews practice happy certainly. Might possible example fear room. Happy analysis above."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}

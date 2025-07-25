@@ -1,0 +1,25 @@
+{
+    "name": "Luis Marsh",
+    "age": 48,
+    "address": {
+        "street": "Amy Well",
+        "city": "North Melinda",
+        "state": "Kentucky",
+        "zip": "91421"
+    },
+    "contact": {
+        "phone": "+1-393-430-8984x2173",
+        "servicePhone": "800080213"
+    },
+    "birthday": "1977-10-09",
+    "ip": "62.71.24.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Mr brother positive certainly son. Theory within add heart on. Fast spring run thousand others.\nYard Mrs show. Management toward beat model answer fight word.",
+        "bio": "Hotel certain which can the personal. Wind outside significant past foot. Once data law."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Snow",
+    "age": 76,
+    "address": {
+        "street": "Whitney Roads",
+        "city": "Lake Jillburgh",
+        "state": "Arkansas",
+        "zip": "33403"
+    },
+    "contact": {
+        "phone": "+1-834-205-5047",
+        "servicePhone": "800861417"
+    },
+    "birthday": "1949-03-11",
+    "ip": "87.193.249.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Else quality all cover. Appear nearly whether figure property admit. Practice thing house while tough record. Weight rise all impact consider government.",
+        "bio": "Rate kind American can benefit. Mr statement next itself according growth. Part tell board agent.\nHalf it actually material grow floor. Agent yard spend once listen."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jillian Foley",
+    "age": 59,
+    "address": {
+        "street": "Sara Parkway",
+        "city": "South Alison",
+        "state": "Hawaii",
+        "zip": "25268"
+    },
+    "contact": {
+        "phone": "001-681-358-0657",
+        "servicePhone": "800134390"
+    },
+    "birthday": "1966-16-02",
+    "ip": "212.183.88.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup attack evidence here everything main without big. Land store subject professional enter.\nVarious charge north assume tough. Play conference budget program so treat prevent.",
+        "bio": "Performance number call role tax street. Medical music spring break sense."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}

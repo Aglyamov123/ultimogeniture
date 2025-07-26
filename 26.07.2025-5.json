@@ -1,0 +1,25 @@
+{
+    "name": "Debra Costa",
+    "age": 113,
+    "address": {
+        "street": "Jason Shoal",
+        "city": "Lake Paulton",
+        "state": "Massachusetts",
+        "zip": "01590"
+    },
+    "contact": {
+        "phone": "813.515.0526x305",
+        "servicePhone": "800976328"
+    },
+    "birthday": "1912-24-03",
+    "ip": "61.41.228.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Close computer daughter minute reality. Laugh me who expect lead force real. Brother pattern foot security know development prove.",
+        "bio": "Describe suddenly thought write late. Exist threat tell ball build test new. Last opportunity great smile response week right. Concern memory front hand result project huge."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}

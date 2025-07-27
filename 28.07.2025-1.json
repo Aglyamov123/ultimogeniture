@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Russell",
+    "age": 18,
+    "address": {
+        "street": "Haney Crossing",
+        "city": "Smithland",
+        "state": "Wisconsin",
+        "zip": "14970"
+    },
+    "contact": {
+        "phone": "730-770-5112",
+        "servicePhone": "800233784"
+    },
+    "birthday": "2007-08-03",
+    "ip": "206.36.174.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation southern top step space. Issue decide defense. Natural nation the know policy around.\nSystem indeed when write keep add tonight minute.",
+        "bio": "Stay choose ground poor reason. Field market just design process among exactly. Able environment above and cup man."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}

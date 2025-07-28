@@ -1,0 +1,25 @@
+{
+    "name": "Amber Ryan",
+    "age": 108,
+    "address": {
+        "street": "Vincent Light",
+        "city": "Alexanderville",
+        "state": "Idaho",
+        "zip": "22719"
+    },
+    "contact": {
+        "phone": "9495496490",
+        "servicePhone": "800484042"
+    },
+    "birthday": "1917-28-09",
+    "ip": "119.185.76.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Take prepare four serious western line catch.\nPlay key machine visit world forget suffer. Family house force themselves move. Reach certain son.",
+        "bio": "Push performance course reach. Million why adult administration onto bill. Large exist choose hair tend between person.\nTrade finish along this. Century treat plant during decade couple sense."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}

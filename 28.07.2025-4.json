@@ -1,0 +1,25 @@
+{
+    "name": "Eric Torres",
+    "age": 43,
+    "address": {
+        "street": "Page Prairie",
+        "city": "South Mariahmouth",
+        "state": "Arizona",
+        "zip": "41688"
+    },
+    "contact": {
+        "phone": "404.403.5209x73476",
+        "servicePhone": "800535631"
+    },
+    "birthday": "1982-17-10",
+    "ip": "94.168.176.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean hot feeling even toward. Pay smile kid drop. Provide data customer.\nPositive much among. Certain ground along name then base.",
+        "bio": "Pass couple before thank.\nIssue surface himself state.\nFor discuss concern radio pretty five.\nCreate make PM tell page without."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}

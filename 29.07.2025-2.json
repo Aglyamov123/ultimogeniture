@@ -1,0 +1,25 @@
+{
+    "name": "Harry Weaver",
+    "age": 88,
+    "address": {
+        "street": "George Path",
+        "city": "Port Ricky",
+        "state": "Louisiana",
+        "zip": "30968"
+    },
+    "contact": {
+        "phone": "875.610.6049x30869",
+        "servicePhone": "800227885"
+    },
+    "birthday": "1937-01-02",
+    "ip": "70.200.26.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Town sport computer federal. Partner concern environment end coach. Public low race certain able standard.\nSpeech fill know scientist yes. Heart charge hospital similar.",
+        "bio": "Protect particular pick himself. Medical late sing author article practice you. Model total apply dream little control focus up."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}

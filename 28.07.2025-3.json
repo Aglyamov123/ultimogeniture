@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Gibson",
+    "age": 41,
+    "address": {
+        "street": "Regina Plaza",
+        "city": "South Ericfort",
+        "state": "Massachusetts",
+        "zip": "70613"
+    },
+    "contact": {
+        "phone": "326-930-3977x3258",
+        "servicePhone": "800120992"
+    },
+    "birthday": "1984-26-08",
+    "ip": "67.55.243.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Beautiful management class better machine. Believe film reveal. Door indeed back may lead whom say.\nAmount economic certain power chance. Large baby them rule. Senior whether resource fire those.",
+        "bio": "Summer model become cold. Realize movie care season. Responsibility beat sign someone.\nMonth skill country consumer. Know full long Mrs attention."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

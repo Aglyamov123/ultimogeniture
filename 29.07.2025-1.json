@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Ramirez",
+    "age": 24,
+    "address": {
+        "street": "Kathryn Street",
+        "city": "Lake Amandaside",
+        "state": "South Carolina",
+        "zip": "28481"
+    },
+    "contact": {
+        "phone": "923-824-1802",
+        "servicePhone": "800635482"
+    },
+    "birthday": "2001-07-06",
+    "ip": "165.203.106.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Receive trade consider experience. Keep operation animal natural box.\nReceive boy point north miss wrong live. Successful indeed try whom. Help use do likely after well.",
+        "bio": "Off little sign hit Congress assume operation. Direction south say example."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Christina Greer",
+    "age": 7,
+    "address": {
+        "street": "Thomas Lock",
+        "city": "Lake Raymondview",
+        "state": "Kansas",
+        "zip": "04936"
+    },
+    "contact": {
+        "phone": "001-213-508-4780x218",
+        "servicePhone": "800724527"
+    },
+    "birthday": "2018-26-09",
+    "ip": "152.47.35.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Entire reach throw happy majority member. Some life entire rule hot brother defense not. Turn only high raise eye. Court he money real fast question contain.",
+        "bio": "Say learn middle style. Indeed end teach.\nCurrent yard approach win road magazine event. Including leader executive American professional total war."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}

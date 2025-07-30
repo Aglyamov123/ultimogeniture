@@ -1,0 +1,25 @@
+{
+    "name": "Desiree Rodriguez",
+    "age": 113,
+    "address": {
+        "street": "Andrea Roads",
+        "city": "Mauricestad",
+        "state": "California",
+        "zip": "63138"
+    },
+    "contact": {
+        "phone": "+1-516-318-1113x719",
+        "servicePhone": "800303282"
+    },
+    "birthday": "1912-30-08",
+    "ip": "126.18.4.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Fund guy since consumer onto feeling. Never go later stop the.\nThree suffer plant. Already authority focus visit music. Fill standard learn sign everyone crime eye read.",
+        "bio": "Agreement hear time Mrs represent. Effort though suffer. Must create executive message age."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}

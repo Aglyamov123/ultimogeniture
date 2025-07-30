@@ -1,0 +1,25 @@
+{
+    "name": "Michael Morales",
+    "age": 25,
+    "address": {
+        "street": "Hernandez Square",
+        "city": "Jacobsbury",
+        "state": "Ohio",
+        "zip": "82134"
+    },
+    "contact": {
+        "phone": "941-667-2799",
+        "servicePhone": "800766200"
+    },
+    "birthday": "2000-27-04",
+    "ip": "32.41.251.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Wonder fall hand civil might tonight. Who these fight husband too. Lawyer difficult leader voice. However music method fast task.\nMaybe hair order boy beautiful. Floor south once person head easy.",
+        "bio": "Peace which industry it commercial determine myself turn. Poor chair meeting look meet high name hand.\nTreatment according factor save. Policy no ahead. Result huge use three throughout."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

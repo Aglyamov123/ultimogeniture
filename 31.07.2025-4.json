@@ -1,0 +1,25 @@
+{
+    "name": "Philip Terry",
+    "age": 52,
+    "address": {
+        "street": "Green Station",
+        "city": "Kevinview",
+        "state": "New Hampshire",
+        "zip": "95358"
+    },
+    "contact": {
+        "phone": "716.964.8902",
+        "servicePhone": "800470464"
+    },
+    "birthday": "1973-19-01",
+    "ip": "187.74.120.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Chance western risk. Leg popular surface. Raise room soon consumer air student ago protect.\nSeat executive health collection edge draw. Although control subject.",
+        "bio": "Myself guy knowledge instead. Herself standard enjoy five rather than such relate.\nField magazine PM assume begin any result."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}

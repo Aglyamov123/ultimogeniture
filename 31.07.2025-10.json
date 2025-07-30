@@ -1,0 +1,25 @@
+{
+    "name": "Micheal Munoz",
+    "age": 115,
+    "address": {
+        "street": "Edward Common",
+        "city": "West Stephen",
+        "state": "Delaware",
+        "zip": "65778"
+    },
+    "contact": {
+        "phone": "(842)354-5669x5074",
+        "servicePhone": "800221776"
+    },
+    "birthday": "1910-29-04",
+    "ip": "80.35.16.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Enjoy could list stand structure. Score minute mind various central blood site.",
+        "bio": "Keep fact everything. Check body else enough stand institution true human.\nClose forget doctor community. Company Congress catch officer tree. Wind home success cut."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}

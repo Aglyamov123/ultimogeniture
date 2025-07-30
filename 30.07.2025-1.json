@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Mcmillan",
+    "age": 1,
+    "address": {
+        "street": "Larry Vista",
+        "city": "Banksport",
+        "state": "Kansas",
+        "zip": "05951"
+    },
+    "contact": {
+        "phone": "+1-301-600-0711x8155",
+        "servicePhone": "800224239"
+    },
+    "birthday": "2024-02-03",
+    "ip": "80.187.252.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Sea produce value to computer. Enjoy accept total ever throw letter.\nSignificant the Mr strategy learn with. Contain better prevent those. Size travel radio language.",
+        "bio": "Answer fast first raise sport born. Spring information within because. Arrive different memory environmental sport."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}

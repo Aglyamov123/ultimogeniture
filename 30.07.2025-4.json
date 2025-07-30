@@ -1,0 +1,25 @@
+{
+    "name": "Yesenia Doyle",
+    "age": 31,
+    "address": {
+        "street": "Stein Isle",
+        "city": "North Ashley",
+        "state": "Wyoming",
+        "zip": "08281"
+    },
+    "contact": {
+        "phone": "638.298.9010",
+        "servicePhone": "800693865"
+    },
+    "birthday": "1994-18-05",
+    "ip": "142.91.42.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Control before prove spend quite budget. Budget who Republican later water million inside. Fish money determine at land guy.\nAct relationship someone raise.",
+        "bio": "Artist significant follow old account political. Left serious east finish himself forward loss. Exist change house common within time."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}

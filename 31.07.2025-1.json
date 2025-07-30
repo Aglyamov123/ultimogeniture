@@ -1,0 +1,25 @@
+{
+    "name": "Ralph Rogers",
+    "age": 28,
+    "address": {
+        "street": "Jason Green",
+        "city": "East James",
+        "state": "Alaska",
+        "zip": "94096"
+    },
+    "contact": {
+        "phone": "319-893-1199",
+        "servicePhone": "800919636"
+    },
+    "birthday": "1997-29-04",
+    "ip": "159.145.0.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation garden something hit push. Fast none people body.\nLeave sell enter on hospital product art. Rule sister next. Weight better visit despite for when something.",
+        "bio": "Mind kind lead join rest receive that. Suddenly happen term add past enter call. Much dream feel add yourself."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Robin Baker",
+    "age": 84,
+    "address": {
+        "street": "Blake Manor",
+        "city": "Port Jameschester",
+        "state": "New Hampshire",
+        "zip": "42255"
+    },
+    "contact": {
+        "phone": "+1-497-771-0847x400",
+        "servicePhone": "800663875"
+    },
+    "birthday": "1941-14-06",
+    "ip": "96.156.35.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic produce must military drop. Question half year report. Behind itself reach pretty score this.",
+        "bio": "Model left mother include oil yeah sure push. Quality example continue raise science technology risk check. Eight deep almost protect think mission capital."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

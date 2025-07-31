@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Hansen",
+    "age": 37,
+    "address": {
+        "street": "Shannon Haven",
+        "city": "Gentryhaven",
+        "state": "Mississippi",
+        "zip": "62922"
+    },
+    "contact": {
+        "phone": "250-678-2219x8094",
+        "servicePhone": "800373090"
+    },
+    "birthday": "1988-26-11",
+    "ip": "183.71.210.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Your to chance. Explain clearly shake week.\nCompany base despite movement produce role. Food could administration even. Born clearly sense it enjoy growth.\nCultural bar appear issue modern.",
+        "bio": "Theory hear front last. Single decision dog per experience reflect three. Really best direction soldier term."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}

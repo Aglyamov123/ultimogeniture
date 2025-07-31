@@ -1,0 +1,25 @@
+{
+    "name": "Renee Reyes",
+    "age": 43,
+    "address": {
+        "street": "Paul Creek",
+        "city": "Castilloton",
+        "state": "Missouri",
+        "zip": "76954"
+    },
+    "contact": {
+        "phone": "3044564469",
+        "servicePhone": "800618712"
+    },
+    "birthday": "1982-20-03",
+    "ip": "10.99.236.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine particular force read deal thing southern. Skill everything my unit appear. Instead goal player before.",
+        "bio": "Suddenly billion face better will. Gas Democrat western yard."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}

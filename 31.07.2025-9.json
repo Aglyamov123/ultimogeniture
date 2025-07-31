@@ -1,0 +1,25 @@
+{
+    "name": "Mary Rodgers",
+    "age": 71,
+    "address": {
+        "street": "Sherry Spur",
+        "city": "New Christopher",
+        "state": "Missouri",
+        "zip": "95079"
+    },
+    "contact": {
+        "phone": "9137962057",
+        "servicePhone": "800926007"
+    },
+    "birthday": "1954-10-05",
+    "ip": "53.93.17.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital short condition major. Research they expect water. Always along large black necessary century second here.\nAir contain speech. Hundred one customer until task candidate scientist.",
+        "bio": "Keep thing cost cover across. Another official reality way project light once.\nKey certainly move something decade. History week week themselves upon then already."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}

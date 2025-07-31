@@ -1,0 +1,25 @@
+{
+    "name": "Kristy Robbins",
+    "age": 62,
+    "address": {
+        "street": "Cruz Drive",
+        "city": "Loribury",
+        "state": "Kentucky",
+        "zip": "69867"
+    },
+    "contact": {
+        "phone": "001-882-637-5334x343",
+        "servicePhone": "800596380"
+    },
+    "birthday": "1963-19-05",
+    "ip": "67.210.229.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Age capital believe. Add president administration.\nMember decision cause.\nDifference medical head opportunity style yet course. Among natural add person condition.",
+        "bio": "Leader talk guy worry process trade. Fall school moment responsibility. Defense product rich despite."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}

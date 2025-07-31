@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Garrett",
+    "age": 55,
+    "address": {
+        "street": "Melissa Crescent",
+        "city": "North Amy",
+        "state": "New Jersey",
+        "zip": "94130"
+    },
+    "contact": {
+        "phone": "001-979-502-6835",
+        "servicePhone": "800117387"
+    },
+    "birthday": "1970-10-05",
+    "ip": "23.110.71.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer others yet series. Lot customer pick between mouth onto can.\nStrong end early federal pattern difference. Sit sense call role hundred debate.",
+        "bio": "Experience prevent teacher seem stuff. Hospital bar audience. Your much you movement.\nModel citizen check religious course heart. Teacher close today address network. Way inside purpose because."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}

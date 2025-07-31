@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Jackson",
+    "age": 62,
+    "address": {
+        "street": "Tyler Trafficway",
+        "city": "North Jamiehaven",
+        "state": "West Virginia",
+        "zip": "10759"
+    },
+    "contact": {
+        "phone": "786-317-2117",
+        "servicePhone": "800346076"
+    },
+    "birthday": "1963-24-03",
+    "ip": "217.11.213.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Relationship stage explain ten threat here hair. Suffer factor write manage vote. Administration successful soldier beautiful cultural into.",
+        "bio": "Approach sell risk money every whom. Record blood all. Ok especially laugh special type personal too writer.\nEffort never nothing suffer. Bit then science edge. Over lay consider growth director."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

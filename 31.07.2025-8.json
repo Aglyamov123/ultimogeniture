@@ -1,0 +1,25 @@
+{
+    "name": "Dan Lopez",
+    "age": 73,
+    "address": {
+        "street": "Brian Walks",
+        "city": "East Robertton",
+        "state": "Arkansas",
+        "zip": "21874"
+    },
+    "contact": {
+        "phone": "728.992.4882x990",
+        "servicePhone": "800192271"
+    },
+    "birthday": "1952-04-09",
+    "ip": "198.83.245.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Rather yeah so wish have.\nHead not office single get process. Indicate food attention product themselves rock why. Join soon car power several.",
+        "bio": "Although reality several perhaps along thought free. With life start where few that effort traditional."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}

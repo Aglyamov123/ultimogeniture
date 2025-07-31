@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Allison",
+    "age": 88,
+    "address": {
+        "street": "Rebecca Squares",
+        "city": "Timothyview",
+        "state": "West Virginia",
+        "zip": "22076"
+    },
+    "contact": {
+        "phone": "547-345-1954",
+        "servicePhone": "800754064"
+    },
+    "birthday": "1937-23-02",
+    "ip": "25.87.85.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Security allow imagine center figure state. Get these and less sport moment grow. If art go Mrs between real.\nAccording that half. Care or travel article.",
+        "bio": "Teach yourself approach whatever east. Couple culture buy of discussion middle hope. Building goal once case.\nMedical suddenly before professional economy source agree. Stuff lawyer same onto team."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}

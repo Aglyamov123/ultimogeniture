@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Lam",
+    "age": 58,
+    "address": {
+        "street": "Carlson Manors",
+        "city": "Mannhaven",
+        "state": "Utah",
+        "zip": "56898"
+    },
+    "contact": {
+        "phone": "(709)596-5068",
+        "servicePhone": "800516020"
+    },
+    "birthday": "1967-27-05",
+    "ip": "190.173.42.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Talk change your tree front interest. Against discuss major conference. Opportunity federal money issue key claim foreign. Head community agreement animal for.",
+        "bio": "Move direction under most power organization. Author you itself toward.\nNo establish speech gas.\nCourt town provide experience night. Film close population million generation never certain."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}

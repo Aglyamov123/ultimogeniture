@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Deleon",
+    "age": 13,
+    "address": {
+        "street": "Lawrence Loop",
+        "city": "Tammyview",
+        "state": "Ohio",
+        "zip": "26571"
+    },
+    "contact": {
+        "phone": "8056541871",
+        "servicePhone": "800938333"
+    },
+    "birthday": "2012-18-07",
+    "ip": "5.210.185.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Move blue light result. Road first score detail some young answer.\nAmount type now relationship son positive process dark.",
+        "bio": "Describe audience speech budget. Reduce practice marriage finish. Person bit road prepare grow thank.\nField contain century key member social. Its practice born part buy fight."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}

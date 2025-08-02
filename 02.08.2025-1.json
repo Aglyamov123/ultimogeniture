@@ -1,0 +1,25 @@
+{
+    "name": "Ralph Adkins",
+    "age": 69,
+    "address": {
+        "street": "Rebecca Fields",
+        "city": "South Michael",
+        "state": "Minnesota",
+        "zip": "30436"
+    },
+    "contact": {
+        "phone": "7866349599",
+        "servicePhone": "800213985"
+    },
+    "birthday": "1956-24-04",
+    "ip": "207.240.1.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass effect argue use song natural. Down bit yet design third. Approach write deal should affect.",
+        "bio": "Church some able maintain commercial. Throw environmental ten beautiful suffer firm less. Its discover seek keep necessary finish hospital."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Pineda",
+    "age": 15,
+    "address": {
+        "street": "Carla Cliff",
+        "city": "East Jennifer",
+        "state": "Pennsylvania",
+        "zip": "05556"
+    },
+    "contact": {
+        "phone": "(815)342-9251",
+        "servicePhone": "800987605"
+    },
+    "birthday": "2010-01-03",
+    "ip": "73.252.73.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Right shoulder day number. Activity green watch environmental. News tend practice majority west should major.",
+        "bio": "Heavy also wear ever. Rest lead imagine game would shake appear.\nWork believe west area. Everyone responsibility leave page.\nSpeak deep but whole. Unit tell debate card."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}

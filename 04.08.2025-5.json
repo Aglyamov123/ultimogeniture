@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Gutierrez",
+    "age": 8,
+    "address": {
+        "street": "Shawn Trail",
+        "city": "Kathyburgh",
+        "state": "Rhode Island",
+        "zip": "87485"
+    },
+    "contact": {
+        "phone": "334-408-2764x82507",
+        "servicePhone": "800236136"
+    },
+    "birthday": "2017-30-05",
+    "ip": "55.4.78.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Theory from at.\nMaintain not wall wide. Majority quickly law cup.\nCold this among item method too suggest. Note without performance level pressure water lead.\nTrial wind movie tell.",
+        "bio": "Former wait town visit opportunity model street. Range order cut technology effect PM health.\nTreatment mission nation."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}

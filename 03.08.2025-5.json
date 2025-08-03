@@ -1,0 +1,25 @@
+{
+    "name": "Jason Mccarthy",
+    "age": 63,
+    "address": {
+        "street": "Paul Forks",
+        "city": "Port Claire",
+        "state": "Tennessee",
+        "zip": "62308"
+    },
+    "contact": {
+        "phone": "001-470-907-5518x660",
+        "servicePhone": "800775377"
+    },
+    "birthday": "1962-21-05",
+    "ip": "147.123.153.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Indeed their top citizen share eat. Question fish same property catch price travel. Animal fire among more young Republican firm.",
+        "bio": "Short computer what cause industry happen. Create itself mouth whether probably. Large charge mother visit else cut often.\nBox job see the should because. Include when choose his as."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

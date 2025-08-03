@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Ferguson",
+    "age": 81,
+    "address": {
+        "street": "White Grove",
+        "city": "New Patrick",
+        "state": "Missouri",
+        "zip": "02256"
+    },
+    "contact": {
+        "phone": "(769)784-1096x209",
+        "servicePhone": "800352342"
+    },
+    "birthday": "1944-04-02",
+    "ip": "103.220.161.83",
+    "foo": "bar",
+    "profile": {
+        "about": "I radio able believe candidate.\nEverything even opportunity case act there. Boy stand eat dinner. Their wish political political detail painting responsibility.\nMight end finish voice also stage.",
+        "bio": "Now push somebody front year skin wind big. Herself go recognize sit prove.\nLarge evening yourself cut consumer despite. Walk should ten decade say home family. Involve season fish can section."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}

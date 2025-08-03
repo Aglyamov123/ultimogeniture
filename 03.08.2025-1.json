@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey May",
+    "age": 24,
+    "address": {
+        "street": "Gregory Groves",
+        "city": "Lake Christopher",
+        "state": "Indiana",
+        "zip": "98642"
+    },
+    "contact": {
+        "phone": "721-282-6014x65819",
+        "servicePhone": "800228208"
+    },
+    "birthday": "2001-01-02",
+    "ip": "75.254.98.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Community paper contain federal probably. Listen she view produce six argue. Itself machine very simply.",
+        "bio": "Those fly near which. Easy sister mind TV production enjoy blood.\nSure difference stock whose concern measure mother. Field lose store everyone scientist."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

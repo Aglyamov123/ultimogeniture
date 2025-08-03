@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Williamson",
+    "age": 68,
+    "address": {
+        "street": "Taylor Run",
+        "city": "Lake Gary",
+        "state": "Maine",
+        "zip": "96253"
+    },
+    "contact": {
+        "phone": "313.753.0018x9729",
+        "servicePhone": "800384149"
+    },
+    "birthday": "1957-15-10",
+    "ip": "56.183.35.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Newspaper hotel inside month. Outside when floor public reach black. Write actually save meeting sure ready.",
+        "bio": "Arm research life politics speech fine. State letter wide usually.\nEconomy old activity treatment type we. Member face official.\nJob music seem describe kind. Fear stand none control success."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

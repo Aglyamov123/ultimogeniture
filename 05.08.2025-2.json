@@ -1,0 +1,25 @@
+{
+    "name": "Micheal Kerr",
+    "age": 82,
+    "address": {
+        "street": "Patterson Meadows",
+        "city": "Timothyside",
+        "state": "Wyoming",
+        "zip": "40531"
+    },
+    "contact": {
+        "phone": "(425)736-6987x106",
+        "servicePhone": "800902861"
+    },
+    "birthday": "1943-19-11",
+    "ip": "154.18.47.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Believe recently better board to better perform page. Morning amount significant remember.\nAmount military early gas cause. Money course message play.",
+        "bio": "Conference agreement contain Democrat bring. Affect she represent piece education surface. Lot improve coach face chair something information."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}

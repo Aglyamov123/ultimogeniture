@@ -1,0 +1,25 @@
+{
+    "name": "Shane Franklin",
+    "age": 32,
+    "address": {
+        "street": "Nelson Point",
+        "city": "New Justinshire",
+        "state": "Oklahoma",
+        "zip": "54905"
+    },
+    "contact": {
+        "phone": "436-377-7100",
+        "servicePhone": "800156787"
+    },
+    "birthday": "1993-24-06",
+    "ip": "159.221.170.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Yes door listen here include town. Word eye particular toward especially sort because. Go picture step left time.",
+        "bio": "Involve well set mission compare send bill. Brother later ball account method.\nWar although scientist leg agency since return. Everybody form evening today reveal."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Norma Jones",
+    "age": 96,
+    "address": {
+        "street": "Sullivan Villages",
+        "city": "Lake Heather",
+        "state": "Kentucky",
+        "zip": "51039"
+    },
+    "contact": {
+        "phone": "(656)759-9361x94273",
+        "servicePhone": "800189013"
+    },
+    "birthday": "1929-05-11",
+    "ip": "101.48.36.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal quite space at conference analysis material. Use front mean at task day.",
+        "bio": "Site party father your. Manager city vote land. Consumer candidate table moment per."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Connor Thomas",
+    "age": 28,
+    "address": {
+        "street": "Darrell Canyon",
+        "city": "Lake Brittany",
+        "state": "Idaho",
+        "zip": "70436"
+    },
+    "contact": {
+        "phone": "(859)382-4794",
+        "servicePhone": "800462433"
+    },
+    "birthday": "1997-28-07",
+    "ip": "149.138.132.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Security cause fall. Surface seem return.\nSing man indicate hair spend. Evidence month program accept. Quite ahead system. Accept sport involve since.",
+        "bio": "Language past heavy role. Discussion business live really able learn.\nFather start audience son. Half few project pull act seem PM friend. Whose edge you with center process method."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}

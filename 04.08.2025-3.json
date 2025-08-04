@@ -1,0 +1,25 @@
+{
+    "name": "Chad Scott",
+    "age": 49,
+    "address": {
+        "street": "Strong Grove",
+        "city": "Jamieland",
+        "state": "New York",
+        "zip": "39011"
+    },
+    "contact": {
+        "phone": "001-915-452-2565x3873",
+        "servicePhone": "800588849"
+    },
+    "birthday": "1976-29-05",
+    "ip": "67.11.141.24",
+    "foo": "bar",
+    "profile": {
+        "about": "A indicate try from. Ground well unit growth. Personal avoid television thousand majority.\nApproach dark put while past. Better collection agree coach necessary side.",
+        "bio": "Culture probably guess such hear senior research.\nBillion animal memory five with region. Quickly recognize owner us rate measure artist establish. Certainly artist source pressure sure."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Smith",
+    "age": 87,
+    "address": {
+        "street": "Gabrielle Branch",
+        "city": "Brownfurt",
+        "state": "Pennsylvania",
+        "zip": "59904"
+    },
+    "contact": {
+        "phone": "538-287-0278x7513",
+        "servicePhone": "800842208"
+    },
+    "birthday": "1938-05-11",
+    "ip": "73.239.26.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Herself study increase west upon measure. Land practice knowledge also throw. Back hotel civil design.\nBox letter teach thought trial western. Whether direction ever drug provide kitchen role.",
+        "bio": "Certainly card because front serve family risk treat. Lead prevent blood window process. Pass firm well soldier particularly.\nSystem difference political person. Rather politics animal clearly."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Brian Wells",
+    "age": 84,
+    "address": {
+        "street": "Trujillo Walks",
+        "city": "Andersonshire",
+        "state": "Oklahoma",
+        "zip": "86074"
+    },
+    "contact": {
+        "phone": "001-608-270-4748x72621",
+        "servicePhone": "800194512"
+    },
+    "birthday": "1941-03-10",
+    "ip": "185.119.243.222",
+    "foo": "bar",
+    "profile": {
+        "about": "When really really test family that simply. Protect me member area wrong consider indeed attorney.\nStructure both very fact. Stop each above them community determine.",
+        "bio": "Deal road site list reflect as. Rise thank color case cost huge choice.\nCare point dog song plan speak board. Order some if break pressure though. Compare box night."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}

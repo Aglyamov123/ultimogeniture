@@ -1,0 +1,25 @@
+{
+    "name": "Carl Webb",
+    "age": 61,
+    "address": {
+        "street": "Lisa Passage",
+        "city": "Jamesstad",
+        "state": "Alaska",
+        "zip": "77403"
+    },
+    "contact": {
+        "phone": "+1-458-971-7017x81200",
+        "servicePhone": "800380170"
+    },
+    "birthday": "1964-17-03",
+    "ip": "51.170.57.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Story improve ready think author start society. Activity process bill out rule. Loss television job ground.\nManagement glass thing allow. Chance her body accept different.",
+        "bio": "Community bed hope safe low than."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}

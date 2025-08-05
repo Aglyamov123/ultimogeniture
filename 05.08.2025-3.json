@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Martin",
+    "age": 28,
+    "address": {
+        "street": "Wilson Squares",
+        "city": "Carlside",
+        "state": "Wisconsin",
+        "zip": "97543"
+    },
+    "contact": {
+        "phone": "592.216.2114",
+        "servicePhone": "800851081"
+    },
+    "birthday": "1997-29-07",
+    "ip": "20.123.204.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Yes thus yet suffer unit place.\nCell really morning even itself occur. Few need message speak range.\nApproach everybody way cold either police. Fish pressure when sit nothing.",
+        "bio": "Enough budget admit itself. Smile Democrat your movement. Yard per right.\nRoad necessary nation site onto it news. Today computer turn police boy research good enough.\nStuff TV president fine then."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}

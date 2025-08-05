@@ -1,0 +1,25 @@
+{
+    "name": "Deanna Mills",
+    "age": 62,
+    "address": {
+        "street": "Travis Valleys",
+        "city": "Mooreport",
+        "state": "North Dakota",
+        "zip": "69445"
+    },
+    "contact": {
+        "phone": "001-889-675-7362x639",
+        "servicePhone": "800344062"
+    },
+    "birthday": "1963-07-09",
+    "ip": "10.2.49.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Expert provide respond peace memory half training wrong. System after respond think. Choose question set family huge.",
+        "bio": "Style for toward plan machine. Stay often air author use happen.\nDrive worker among. Leave billion wish address several."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Holt",
+    "age": 113,
+    "address": {
+        "street": "Wallace Plaza",
+        "city": "South Barbaraburgh",
+        "state": "Wyoming",
+        "zip": "29962"
+    },
+    "contact": {
+        "phone": "(258)975-5252x17175",
+        "servicePhone": "800875803"
+    },
+    "birthday": "1912-30-12",
+    "ip": "98.31.65.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Decision low investment station pretty. Physical weight church eye actually especially everyone.",
+        "bio": "Leave study little program just. Friend rate task write road try.\nAssume next pressure real newspaper.\nBetter win manager year anything air community. Do manager happen hand gas still best."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}

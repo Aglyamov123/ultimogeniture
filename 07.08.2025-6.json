@@ -1,0 +1,25 @@
+{
+    "name": "Mark Richards",
+    "age": 114,
+    "address": {
+        "street": "Mooney Camp",
+        "city": "Kristishire",
+        "state": "Michigan",
+        "zip": "27998"
+    },
+    "contact": {
+        "phone": "+1-990-630-0459x953",
+        "servicePhone": "800960322"
+    },
+    "birthday": "1911-25-11",
+    "ip": "21.208.250.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Answer role traditional various treat. Education if you believe north present. Fact service add student impact provide worry. And stage view seek read international heavy.",
+        "bio": "Family difference man sound senior amount back. Smile decide professor measure. Heavy hair candidate treatment production else hotel.\nStory win road."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}

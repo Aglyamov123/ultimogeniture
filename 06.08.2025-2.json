@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Wilson",
+    "age": 18,
+    "address": {
+        "street": "Green Lane",
+        "city": "East Shaneborough",
+        "state": "West Virginia",
+        "zip": "98216"
+    },
+    "contact": {
+        "phone": "(413)720-2440",
+        "servicePhone": "800511741"
+    },
+    "birthday": "2007-06-08",
+    "ip": "84.208.83.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Whatever discussion process establish because.\nSuggest tree actually consider health according. Hope peace full for within have law herself. Order might party occur public.",
+        "bio": "Middle southern hour sort. Physical subject center dream. Case successful outside news allow international general.\nCulture financial machine election. Far anything put involve wife lot."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

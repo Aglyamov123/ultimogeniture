@@ -1,0 +1,25 @@
+{
+    "name": "Michael Cox",
+    "age": 92,
+    "address": {
+        "street": "Cross Stravenue",
+        "city": "South Crystalhaven",
+        "state": "New Mexico",
+        "zip": "82362"
+    },
+    "contact": {
+        "phone": "908-905-6792x9486",
+        "servicePhone": "800664572"
+    },
+    "birthday": "1933-25-06",
+    "ip": "70.187.210.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan travel approach seem. Usually follow own you important image.\nWoman a bar final energy. Phone whom response campaign last provide.",
+        "bio": "Dark outside throughout call near. Act evidence sign score edge. Chance thing bar war song.\nNight religious ready picture part. Main long west boy big citizen cost."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}

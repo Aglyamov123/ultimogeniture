@@ -1,0 +1,25 @@
+{
+    "name": "Charles Aguilar",
+    "age": 19,
+    "address": {
+        "street": "Katie Expressway",
+        "city": "Lake Paul",
+        "state": "North Dakota",
+        "zip": "42082"
+    },
+    "contact": {
+        "phone": "741.427.1395x241",
+        "servicePhone": "800193761"
+    },
+    "birthday": "2006-03-08",
+    "ip": "32.129.35.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Night class attack officer tax market but. Too figure resource language shoulder will letter.\nConference hard share sea doctor. Term administration table night.",
+        "bio": "Wear sell Mrs over letter evening. Forward think former letter off else shake consider."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}

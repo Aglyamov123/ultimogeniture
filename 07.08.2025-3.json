@@ -1,0 +1,25 @@
+{
+    "name": "Latoya Cooper",
+    "age": 25,
+    "address": {
+        "street": "Judy Flat",
+        "city": "South Joshuaville",
+        "state": "Delaware",
+        "zip": "32873"
+    },
+    "contact": {
+        "phone": "001-825-733-2837x5007",
+        "servicePhone": "800181120"
+    },
+    "birthday": "2000-11-05",
+    "ip": "176.172.12.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Call drug strategy national local deep.\nCharge choice enjoy. Way create material final whose. Help oil no this personal history.",
+        "bio": "Natural production best thing case really mention. Close wrong shake everyone occur. Dream well between around. Society popular theory hotel fact describe."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

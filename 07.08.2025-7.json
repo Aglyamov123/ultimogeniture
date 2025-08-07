@@ -1,0 +1,25 @@
+{
+    "name": "Terry Moore",
+    "age": 42,
+    "address": {
+        "street": "Clayton Ridges",
+        "city": "South Jennifer",
+        "state": "Washington",
+        "zip": "45122"
+    },
+    "contact": {
+        "phone": "001-667-407-8985x193",
+        "servicePhone": "800776269"
+    },
+    "birthday": "1983-23-02",
+    "ip": "124.139.200.91",
+    "foo": "bar",
+    "profile": {
+        "about": "See training people by look. Few school even catch nice art save.\nServe analysis military great shake consider. Action explain decide wide rock girl. Stock view project table reduce.",
+        "bio": "Wonder he always poor church country practice. Idea apply ten health. Plant too simple whatever.\nOur individual feeling series. Write listen shake opportunity price simple better employee."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}

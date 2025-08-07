@@ -1,0 +1,25 @@
+{
+    "name": "Jay Lambert",
+    "age": 112,
+    "address": {
+        "street": "Martinez Drives",
+        "city": "North Cherylmouth",
+        "state": "New Jersey",
+        "zip": "30651"
+    },
+    "contact": {
+        "phone": "001-865-393-6257x17543",
+        "servicePhone": "800019010"
+    },
+    "birthday": "1913-22-08",
+    "ip": "214.200.251.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Manage center court quality reason care bit project. Support imagine learn on happy throughout list bed.",
+        "bio": "Glass no voice later list share. Beyond brother protect note picture some. Scene who real grow sort response.\nChair mother use. Time detail glass station.\nReality build care at. Money top oil least."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

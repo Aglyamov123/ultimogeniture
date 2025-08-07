@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Vincent",
+    "age": 22,
+    "address": {
+        "street": "Mike Plains",
+        "city": "Peckton",
+        "state": "Alaska",
+        "zip": "20118"
+    },
+    "contact": {
+        "phone": "001-631-635-2837",
+        "servicePhone": "800567750"
+    },
+    "birthday": "2003-31-07",
+    "ip": "3.64.127.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Choice without around major let together bit.\nWhite rock individual card identify. Finish task yourself foot entire. Southern recently cut eye avoid ability I.",
+        "bio": "Figure land low population cover central."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Rogers",
+    "age": 79,
+    "address": {
+        "street": "Peter Forge",
+        "city": "Carlsonton",
+        "state": "Oregon",
+        "zip": "81172"
+    },
+    "contact": {
+        "phone": "+1-665-247-2596x0056",
+        "servicePhone": "800685104"
+    },
+    "birthday": "1946-10-12",
+    "ip": "163.42.156.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Sit discuss all popular leg. Gun property total brother similar.\nBuild people today gas year improve. Like friend actually relationship story benefit education.\nBillion field together great.",
+        "bio": "Easy adult them. Education method sister investment force.\nCut decision medical.\nTrouble food wind those against house region strong. Church much little remember. Ability picture meeting throw about."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}

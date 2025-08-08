@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Hoover",
+    "age": 38,
+    "address": {
+        "street": "Alexandra Field",
+        "city": "Wardberg",
+        "state": "North Carolina",
+        "zip": "13966"
+    },
+    "contact": {
+        "phone": "(593)746-3719x1959",
+        "servicePhone": "800856494"
+    },
+    "birthday": "1987-27-12",
+    "ip": "150.165.83.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Along some Mr leave customer floor. Event else team.\nChance television miss produce old group chair. Parent evening himself study fill. Still decision store case government.",
+        "bio": "Though teacher pick crime worry attorney. Option wonder pull clear argue.\nCity event group. Establish member feeling north."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}

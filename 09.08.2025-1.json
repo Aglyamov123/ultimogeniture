@@ -1,0 +1,25 @@
+{
+    "name": "Juan Anderson",
+    "age": 63,
+    "address": {
+        "street": "Matthew Walks",
+        "city": "Kellyland",
+        "state": "Virginia",
+        "zip": "52338"
+    },
+    "contact": {
+        "phone": "001-685-812-2137",
+        "servicePhone": "800898943"
+    },
+    "birthday": "1962-05-02",
+    "ip": "55.27.137.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Property nor major administration design purpose. Lead high level who will. Bill police land sport stop. Young blue find decide trial.\nWonder especially however. Box arm any southern.",
+        "bio": "Marriage and mother challenge. Care consider kitchen task floor their.\nWhite board son admit attack paper. Recent task produce tend."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

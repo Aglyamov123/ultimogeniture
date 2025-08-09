@@ -1,0 +1,25 @@
+{
+    "name": "William Schwartz",
+    "age": 2,
+    "address": {
+        "street": "Smith Pine",
+        "city": "Whitneyton",
+        "state": "California",
+        "zip": "34108"
+    },
+    "contact": {
+        "phone": "(232)660-6363x89840",
+        "servicePhone": "800804332"
+    },
+    "birthday": "2023-15-09",
+    "ip": "25.196.176.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid commercial structure but. Clear heart work. Or which clear firm he head over size.\nHome level big language rate. Cause piece several build already.",
+        "bio": "Generation thought only upon call director central. Consumer avoid leave crime. Beautiful can degree music next wait.\nSea form moment spend."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}

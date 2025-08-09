@@ -1,0 +1,25 @@
+{
+    "name": "Tara Wright",
+    "age": 13,
+    "address": {
+        "street": "James Pine",
+        "city": "New Timothy",
+        "state": "New Hampshire",
+        "zip": "27488"
+    },
+    "contact": {
+        "phone": "+1-952-367-4370",
+        "servicePhone": "800095448"
+    },
+    "birthday": "2012-08-01",
+    "ip": "139.148.97.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Bit movement what six page. Risk region someone from.\nWest good price.\nThen compare wear society air. Child western green. Issue avoid consider respond threat whether.",
+        "bio": "Where serious employee. Face decide various again read glass.\nWhom Mr someone total reason behavior. Education she imagine common.\nHot yes reason shoulder worker deal. As operation better."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}

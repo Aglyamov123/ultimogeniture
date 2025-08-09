@@ -1,0 +1,25 @@
+{
+    "name": "Corey Davis",
+    "age": 7,
+    "address": {
+        "street": "Hernandez Turnpike",
+        "city": "East Denisemouth",
+        "state": "New Jersey",
+        "zip": "48950"
+    },
+    "contact": {
+        "phone": "927-488-9886",
+        "servicePhone": "800075122"
+    },
+    "birthday": "2018-23-04",
+    "ip": "11.204.39.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Current sea study else size identify.\nOfficer Congress six firm offer group citizen. Task down few quality none drop begin.",
+        "bio": "Enough bit finish bar will than. Sing from decade develop century pretty down. Natural Democrat chair she whom offer."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}

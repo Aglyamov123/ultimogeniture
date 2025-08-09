@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Montes",
+    "age": 6,
+    "address": {
+        "street": "John Point",
+        "city": "Davidside",
+        "state": "Pennsylvania",
+        "zip": "95773"
+    },
+    "contact": {
+        "phone": "(391)540-7956x93296",
+        "servicePhone": "800662188"
+    },
+    "birthday": "2019-15-12",
+    "ip": "204.128.70.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean wall music turn. Story natural book nation government discussion rise. Visit interest data perform once participant. Rock while decide camera.",
+        "bio": "Service their toward. Want modern around too. Sense fish them product base according study wrong."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}

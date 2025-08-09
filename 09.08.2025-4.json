@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Nelson",
+    "age": 107,
+    "address": {
+        "street": "Annette Port",
+        "city": "Bautistaborough",
+        "state": "South Dakota",
+        "zip": "77234"
+    },
+    "contact": {
+        "phone": "296-857-4768x31519",
+        "servicePhone": "800829005"
+    },
+    "birthday": "1918-05-03",
+    "ip": "71.69.64.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Production particularly window but. Future class figure subject soon direction market. Less art many wind on reason.",
+        "bio": "Painting system white everything government. Book decade throw admit easy candidate meeting. Dinner billion reason upon staff."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}

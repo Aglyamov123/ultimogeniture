@@ -1,0 +1,25 @@
+{
+    "name": "Julie Allen",
+    "age": 66,
+    "address": {
+        "street": "Alicia Ways",
+        "city": "Angeltown",
+        "state": "Idaho",
+        "zip": "66941"
+    },
+    "contact": {
+        "phone": "846-590-2104x53866",
+        "servicePhone": "800756807"
+    },
+    "birthday": "1959-26-05",
+    "ip": "137.69.24.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Discover our each product certain garden determine. Pressure each sea top religious.\nForget maintain pick though position central. Arm thought foot than under.",
+        "bio": "Pressure information can accept land production specific. Call front choice cost natural involve."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "John Spencer",
+    "age": 89,
+    "address": {
+        "street": "Deborah Field",
+        "city": "West Joseton",
+        "state": "Louisiana",
+        "zip": "21872"
+    },
+    "contact": {
+        "phone": "+1-853-783-3063",
+        "servicePhone": "800590158"
+    },
+    "birthday": "1936-25-03",
+    "ip": "188.174.139.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Church finish side wonder tough water yet. Particular free improve create station PM score.\nFar ahead stage matter. Seat ok summer style this. Anything reality group husband others month.",
+        "bio": "Sound international study. Card manager relationship.\nLow add knowledge now. Leader since huge cup call clearly mission. Bad least structure ahead and."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}

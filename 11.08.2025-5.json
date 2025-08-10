@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Armstrong",
+    "age": 103,
+    "address": {
+        "street": "Webb Station",
+        "city": "Michaelfort",
+        "state": "Virginia",
+        "zip": "10866"
+    },
+    "contact": {
+        "phone": "950-743-4103x371",
+        "servicePhone": "800399531"
+    },
+    "birthday": "1922-15-10",
+    "ip": "151.143.191.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Me than open line for. Teacher born off mind. Question site particular along something.\nTalk role clearly would actually system money. Than join line show arrive. Key art half rate medical early.",
+        "bio": "Firm eat production hear stuff my address. Drug follow thousand per attorney stock stay several.\nAfter season network room. Reveal fine director black official fight."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}

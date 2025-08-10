@@ -1,0 +1,25 @@
+{
+    "name": "Keith Peterson",
+    "age": 72,
+    "address": {
+        "street": "Weeks Cape",
+        "city": "New Elaineborough",
+        "state": "New York",
+        "zip": "23433"
+    },
+    "contact": {
+        "phone": "574.354.3529",
+        "servicePhone": "800869362"
+    },
+    "birthday": "1953-17-04",
+    "ip": "198.115.241.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Story lawyer offer likely quality.\nWould look gas. Pm public how deep down development before. Toward difference according different.",
+        "bio": "My evidence remain culture range task. Authority animal by. Think method professor send response production teacher itself.\nHold eye suggest wide everyone their. Real next spend appear for expect."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

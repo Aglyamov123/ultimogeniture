@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Doyle",
+    "age": 43,
+    "address": {
+        "street": "Castro Village",
+        "city": "Yangshire",
+        "state": "Alaska",
+        "zip": "20045"
+    },
+    "contact": {
+        "phone": "(387)599-3833x4225",
+        "servicePhone": "800503249"
+    },
+    "birthday": "1982-29-06",
+    "ip": "61.60.243.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Traditional suddenly very. Sport tend right less four. Military decision subject land court expert.",
+        "bio": "Collection provide maintain assume out. American program customer bag country something together. Need stay mouth partner involve still get remain."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}

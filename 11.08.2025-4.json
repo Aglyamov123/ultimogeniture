@@ -1,0 +1,25 @@
+{
+    "name": "Dr. David Alexander",
+    "age": 24,
+    "address": {
+        "street": "Matthew Forge",
+        "city": "Lake Robertberg",
+        "state": "California",
+        "zip": "63244"
+    },
+    "contact": {
+        "phone": "229-410-8723x951",
+        "servicePhone": "800214525"
+    },
+    "birthday": "2001-20-02",
+    "ip": "8.219.76.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Central light military real tax. List however them something read young all. Everybody these show sense treatment.\nFilm on will nation fill drug.",
+        "bio": "Action garden play particular. Attention less structure hope media treatment. Consider ago six choice decision building question. Thank kid lose student break all deal natural."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}

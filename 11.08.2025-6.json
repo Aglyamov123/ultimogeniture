@@ -1,0 +1,25 @@
+{
+    "name": "Kristy Young",
+    "age": 106,
+    "address": {
+        "street": "Watson Knoll",
+        "city": "Salinasville",
+        "state": "Wisconsin",
+        "zip": "64797"
+    },
+    "contact": {
+        "phone": "+1-359-416-0671x1003",
+        "servicePhone": "800970986"
+    },
+    "birthday": "1919-22-06",
+    "ip": "19.247.82.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Project part pattern war mention office. Provide on girl morning eight. Improve possible its politics how trip.\nMr check board. Today message easy rate protect painting. Up why area vote argue.",
+        "bio": "Herself quality cell relate care entire speech fill. Unit create smile network last born. College raise best discover."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

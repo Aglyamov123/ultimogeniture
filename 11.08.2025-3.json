@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Davis",
+    "age": 6,
+    "address": {
+        "street": "Alicia Freeway",
+        "city": "Reyesview",
+        "state": "Georgia",
+        "zip": "05926"
+    },
+    "contact": {
+        "phone": "7913689875",
+        "servicePhone": "800008941"
+    },
+    "birthday": "2019-08-02",
+    "ip": "220.10.209.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute never each candidate. Support everybody talk. Door test week above great artist month.\nIn despite court especially it police research. Surface appear lead east officer know only produce.",
+        "bio": "War course future stay or. Join out produce make. Language power many none air sing which.\nSmall decision little small him ball. Piece form right through law series. General would deep."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}

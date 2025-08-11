@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Collins",
+    "age": 1,
+    "address": {
+        "street": "Latasha River",
+        "city": "Bassborough",
+        "state": "Arkansas",
+        "zip": "42614"
+    },
+    "contact": {
+        "phone": "954.975.2920x43362",
+        "servicePhone": "800619216"
+    },
+    "birthday": "2024-11-04",
+    "ip": "5.158.242.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Say democratic main. Personal blue environmental if gun century baby. Machine thing fear boy raise.\nChange single purpose radio side. Himself level poor issue those whatever.",
+        "bio": "Past often foreign notice particular. Themselves financial data major.\nCommon rest trouble toward career condition. Prove board career since house center sister."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kerry Knapp",
+    "age": 52,
+    "address": {
+        "street": "Smith Forges",
+        "city": "West Noahhaven",
+        "state": "Colorado",
+        "zip": "65248"
+    },
+    "contact": {
+        "phone": "+1-341-302-1142x7170",
+        "servicePhone": "800695165"
+    },
+    "birthday": "1973-18-09",
+    "ip": "107.108.57.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason economy recognize job before conference. Year mouth treatment road. Method address score learn. Field for civil tend address phone.",
+        "bio": "Ball exactly bill large prepare drop. Wonder civil per lawyer."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}

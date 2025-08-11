@@ -1,0 +1,25 @@
+{
+    "name": "Donna Perez",
+    "age": 74,
+    "address": {
+        "street": "Zachary Lights",
+        "city": "New Gregoryberg",
+        "state": "New Hampshire",
+        "zip": "73479"
+    },
+    "contact": {
+        "phone": "001-707-559-9106x6312",
+        "servicePhone": "800331276"
+    },
+    "birthday": "1951-02-01",
+    "ip": "92.253.210.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Have activity perhaps space approach growth mention. Trouble show source wrong blood. Risk wide law lose always police do.\nSort star grow behind again. Thousand interesting important deal admit.",
+        "bio": "Foreign concern whatever consider color. Campaign citizen instead science perhaps away lawyer. Name can fly much recent.\nDiscuss yard newspaper. Easy how second think quality."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Adam Munoz",
+    "age": 9,
+    "address": {
+        "street": "Gonzales Villages",
+        "city": "East Joshuafort",
+        "state": "North Carolina",
+        "zip": "94396"
+    },
+    "contact": {
+        "phone": "+1-245-757-1213x71114",
+        "servicePhone": "800023048"
+    },
+    "birthday": "2016-30-08",
+    "ip": "121.40.162.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Nature simply challenge space remember thought improve. Born matter Congress picture must. Partner lay keep less former recognize without.",
+        "bio": "New result artist must interesting yourself. Would company ability our.\nLevel hot become let how. Always deep Democrat could continue study wall. Along have television easy consider benefit often."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

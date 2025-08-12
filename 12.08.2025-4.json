@@ -1,0 +1,25 @@
+{
+    "name": "Holly Sims",
+    "age": 4,
+    "address": {
+        "street": "Dennis Common",
+        "city": "South John",
+        "state": "Iowa",
+        "zip": "15613"
+    },
+    "contact": {
+        "phone": "+1-209-755-5306x78617",
+        "servicePhone": "800711908"
+    },
+    "birthday": "2021-12-01",
+    "ip": "129.47.127.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother site media range entire. Our ever each international really. Hotel drug enough notice according citizen.",
+        "bio": "Job news race edge. Road compare dark door her its. Hit task exactly series want friend. Learn say perhaps pattern my them."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

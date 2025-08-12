@@ -1,0 +1,25 @@
+{
+    "name": "Jenny Lopez",
+    "age": 10,
+    "address": {
+        "street": "Owens Rapid",
+        "city": "Lake Amanda",
+        "state": "California",
+        "zip": "66091"
+    },
+    "contact": {
+        "phone": "001-399-668-2928x399",
+        "servicePhone": "800347684"
+    },
+    "birthday": "2015-18-02",
+    "ip": "119.202.53.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Child why level blood score. Find space chance fine civil garden. Hear impact stage last fine personal country.",
+        "bio": "Customer guy pattern night. Professional our interesting those board.\nLikely give subject so bring. Environmental glass relationship improve seem single."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}

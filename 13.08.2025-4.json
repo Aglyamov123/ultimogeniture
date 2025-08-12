@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Hernandez",
+    "age": 80,
+    "address": {
+        "street": "Dylan Station",
+        "city": "Cainfort",
+        "state": "Maine",
+        "zip": "66602"
+    },
+    "contact": {
+        "phone": "001-987-395-5103",
+        "servicePhone": "800445355"
+    },
+    "birthday": "1945-09-03",
+    "ip": "109.43.95.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Street attention art order discussion decide technology they. Home knowledge if economic try. Health eye including ok tax.",
+        "bio": "These garden guy message.\nReally task everybody only physical country she modern. Perform believe people rule anything too. Pull successful term may owner."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}

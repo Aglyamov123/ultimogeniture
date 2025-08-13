@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Williams",
+    "age": 98,
+    "address": {
+        "street": "Joshua Turnpike",
+        "city": "New Joshua",
+        "state": "Pennsylvania",
+        "zip": "30482"
+    },
+    "contact": {
+        "phone": "(602)784-6832x8776",
+        "servicePhone": "800817380"
+    },
+    "birthday": "1927-06-03",
+    "ip": "220.124.55.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Network first debate music sell. Perhaps tonight senior action bill culture. Example require bit difference.",
+        "bio": "Give institution wall run area high exist. See toward sister respond follow.\nBuild answer like state concern. Today seek phone firm. Over girl sing box."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

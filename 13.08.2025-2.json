@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Reed",
+    "age": 28,
+    "address": {
+        "street": "Austin Landing",
+        "city": "Lake Brucemouth",
+        "state": "Colorado",
+        "zip": "28022"
+    },
+    "contact": {
+        "phone": "286.924.1567",
+        "servicePhone": "800910171"
+    },
+    "birthday": "1997-29-11",
+    "ip": "212.127.202.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby foot magazine. Professional high north better.\nMay thus with until system eat building.\nScore certain pretty wide imagine throw step. Education while age this artist call.",
+        "bio": "Song course both offer. Pattern couple when generation war according laugh. Certain significant team surface individual former."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}

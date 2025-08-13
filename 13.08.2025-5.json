@@ -1,0 +1,25 @@
+{
+    "name": "Megan Hines",
+    "age": 30,
+    "address": {
+        "street": "Marquez Canyon",
+        "city": "East William",
+        "state": "Connecticut",
+        "zip": "77098"
+    },
+    "contact": {
+        "phone": "001-411-443-0541x46899",
+        "servicePhone": "800216562"
+    },
+    "birthday": "1995-11-04",
+    "ip": "148.179.182.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Teacher role drug choice Mr themselves space along. Laugh agency another action. Money prove boy drug far size.",
+        "bio": "Exist represent again production phone. Officer wear clearly for. Attention everyone region crime. Individual political especially ever hope price movie.\nPractice civil argue discover father goal."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}

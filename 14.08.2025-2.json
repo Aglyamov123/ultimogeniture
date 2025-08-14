@@ -1,0 +1,25 @@
+{
+    "name": "Steven Summers",
+    "age": 75,
+    "address": {
+        "street": "Bennett Way",
+        "city": "Christianburgh",
+        "state": "Arizona",
+        "zip": "50707"
+    },
+    "contact": {
+        "phone": "001-585-366-3649x1646",
+        "servicePhone": "800479911"
+    },
+    "birthday": "1950-14-03",
+    "ip": "61.224.97.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Behind model probably. Suggest support candidate boy have maintain figure these. Type hour talk shake open behavior situation.",
+        "bio": "Analysis cultural task at on. Bring color must. Each stage apply for buy building off.\nTen suddenly travel care ready. Opportunity window born air sure. Skin head action staff address police."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}

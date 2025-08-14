@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Fowler",
+    "age": 69,
+    "address": {
+        "street": "Mark Terrace",
+        "city": "South Seanstad",
+        "state": "Wisconsin",
+        "zip": "38581"
+    },
+    "contact": {
+        "phone": "001-526-312-0544x18553",
+        "servicePhone": "800061418"
+    },
+    "birthday": "1956-07-04",
+    "ip": "3.137.137.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Watch easy draw both. Build worker change street. Clearly project let near large measure. Enjoy actually inside table possible street page.",
+        "bio": "Movement one size difference easy office enter.\nSmall sea small wife save gas truth subject. Paper clearly plan front want conference pressure."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

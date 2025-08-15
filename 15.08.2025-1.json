@@ -1,0 +1,25 @@
+{
+    "name": "Karen Pierce",
+    "age": 30,
+    "address": {
+        "street": "Heather Station",
+        "city": "Shannonchester",
+        "state": "Tennessee",
+        "zip": "96464"
+    },
+    "contact": {
+        "phone": "7403978864",
+        "servicePhone": "800104134"
+    },
+    "birthday": "1995-02-01",
+    "ip": "32.115.246.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Another bring it audience. Sign month store painting boy establish either. Improve hand main know drug good discuss.",
+        "bio": "Spring yeah know myself will message. Worker alone coach manage too measure admit."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Steven Montgomery",
+    "age": 36,
+    "address": {
+        "street": "Kathleen Port",
+        "city": "Lake Joseph",
+        "state": "New Hampshire",
+        "zip": "20603"
+    },
+    "contact": {
+        "phone": "001-580-698-4509x6699",
+        "servicePhone": "800980487"
+    },
+    "birthday": "1989-16-08",
+    "ip": "100.204.47.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Cause production audience around group kid music. Agency effect describe official right truth rule.\nSit even throw message. Support fine huge structure even factor catch.",
+        "bio": "Nothing fear light reflect race discuss. Others fill from phone whether nothing blood."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

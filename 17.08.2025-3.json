@@ -1,0 +1,25 @@
+{
+    "name": "Amy Terry",
+    "age": 104,
+    "address": {
+        "street": "Zachary Stream",
+        "city": "North Daniel",
+        "state": "Louisiana",
+        "zip": "98779"
+    },
+    "contact": {
+        "phone": "001-806-254-7279",
+        "servicePhone": "800187660"
+    },
+    "birthday": "1921-17-11",
+    "ip": "163.187.199.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter affect prevent mission side. History different city fall. Yet hold ahead goal study.\nWhether statement college either. Speech coach financial.",
+        "bio": "Believe quite network candidate write popular. Region big standard pressure rather senior any main. Notice spring set government charge.\nOut foreign few become particularly. Child pay property."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}

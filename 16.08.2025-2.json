@@ -1,0 +1,25 @@
+{
+    "name": "Megan Michael",
+    "age": 33,
+    "address": {
+        "street": "Nixon Turnpike",
+        "city": "Rhondastad",
+        "state": "West Virginia",
+        "zip": "44067"
+    },
+    "contact": {
+        "phone": "(481)834-2504",
+        "servicePhone": "800856059"
+    },
+    "birthday": "1992-21-03",
+    "ip": "74.82.71.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Standard common quality business city. Fill edge we contain price visit chair.\nMission somebody herself job think wide. Home avoid attorney fight prepare idea science.",
+        "bio": "Operation center physical yet success that accept. Necessary win want space something sing maintain. Serious media trial now bill. Account treatment recent federal mention hope meeting."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}

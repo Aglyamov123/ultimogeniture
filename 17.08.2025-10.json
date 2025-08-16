@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Parks",
+    "age": 99,
+    "address": {
+        "street": "Tristan Cliffs",
+        "city": "East Heather",
+        "state": "Wisconsin",
+        "zip": "41467"
+    },
+    "contact": {
+        "phone": "812-493-5487x080",
+        "servicePhone": "800602823"
+    },
+    "birthday": "1926-09-10",
+    "ip": "194.181.169.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Buy drop sort son spend they for space. Build rest say nice them main. Sport name debate but goal grow two.\nWorry assume they attack make. Property avoid eight window. Race me from deal write.",
+        "bio": "Trouble note light eight participant production. Management large effort government.\nThrow artist show single production. Manage surface song. Nearly must today thing foreign way."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

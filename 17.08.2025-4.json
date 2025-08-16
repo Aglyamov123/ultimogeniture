@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Harris",
+    "age": 65,
+    "address": {
+        "street": "Bethany River",
+        "city": "East Lindaport",
+        "state": "Rhode Island",
+        "zip": "93564"
+    },
+    "contact": {
+        "phone": "4887561719",
+        "servicePhone": "800302056"
+    },
+    "birthday": "1960-10-06",
+    "ip": "17.64.15.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Blue phone around way heavy very. Pick arm stock start after. Good mission step rule region.",
+        "bio": "Feel anything pretty simply crime compare example. There sort shake culture.\nUs success exist film upon very. One conference hundred sport. Lawyer current expect."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}

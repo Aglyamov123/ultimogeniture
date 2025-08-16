@@ -1,0 +1,25 @@
+{
+    "name": "Vanessa Liu",
+    "age": 33,
+    "address": {
+        "street": "Hall Tunnel",
+        "city": "New Tiffany",
+        "state": "Hawaii",
+        "zip": "57649"
+    },
+    "contact": {
+        "phone": "519-511-8884",
+        "servicePhone": "800812038"
+    },
+    "birthday": "1992-18-10",
+    "ip": "101.115.211.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Hand operation family. Summer country before simple front financial major. Me friend already manager quality.",
+        "bio": "Us kind important quickly apply charge including. Clearly under white issue age exist. Piece organization popular stage reality."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}

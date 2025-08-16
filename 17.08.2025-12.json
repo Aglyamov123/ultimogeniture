@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Gray",
+    "age": 22,
+    "address": {
+        "street": "Escobar Path",
+        "city": "Lake Jeremyland",
+        "state": "Delaware",
+        "zip": "36903"
+    },
+    "contact": {
+        "phone": "001-221-807-5437",
+        "servicePhone": "800252659"
+    },
+    "birthday": "2003-07-08",
+    "ip": "209.170.212.89",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually some election business you under chair cultural. Board else evening despite.\nUpon blue activity top.\nFriend war suddenly save mission. Use continue foot writer produce look.",
+        "bio": "Simply make week city specific leg control. Already whom purpose very.\nHappen world market carry per real get. Draw project election coach culture. Meeting where body evidence."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

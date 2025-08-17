@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Rose",
+    "age": 100,
+    "address": {
+        "street": "Young Fort",
+        "city": "West Johnton",
+        "state": "Alaska",
+        "zip": "73192"
+    },
+    "contact": {
+        "phone": "695-245-0848",
+        "servicePhone": "800700111"
+    },
+    "birthday": "1925-22-10",
+    "ip": "180.121.18.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Because choice structure much maintain approach. Professor almost western reduce city actually age. Reflect year term yeah many.\nCourt say group tonight establish. Former appear you report miss.",
+        "bio": "Consumer little successful any town board them. Shake political west throughout item save.\nGuess still billion my. Bad pretty security evidence. Minute they project drug."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}

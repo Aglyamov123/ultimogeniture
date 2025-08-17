@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Horne",
+    "age": 43,
+    "address": {
+        "street": "Bailey Points",
+        "city": "Donaldfurt",
+        "state": "Texas",
+        "zip": "39398"
+    },
+    "contact": {
+        "phone": "(828)279-3935x990",
+        "servicePhone": "800524468"
+    },
+    "birthday": "1982-09-02",
+    "ip": "168.86.123.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Score behavior away feel civil. Whatever accept fast. Up window study herself lose whom billion character. Professor accept end three consider wall.",
+        "bio": "Democrat mother describe executive happy take best. Buy executive scene newspaper above. Group no middle four trouble less could care."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

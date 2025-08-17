@@ -1,0 +1,25 @@
+{
+    "name": "Shane Larson",
+    "age": 58,
+    "address": {
+        "street": "Kevin Points",
+        "city": "Christinefurt",
+        "state": "Wisconsin",
+        "zip": "94384"
+    },
+    "contact": {
+        "phone": "819-984-1630",
+        "servicePhone": "800781898"
+    },
+    "birthday": "1967-28-09",
+    "ip": "115.67.188.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening third budget total allow free free difference. Have deal area create time police you. Discuss ability white let somebody.",
+        "bio": "Though city south. Discussion form officer side power take."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}

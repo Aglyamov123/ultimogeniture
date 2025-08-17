@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Delgado",
+    "age": 84,
+    "address": {
+        "street": "Jane Centers",
+        "city": "Hurstchester",
+        "state": "Pennsylvania",
+        "zip": "61335"
+    },
+    "contact": {
+        "phone": "706-820-7538x79637",
+        "servicePhone": "800564432"
+    },
+    "birthday": "1941-18-01",
+    "ip": "39.27.106.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Scientist window threat indeed. Speech by open role last senior big tough.\nAcross customer right father. A writer place generation example. Institution kid tough final.",
+        "bio": "Space site kid government. Talk region no director meet involve place. Glass drive peace particularly decision environment run newspaper."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

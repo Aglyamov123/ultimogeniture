@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Williams",
+    "age": 110,
+    "address": {
+        "street": "Stephanie Street",
+        "city": "West Katrinamouth",
+        "state": "Virginia",
+        "zip": "37367"
+    },
+    "contact": {
+        "phone": "(722)313-5084x20576",
+        "servicePhone": "800070247"
+    },
+    "birthday": "1915-27-06",
+    "ip": "42.115.1.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing among school reality company avoid.\nSet certain career past room last capital.\nProduction whose reduce join someone collection hit.",
+        "bio": "Suddenly become life change east prevent everything. Sister concern it land free onto to.\nGet friend trip year. Write hand great actually believe situation. Them worry commercial relate lay."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

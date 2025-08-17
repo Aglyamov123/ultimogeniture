@@ -1,0 +1,25 @@
+{
+    "name": "Scott White",
+    "age": 58,
+    "address": {
+        "street": "Anderson Lodge",
+        "city": "Wandafurt",
+        "state": "Kansas",
+        "zip": "97426"
+    },
+    "contact": {
+        "phone": "001-639-996-4657x67445",
+        "servicePhone": "800834505"
+    },
+    "birthday": "1967-26-10",
+    "ip": "17.36.32.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Success way wrong expert can student fact. Box wish agent personal program activity my.",
+        "bio": "Style space present. Sea physical large agree. Mother large want successful."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}

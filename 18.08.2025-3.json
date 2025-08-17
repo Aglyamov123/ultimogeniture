@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Suarez",
+    "age": 57,
+    "address": {
+        "street": "Hayes Villages",
+        "city": "Danielbury",
+        "state": "Iowa",
+        "zip": "60020"
+    },
+    "contact": {
+        "phone": "446.903.9707x25699",
+        "servicePhone": "800843947"
+    },
+    "birthday": "1968-12-10",
+    "ip": "91.115.174.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Final single population standard still. Article sell need far world actually.\nCommercial car before cause should society.",
+        "bio": "Call walk thousand rich line. Six baby war evening guy response.\nAsk culture per senior common. Movement well safe ever magazine size."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

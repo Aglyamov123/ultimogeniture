@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Jones",
+    "age": 83,
+    "address": {
+        "street": "Lisa Course",
+        "city": "Mcfarlandton",
+        "state": "Alabama",
+        "zip": "85747"
+    },
+    "contact": {
+        "phone": "742.269.3631x05135",
+        "servicePhone": "800505445"
+    },
+    "birthday": "1942-06-11",
+    "ip": "179.255.75.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Look individual back quality human care answer pass. Range measure relationship chance huge these.\nAttorney ahead quality detail bring soon. Whatever number right born.",
+        "bio": "You dinner run view. Region study key together system house history.\nShoulder consider natural boy. Attorney training else wall. Prepare science north business skin majority along during."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}

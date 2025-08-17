@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Tapia",
+    "age": 12,
+    "address": {
+        "street": "Alejandro Trace",
+        "city": "South Johnnyport",
+        "state": "Oregon",
+        "zip": "50687"
+    },
+    "contact": {
+        "phone": "535.633.1169x2452",
+        "servicePhone": "800578931"
+    },
+    "birthday": "2013-11-01",
+    "ip": "221.174.18.212",
+    "foo": "bar",
+    "profile": {
+        "about": "President should save mention be.\nMany almost painting. Hard magazine above former wear condition environmental. Factor western lawyer figure.",
+        "bio": "All little oil take specific seek. Before beautiful grow window away indicate next. Firm key away guy whom.\nSchool page maybe simply attorney."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}

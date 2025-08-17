@@ -1,0 +1,25 @@
+{
+    "name": "Jason Edwards",
+    "age": 10,
+    "address": {
+        "street": "Davis Garden",
+        "city": "West Lisamouth",
+        "state": "South Carolina",
+        "zip": "82398"
+    },
+    "contact": {
+        "phone": "(678)664-7425",
+        "servicePhone": "800666656"
+    },
+    "birthday": "2015-20-08",
+    "ip": "176.164.152.14",
+    "foo": "bar",
+    "profile": {
+        "about": "First level happen model. Stay matter report college it step fish.\nReport gas indicate stock paper environmental decade defense. Instead mouth person that partner Mr. I not once it leg so million.",
+        "bio": "Feeling bring truth phone film college. Fly fill out hot loss. Get shake prepare inside.\nPhysical technology eat right behavior born. Sometimes level mind seem bad recognize we."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

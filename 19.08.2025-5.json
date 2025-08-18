@@ -1,0 +1,25 @@
+{
+    "name": "Bernard Adams",
+    "age": 12,
+    "address": {
+        "street": "Carlson Island",
+        "city": "Paigeberg",
+        "state": "Arkansas",
+        "zip": "79600"
+    },
+    "contact": {
+        "phone": "375-370-9613x611",
+        "servicePhone": "800006989"
+    },
+    "birthday": "2013-21-07",
+    "ip": "93.90.119.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Receive hotel debate whatever rather military stand. Night add one throw outside support. Will standard major news city term.",
+        "bio": "Instead treat crime organization example. Yard poor reality. Single hear citizen pressure phone detail.\nProduce protect partner magazine may. Involve set really later. Bring modern bad plan behind."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}

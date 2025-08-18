@@ -1,0 +1,25 @@
+{
+    "name": "Mark Roberts",
+    "age": 39,
+    "address": {
+        "street": "Guerrero Overpass",
+        "city": "Michaelville",
+        "state": "Wyoming",
+        "zip": "85200"
+    },
+    "contact": {
+        "phone": "(595)311-7952x9136",
+        "servicePhone": "800996862"
+    },
+    "birthday": "1986-17-03",
+    "ip": "165.32.70.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Among prevent information Republican suggest among sometimes. Hotel our data win news. Role realize this help born at.",
+        "bio": "Me nothing you from seem film doctor bit. Side begin popular better item wear.\nSouth else suddenly door. Economy get begin."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}

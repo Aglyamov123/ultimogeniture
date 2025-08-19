@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Acevedo",
+    "age": 91,
+    "address": {
+        "street": "Martin Dale",
+        "city": "Longview",
+        "state": "Oregon",
+        "zip": "70013"
+    },
+    "contact": {
+        "phone": "980.500.0730x371",
+        "servicePhone": "800395707"
+    },
+    "birthday": "1934-20-04",
+    "ip": "219.31.199.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Carry check coach standard clearly charge fact. Meeting stuff drug product happy.\nRead while heavy short down.\nMove positive go thing production race growth.",
+        "bio": "Staff finish eight. Suddenly ten building prove most year.\nRadio against protect know position. Dinner fund age grow house happen say."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}

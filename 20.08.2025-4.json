@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Paul DDS",
+    "age": 98,
+    "address": {
+        "street": "Kyle Field",
+        "city": "Laratown",
+        "state": "Vermont",
+        "zip": "10616"
+    },
+    "contact": {
+        "phone": "001-910-562-6426x84327",
+        "servicePhone": "800460241"
+    },
+    "birthday": "1927-12-10",
+    "ip": "110.169.188.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave gun trip section. Here turn ahead light feel job. Cut pretty direction week television.\nPm month safe expert over. According international book Congress.",
+        "bio": "Gas present wrong act western. System later beyond treat large should day. Anything small fly board.\nStart enter benefit. South tell traditional catch author ready role that."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

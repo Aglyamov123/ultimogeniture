@@ -1,0 +1,25 @@
+{
+    "name": "Henry Lang",
+    "age": 47,
+    "address": {
+        "street": "James View",
+        "city": "Port Lauren",
+        "state": "Alaska",
+        "zip": "86220"
+    },
+    "contact": {
+        "phone": "(925)961-3390",
+        "servicePhone": "800554341"
+    },
+    "birthday": "1978-12-11",
+    "ip": "170.246.21.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Theory manage fill pull sport century. Design resource prevent nearly always direction affect.\nThree reality music relate end. Seem movement national whole.",
+        "bio": "Which about glass back letter unit society. Go individual generation you chair.\nTwo instead future follow name. Second matter prepare study.\nDay ago these truth military."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}

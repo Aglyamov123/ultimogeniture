@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Thomas",
+    "age": 77,
+    "address": {
+        "street": "Ross Lock",
+        "city": "Clarkhaven",
+        "state": "Colorado",
+        "zip": "63954"
+    },
+    "contact": {
+        "phone": "965.774.6426x627",
+        "servicePhone": "800840980"
+    },
+    "birthday": "1948-19-06",
+    "ip": "158.134.121.130",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle drop instead market condition understand two. Color magazine former just in interesting world great. Top present performance west little.",
+        "bio": "Stand allow approach. Music culture whole everyone. Water capital on cultural less pay activity.\nParent behind her role production south when body. Charge live get statement friend involve kid."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}

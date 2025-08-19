@@ -1,0 +1,25 @@
+{
+    "name": "Steven Sweeney",
+    "age": 21,
+    "address": {
+        "street": "Morris Lodge",
+        "city": "Thompsonport",
+        "state": "Oregon",
+        "zip": "16477"
+    },
+    "contact": {
+        "phone": "+1-601-511-8054x2953",
+        "servicePhone": "800601832"
+    },
+    "birthday": "2004-02-08",
+    "ip": "118.69.110.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Party line somebody project attack series.\nAvoid meet trip meeting. Assume politics tree protect tree now.\nTown much goal total. Her fund again many present.",
+        "bio": "Already image business price.\nPolitics her out throw when only generation. Represent institution now set own. Face hear message try."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}

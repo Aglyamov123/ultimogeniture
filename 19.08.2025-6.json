@@ -1,0 +1,25 @@
+{
+    "name": "Anna Hall",
+    "age": 74,
+    "address": {
+        "street": "Rose Ranch",
+        "city": "Royfurt",
+        "state": "North Dakota",
+        "zip": "25933"
+    },
+    "contact": {
+        "phone": "+1-803-809-1649x96185",
+        "servicePhone": "800545696"
+    },
+    "birthday": "1951-14-01",
+    "ip": "66.95.190.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Line figure start prove name. Agent always game range might source leave.\nMaybe choice theory little herself threat. Unit challenge interesting staff get public week.",
+        "bio": "Central career sure. Degree board wish recent. Least all maybe sign now sing.\nArm now soldier plan. Movie recognize toward American while.\nDrug test fall sign. Son figure tonight miss."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}

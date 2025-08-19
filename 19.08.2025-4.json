@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Wood",
+    "age": 104,
+    "address": {
+        "street": "Candice Streets",
+        "city": "North Samantha",
+        "state": "Connecticut",
+        "zip": "02513"
+    },
+    "contact": {
+        "phone": "(988)439-0231x926",
+        "servicePhone": "800436915"
+    },
+    "birthday": "1921-16-08",
+    "ip": "80.246.126.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Sell water artist sometimes. Save administration mission make they pattern. Couple purpose various police perhaps ability any.\nSix start teach eye offer. Improve cover article how try technology far.",
+        "bio": "Court thing my their skill by. Development lead two protect memory meeting next. Would put development class candidate left."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

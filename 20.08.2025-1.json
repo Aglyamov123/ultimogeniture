@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Moore",
+    "age": 109,
+    "address": {
+        "street": "Lam Street",
+        "city": "Craigmouth",
+        "state": "Arizona",
+        "zip": "34080"
+    },
+    "contact": {
+        "phone": "001-296-838-2246x5402",
+        "servicePhone": "800999391"
+    },
+    "birthday": "1916-29-03",
+    "ip": "176.55.161.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Organization drive save six TV good rise. Catch institution benefit kid green wonder control. High theory leader simple tax best. Accept structure tax design entire require race.",
+        "bio": "Pressure student month put choice appear month. Range game economy another. Table likely nation become say. Government charge civil TV they role understand."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Bishop",
+    "age": 83,
+    "address": {
+        "street": "Robert Dale",
+        "city": "Lake Carlos",
+        "state": "Virginia",
+        "zip": "58038"
+    },
+    "contact": {
+        "phone": "756-435-2035",
+        "servicePhone": "800126466"
+    },
+    "birthday": "1942-03-03",
+    "ip": "198.153.76.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Many air start safe body. Save reflect research enter.\nPlace find order traditional do. Fish price still PM industry create.",
+        "bio": "Tree late second result return real. Goal nature receive write evening. Trade establish concern have organization worry support."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

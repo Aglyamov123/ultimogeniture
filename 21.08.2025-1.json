@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Mcclain",
+    "age": 101,
+    "address": {
+        "street": "Patterson Run",
+        "city": "West Michaelberg",
+        "state": "Alabama",
+        "zip": "58092"
+    },
+    "contact": {
+        "phone": "+1-616-453-6146x845",
+        "servicePhone": "800226661"
+    },
+    "birthday": "1924-08-01",
+    "ip": "84.165.46.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Seek outside why between. Check husband piece worker carry rock. Modern since cost will father sign source.",
+        "bio": "Administration both wonder sing assume. Will fish energy hear.\nSkill girl strong true write never sing television. Drop assume act senior. May throughout say including."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}

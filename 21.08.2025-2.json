@@ -1,0 +1,25 @@
+{
+    "name": "Sherri Phillips",
+    "age": 81,
+    "address": {
+        "street": "Cindy Forest",
+        "city": "Snyderberg",
+        "state": "Montana",
+        "zip": "47745"
+    },
+    "contact": {
+        "phone": "(892)799-0139",
+        "servicePhone": "800503895"
+    },
+    "birthday": "1944-13-06",
+    "ip": "204.187.237.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Career alone by involve image cut. Poor forward enjoy check play public. Green admit across home good hotel.\nWish project statement hope. Look mouth born agree raise strong.",
+        "bio": "News bill accept never push industry join. Within seat data some organization mouth. Beyond short know blood significant film social themselves."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Laura Roman",
+    "age": 103,
+    "address": {
+        "street": "Nelson Corner",
+        "city": "Joshuaton",
+        "state": "Kentucky",
+        "zip": "26504"
+    },
+    "contact": {
+        "phone": "585-559-0363x1095",
+        "servicePhone": "800691705"
+    },
+    "birthday": "1922-19-02",
+    "ip": "128.243.9.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Value security him. Audience provide office because brother business. Money three interesting necessary impact would.",
+        "bio": "Staff win themselves lawyer organization quality member. Hope benefit participant loss class campaign. Might control one after feel general build."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "James Harrison",
+    "age": 55,
+    "address": {
+        "street": "Peter Springs",
+        "city": "Suzanneside",
+        "state": "Michigan",
+        "zip": "65976"
+    },
+    "contact": {
+        "phone": "(223)256-0341x095",
+        "servicePhone": "800648108"
+    },
+    "birthday": "1970-06-02",
+    "ip": "45.62.68.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Stage doctor model place music friend money. Kind identify have play success wear.\nPeace perform must news. Night evidence value hour letter and different. Heavy special center country.",
+        "bio": "You information avoid successful. Red structure wall whether enter option.\nBenefit use research realize vote structure throughout player. Require meet do difference along action they."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "David Brown",
+    "age": 60,
+    "address": {
+        "street": "Hunter Union",
+        "city": "Caseyville",
+        "state": "West Virginia",
+        "zip": "53992"
+    },
+    "contact": {
+        "phone": "858-969-0937",
+        "servicePhone": "800477444"
+    },
+    "birthday": "1965-04-11",
+    "ip": "208.254.84.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally back summer traditional. Run few century policy carry have quite listen. Bit project wish week keep seven area hundred.",
+        "bio": "Word prevent important. Machine politics add economy. Charge these easy never and identify security again."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}

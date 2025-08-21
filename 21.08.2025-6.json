@@ -1,0 +1,25 @@
+{
+    "name": "Travis Robinson",
+    "age": 23,
+    "address": {
+        "street": "Graham Extensions",
+        "city": "South Jessicamouth",
+        "state": "Washington",
+        "zip": "39308"
+    },
+    "contact": {
+        "phone": "292-852-1075x578",
+        "servicePhone": "800716429"
+    },
+    "birthday": "2002-24-10",
+    "ip": "43.144.30.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Response outside certainly stay. Future itself south similar. Office house job memory.\nFederal morning himself both assume can simple. Truth item car in though. Skill spring large occur.",
+        "bio": "Throughout actually process. Medical direction this reduce various speech to.\nEconomy interview long three. Service energy tax action kitchen back sign. Reality situation letter case."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

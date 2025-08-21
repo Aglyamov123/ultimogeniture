@@ -1,0 +1,25 @@
+{
+    "name": "William Leonard",
+    "age": 39,
+    "address": {
+        "street": "Moon Trail",
+        "city": "North Mark",
+        "state": "Mississippi",
+        "zip": "88924"
+    },
+    "contact": {
+        "phone": "+1-768-427-4536x536",
+        "servicePhone": "800460881"
+    },
+    "birthday": "1986-30-08",
+    "ip": "138.58.210.77",
+    "foo": "bar",
+    "profile": {
+        "about": "Go something best learn. Whom new relationship find firm need. Reality level recently family experience arm what cost.",
+        "bio": "Hold even anything sell happy.\nSeat ok and deal star hit."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Byrd",
+    "age": 101,
+    "address": {
+        "street": "Ford Walk",
+        "city": "West Nichole",
+        "state": "Kansas",
+        "zip": "04913"
+    },
+    "contact": {
+        "phone": "8675141325",
+        "servicePhone": "800543135"
+    },
+    "birthday": "1924-22-09",
+    "ip": "179.126.50.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Rise strategy activity military economic herself. Red themselves drive push writer start special.",
+        "bio": "Star allow woman where ten receive focus effect. Ground service successful fire perform.\nHis daughter fall order seven agree home. Institution benefit positive affect send radio discuss region."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

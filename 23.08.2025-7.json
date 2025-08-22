@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Smith",
+    "age": 17,
+    "address": {
+        "street": "Caleb Mission",
+        "city": "New Roberthaven",
+        "state": "Nevada",
+        "zip": "07741"
+    },
+    "contact": {
+        "phone": "+1-667-278-4556x68593",
+        "servicePhone": "800633273"
+    },
+    "birthday": "2008-31-10",
+    "ip": "60.185.105.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Will possible and box all sea. Activity nearly suddenly challenge community. May those kitchen hear.\nThrow its total.",
+        "bio": "Picture take continue easy south. Single ok probably important."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}

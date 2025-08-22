@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Brennan",
+    "age": 114,
+    "address": {
+        "street": "Kimberly Fords",
+        "city": "Lake Shanehaven",
+        "state": "Rhode Island",
+        "zip": "01056"
+    },
+    "contact": {
+        "phone": "+1-312-759-2027x1213",
+        "servicePhone": "800334201"
+    },
+    "birthday": "1911-08-06",
+    "ip": "186.149.159.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Most your too apply image themselves. Rest manager wear reach. Story leader third bill.\nMarket tough practice player. Once century into share attack.",
+        "bio": "Chance population figure address power. Whole month central president mouth himself. And yard son become record."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Brown",
+    "age": 104,
+    "address": {
+        "street": "Sylvia Lights",
+        "city": "Lake Josephfort",
+        "state": "New Jersey",
+        "zip": "48490"
+    },
+    "contact": {
+        "phone": "947.680.7584",
+        "servicePhone": "800011994"
+    },
+    "birthday": "1921-05-08",
+    "ip": "154.222.218.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Example lay law pass five figure. Use hope so man subject address they.\nInside director future easy.\nOfficial some force prevent. Contain institution action.\nCompare perform state attack data him.",
+        "bio": "Machine sort green and run as nature.\nNatural may reveal require it. Ask series with rather leg unit. Question instead very treatment wear car."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

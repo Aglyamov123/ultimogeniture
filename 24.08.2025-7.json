@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Johnson",
+    "age": 32,
+    "address": {
+        "street": "Tiffany Landing",
+        "city": "Port Laurieside",
+        "state": "Indiana",
+        "zip": "50307"
+    },
+    "contact": {
+        "phone": "381.406.4000x56552",
+        "servicePhone": "800392517"
+    },
+    "birthday": "1993-17-03",
+    "ip": "23.71.204.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Feeling serve mouth sing. Recognize design she network watch. Often police low. Yard feeling fly above interesting always would.",
+        "bio": "Compare look nature who those.\nMovie movie red space understand. Break wrong recently property over ago think. Public street act become before school trip their."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}

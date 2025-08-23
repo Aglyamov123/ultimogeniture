@@ -1,0 +1,25 @@
+{
+    "name": "Dominic Patterson",
+    "age": 42,
+    "address": {
+        "street": "Brown Green",
+        "city": "Jacksonburgh",
+        "state": "Arkansas",
+        "zip": "77686"
+    },
+    "contact": {
+        "phone": "6766537879",
+        "servicePhone": "800773640"
+    },
+    "birthday": "1983-06-11",
+    "ip": "44.231.246.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Wrong live may shoulder budget. Party machine charge type. Be finish big seven star. Parent region now future generation.",
+        "bio": "Executive play well treatment record picture. Environmental defense evidence easy. Only table now black.\nGet glass enter office ever wind pattern door."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}

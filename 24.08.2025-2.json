@@ -1,0 +1,25 @@
+{
+    "name": "Theresa Miller",
+    "age": 63,
+    "address": {
+        "street": "Daniel Coves",
+        "city": "South Kathrynbury",
+        "state": "Nevada",
+        "zip": "31246"
+    },
+    "contact": {
+        "phone": "426.655.5938x658",
+        "servicePhone": "800465257"
+    },
+    "birthday": "1962-17-05",
+    "ip": "89.10.6.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean teach yard window move individual. Give fly treatment interview.\nFill seven member even describe term yes employee. City region ever despite.",
+        "bio": "Sometimes production success soldier approach already. Particularly another scientist stand.\nPolitics everything road likely. Scientist information shoulder office water purpose leg."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

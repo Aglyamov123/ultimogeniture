@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Ware",
+    "age": 112,
+    "address": {
+        "street": "Garcia Junction",
+        "city": "Dianaton",
+        "state": "Alaska",
+        "zip": "11031"
+    },
+    "contact": {
+        "phone": "001-692-228-7769",
+        "servicePhone": "800081374"
+    },
+    "birthday": "1913-22-02",
+    "ip": "49.132.215.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Art suggest business for find. Mention yet feeling should. Always history everybody start data law Congress. Pattern play eat hear.",
+        "bio": "No position meet two take other. Boy may require both everyone girl mouth town. Commercial shoulder rate truth.\nTown send situation term image develop theory. Behind item evening law behavior."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}

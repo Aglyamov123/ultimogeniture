@@ -1,0 +1,25 @@
+{
+    "name": "Amber Velazquez",
+    "age": 12,
+    "address": {
+        "street": "Sara Dale",
+        "city": "Lake Jose",
+        "state": "Rhode Island",
+        "zip": "04702"
+    },
+    "contact": {
+        "phone": "379.369.3287",
+        "servicePhone": "800594070"
+    },
+    "birthday": "2013-31-10",
+    "ip": "147.54.224.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Medical theory section factor yes soldier word performance. Question cost laugh often hair year.\nCall condition life maybe his.",
+        "bio": "Clear for happy cell pull. Current news fill certain modern child subject focus. Investment cost bring deep.\nWhatever wide often soon. I crime light expert. Pay front return."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}

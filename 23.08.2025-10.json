@@ -1,0 +1,25 @@
+{
+    "name": "Scott Meza",
+    "age": 87,
+    "address": {
+        "street": "Smith Meadows",
+        "city": "North Mary",
+        "state": "Connecticut",
+        "zip": "96596"
+    },
+    "contact": {
+        "phone": "786.987.2284x05961",
+        "servicePhone": "800081955"
+    },
+    "birthday": "1938-12-05",
+    "ip": "81.162.92.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Chance thousand western central. Shake TV whom.\nWithin response green example oil ask piece social. Environment find lead space particularly bag high.\nGovernment good cover weight.",
+        "bio": "Hot for perhaps tonight our. Appear chance section scientist data.\nMyself shoulder tax according future place. Up in recognize create carry interview. Friend particular product service current blue."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}

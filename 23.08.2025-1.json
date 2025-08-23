@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Jordan",
+    "age": 98,
+    "address": {
+        "street": "Jessica Village",
+        "city": "Lake Kristina",
+        "state": "Rhode Island",
+        "zip": "13446"
+    },
+    "contact": {
+        "phone": "381.869.7883",
+        "servicePhone": "800906842"
+    },
+    "birthday": "1927-13-03",
+    "ip": "188.49.35.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Back appear high represent free.\nOver see fire gas effort. Yet mission hard weight drive hold manager recently. Manager democratic born whom.",
+        "bio": "Require learn adult through picture page push. Theory next idea tough sure some. Computer discussion question for win prove case."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}

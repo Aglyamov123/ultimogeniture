@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Macias",
+    "age": 31,
+    "address": {
+        "street": "Ryan Crescent",
+        "city": "Lake Sherryshire",
+        "state": "Arizona",
+        "zip": "58503"
+    },
+    "contact": {
+        "phone": "(874)607-8198",
+        "servicePhone": "800724314"
+    },
+    "birthday": "1994-17-02",
+    "ip": "216.137.47.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Should kitchen hear production sit heart help. Visit usually region might. Necessary nation physical doctor.\nTogether third itself increase stand. Lawyer major share allow manage tough.",
+        "bio": "Land information chair reduce play test. Idea consumer hit admit. Allow give candidate food another event.\nFood economic whom argue. True age collection establish."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

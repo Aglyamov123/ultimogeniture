@@ -1,0 +1,25 @@
+{
+    "name": "Robert Espinoza",
+    "age": 68,
+    "address": {
+        "street": "Strong Cape",
+        "city": "Harrisonmouth",
+        "state": "Maine",
+        "zip": "36734"
+    },
+    "contact": {
+        "phone": "206.974.2519",
+        "servicePhone": "800940370"
+    },
+    "birthday": "1957-05-08",
+    "ip": "51.74.130.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate simple way which thank indicate. Yet score common painting phone local.\nRaise task should cup apply price. With gun movie own least.\nOwner hold try mother field in total.",
+        "bio": "Safe agent start his partner theory serve. Work order culture interest sure."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}

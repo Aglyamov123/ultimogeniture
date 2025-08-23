@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Walker",
+    "age": 60,
+    "address": {
+        "street": "Joshua Squares",
+        "city": "Nathanielshire",
+        "state": "Utah",
+        "zip": "71536"
+    },
+    "contact": {
+        "phone": "001-590-814-2252x847",
+        "servicePhone": "800383261"
+    },
+    "birthday": "1965-12-06",
+    "ip": "137.198.140.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional responsibility good sea include next case maybe. Commercial officer on visit. Good magazine movie education allow put note.",
+        "bio": "Air computer close before later. Member close man suddenly plant watch. Beyond service color smile sit true everybody."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}

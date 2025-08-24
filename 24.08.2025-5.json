@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Russell",
+    "age": 93,
+    "address": {
+        "street": "Madison Islands",
+        "city": "Georgetown",
+        "state": "Missouri",
+        "zip": "61160"
+    },
+    "contact": {
+        "phone": "509.972.8682",
+        "servicePhone": "800753342"
+    },
+    "birthday": "1932-10-03",
+    "ip": "40.96.147.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Season bar send operation its. Worker price become. Hold mind edge one glass house.\nTrade teach always value better soldier sure. Training growth century size.",
+        "bio": "Certainly quickly fact bill. Around suffer value agency. Region summer money other.\nVarious third physical meeting include simple. Room event guess part."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Mccarthy",
+    "age": 20,
+    "address": {
+        "street": "Dudley Lodge",
+        "city": "New Johnview",
+        "state": "New York",
+        "zip": "10922"
+    },
+    "contact": {
+        "phone": "665-556-3590x5019",
+        "servicePhone": "800255891"
+    },
+    "birthday": "2005-11-02",
+    "ip": "162.134.75.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement group letter everybody place use put. Address day mission rather agency tonight employee force. Fear benefit TV here.",
+        "bio": "Box join party local.\nPlay church magazine pattern break special. Way trial not wear produce five language."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}

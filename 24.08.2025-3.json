@@ -1,0 +1,25 @@
+{
+    "name": "Steven Cameron",
+    "age": 75,
+    "address": {
+        "street": "Cherry Rue",
+        "city": "North Lindastad",
+        "state": "Florida",
+        "zip": "82462"
+    },
+    "contact": {
+        "phone": "(212)708-8808x228",
+        "servicePhone": "800493596"
+    },
+    "birthday": "1950-06-05",
+    "ip": "209.186.148.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Building result particular produce threat plant.\nPlayer much could care again enough nothing. Life word ball production drive fill push design.\nWoman me might large.",
+        "bio": "New area up computer why financial during inside. Southern mind eat hot. Guy apply glass type particular attention describe remain. Left prepare growth present fact."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}

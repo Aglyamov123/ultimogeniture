@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Hamilton",
+    "age": 107,
+    "address": {
+        "street": "Ford Land",
+        "city": "New Travis",
+        "state": "Maine",
+        "zip": "85566"
+    },
+    "contact": {
+        "phone": "778-483-3572x8920",
+        "servicePhone": "800912099"
+    },
+    "birthday": "1918-07-09",
+    "ip": "188.164.43.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Provide race investment full generation guess. Assume effort official indeed.",
+        "bio": "All make buy public dark anyone hand. Executive kind among debate.\nShould recognize move value fight. Task skill simple news sit behavior organization. Kitchen eight phone mother want fund maybe."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}

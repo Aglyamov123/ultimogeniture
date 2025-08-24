@@ -1,0 +1,25 @@
+{
+    "name": "Roy Cooper",
+    "age": 102,
+    "address": {
+        "street": "Donna Trail",
+        "city": "Wardshire",
+        "state": "Delaware",
+        "zip": "82318"
+    },
+    "contact": {
+        "phone": "(563)481-0399",
+        "servicePhone": "800421729"
+    },
+    "birthday": "1923-08-02",
+    "ip": "45.197.102.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow structure event worker oil responsibility. Bag company matter street size hotel people. Including clear test until federal.",
+        "bio": "Final war perhaps way. Early appear available dream wind agency research. Travel space executive option. Season market require year church street world."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}

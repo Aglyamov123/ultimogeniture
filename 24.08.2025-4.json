@@ -1,0 +1,25 @@
+{
+    "name": "John Barber",
+    "age": 79,
+    "address": {
+        "street": "Cole Tunnel",
+        "city": "Hernandezville",
+        "state": "Alabama",
+        "zip": "82769"
+    },
+    "contact": {
+        "phone": "001-225-298-4579",
+        "servicePhone": "800409488"
+    },
+    "birthday": "1946-29-10",
+    "ip": "160.74.110.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital future blood pressure. Most yet organization democratic. Ground act president start community.\nMoney agent property accept citizen.",
+        "bio": "Expect wrong space against goal. Education issue before also guess.\nFight bag camera. Choose some major white cultural although. Star fight act check."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "John Baxter",
+    "age": 60,
+    "address": {
+        "street": "Nicole Streets",
+        "city": "New Tara",
+        "state": "Maine",
+        "zip": "47055"
+    },
+    "contact": {
+        "phone": "294-280-8070x683",
+        "servicePhone": "800092978"
+    },
+    "birthday": "1965-05-02",
+    "ip": "93.229.12.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Lot listen close run save way radio. Weight environment raise raise authority. Foreign bag write least factor maintain.",
+        "bio": "Truth there improve. Describe especially alone article. Traditional these American front both question rock."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}

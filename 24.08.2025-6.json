@@ -1,0 +1,25 @@
+{
+    "name": "John Sanchez",
+    "age": 19,
+    "address": {
+        "street": "Austin Shore",
+        "city": "Debbieborough",
+        "state": "Maine",
+        "zip": "84298"
+    },
+    "contact": {
+        "phone": "371.948.5622",
+        "servicePhone": "800063188"
+    },
+    "birthday": "2006-04-11",
+    "ip": "161.129.89.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch list defense word certain another detail.",
+        "bio": "Foot Republican catch yourself it. Study dog both. Skill western race.\nLetter hard type subject growth today behavior. Subject action while public."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}

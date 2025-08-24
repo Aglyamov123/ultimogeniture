@@ -1,0 +1,25 @@
+{
+    "name": "Antonio Roy",
+    "age": 109,
+    "address": {
+        "street": "Roy Cliffs",
+        "city": "Dannyfurt",
+        "state": "Virginia",
+        "zip": "61930"
+    },
+    "contact": {
+        "phone": "954.893.9707",
+        "servicePhone": "800469308"
+    },
+    "birthday": "1916-21-02",
+    "ip": "66.226.16.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Now energy ready. Edge bring writer culture debate across. Point story tax could.\nReceive condition win soldier better special. Attorney clearly live.",
+        "bio": "Human agree bank nature. Turn gun establish size way no.\nPolitics report matter minute give responsibility others war. Mind just teacher establish concern behavior."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

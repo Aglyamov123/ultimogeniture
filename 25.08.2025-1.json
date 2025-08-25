@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Martin",
+    "age": 40,
+    "address": {
+        "street": "Margaret Neck",
+        "city": "Davidchester",
+        "state": "Indiana",
+        "zip": "92707"
+    },
+    "contact": {
+        "phone": "001-923-282-7373",
+        "servicePhone": "800136031"
+    },
+    "birthday": "1985-27-02",
+    "ip": "17.56.206.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting car feel modern machine lay. Direction large much factor particular nice.\nBed nor follow buy myself one significant.",
+        "bio": "Pull probably single concern. Court ball third box machine business know. Something chair population those.\nShort act owner force partner. Their word adult want. Citizen all growth service."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}

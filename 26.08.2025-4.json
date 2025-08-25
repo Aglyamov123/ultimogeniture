@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Bray",
+    "age": 28,
+    "address": {
+        "street": "Samuel Vista",
+        "city": "Santosbury",
+        "state": "Mississippi",
+        "zip": "25428"
+    },
+    "contact": {
+        "phone": "(768)445-8234x13272",
+        "servicePhone": "800471243"
+    },
+    "birthday": "1997-09-04",
+    "ip": "139.143.238.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Theory daughter imagine trade none team. Story prevent change the. Like either thought adult check together.",
+        "bio": "Law he air rich else per race. Next guess through small worker.\nWin think Congress compare lose party. Cause difference well source deal serious agent."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

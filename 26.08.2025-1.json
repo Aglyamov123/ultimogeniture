@@ -1,0 +1,25 @@
+{
+    "name": "Laura Hernandez",
+    "age": 20,
+    "address": {
+        "street": "Cynthia Lake",
+        "city": "West Bretthaven",
+        "state": "Colorado",
+        "zip": "87017"
+    },
+    "contact": {
+        "phone": "838-220-0217",
+        "servicePhone": "800227930"
+    },
+    "birthday": "2005-30-05",
+    "ip": "139.220.142.104",
+    "foo": "bar",
+    "profile": {
+        "about": "View event great good. Involve free soldier inside tough.\nHeart hard smile into. Old major hold national color on wonder bill. Final theory city.",
+        "bio": "Our including series green magazine. Outside among feel assume.\nOccur even conference sound lot right bill inside. Act through technology pick know better again. Sort population next mind bag seat."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}

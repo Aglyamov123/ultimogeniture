@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Mata",
+    "age": 64,
+    "address": {
+        "street": "Clark Square",
+        "city": "Patriciaside",
+        "state": "Iowa",
+        "zip": "81264"
+    },
+    "contact": {
+        "phone": "001-222-215-1458x3955",
+        "servicePhone": "800340506"
+    },
+    "birthday": "1961-10-02",
+    "ip": "112.189.29.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Site sit soon such enough discover activity. Single resource nor budget responsibility upon movement box.\nToo career loss ability though character return.",
+        "bio": "Property standard model. Player material us director miss. Today term seem."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "William Henry",
+    "age": 14,
+    "address": {
+        "street": "Tracie Hills",
+        "city": "North Lisatown",
+        "state": "Nevada",
+        "zip": "64442"
+    },
+    "contact": {
+        "phone": "+1-570-308-0726x1771",
+        "servicePhone": "800855952"
+    },
+    "birthday": "2011-18-05",
+    "ip": "197.28.197.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Job old yet. Imagine alone may provide avoid again. Positive inside artist open either tonight.\nBrother agency include low of answer. Time hard interesting. Expect forget important.",
+        "bio": "Specific later until feel prove. Take hair rather economic nice certainly rich design. Drive reality teacher drop music quickly man.\nSet skill can share doctor."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

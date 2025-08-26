@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Roberts",
+    "age": 98,
+    "address": {
+        "street": "Brooks Gateway",
+        "city": "New Austinland",
+        "state": "New Jersey",
+        "zip": "86306"
+    },
+    "contact": {
+        "phone": "2747406283",
+        "servicePhone": "800216130"
+    },
+    "birthday": "1927-24-11",
+    "ip": "218.19.187.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Law hard candidate condition ok matter walk visit. Eat either relate purpose may. Order look president situation. Low southern about fly.\nDark would go full.",
+        "bio": "Head Congress sing white line. Only important view art. Prevent doctor compare I light task.\nExample difference government put factor."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

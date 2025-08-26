@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Garza",
+    "age": 50,
+    "address": {
+        "street": "Carlos Glens",
+        "city": "Makaylahaven",
+        "state": "Colorado",
+        "zip": "32371"
+    },
+    "contact": {
+        "phone": "+1-289-718-5894x779",
+        "servicePhone": "800923857"
+    },
+    "birthday": "1975-25-06",
+    "ip": "9.82.88.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough growth product understand become. Ok usually cold candidate pretty person. Administration green not pick wonder human under interest.",
+        "bio": "Million step production send camera push. Two discuss community language without give.\nDinner those eat according either.\nBetter phone game trial clear suffer training item."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

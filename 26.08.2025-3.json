@@ -1,0 +1,25 @@
+{
+    "name": "Jeffery Combs Jr.",
+    "age": 43,
+    "address": {
+        "street": "Meza Circles",
+        "city": "Morrisside",
+        "state": "West Virginia",
+        "zip": "87028"
+    },
+    "contact": {
+        "phone": "(743)688-7672",
+        "servicePhone": "800732223"
+    },
+    "birthday": "1982-16-05",
+    "ip": "191.198.182.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave lose tonight concern include. Event bank ever sport little law fly. Couple might performance because already. Listen enjoy onto return recent.",
+        "bio": "Own hard since effect improve. Trip late stage.\nTelevision figure score decade weight. Fire personal reason home. Behind back board. Significant ability most husband you yes usually."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}

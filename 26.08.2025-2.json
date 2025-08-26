@@ -1,0 +1,25 @@
+{
+    "name": "Charles Robinson",
+    "age": 44,
+    "address": {
+        "street": "Turner Summit",
+        "city": "Mclaughlinmouth",
+        "state": "Idaho",
+        "zip": "13097"
+    },
+    "contact": {
+        "phone": "306-954-1738x58073",
+        "servicePhone": "800692640"
+    },
+    "birthday": "1981-12-07",
+    "ip": "201.186.90.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation front piece school indeed. Scientist fill against face.\nPm stay usually industry gun prevent. Believe determine over tell.",
+        "bio": "Student they reduce surface those standard teacher. Law office safe and true free he. Letter anything nearly.\nAllow worry there environmental top character."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}

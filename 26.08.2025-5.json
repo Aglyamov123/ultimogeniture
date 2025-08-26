@@ -1,0 +1,25 @@
+{
+    "name": "Michael Terrell",
+    "age": 95,
+    "address": {
+        "street": "May Port",
+        "city": "Christianview",
+        "state": "New Mexico",
+        "zip": "79872"
+    },
+    "contact": {
+        "phone": "210-315-6725x9611",
+        "servicePhone": "800989761"
+    },
+    "birthday": "1930-01-03",
+    "ip": "216.145.28.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Moment lot unit realize cell. Generation scene through instead. Move might tend subject participant model.\nWhom address before. Must risk drive exactly after best. Off model want wife military.",
+        "bio": "Its individual stock administration someone four management. Staff million health like media standard center.\nFear run hold respond until. Store contain could city six return."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}

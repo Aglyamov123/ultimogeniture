@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Baker",
+    "age": 77,
+    "address": {
+        "street": "Tiffany Fork",
+        "city": "Port Michael",
+        "state": "Louisiana",
+        "zip": "71253"
+    },
+    "contact": {
+        "phone": "001-286-525-8889x4970",
+        "servicePhone": "800805811"
+    },
+    "birthday": "1948-09-04",
+    "ip": "159.43.85.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Bank mother daughter. Material buy personal people notice enough. White yes indicate year source model.",
+        "bio": "Success put phone allow think item same. North prepare let state program.\nInternational thus organization speech record. Address alone city avoid agent another. Card page once look control party."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

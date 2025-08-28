@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Jordan",
+    "age": 42,
+    "address": {
+        "street": "Nelson River",
+        "city": "Theresafort",
+        "state": "Nebraska",
+        "zip": "41378"
+    },
+    "contact": {
+        "phone": "634-664-3558x9742",
+        "servicePhone": "800933488"
+    },
+    "birthday": "1983-11-03",
+    "ip": "93.142.226.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Sell they financial back now speak. Financial approach onto. Cut unit card set.\nHistory find we article put risk office. History you game miss end possible song.",
+        "bio": "Week economic him degree customer role present. Population since six heavy. List cell close."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Amber Wilson",
+    "age": 2,
+    "address": {
+        "street": "Christy Spurs",
+        "city": "South Brianshire",
+        "state": "Michigan",
+        "zip": "80995"
+    },
+    "contact": {
+        "phone": "814-211-6163",
+        "servicePhone": "800153521"
+    },
+    "birthday": "2023-15-05",
+    "ip": "219.133.81.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Value war site. Paper approach black new.\nLow thousand road personal represent people rock. Miss fill first state. Truth staff national speech organization.",
+        "bio": "Protect life factor several weight. Stock place start prevent area plant certainly.\nAsk education should price daughter within option. Those education heavy short growth go."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}

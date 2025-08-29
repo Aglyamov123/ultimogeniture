@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Clarke",
+    "age": 88,
+    "address": {
+        "street": "King Plain",
+        "city": "New Emily",
+        "state": "Maryland",
+        "zip": "03337"
+    },
+    "contact": {
+        "phone": "946-985-1595x733",
+        "servicePhone": "800800382"
+    },
+    "birthday": "1937-04-05",
+    "ip": "49.221.91.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Together three minute. Candidate agree later style. Writer southern draw reality half ground democratic business.\nLevel card respond near individual. Television similar protect lead back.",
+        "bio": "Audience president drop return. Image large source card social.\nLocal role region effect response world. International defense own total side drug. Service inside commercial."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}

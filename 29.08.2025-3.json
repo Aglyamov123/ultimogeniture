@@ -1,0 +1,25 @@
+{
+    "name": "Steve Baker",
+    "age": 112,
+    "address": {
+        "street": "Mark Throughway",
+        "city": "Barnesview",
+        "state": "Idaho",
+        "zip": "47954"
+    },
+    "contact": {
+        "phone": "607-661-8805x050",
+        "servicePhone": "800804267"
+    },
+    "birthday": "1913-13-07",
+    "ip": "219.38.4.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Campaign many beautiful toward local. Color bad huge two usually.\nEconomy these development above per season. Nice condition by customer. Responsibility environmental red peace become scene.",
+        "bio": "Town pressure question sport sign third standard. Answer simply send lose safe. Level know bad thus. Significant laugh hair student."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}

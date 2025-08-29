@@ -1,0 +1,25 @@
+{
+    "name": "Brian Reyes",
+    "age": 60,
+    "address": {
+        "street": "Timothy Mount",
+        "city": "Flowersland",
+        "state": "Massachusetts",
+        "zip": "76447"
+    },
+    "contact": {
+        "phone": "001-947-687-7016x72544",
+        "servicePhone": "800766178"
+    },
+    "birthday": "1965-09-10",
+    "ip": "41.66.21.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart something safe hit size. Wind baby once maybe best democratic when.\nFast age at school natural. Policy peace offer. Same star page lawyer until.",
+        "bio": "Toward serious character race write rock. Model rather girl.\nOf goal build author fish charge fear. Girl protect fly four. Stock upon of other black record road."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

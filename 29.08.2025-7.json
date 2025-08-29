@@ -1,0 +1,25 @@
+{
+    "name": "Laura Ramirez",
+    "age": 101,
+    "address": {
+        "street": "White Circles",
+        "city": "Kathrynshire",
+        "state": "Illinois",
+        "zip": "12325"
+    },
+    "contact": {
+        "phone": "(554)630-1553x7247",
+        "servicePhone": "800944169"
+    },
+    "birthday": "1924-16-08",
+    "ip": "33.49.80.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Great stage identify himself. Movement attention oil between.\nConcern raise eight board. Will claim billion. Subject number cut strategy measure left.",
+        "bio": "Policy wrong home have. Model risk certainly media line society. Start he attention then late.\nHeavy already central might. Along size between herself.\nFast each conference allow avoid hope herself."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}

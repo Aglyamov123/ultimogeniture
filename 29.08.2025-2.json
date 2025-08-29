@@ -1,0 +1,25 @@
+{
+    "name": "Robert Cross",
+    "age": 100,
+    "address": {
+        "street": "Kayla Mill",
+        "city": "South Ericport",
+        "state": "Arkansas",
+        "zip": "58606"
+    },
+    "contact": {
+        "phone": "+1-967-340-1605x300",
+        "servicePhone": "800639615"
+    },
+    "birthday": "1925-06-03",
+    "ip": "163.1.241.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Life wide less everything face Mr carry. None hour school cultural stage as.\nSide what mouth someone room resource. Support wait rule window. Include national bank wife cell result.",
+        "bio": "Hundred culture year sense. Specific kitchen rest data.\nPush to past third degree rate phone. Protect PM war daughter son miss."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}

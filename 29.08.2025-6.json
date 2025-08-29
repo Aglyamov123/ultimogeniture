@@ -1,0 +1,25 @@
+{
+    "name": "Curtis Peterson",
+    "age": 65,
+    "address": {
+        "street": "Patricia Mount",
+        "city": "Beckyburgh",
+        "state": "Alaska",
+        "zip": "75197"
+    },
+    "contact": {
+        "phone": "(781)867-7468",
+        "servicePhone": "800436872"
+    },
+    "birthday": "1960-19-02",
+    "ip": "131.49.160.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Building participant quite yeah skin single. Positive husband occur middle.\nDegree threat market three whatever. Draw create short significant company cup itself.",
+        "bio": "From to next marriage or people manager. Material human forward. Trip gun consider she instead experience fill."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}

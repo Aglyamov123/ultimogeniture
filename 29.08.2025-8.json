@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Preston",
+    "age": 41,
+    "address": {
+        "street": "Cook Extensions",
+        "city": "North Michael",
+        "state": "Delaware",
+        "zip": "00712"
+    },
+    "contact": {
+        "phone": "841-809-7575x019",
+        "servicePhone": "800007043"
+    },
+    "birthday": "1984-21-04",
+    "ip": "186.143.254.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Purpose forward eat recently increase mention represent body. Share dark picture pretty minute dark capital ok. Poor radio score almost where push.\nThus Mr run term these service.",
+        "bio": "Than as easy quality speech. Beautiful build anything floor second.\nRisk television industry gas check land. On certain create issue lose high. Small politics not economy local school."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Laura Sparks",
+    "age": 65,
+    "address": {
+        "street": "Garcia Route",
+        "city": "Tracystad",
+        "state": "Kansas",
+        "zip": "10622"
+    },
+    "contact": {
+        "phone": "6612064511",
+        "servicePhone": "800196715"
+    },
+    "birthday": "1960-24-09",
+    "ip": "167.215.131.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason of soldier baby. Position under check teacher. Weight leave both attention no.\nResponse during until financial strong. Food possible pass career black money notice.",
+        "bio": "Realize morning report. Single home suffer hour be government protect hope. Modern environmental best true cost. Big success threat when campaign."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}

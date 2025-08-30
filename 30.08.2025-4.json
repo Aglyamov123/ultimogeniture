@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Campbell",
+    "age": 64,
+    "address": {
+        "street": "Kevin Harbors",
+        "city": "West Hollybury",
+        "state": "Texas",
+        "zip": "79181"
+    },
+    "contact": {
+        "phone": "+1-480-705-9956",
+        "servicePhone": "800854222"
+    },
+    "birthday": "1961-24-04",
+    "ip": "208.88.1.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity like appear site per. Everybody drop few myself stand letter. Just street low someone. Special investment spend view discuss.",
+        "bio": "Pass personal life author suggest. Discussion truth plan class early specific. Sort friend according computer."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Christy Medina",
+    "age": 75,
+    "address": {
+        "street": "Pope Corner",
+        "city": "Lake Josephhaven",
+        "state": "Nevada",
+        "zip": "25152"
+    },
+    "contact": {
+        "phone": "+1-341-403-1937x511",
+        "servicePhone": "800721394"
+    },
+    "birthday": "1950-01-01",
+    "ip": "107.153.169.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock happen figure.\nNo trip value wait response. Throw box maybe popular add ten. Still nor kitchen red put local.",
+        "bio": "That everyone much this less many. Effect reveal always collection end.\nParty anything sister no. Near region mention product. Will amount source.\nOnto course television. Those what lot."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Lee",
+    "age": 78,
+    "address": {
+        "street": "Andrew Green",
+        "city": "Mcgeeberg",
+        "state": "Wisconsin",
+        "zip": "75692"
+    },
+    "contact": {
+        "phone": "968-398-0169",
+        "servicePhone": "800388617"
+    },
+    "birthday": "1947-26-03",
+    "ip": "12.187.44.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Population feel article can. Lose animal course data country.\nIncrease and here detail poor must others. Option move clearly.",
+        "bio": "Bad fight space people network. Her not have ball machine simple.\nProperty own level from other whose despite. Time once quality peace arrive."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

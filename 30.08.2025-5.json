@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Carroll",
+    "age": 24,
+    "address": {
+        "street": "Jessica Glen",
+        "city": "Port Oliviamouth",
+        "state": "Connecticut",
+        "zip": "66453"
+    },
+    "contact": {
+        "phone": "(223)551-0980",
+        "servicePhone": "800314313"
+    },
+    "birthday": "2001-03-01",
+    "ip": "169.78.253.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Former because detail rather hotel step white. Material drug ever open site exist give try. Recognize piece hot care.",
+        "bio": "Police try size just experience water figure. Production human down hotel machine bill. Miss big to seek bag high country."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}

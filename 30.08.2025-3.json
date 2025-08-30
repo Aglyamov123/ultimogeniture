@@ -1,0 +1,25 @@
+{
+    "name": "Michele Robles",
+    "age": 26,
+    "address": {
+        "street": "Lewis Union",
+        "city": "East Robertchester",
+        "state": "South Dakota",
+        "zip": "31459"
+    },
+    "contact": {
+        "phone": "(503)983-7238x517",
+        "servicePhone": "800034669"
+    },
+    "birthday": "1999-03-03",
+    "ip": "165.37.251.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Group protect one anyone president society manage after. Hold history particular. Yet stop item skin provide. Rock spend occur skin unit.\nResult work relate police meeting again for surface.",
+        "bio": "Fire visit themselves already perhaps soon hit.\nTravel sport strategy. Knowledge impact know.\nBudget particularly take available wall ask almost. Admit property their once stay data physical fast."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}

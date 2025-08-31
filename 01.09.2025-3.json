@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Aguirre",
+    "age": 8,
+    "address": {
+        "street": "Aaron Squares",
+        "city": "New Jonathan",
+        "state": "Arizona",
+        "zip": "91501"
+    },
+    "contact": {
+        "phone": "(822)731-2869x85644",
+        "servicePhone": "800288387"
+    },
+    "birthday": "2017-13-02",
+    "ip": "176.77.65.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Role radio lot. Action space alone over land. Pass maintain international rather certain.\nWith foreign sound someone watch. Word save seek both.",
+        "bio": "Behind lead behavior bag remain.\nBook firm effect. High keep environment especially become bag. Argue visit individual test food administration policy."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}

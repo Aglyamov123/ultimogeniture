@@ -1,0 +1,25 @@
+{
+    "name": "Anna Cox",
+    "age": 87,
+    "address": {
+        "street": "Lori Loop",
+        "city": "New Joannechester",
+        "state": "Minnesota",
+        "zip": "71570"
+    },
+    "contact": {
+        "phone": "+1-968-667-8455x486",
+        "servicePhone": "800042889"
+    },
+    "birthday": "1938-30-11",
+    "ip": "132.153.167.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Top he for. Weight network network morning hundred hear development. Maybe service note natural.\nFuture vote significant interest huge. Successful force table social compare worker.",
+        "bio": "Class throw cut prevent newspaper above tell. Least identify relationship behind claim they check. Summer scene purpose theory.\nWindow generation accept until. Thus red stand only ok."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Samantha Nguyen",
+    "age": 6,
+    "address": {
+        "street": "Debbie Prairie",
+        "city": "Andrewland",
+        "state": "Vermont",
+        "zip": "19488"
+    },
+    "contact": {
+        "phone": "(856)707-5474",
+        "servicePhone": "800408129"
+    },
+    "birthday": "2019-10-11",
+    "ip": "165.239.63.24",
+    "foo": "bar",
+    "profile": {
+        "about": "For chance political treat despite think machine figure. Produce up instead give.\nBoard name control work try. Director central present research stage discussion sure.",
+        "bio": "Long box which prevent bring audience. Long television skin small he.\nTop tend medical group some. Bed interesting figure here."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

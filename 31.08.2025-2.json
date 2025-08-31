@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Gutierrez",
+    "age": 98,
+    "address": {
+        "street": "Lisa Village",
+        "city": "Cohenside",
+        "state": "Nebraska",
+        "zip": "83778"
+    },
+    "contact": {
+        "phone": "(938)255-1444x3631",
+        "servicePhone": "800684580"
+    },
+    "birthday": "1927-05-06",
+    "ip": "35.246.203.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Speak itself cause such. Plan hair same religious.\nCut image store evening employee happen. Information early security significant candidate. Kitchen remain week find give clearly movie next.",
+        "bio": "Manager exist crime clear. Specific cultural ten point will instead.\nWeight civil particular. Outside expect agency part. Choose probably itself day sort reason."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}

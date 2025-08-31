@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Jennings",
+    "age": 4,
+    "address": {
+        "street": "Robin Plaza",
+        "city": "East Belinda",
+        "state": "Louisiana",
+        "zip": "55641"
+    },
+    "contact": {
+        "phone": "+1-542-228-0980x1134",
+        "servicePhone": "800622625"
+    },
+    "birthday": "2021-28-01",
+    "ip": "221.117.75.244",
+    "foo": "bar",
+    "profile": {
+        "about": "South billion bank ahead help. This quickly material.\nGet them them yeah thought. Weight feeling style beat whether. Even structure create.",
+        "bio": "Hundred later explain short stop seem community. Reality easy whole recent majority half author hospital. Green spring draw general."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}

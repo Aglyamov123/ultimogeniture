@@ -1,0 +1,25 @@
+{
+    "name": "Colleen Young",
+    "age": 32,
+    "address": {
+        "street": "Edward Cliff",
+        "city": "Lake Brian",
+        "state": "West Virginia",
+        "zip": "07741"
+    },
+    "contact": {
+        "phone": "662.725.9363x6673",
+        "servicePhone": "800468374"
+    },
+    "birthday": "1993-18-07",
+    "ip": "3.99.112.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Career figure nation. Way seem economic court realize make evidence different.\nSet plan top defense analysis office. Toward read and thing two consider very say.",
+        "bio": "Account later crime add increase fire radio politics. Pressure guess protect parent head."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}

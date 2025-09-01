@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Reid",
+    "age": 100,
+    "address": {
+        "street": "Julia Overpass",
+        "city": "North Michaelstad",
+        "state": "New York",
+        "zip": "61029"
+    },
+    "contact": {
+        "phone": "855-354-9540x428",
+        "servicePhone": "800477772"
+    },
+    "birthday": "1925-11-09",
+    "ip": "109.219.199.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Step dark whose democratic health enter. Happy happy well management. Maintain economy close.",
+        "bio": "Character say after first guy they box. Skill put perform evidence.\nResult soon issue inside move agreement."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}

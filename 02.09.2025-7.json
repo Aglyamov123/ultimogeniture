@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Lewis",
+    "age": 37,
+    "address": {
+        "street": "Brown Trafficway",
+        "city": "North Donaldberg",
+        "state": "South Carolina",
+        "zip": "07894"
+    },
+    "contact": {
+        "phone": "+1-742-555-4571x5725",
+        "servicePhone": "800286923"
+    },
+    "birthday": "1988-14-02",
+    "ip": "24.35.20.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Them face almost. Toward design focus morning.\nCondition lead drop could. Left six agree wear approach where knowledge market. Evidence kitchen performance reduce.",
+        "bio": "Tell question report rest true beat name. Consumer else economic character you early.\nGround school list cover day network. Democratic teach main we. Loss visit mind far gas threat top."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

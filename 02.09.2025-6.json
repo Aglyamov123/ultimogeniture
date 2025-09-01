@@ -1,0 +1,25 @@
+{
+    "name": "Karen Lynn",
+    "age": 91,
+    "address": {
+        "street": "Tabitha Expressway",
+        "city": "New Davidview",
+        "state": "Mississippi",
+        "zip": "65745"
+    },
+    "contact": {
+        "phone": "800.542.8755x429",
+        "servicePhone": "800566464"
+    },
+    "birthday": "1934-25-11",
+    "ip": "197.65.187.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave particular quality sit decide certainly remain. Speak stay cause few long. Condition artist follow some under.",
+        "bio": "Choose have research later. Card seek eye nation similar air could. Movement I prevent yet music door each."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "John Rivera",
+    "age": 39,
+    "address": {
+        "street": "Schwartz Street",
+        "city": "Lake Kyle",
+        "state": "North Carolina",
+        "zip": "30565"
+    },
+    "contact": {
+        "phone": "590-749-2916",
+        "servicePhone": "800443416"
+    },
+    "birthday": "1986-07-01",
+    "ip": "158.153.8.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Maintain lead challenge bed. Room fly discover. Friend maintain type modern.\nResponse open particular prevent.\nNow evidence little maintain see attorney. Recent color several operation never find.",
+        "bio": "Item foreign near imagine child response father. Staff attention inside professor. Situation religious easy water price from opportunity.\nCongress if rule drive degree physical political."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

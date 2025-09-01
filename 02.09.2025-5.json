@@ -1,0 +1,25 @@
+{
+    "name": "Michael Cardenas",
+    "age": 44,
+    "address": {
+        "street": "Jose Squares",
+        "city": "North Kelsey",
+        "state": "Nevada",
+        "zip": "61228"
+    },
+    "contact": {
+        "phone": "433-365-9839x29881",
+        "servicePhone": "800374966"
+    },
+    "birthday": "1981-31-08",
+    "ip": "109.15.29.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Wait church program fly cup leave rate. Civil eight believe road necessary.\nEight pressure shoulder paper. Degree type stop color create receive society. Fine clear white could better she.",
+        "bio": "Return direction south. Put heart energy bring.\nCharacter born yet himself business chair. Read coach into modern administration. Understand cup become coach truth. Bed local sit drug."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}

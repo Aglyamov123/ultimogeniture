@@ -1,0 +1,25 @@
+{
+    "name": "David Dickson",
+    "age": 58,
+    "address": {
+        "street": "Michelle Stravenue",
+        "city": "North Monica",
+        "state": "Connecticut",
+        "zip": "55882"
+    },
+    "contact": {
+        "phone": "7848949798",
+        "servicePhone": "800820386"
+    },
+    "birthday": "1967-03-05",
+    "ip": "166.129.99.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Mention eat full threat. Need billion practice play. Might security rock trouble must cut. Or pattern rock what trade left city.\nPretty really what newspaper those. Song defense movie me western.",
+        "bio": "Red class itself step home science. Someone number film stay significant.\nBill several stuff gun. Middle care room point. Discuss perform develop compare baby research player toward."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}

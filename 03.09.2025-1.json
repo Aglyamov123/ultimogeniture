@@ -1,0 +1,25 @@
+{
+    "name": "Joel Harper",
+    "age": 116,
+    "address": {
+        "street": "Mullins Fields",
+        "city": "Dakotabury",
+        "state": "Minnesota",
+        "zip": "13060"
+    },
+    "contact": {
+        "phone": "309.663.7689x554",
+        "servicePhone": "800761383"
+    },
+    "birthday": "1909-21-11",
+    "ip": "118.236.87.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Place future mother education. Artist fly respond red city win.\nArtist receive lot Democrat policy movie lose us. Simply plant thus. Big bad agency magazine.",
+        "bio": "Statement help when including break moment. Mother rule public nearly performance young writer. Development bad young option follow magazine through. Loss offer subject many common."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}

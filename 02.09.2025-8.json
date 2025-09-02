@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Taylor",
+    "age": 10,
+    "address": {
+        "street": "Ryan Plain",
+        "city": "Ericbury",
+        "state": "Illinois",
+        "zip": "48209"
+    },
+    "contact": {
+        "phone": "+1-756-350-3941x6686",
+        "servicePhone": "800088293"
+    },
+    "birthday": "2015-08-06",
+    "ip": "138.225.102.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Number continue huge specific. Relate nor particular clearly policy could certainly. Author language increase throughout check never feel.\nSport teacher herself improve. Itself several serve page.",
+        "bio": "Past inside center firm specific day movie. Them result final appear artist college new.\nStyle under herself summer determine."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}

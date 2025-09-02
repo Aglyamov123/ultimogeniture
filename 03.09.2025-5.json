@@ -1,0 +1,25 @@
+{
+    "name": "Robert Sims",
+    "age": 18,
+    "address": {
+        "street": "Matthews Mission",
+        "city": "North Pam",
+        "state": "Mississippi",
+        "zip": "23179"
+    },
+    "contact": {
+        "phone": "771-201-6074x19098",
+        "servicePhone": "800289815"
+    },
+    "birthday": "2007-19-04",
+    "ip": "201.28.4.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Finally any present family arm. News word event card them north. Glass air yard red president.\nNation arrive media fact. Born bad pretty.",
+        "bio": "Them more most site wind bank. Third without professional my prove avoid wall. Position week some can.\nFloor sort until instead. Hour government customer."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}

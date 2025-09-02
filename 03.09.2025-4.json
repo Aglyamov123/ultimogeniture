@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Anderson",
+    "age": 87,
+    "address": {
+        "street": "Pollard Lock",
+        "city": "Andrewbury",
+        "state": "Indiana",
+        "zip": "65952"
+    },
+    "contact": {
+        "phone": "+1-246-735-3611x008",
+        "servicePhone": "800780052"
+    },
+    "birthday": "1938-11-10",
+    "ip": "170.226.221.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Know field season marriage. Region young parent. Specific maintain where type nearly ground right available. Office buy employee heavy interest necessary.",
+        "bio": "Thus each too thus decade involve how. Wind especially war as foreign statement once.\nThose my mission decide nation. Easy catch you win today. Phone real reason group."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}

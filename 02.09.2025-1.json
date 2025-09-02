@@ -1,0 +1,25 @@
+{
+    "name": "Edwin Christensen",
+    "age": 48,
+    "address": {
+        "street": "Khan Plaza",
+        "city": "West Mark",
+        "state": "Arkansas",
+        "zip": "32435"
+    },
+    "contact": {
+        "phone": "+1-348-887-0529",
+        "servicePhone": "800152471"
+    },
+    "birthday": "1977-04-03",
+    "ip": "136.63.192.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Bar structure nor at laugh experience along teacher. Believe prepare support anything anyone single civil.\nPainting road property let program paper current. From citizen every happen only along seek.",
+        "bio": "Yes approach side. These ask the individual. Contain knowledge interest deep ten defense. Day industry say rate good trip control."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}

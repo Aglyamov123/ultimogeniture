@@ -1,0 +1,25 @@
+{
+    "name": "Devin George",
+    "age": 35,
+    "address": {
+        "street": "Sabrina Trail",
+        "city": "Jacquelineville",
+        "state": "West Virginia",
+        "zip": "10961"
+    },
+    "contact": {
+        "phone": "+1-971-925-6683x46545",
+        "servicePhone": "800275802"
+    },
+    "birthday": "1990-05-11",
+    "ip": "151.189.96.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Important technology set dog himself. Trial be environmental bank become piece nearly.\nToo member would you. Friend staff not population ever.",
+        "bio": "Describe guess wrong describe coach once data. Miss need significant use area economic. Third officer body interview activity election apply."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

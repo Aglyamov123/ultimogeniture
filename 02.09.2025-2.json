@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Wiley",
+    "age": 89,
+    "address": {
+        "street": "Morgan Radial",
+        "city": "North Steventon",
+        "state": "Nebraska",
+        "zip": "03253"
+    },
+    "contact": {
+        "phone": "+1-710-618-1997",
+        "servicePhone": "800041085"
+    },
+    "birthday": "1936-20-11",
+    "ip": "74.195.209.254",
+    "foo": "bar",
+    "profile": {
+        "about": "If add man consider final. Kitchen paper change by always argue TV.\nEntire likely seat near against story interesting. Including myself source maybe set important.",
+        "bio": "Career but stay mention several serve painting. Public similar personal enough any anyone. While a he edge two.\nSeek catch appear option.\nInvestment interesting degree western him pull toward know."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

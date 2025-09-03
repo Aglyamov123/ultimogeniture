@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Skinner MD",
+    "age": 82,
+    "address": {
+        "street": "Neal Mission",
+        "city": "East Michael",
+        "state": "North Carolina",
+        "zip": "12765"
+    },
+    "contact": {
+        "phone": "559-714-9818",
+        "servicePhone": "800427007"
+    },
+    "birthday": "1943-16-10",
+    "ip": "52.141.222.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Small stuff so news. Enjoy account help student whatever move. Likely responsibility care bring feel. Bed may budget others pick more court.",
+        "bio": "Policy power a receive accept view laugh. Compare team suddenly future mother reality morning."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}

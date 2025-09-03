@@ -1,0 +1,25 @@
+{
+    "name": "Debra Barber",
+    "age": 65,
+    "address": {
+        "street": "Munoz Valleys",
+        "city": "Benjaminville",
+        "state": "Hawaii",
+        "zip": "84543"
+    },
+    "contact": {
+        "phone": "810.796.0369",
+        "servicePhone": "800848780"
+    },
+    "birthday": "1960-26-05",
+    "ip": "60.36.112.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw involve whose activity leg. Recognize together form claim. Particular upon wind student.\nProgram join social. Occur sea maintain. Culture condition trip society continue.",
+        "bio": "Tell again particular most summer trade history. Raise perhaps bad line nature degree adult. Range professional section perform service popular fast."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}

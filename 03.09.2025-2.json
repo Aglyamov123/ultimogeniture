@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Perry",
+    "age": 104,
+    "address": {
+        "street": "Mitchell Lodge",
+        "city": "Port Tammy",
+        "state": "Ohio",
+        "zip": "85086"
+    },
+    "contact": {
+        "phone": "(282)372-6395x94843",
+        "servicePhone": "800323130"
+    },
+    "birthday": "1921-26-07",
+    "ip": "19.209.163.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Almost common size significant life. Without law value pick at your. Significant campaign art save keep.\nRoad society scientist speech agent. Drop law apply officer suddenly. Everybody line cover.",
+        "bio": "More rich black still man wife boy. Number suddenly show organization. Black whose over group suggest.\nOne teach leg mean. Push recognize finish admit central. Back he pattern former child."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}

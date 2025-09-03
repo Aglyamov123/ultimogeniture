@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey York",
+    "age": 48,
+    "address": {
+        "street": "Evan Motorway",
+        "city": "Millerburgh",
+        "state": "Tennessee",
+        "zip": "81626"
+    },
+    "contact": {
+        "phone": "545.527.2048x53562",
+        "servicePhone": "800705938"
+    },
+    "birthday": "1977-23-07",
+    "ip": "30.214.194.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Present policy audience eat. Note power remain weight care. Yes successful apply those Democrat yard include.\nLoss right prepare. Role officer while. Per far produce gun.",
+        "bio": "Defense relate news likely base forward field. Read group black value ahead movie store.\nThreat she field fine arm. Heart arm Republican. Relate impact eight age. Government officer kid tell even."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

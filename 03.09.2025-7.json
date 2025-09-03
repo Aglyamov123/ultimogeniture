@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Stevens",
+    "age": 1,
+    "address": {
+        "street": "Samuel Spurs",
+        "city": "Lisachester",
+        "state": "Montana",
+        "zip": "15941"
+    },
+    "contact": {
+        "phone": "+1-461-426-6390x06860",
+        "servicePhone": "800869642"
+    },
+    "birthday": "2024-28-12",
+    "ip": "94.193.113.112",
+    "foo": "bar",
+    "profile": {
+        "about": "President right movie hope.\nCouple even single.\nStation stand ago direction. Money concern herself between bring. Father friend south modern senior later. Citizen age up far.",
+        "bio": "Woman task occur. Value keep nor.\nCharge number write certainly again base authority determine. Simply talk if while rich test. Over tonight choose shake vote store."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}

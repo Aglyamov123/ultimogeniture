@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Gutierrez",
+    "age": 12,
+    "address": {
+        "street": "Kristin Vista",
+        "city": "West Kathleen",
+        "state": "California",
+        "zip": "25825"
+    },
+    "contact": {
+        "phone": "+1-442-702-9772x7535",
+        "servicePhone": "800011244"
+    },
+    "birthday": "2013-31-03",
+    "ip": "79.154.15.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Mouth day these voice. Real seem magazine series investment public here. Relate everyone soldier stop manage bed.",
+        "bio": "Cup probably forward kind hour reflect reason go. Final officer write those PM. Short feeling source possible."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}

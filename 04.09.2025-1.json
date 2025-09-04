@@ -1,0 +1,25 @@
+{
+    "name": "Julie Hansen",
+    "age": 73,
+    "address": {
+        "street": "Heather Islands",
+        "city": "North Amberland",
+        "state": "Hawaii",
+        "zip": "05461"
+    },
+    "contact": {
+        "phone": "001-994-426-7490x3806",
+        "servicePhone": "800793363"
+    },
+    "birthday": "1952-30-05",
+    "ip": "10.175.198.151",
+    "foo": "bar",
+    "profile": {
+        "about": "But economy best bad behavior budget development. Whatever particularly growth senior role. History street happy these.",
+        "bio": "Discussion both specific must herself form. Letter say event certain some size win. My ready color."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}

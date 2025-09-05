@@ -1,0 +1,25 @@
+{
+    "name": "Noah Figueroa",
+    "age": 61,
+    "address": {
+        "street": "Grace Walk",
+        "city": "Suttonmouth",
+        "state": "Minnesota",
+        "zip": "56164"
+    },
+    "contact": {
+        "phone": "+1-867-308-1336x322",
+        "servicePhone": "800376004"
+    },
+    "birthday": "1964-28-09",
+    "ip": "9.233.75.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire nature talk it put night. Full final despite choose. Movement suddenly since get shoulder reach. Attack skill operation among.\nYourself prove side majority. Unit thus ability.",
+        "bio": "Bed pick young with serious will. Itself policy technology shake shoulder hit. Language including finally through democratic school nothing."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}

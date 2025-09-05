@@ -1,0 +1,25 @@
+{
+    "name": "Michael Martin",
+    "age": 83,
+    "address": {
+        "street": "Blackwell Mills",
+        "city": "North William",
+        "state": "New Jersey",
+        "zip": "79444"
+    },
+    "contact": {
+        "phone": "+1-942-427-3512x11116",
+        "servicePhone": "800986322"
+    },
+    "birthday": "1942-23-07",
+    "ip": "28.17.65.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Near set speak act. Adult get security over may interest sister. How offer hear staff. Maybe protect stage.\nInterest sometimes response resource. Environmental close those pay blood once.",
+        "bio": "Catch although bank none his all. Everything wide reveal strategy summer structure level partner.\nHot heart truth upon than. Different win morning talk president pressure Mrs."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}

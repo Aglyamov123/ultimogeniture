@@ -1,0 +1,25 @@
+{
+    "name": "John Holmes",
+    "age": 2,
+    "address": {
+        "street": "Jamie Plain",
+        "city": "Jasontown",
+        "state": "Florida",
+        "zip": "77289"
+    },
+    "contact": {
+        "phone": "(364)245-0093x790",
+        "servicePhone": "800573725"
+    },
+    "birthday": "2023-21-03",
+    "ip": "178.122.171.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Him concern likely indicate dog media or indicate. Never color sense outside green quality myself. Best water by watch.",
+        "bio": "Although relate house off serve add field. Manager allow whole nor letter Mr. While never behind.\nTrouble just company others protect. Address know store now music."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}

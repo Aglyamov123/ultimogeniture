@@ -1,0 +1,25 @@
+{
+    "name": "Paul Mcdonald",
+    "age": 46,
+    "address": {
+        "street": "Tracy Alley",
+        "city": "North Georgehaven",
+        "state": "Ohio",
+        "zip": "74347"
+    },
+    "contact": {
+        "phone": "+1-449-861-8752x35511",
+        "servicePhone": "800662930"
+    },
+    "birthday": "1979-13-09",
+    "ip": "3.153.212.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment note year majority ahead debate sister we. Main citizen early society. Take PM poor election system family floor.\nSeat choice yard matter model fly environmental research.",
+        "bio": "Series growth serious off. Window PM paper party indicate determine thank. Risk another place partner."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}

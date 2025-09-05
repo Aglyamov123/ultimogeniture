@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Robertson",
+    "age": 61,
+    "address": {
+        "street": "Cory Shoals",
+        "city": "New Garyton",
+        "state": "Minnesota",
+        "zip": "28127"
+    },
+    "contact": {
+        "phone": "(569)623-9686x4891",
+        "servicePhone": "800074065"
+    },
+    "birthday": "1964-19-10",
+    "ip": "197.21.20.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth pass entire one rock spring hard. Foot south act or begin attorney. Center surface little see someone crime table.",
+        "bio": "Sister region food season toward. Compare party page serve. Ago chair suddenly know stock."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

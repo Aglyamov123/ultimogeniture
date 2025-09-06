@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Mayo",
+    "age": 27,
+    "address": {
+        "street": "Alvarado Shore",
+        "city": "West Paulstad",
+        "state": "Maryland",
+        "zip": "85638"
+    },
+    "contact": {
+        "phone": "636-296-1275x741",
+        "servicePhone": "800430086"
+    },
+    "birthday": "1998-14-06",
+    "ip": "222.241.42.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Manage range leader organization sound song home. Type skin effort own. Him those poor west home lay employee main.",
+        "bio": "Drive information apply early. Very raise debate scientist. Add rich board factor pay. Current pass rather sit design quite."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}

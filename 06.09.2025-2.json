@@ -1,0 +1,25 @@
+{
+    "name": "Francis Fry",
+    "age": 9,
+    "address": {
+        "street": "Coleman Drive",
+        "city": "West Karen",
+        "state": "Utah",
+        "zip": "32235"
+    },
+    "contact": {
+        "phone": "001-307-817-3244x61086",
+        "servicePhone": "800446639"
+    },
+    "birthday": "2016-08-06",
+    "ip": "19.172.217.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother executive would all culture court. Cold or black where stuff safe education.",
+        "bio": "Land prepare free whose against beat realize. Point animal represent claim gas.\nInclude pick the if. Kitchen law western goal break. Market onto idea lead Democrat PM that."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Little",
+    "age": 88,
+    "address": {
+        "street": "Madden Drive",
+        "city": "Earlville",
+        "state": "Pennsylvania",
+        "zip": "59937"
+    },
+    "contact": {
+        "phone": "3825702746",
+        "servicePhone": "800359330"
+    },
+    "birthday": "1937-23-05",
+    "ip": "135.224.190.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Other half work very smile spend value meeting. Yeah couple Mrs fire. Skill tonight commercial. Color business grow since author.",
+        "bio": "You at than challenge idea allow discussion. Ten talk same structure fill game manager. Later I artist subject."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}

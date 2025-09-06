@@ -1,0 +1,25 @@
+{
+    "name": "Madeline Harvey",
+    "age": 8,
+    "address": {
+        "street": "Gonzalez Summit",
+        "city": "Angelaborough",
+        "state": "Indiana",
+        "zip": "16989"
+    },
+    "contact": {
+        "phone": "986.249.6459",
+        "servicePhone": "800365051"
+    },
+    "birthday": "2017-13-05",
+    "ip": "85.250.88.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Part partner agree floor wide small society.\nPositive among list employee maybe cup. Girl ahead sound energy side space. Item relate throw catch defense left stage.",
+        "bio": "Base medical people save control animal. Security arrive sometimes million parent section. Forward now process industry arrive morning country."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}

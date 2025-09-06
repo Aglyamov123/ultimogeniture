@@ -1,0 +1,25 @@
+{
+    "name": "Melinda Smith",
+    "age": 30,
+    "address": {
+        "street": "Joseph Radial",
+        "city": "West Maryhaven",
+        "state": "Delaware",
+        "zip": "64560"
+    },
+    "contact": {
+        "phone": "398.969.1781",
+        "servicePhone": "800154461"
+    },
+    "birthday": "1995-21-01",
+    "ip": "32.78.236.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Change describe more start reach smile. Enter new year ask throughout despite yet. Particularly discussion oil. Tend fine window because.",
+        "bio": "Career start appear. Ask cold offer sport risk maybe.\nAgo try light form. Eat big admit itself.\nMaterial collection important draw stuff customer."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}

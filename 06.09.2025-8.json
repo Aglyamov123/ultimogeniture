@@ -1,0 +1,25 @@
+{
+    "name": "James Williams",
+    "age": 29,
+    "address": {
+        "street": "Tom Vista",
+        "city": "Kimberlychester",
+        "state": "New York",
+        "zip": "95265"
+    },
+    "contact": {
+        "phone": "001-331-800-5810x01663",
+        "servicePhone": "800355690"
+    },
+    "birthday": "1996-25-11",
+    "ip": "220.145.210.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Where water onto outside dinner production soldier when. Simple inside outside heavy. Head second hit send million.\nNear act of design. Newspaper collection field whose. Law man laugh.",
+        "bio": "Deal difficult quite system fall answer look. Right simple hear bar surface local. Threat into whatever but just amount."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

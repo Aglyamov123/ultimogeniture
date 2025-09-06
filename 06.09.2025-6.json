@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Harris",
+    "age": 65,
+    "address": {
+        "street": "Mary Mountains",
+        "city": "East Williamland",
+        "state": "New Jersey",
+        "zip": "34599"
+    },
+    "contact": {
+        "phone": "001-639-636-5679x218",
+        "servicePhone": "800040992"
+    },
+    "birthday": "1960-24-07",
+    "ip": "116.112.98.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Green risk after imagine carry. Wish benefit my check agreement order. Break sell agent medical member treatment fall. Teacher himself especially court his not.",
+        "bio": "Able edge how available. Employee store left reach conference. Vote blue politics remain mouth man.\nIdentify age still party production main subject. Event improve hair cell mother."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}

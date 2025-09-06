@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Murillo",
+    "age": 0,
+    "address": {
+        "street": "Adams Ports",
+        "city": "New Thomas",
+        "state": "South Dakota",
+        "zip": "23840"
+    },
+    "contact": {
+        "phone": "+1-778-905-8448",
+        "servicePhone": "800829689"
+    },
+    "birthday": "2025-18-08",
+    "ip": "46.217.177.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready happy its six happen agent. Citizen prepare spend kid mention specific the. Available today care quality may. Mission product lead never.",
+        "bio": "Word value life study sea clearly employee.\nPlayer early whose class program. Avoid face someone their measure occur usually. Sister his near test represent would game."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

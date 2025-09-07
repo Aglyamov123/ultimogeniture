@@ -1,0 +1,25 @@
+{
+    "name": "Whitney Shannon",
+    "age": 60,
+    "address": {
+        "street": "Edwards Pine",
+        "city": "Adkinsfurt",
+        "state": "Utah",
+        "zip": "24149"
+    },
+    "contact": {
+        "phone": "(425)839-4225x143",
+        "servicePhone": "800617791"
+    },
+    "birthday": "1965-17-01",
+    "ip": "74.1.98.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Air thus suffer prove. Enjoy speak market ability quickly allow.\nMillion professional difficult process positive report sing. Situation body fine. You set service people second consider too.",
+        "bio": "Together project represent job. Amount newspaper area.\nOfficer necessary foreign half step some sort. Question cell just method.\nMany for father develop even born face. Worry central computer make."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}

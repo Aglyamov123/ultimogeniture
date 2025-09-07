@@ -1,0 +1,25 @@
+{
+    "name": "Tammie Manning",
+    "age": 21,
+    "address": {
+        "street": "Sherri Union",
+        "city": "Johnsonberg",
+        "state": "Delaware",
+        "zip": "56296"
+    },
+    "contact": {
+        "phone": "(560)943-2320x020",
+        "servicePhone": "800381831"
+    },
+    "birthday": "2004-08-08",
+    "ip": "48.17.137.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Law can home behind better. Company despite enjoy sport room plan investment. Sister rate also customer green station.\nLeader exist it.",
+        "bio": "Nice structure in apply trade scene. Mind might theory cultural. Exactly teach charge which. Up music land yard source.\nFilm beat thank mind. Itself image hospital quality white them."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}

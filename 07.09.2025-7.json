@@ -1,0 +1,25 @@
+{
+    "name": "Angel Jackson",
+    "age": 87,
+    "address": {
+        "street": "Thompson Isle",
+        "city": "New Andrew",
+        "state": "Oregon",
+        "zip": "82496"
+    },
+    "contact": {
+        "phone": "973-520-2703x883",
+        "servicePhone": "800720681"
+    },
+    "birthday": "1938-18-08",
+    "ip": "212.28.34.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand information player painting tonight so. Quality that much central same. Safe impact position score rather culture produce time.",
+        "bio": "Everyone structure whose true at report hand minute. Meet rate build among fire. Record live American customer return wall growth."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

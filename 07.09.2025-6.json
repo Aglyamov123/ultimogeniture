@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Rivas",
+    "age": 85,
+    "address": {
+        "street": "Jones Prairie",
+        "city": "Josemouth",
+        "state": "Washington",
+        "zip": "08542"
+    },
+    "contact": {
+        "phone": "277.637.9783",
+        "servicePhone": "800056265"
+    },
+    "birthday": "1940-19-05",
+    "ip": "159.165.95.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Window various prove born within tree data look. Address city catch board her perform member. Smile bring approach bad.",
+        "bio": "Serve interview detail first number. Political now age product dream. Other present week run myself heavy."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}

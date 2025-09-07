@@ -1,0 +1,25 @@
+{
+    "name": "Jody Turner",
+    "age": 99,
+    "address": {
+        "street": "Jacob Alley",
+        "city": "Lake Alexis",
+        "state": "Louisiana",
+        "zip": "54362"
+    },
+    "contact": {
+        "phone": "997.444.5555",
+        "servicePhone": "800815957"
+    },
+    "birthday": "1926-11-10",
+    "ip": "12.104.16.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold great when central garden. Seven determine high conference expert hit.",
+        "bio": "Key level art sign old stop listen. Prevent feel same price ever charge section reason. Happy pretty both seven.\nThreat training laugh happy. Than small course star."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

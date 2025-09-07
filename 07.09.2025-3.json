@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Yates",
+    "age": 32,
+    "address": {
+        "street": "Andrew Underpass",
+        "city": "East David",
+        "state": "North Dakota",
+        "zip": "28010"
+    },
+    "contact": {
+        "phone": "(958)326-9238",
+        "servicePhone": "800261375"
+    },
+    "birthday": "1993-07-08",
+    "ip": "144.52.95.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle responsibility over free seat area move. Religious five vote office.",
+        "bio": "Despite work art far need itself. Particular these else power produce example above.\nExecutive some letter. Population weight just especially wear become."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}

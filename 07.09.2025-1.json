@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Harrell",
+    "age": 3,
+    "address": {
+        "street": "Rogers Wall",
+        "city": "Johnsonville",
+        "state": "Nevada",
+        "zip": "22535"
+    },
+    "contact": {
+        "phone": "776.294.7854x05548",
+        "servicePhone": "800087274"
+    },
+    "birthday": "2022-03-02",
+    "ip": "87.68.164.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark impact certainly ago he the.\nBuy beautiful cause notice spend race idea agency. Girl central product.",
+        "bio": "Clear prove campaign which almost. Red box establish.\nOrganization eye medical nice agency do safe think. Operation impact bar skill nation wear. Message soldier model."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}

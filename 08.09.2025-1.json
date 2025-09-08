@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Myers",
+    "age": 36,
+    "address": {
+        "street": "Michelle Road",
+        "city": "Hallton",
+        "state": "Michigan",
+        "zip": "32813"
+    },
+    "contact": {
+        "phone": "001-820-555-5495x17817",
+        "servicePhone": "800191363"
+    },
+    "birthday": "1989-19-12",
+    "ip": "138.220.163.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh enter part heavy only. Television I lawyer material. Morning message agency. Television market total language.",
+        "bio": "Matter minute sense majority live hit. Soldier think money board clear pick official. Student standard analysis win."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

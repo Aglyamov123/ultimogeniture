@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Shields",
+    "age": 67,
+    "address": {
+        "street": "Barbara Inlet",
+        "city": "Jonathonshire",
+        "state": "Wyoming",
+        "zip": "11098"
+    },
+    "contact": {
+        "phone": "001-868-950-3501x81151",
+        "servicePhone": "800132704"
+    },
+    "birthday": "1958-29-09",
+    "ip": "211.17.48.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Season town would skin never attention. Religious successful theory court agree easy beyond election. Past fine list.\nSimple whatever major government value. Beautiful money difficult loss.",
+        "bio": "Reason certainly writer as ground deal thing travel. Thousand once employee girl all personal instead hair."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

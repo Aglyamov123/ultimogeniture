@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Nelson",
+    "age": 88,
+    "address": {
+        "street": "Melanie Loop",
+        "city": "North Kennethberg",
+        "state": "Nebraska",
+        "zip": "40933"
+    },
+    "contact": {
+        "phone": "694.268.6901",
+        "servicePhone": "800623479"
+    },
+    "birthday": "1937-01-07",
+    "ip": "5.26.127.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Father three finish always method. Share remember conference trade security general his. Up attack million model street fill good.\nAttorney report much process rise fly most.",
+        "bio": "Summer capital kind international lot order thought community. Medical check bit hair old. Red score late national key page husband."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}

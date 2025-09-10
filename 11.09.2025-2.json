@@ -1,0 +1,25 @@
+{
+    "name": "Mary Scott",
+    "age": 14,
+    "address": {
+        "street": "Scott Cliff",
+        "city": "South Sharonburgh",
+        "state": "Louisiana",
+        "zip": "73639"
+    },
+    "contact": {
+        "phone": "243.452.9306",
+        "servicePhone": "800987586"
+    },
+    "birthday": "2011-28-11",
+    "ip": "197.115.179.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Beyond think forward drop. Other understand Mrs about. There would east still.\nHeart call speech same suddenly factor. Stay so religious.\nTable training free least when one common.",
+        "bio": "Send western during rate hospital. Itself time dog who rise own.\nBox against carry matter scene. Create live interview somebody work. Management into approach company return."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Fritz",
+    "age": 35,
+    "address": {
+        "street": "Parker Walk",
+        "city": "Keithtown",
+        "state": "Arizona",
+        "zip": "86720"
+    },
+    "contact": {
+        "phone": "001-293-688-4901x951",
+        "servicePhone": "800312472"
+    },
+    "birthday": "1990-04-10",
+    "ip": "207.227.208.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Occur society south business week happen receive anyone. Source attention they push more.\nChair find nice usually appear board. Various assume like off under themselves.",
+        "bio": "Mrs either beautiful across blue new. Suggest up defense message security as middle. Traditional conference why line family past rest.\nWait long pretty. Service tend a subject team."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Green",
+    "age": 75,
+    "address": {
+        "street": "Martinez Center",
+        "city": "Samanthaview",
+        "state": "Wisconsin",
+        "zip": "67454"
+    },
+    "contact": {
+        "phone": "001-209-314-7070x99482",
+        "servicePhone": "800886544"
+    },
+    "birthday": "1950-28-04",
+    "ip": "117.217.144.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Future lot walk maybe later play end far. Collection along particularly play after short.\nExecutive forward up cover establish behavior data agency. Purpose hard network huge discuss school real.",
+        "bio": "Way your perform film. Color eight case early.\nMrs together performance white hospital until option. Ahead age nice you way sister program."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

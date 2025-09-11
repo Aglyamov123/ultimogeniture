@@ -1,0 +1,25 @@
+{
+    "name": "William Adkins",
+    "age": 83,
+    "address": {
+        "street": "Zachary Junctions",
+        "city": "Mannton",
+        "state": "Missouri",
+        "zip": "58305"
+    },
+    "contact": {
+        "phone": "849.537.5532",
+        "servicePhone": "800490797"
+    },
+    "birthday": "1942-03-05",
+    "ip": "171.136.199.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Whatever man summer list option able family. Peace study reality everything six real until. Cover nothing president system parent thing war. Particular you himself drive unit week.",
+        "bio": "Realize generation world.\nSituation situation never itself talk business agent enough.\nImagine leave central whole. Reason option its tree professional. Tend try upon information."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

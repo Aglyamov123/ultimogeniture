@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Foster",
+    "age": 43,
+    "address": {
+        "street": "Wilson Vista",
+        "city": "New Pamela",
+        "state": "Kentucky",
+        "zip": "05315"
+    },
+    "contact": {
+        "phone": "001-823-408-2117x21807",
+        "servicePhone": "800976406"
+    },
+    "birthday": "1982-06-03",
+    "ip": "177.183.166.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Church chance six everyone can. Foreign consider talk. Not difficult manage pattern daughter so subject.\nPrice bag special everybody. Front direction sign civil over draw. Ability top agent any new.",
+        "bio": "West place change message argue only. Economy current do provide. Sell team show admit would ahead.\nImage term coach fish. Each she case bad customer."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Cook",
+    "age": 76,
+    "address": {
+        "street": "Davenport Haven",
+        "city": "Gregoryhaven",
+        "state": "Maryland",
+        "zip": "73826"
+    },
+    "contact": {
+        "phone": "001-288-405-1845x69837",
+        "servicePhone": "800778203"
+    },
+    "birthday": "1949-24-07",
+    "ip": "48.78.73.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Receive attorney simply environment other according would term. Fine trip evening.",
+        "bio": "Add store television since prove glass wide. Really wait main court operation total. Go different under. First color two exist.\nDo support huge their. Tonight student leg learn."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}

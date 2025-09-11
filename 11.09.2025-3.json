@@ -1,0 +1,25 @@
+{
+    "name": "Holly Berry",
+    "age": 65,
+    "address": {
+        "street": "Lisa Island",
+        "city": "East Shannonmouth",
+        "state": "Vermont",
+        "zip": "98099"
+    },
+    "contact": {
+        "phone": "6389999798",
+        "servicePhone": "800242980"
+    },
+    "birthday": "1960-27-03",
+    "ip": "147.18.121.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter allow maybe official night. Nation run during direction. Play chair time in our.\nWorry kid forward painting inside. If rich life throw little.",
+        "bio": "Similar assume month. Week whom win them total individual relate.\nFriend nothing his person note. Difference me require include modern."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}

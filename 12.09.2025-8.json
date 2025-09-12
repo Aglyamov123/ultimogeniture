@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Martin",
+    "age": 18,
+    "address": {
+        "street": "Marsh Lights",
+        "city": "West Ericchester",
+        "state": "Kentucky",
+        "zip": "89718"
+    },
+    "contact": {
+        "phone": "+1-298-503-6028x364",
+        "servicePhone": "800055304"
+    },
+    "birthday": "2007-28-08",
+    "ip": "202.156.236.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Property federal just decide. Theory task set step protect have.\nAge it from fill. Bar most should although.",
+        "bio": "Yourself no system necessary professor image. Quality least away radio. Success our cultural above allow. Voice increase skin who."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Jones",
+    "age": 74,
+    "address": {
+        "street": "Anderson Courts",
+        "city": "Stephenmouth",
+        "state": "Michigan",
+        "zip": "48137"
+    },
+    "contact": {
+        "phone": "678.609.1956",
+        "servicePhone": "800806080"
+    },
+    "birthday": "1951-14-11",
+    "ip": "125.163.72.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Become onto Congress maintain old risk. Seat response particularly factor product. Person rich left across final reduce baby. Keep Republican miss speech week.",
+        "bio": "Dream suffer choose position. Like brother product yourself spring."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

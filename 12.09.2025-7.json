@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Cody Dunlap",
+    "age": 49,
+    "address": {
+        "street": "William Greens",
+        "city": "Jamesville",
+        "state": "Alabama",
+        "zip": "18071"
+    },
+    "contact": {
+        "phone": "872.218.5509x63857",
+        "servicePhone": "800810481"
+    },
+    "birthday": "1976-08-12",
+    "ip": "51.102.210.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Late market same account. Million happy foot. Size key expect decide receive trade training. Every example evidence culture trade professional.",
+        "bio": "Billion need structure morning forget language later piece. Effort bar authority model couple quality."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

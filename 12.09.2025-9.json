@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Allen",
+    "age": 37,
+    "address": {
+        "street": "Harper Shore",
+        "city": "East Stephen",
+        "state": "Texas",
+        "zip": "51197"
+    },
+    "contact": {
+        "phone": "998.623.0379x445",
+        "servicePhone": "800476682"
+    },
+    "birthday": "1988-27-02",
+    "ip": "66.21.232.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention candidate green all. City name upon maintain its but yourself. Owner open nor life with try accept.\nSet moment sport.",
+        "bio": "Stock building create Mrs nice price top sea. Three model early chair nation now.\nBar matter deal senior push. Back general create what."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Neil Boyd",
+    "age": 115,
+    "address": {
+        "street": "Jackson Summit",
+        "city": "Port Matthew",
+        "state": "Rhode Island",
+        "zip": "10785"
+    },
+    "contact": {
+        "phone": "001-785-335-4131",
+        "servicePhone": "800400929"
+    },
+    "birthday": "1910-21-05",
+    "ip": "210.40.139.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Coach fire drive style visit from. Treat story stand clearly memory medical. Idea light certain senior.\nThan same decision either.\nTask place floor skill skin.",
+        "bio": "Service hour art year special. Ask very picture Democrat.\nHand ability teach so safe. Smile per today."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}

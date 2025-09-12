@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Cunningham",
+    "age": 23,
+    "address": {
+        "street": "Cynthia Ferry",
+        "city": "East Brenda",
+        "state": "Texas",
+        "zip": "65337"
+    },
+    "contact": {
+        "phone": "673-399-7498",
+        "servicePhone": "800126531"
+    },
+    "birthday": "2002-27-01",
+    "ip": "122.128.152.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Production page result range. Security toward statement popular leg task. Couple miss social help. Song lose represent man food.",
+        "bio": "Religious position money country concern couple country important. Fill woman resource cover.\nRace ball benefit which home kitchen remain. By without face development."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "James Clements",
+    "age": 40,
+    "address": {
+        "street": "Johnny Crossroad",
+        "city": "East Jay",
+        "state": "Iowa",
+        "zip": "70830"
+    },
+    "contact": {
+        "phone": "+1-905-466-4666x863",
+        "servicePhone": "800548975"
+    },
+    "birthday": "1985-19-12",
+    "ip": "59.90.74.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Stay scene form network officer bed. Consumer great quite second factor scene. Far of theory but until. Wife imagine what hope everyone.\nShow exist form hope case. Discover under hand summer.",
+        "bio": "Sell side win produce military evening. Real base ahead build. Only can those. Study yeah rate foot together size wall thus.\nWorker spend less agree within memory scientist whether."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

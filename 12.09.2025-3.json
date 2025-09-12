@@ -1,0 +1,25 @@
+{
+    "name": "Paul Cruz",
+    "age": 28,
+    "address": {
+        "street": "Michael Landing",
+        "city": "New Katherinebury",
+        "state": "Ohio",
+        "zip": "49900"
+    },
+    "contact": {
+        "phone": "7944850915",
+        "servicePhone": "800997977"
+    },
+    "birthday": "1997-04-03",
+    "ip": "85.80.114.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Spend else several foreign under short situation. Not challenge clear far administration simply.\nHospital window class smile.\nEntire more affect. Model up new energy rich.",
+        "bio": "Window maintain traditional growth receive avoid go. Control three pick child. Ago participant threat piece which weight challenge.\nSet his outside get Democrat. Better present change Congress."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}

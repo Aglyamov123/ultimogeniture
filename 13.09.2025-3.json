@@ -1,0 +1,25 @@
+{
+    "name": "Laura Dennis",
+    "age": 8,
+    "address": {
+        "street": "Quinn Stravenue",
+        "city": "Christopherstad",
+        "state": "Kentucky",
+        "zip": "81649"
+    },
+    "contact": {
+        "phone": "2214691939",
+        "servicePhone": "800922907"
+    },
+    "birthday": "2017-18-09",
+    "ip": "42.72.45.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic measure before you measure senior social. Role south baby despite certainly need how science. Include everyone care last another purpose. So decide world enter news.",
+        "bio": "Old training save reality future face. Young raise after. Feeling teach worker message up ten."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}

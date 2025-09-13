@@ -1,0 +1,25 @@
+{
+    "name": "Paul Moon",
+    "age": 46,
+    "address": {
+        "street": "Stanton Pike",
+        "city": "Port Tonya",
+        "state": "Oklahoma",
+        "zip": "65882"
+    },
+    "contact": {
+        "phone": "+1-633-835-6913x343",
+        "servicePhone": "800984357"
+    },
+    "birthday": "1979-05-02",
+    "ip": "209.23.89.219",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional water three Republican. State moment process continue back. Decide bar away father world. Behind do picture culture strategy hotel whether.",
+        "bio": "Religious behavior talk. Rise prevent inside deal sea trial certain.\nFew want someone simply consider nothing. Him now billion girl where often line challenge."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

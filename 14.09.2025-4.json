@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Barnes",
+    "age": 33,
+    "address": {
+        "street": "Aguilar Place",
+        "city": "North Anne",
+        "state": "South Dakota",
+        "zip": "24012"
+    },
+    "contact": {
+        "phone": "(363)593-8346x649",
+        "servicePhone": "800901321"
+    },
+    "birthday": "1992-09-03",
+    "ip": "192.110.24.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Home really within partner. Ask fill economic strategy near. Me employee the theory threat difference.\nOff fight on prove watch financial.\nEven energy meeting run. Security individual identify goal.",
+        "bio": "Ability day institution them subject candidate along. Western friend of."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Hoover",
+    "age": 89,
+    "address": {
+        "street": "Lucero Street",
+        "city": "Lauraview",
+        "state": "New Hampshire",
+        "zip": "40566"
+    },
+    "contact": {
+        "phone": "001-278-793-4143x763",
+        "servicePhone": "800157473"
+    },
+    "birthday": "1936-12-03",
+    "ip": "122.74.213.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Design respond difficult us star find finish often.\nSkin car yes loss. Onto check administration least PM. Tend room say kind radio.\nQuickly glass mention whole agree. Future race according central.",
+        "bio": "Black house represent. House recently per style mouth against. Chair above wall guy shoulder.\nCitizen attention station few. Image medical purpose.\nFoot structure color store support."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}

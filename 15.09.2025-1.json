@@ -1,0 +1,25 @@
+{
+    "name": "Maria Lawson",
+    "age": 64,
+    "address": {
+        "street": "Henderson Mountain",
+        "city": "West Patricia",
+        "state": "Kentucky",
+        "zip": "65700"
+    },
+    "contact": {
+        "phone": "001-301-946-6904",
+        "servicePhone": "800637890"
+    },
+    "birthday": "1961-03-01",
+    "ip": "177.72.63.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing product reason. Movement up through business man something. Executive view event policy.",
+        "bio": "Simple few option better. Model investment until line back perform. Director part government and everyone bring."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}

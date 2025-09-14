@@ -1,0 +1,25 @@
+{
+    "name": "James Macias",
+    "age": 93,
+    "address": {
+        "street": "Elizabeth Crest",
+        "city": "East Douglaston",
+        "state": "Michigan",
+        "zip": "70526"
+    },
+    "contact": {
+        "phone": "001-518-733-4201x323",
+        "servicePhone": "800068764"
+    },
+    "birthday": "1932-10-04",
+    "ip": "128.14.51.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Leg very produce well quickly. Simply go practice summer interview look. Entire throughout site.",
+        "bio": "Trip tonight yard position remain. Least send positive window PM. Environment many street range year back.\nFree impact exactly matter fast court stop. Require suddenly if recent some those growth."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}

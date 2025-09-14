@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Duke",
+    "age": 111,
+    "address": {
+        "street": "Bright Isle",
+        "city": "Robinsonside",
+        "state": "Alaska",
+        "zip": "29853"
+    },
+    "contact": {
+        "phone": "(463)920-7348",
+        "servicePhone": "800637050"
+    },
+    "birthday": "1914-28-12",
+    "ip": "152.54.98.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern agreement drive. Fire campaign such expect somebody four indeed.\nLand push quality official. Large yes close matter true feeling media. Owner college improve although subject billion.",
+        "bio": "Material strong nor tell environmental south face. American bring idea himself economy. Accept hospital production building eye.\nGeneration rock those response should. Support they food sense him."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}

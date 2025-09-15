@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Wade",
+    "age": 116,
+    "address": {
+        "street": "Guzman Knoll",
+        "city": "Port Cathy",
+        "state": "Rhode Island",
+        "zip": "33251"
+    },
+    "contact": {
+        "phone": "+1-573-857-1523x4962",
+        "servicePhone": "800512382"
+    },
+    "birthday": "1909-11-12",
+    "ip": "76.57.185.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Today company simple edge policy. Reason month sing get three. Prepare require power eat simply party.",
+        "bio": "Behind similar risk president claim almost agreement somebody.\nWay event deal plant data. Cut back doctor type current."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}

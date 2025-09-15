@@ -1,0 +1,25 @@
+{
+    "name": "Roger Lucero",
+    "age": 40,
+    "address": {
+        "street": "Young Trafficway",
+        "city": "Port Jimmy",
+        "state": "New York",
+        "zip": "40373"
+    },
+    "contact": {
+        "phone": "884.809.7627",
+        "servicePhone": "800438735"
+    },
+    "birthday": "1985-30-07",
+    "ip": "161.230.49.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Carry improve letter lay talk threat. Beyond response new pass act. Process career thousand. Account during general sit person.",
+        "bio": "Scene however daughter spend another increase list about. Think rule accept church.\nSomething cost do send material show. Remain between conference identify question community."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}

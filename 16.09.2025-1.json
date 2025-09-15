@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Gardner",
+    "age": 104,
+    "address": {
+        "street": "Tiffany Flat",
+        "city": "Port Trevor",
+        "state": "Oklahoma",
+        "zip": "68967"
+    },
+    "contact": {
+        "phone": "+1-772-546-3903x298",
+        "servicePhone": "800586082"
+    },
+    "birthday": "1921-01-11",
+    "ip": "71.195.88.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Water heart soon economy. Live design say gun owner nature current. His same business might dream very expert. Western cause day another thought check.",
+        "bio": "Husband executive expect. Different reflect compare.\nTable decade election argue improve authority. Your effect information or."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}

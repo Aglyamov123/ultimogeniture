@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Chen",
+    "age": 87,
+    "address": {
+        "street": "Anthony Mews",
+        "city": "Loganfurt",
+        "state": "Ohio",
+        "zip": "88477"
+    },
+    "contact": {
+        "phone": "(448)314-6583x1267",
+        "servicePhone": "800440424"
+    },
+    "birthday": "1938-12-01",
+    "ip": "51.212.197.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Something per smile how order report. Hope field town color think different turn. Condition add wall particular challenge. Capital visit goal officer.\nNewspaper it beat game.",
+        "bio": "Story win direction especially reality phone floor. Hard boy exist traditional. Read with different require reality baby the.\nStep each not. Compare style artist bar. Stop walk itself follow."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

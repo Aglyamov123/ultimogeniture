@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Goodman",
+    "age": 114,
+    "address": {
+        "street": "Ramirez Radial",
+        "city": "West Davidmouth",
+        "state": "Ohio",
+        "zip": "78268"
+    },
+    "contact": {
+        "phone": "(709)606-9186x9640",
+        "servicePhone": "800540956"
+    },
+    "birthday": "1911-08-03",
+    "ip": "152.126.67.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart front lose exist. Moment standard while bit determine.\nAllow treatment market happy owner century. Quality feeling manage. World director play large moment.",
+        "bio": "Visit boy yet beat discussion recent. World in speak agree. Board no color society purpose similar economy.\nWonder college he lot either trade. Just mind hundred firm break air."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Phillips",
+    "age": 54,
+    "address": {
+        "street": "Morgan Heights",
+        "city": "Gonzalezton",
+        "state": "South Dakota",
+        "zip": "09938"
+    },
+    "contact": {
+        "phone": "217-998-9035x92384",
+        "servicePhone": "800898073"
+    },
+    "birthday": "1971-30-04",
+    "ip": "136.28.180.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Agency own woman policy whether. Expert way area financial.\nCommercial poor modern this brother. Bad should marriage international official why image.",
+        "bio": "And mouth west table. Share culture all part first machine catch. Blood from clear Mrs listen part marriage. Production medical choose save mother throughout."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}

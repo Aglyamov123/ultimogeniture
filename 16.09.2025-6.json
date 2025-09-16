@@ -1,0 +1,25 @@
+{
+    "name": "Lori Hall MD",
+    "age": 64,
+    "address": {
+        "street": "Christopher Ford",
+        "city": "Lake Nicoleview",
+        "state": "Washington",
+        "zip": "45421"
+    },
+    "contact": {
+        "phone": "969-272-1656x911",
+        "servicePhone": "800610684"
+    },
+    "birthday": "1961-05-07",
+    "ip": "19.153.139.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Product month drug visit half food. Maybe consider buy another.\nReligious be add professor skin professor according. Help modern have subject woman. Shoulder gas wife trade agree serve for yet.",
+        "bio": "Window individual lot deal them interest lot nation. Smile green information soon great represent allow."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}

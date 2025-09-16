@@ -1,0 +1,25 @@
+{
+    "name": "Alan Kidd",
+    "age": 29,
+    "address": {
+        "street": "Williamson Lane",
+        "city": "West Deanna",
+        "state": "West Virginia",
+        "zip": "58554"
+    },
+    "contact": {
+        "phone": "001-772-211-2564",
+        "servicePhone": "800310960"
+    },
+    "birthday": "1996-03-01",
+    "ip": "221.116.38.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Usually capital lawyer wrong buy against how. Edge this effort lawyer. Citizen than full adult.",
+        "bio": "Lot foot include experience explain even artist huge. Certainly support dinner when operation forward.\nLead husband card. Agent here wide government one. Property nice one ball why generation guess."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}

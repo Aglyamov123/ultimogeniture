@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Peterson",
+    "age": 68,
+    "address": {
+        "street": "Harris Ramp",
+        "city": "Russellfort",
+        "state": "Louisiana",
+        "zip": "73786"
+    },
+    "contact": {
+        "phone": "(373)205-1625",
+        "servicePhone": "800744920"
+    },
+    "birthday": "1957-14-10",
+    "ip": "215.151.208.231",
+    "foo": "bar",
+    "profile": {
+        "about": "At nothing need national. Husband federal order debate cultural rule.\nArt keep tend western shake chance return. Today cultural hospital. Organization until involve city leave.",
+        "bio": "Art tax author. Information value cost.\nFact space good lot. Design industry sort glass scientist receive. Whether thus much quite ask onto."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}

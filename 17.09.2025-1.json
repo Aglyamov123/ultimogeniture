@@ -1,0 +1,25 @@
+{
+    "name": "Brian Fernandez",
+    "age": 26,
+    "address": {
+        "street": "Raymond Inlet",
+        "city": "West Annland",
+        "state": "Massachusetts",
+        "zip": "43800"
+    },
+    "contact": {
+        "phone": "+1-557-297-5710x76117",
+        "servicePhone": "800115910"
+    },
+    "birthday": "1999-07-07",
+    "ip": "197.119.42.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Those film program move million service affect. Director fall standard ask future. Ever plan be the.\nPersonal shoulder under animal may. Where church want chance ball strong. Leave site improve upon.",
+        "bio": "Affect machine girl meet size idea. Language scene raise us certainly next. By remain experience partner whose meeting pull. Represent common improve painting situation west."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}

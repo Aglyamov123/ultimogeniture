@@ -1,0 +1,25 @@
+{
+    "name": "Karen Norman",
+    "age": 17,
+    "address": {
+        "street": "Robin Mountains",
+        "city": "Leonardfurt",
+        "state": "Pennsylvania",
+        "zip": "19792"
+    },
+    "contact": {
+        "phone": "+1-319-449-8392x6672",
+        "servicePhone": "800931554"
+    },
+    "birthday": "2008-04-03",
+    "ip": "71.97.184.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Become social change cause by remember happy. Air management baby tax.\nDevelop style between never maybe. Care morning weight million including. Ahead the environmental civil right.",
+        "bio": "Need increase agent well knowledge person. Owner five window through show last pay above."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}

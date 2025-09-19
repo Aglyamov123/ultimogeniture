@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Sanchez",
+    "age": 3,
+    "address": {
+        "street": "Thompson Mountains",
+        "city": "North Richardmouth",
+        "state": "Pennsylvania",
+        "zip": "67425"
+    },
+    "contact": {
+        "phone": "+1-731-537-7635x7210",
+        "servicePhone": "800819438"
+    },
+    "birthday": "2022-18-12",
+    "ip": "137.9.119.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch attention design fund instead operation decide. He rock exist couple position only street such. Reason night true he nature itself summer.",
+        "bio": "Design husband sea middle investment appear feeling wear. Set down window Republican contain care both."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}

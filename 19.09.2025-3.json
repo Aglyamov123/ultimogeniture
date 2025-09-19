@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Rios",
+    "age": 47,
+    "address": {
+        "street": "Sloan Radial",
+        "city": "Campbellborough",
+        "state": "Indiana",
+        "zip": "69254"
+    },
+    "contact": {
+        "phone": "001-749-725-8338",
+        "servicePhone": "800036055"
+    },
+    "birthday": "1978-15-05",
+    "ip": "195.195.78.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Floor memory nothing special one onto. End he room modern defense. Street fear foreign road. Maintain figure before special past.",
+        "bio": "Investment able simply. Chance wall wide. Certain tree other form possible professor concern laugh.\nAble quite avoid smile. By show institution. Member pay fear game clear wall."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}

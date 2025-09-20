@@ -1,0 +1,25 @@
+{
+    "name": "Bobby Morgan",
+    "age": 90,
+    "address": {
+        "street": "Lori Turnpike",
+        "city": "Lake Justin",
+        "state": "Kentucky",
+        "zip": "19246"
+    },
+    "contact": {
+        "phone": "001-703-312-9698",
+        "servicePhone": "800420405"
+    },
+    "birthday": "1935-25-09",
+    "ip": "209.213.28.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Able provide employee government onto. Hard rule site research worker yourself.\nTop give fire well build likely police discuss. Green instead try operation company pay.",
+        "bio": "Many usually language end prevent food institution. Tough serve perhaps cup room important onto."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}

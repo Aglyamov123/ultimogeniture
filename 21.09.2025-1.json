@@ -1,0 +1,25 @@
+{
+    "name": "Robert Smith",
+    "age": 88,
+    "address": {
+        "street": "Howard Hill",
+        "city": "Adamberg",
+        "state": "Nebraska",
+        "zip": "56652"
+    },
+    "contact": {
+        "phone": "(785)607-0459x1553",
+        "servicePhone": "800630918"
+    },
+    "birthday": "1937-16-03",
+    "ip": "94.73.74.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Detail feeling attention. Seat exactly like look short opportunity available. Author at staff.",
+        "bio": "Set technology try skin brother. Rich board truth follow left board section.\nNot peace compare not adult.\nFollow choice particular word. Manager those month carry suffer party."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}

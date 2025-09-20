@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Armstrong",
+    "age": 87,
+    "address": {
+        "street": "Jason Stravenue",
+        "city": "Lake Nathanielburgh",
+        "state": "Georgia",
+        "zip": "49430"
+    },
+    "contact": {
+        "phone": "899.952.2097x990",
+        "servicePhone": "800486192"
+    },
+    "birthday": "1938-03-02",
+    "ip": "109.88.114.173",
+    "foo": "bar",
+    "profile": {
+        "about": "Public other budget stop play year. Ready certainly movie assume. Large hospital politics chair board.\nHead save rate sport think. Choose rate real.",
+        "bio": "Security prepare sea why treatment answer. Read with mother direction young project remain."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}

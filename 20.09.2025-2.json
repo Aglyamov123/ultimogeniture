@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Jackson",
+    "age": 72,
+    "address": {
+        "street": "Mason Cliff",
+        "city": "North Candicefurt",
+        "state": "North Carolina",
+        "zip": "65370"
+    },
+    "contact": {
+        "phone": "+1-673-261-2243",
+        "servicePhone": "800745931"
+    },
+    "birthday": "1953-27-02",
+    "ip": "94.159.174.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Quickly picture example herself early similar read. Physical eye example example during through half.\nLight exist dinner network summer financial. Street day wall all idea ground.",
+        "bio": "Seem score person. Yeah physical fund down organization eye. Step per pick important red seat.\nHe drive worker can line finish pass. Either catch reason."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}

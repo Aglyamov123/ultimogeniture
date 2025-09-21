@@ -1,0 +1,25 @@
+{
+    "name": "Devin Barr",
+    "age": 73,
+    "address": {
+        "street": "David Parks",
+        "city": "Hillberg",
+        "state": "Arkansas",
+        "zip": "77324"
+    },
+    "contact": {
+        "phone": "(680)618-1463",
+        "servicePhone": "800747577"
+    },
+    "birthday": "1952-21-05",
+    "ip": "167.57.94.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil you task push. Pull determine stock western season return. Nature series win media instead. Trial stop serve number recent.",
+        "bio": "Crime effort watch environment manage always. Against guy less public meeting. Read talk sense quality all fast."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

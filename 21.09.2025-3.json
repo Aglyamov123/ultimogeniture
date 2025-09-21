@@ -1,0 +1,25 @@
+{
+    "name": "Candice Adams",
+    "age": 20,
+    "address": {
+        "street": "Jill Expressway",
+        "city": "Christopherfurt",
+        "state": "Virginia",
+        "zip": "63792"
+    },
+    "contact": {
+        "phone": "607.600.3105x922",
+        "servicePhone": "800406099"
+    },
+    "birthday": "2005-17-11",
+    "ip": "150.226.53.22",
+    "foo": "bar",
+    "profile": {
+        "about": "House enjoy look student. Church can interesting sure wife anything nice. Camera develop process visit get seek door beat.\nInformation hold standard piece sing.",
+        "bio": "Into section number young win. Trial appear Congress front attention. House politics back fine appear mission. Dream keep some maintain expect together."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}

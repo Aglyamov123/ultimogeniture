@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Cook",
+    "age": 85,
+    "address": {
+        "street": "Hopkins Rest",
+        "city": "Laurenshire",
+        "state": "Texas",
+        "zip": "40846"
+    },
+    "contact": {
+        "phone": "266.701.2773x180",
+        "servicePhone": "800724490"
+    },
+    "birthday": "1940-22-10",
+    "ip": "166.190.65.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Account travel buy avoid tend rate. Long myself everything through cause. Country know opportunity beat kind.\nExample make condition teacher watch. Require until suddenly leg very sure cold.",
+        "bio": "Total east try fire president. Focus throw guess capital.\nRight opportunity only people thus author. Modern face poor left itself company. Prevent level agency figure until eat."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}

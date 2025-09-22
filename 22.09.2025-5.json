@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Smith",
+    "age": 25,
+    "address": {
+        "street": "Lopez Walk",
+        "city": "Jonesberg",
+        "state": "New York",
+        "zip": "95094"
+    },
+    "contact": {
+        "phone": "438-461-5177x86905",
+        "servicePhone": "800938554"
+    },
+    "birthday": "2000-31-08",
+    "ip": "84.12.127.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad black begin heart myself. Capital born each rest.\nElse generation data kitchen land. Parent far sit special someone relationship.",
+        "bio": "Heavy whole more cause billion present. Maybe real whose several. Quickly politics serve wait. Same behind choose store.\nHeart hand under both. Hear message college. Young rock series."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Scott Brown",
+    "age": 57,
+    "address": {
+        "street": "Hopkins Bypass",
+        "city": "Millermouth",
+        "state": "Connecticut",
+        "zip": "50874"
+    },
+    "contact": {
+        "phone": "(245)824-2219x78391",
+        "servicePhone": "800753315"
+    },
+    "birthday": "1968-17-08",
+    "ip": "101.133.138.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate trade up school no help catch him. Cup character seek college society beautiful outside. Identify unit require husband.",
+        "bio": "Job song Mrs thing lead its floor.\nFloor realize each one citizen realize fill. Player ground decision feeling like choice. Apply thousand result discover.\nEverything rise rule idea much report."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}

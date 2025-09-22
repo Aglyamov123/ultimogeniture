@@ -1,0 +1,25 @@
+{
+    "name": "Paige Gonzales",
+    "age": 81,
+    "address": {
+        "street": "Jones Heights",
+        "city": "East Debrafurt",
+        "state": "Rhode Island",
+        "zip": "28606"
+    },
+    "contact": {
+        "phone": "250.995.4313x18087",
+        "servicePhone": "800145910"
+    },
+    "birthday": "1944-08-02",
+    "ip": "178.157.67.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark international realize environment western political detail. Office debate drug.",
+        "bio": "Business per television business central act. During cell real professor fall. For for magazine action laugh.\nPm finally card cost loss. Deep product sport write movie eat. Article feeling social."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}

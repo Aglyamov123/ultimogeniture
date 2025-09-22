@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Harper",
+    "age": 39,
+    "address": {
+        "street": "Priscilla Lodge",
+        "city": "East Richard",
+        "state": "Hawaii",
+        "zip": "51781"
+    },
+    "contact": {
+        "phone": "946-877-3552x589",
+        "servicePhone": "800325564"
+    },
+    "birthday": "1986-17-09",
+    "ip": "25.11.153.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Price stay method other huge resource. Night rise learn list. Medical education half article other statement. Move race because.",
+        "bio": "Stuff player over. Road dream lay often.\nAdd message garden receive. Happen thus real raise each gun fill heart. Scene like among share."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}

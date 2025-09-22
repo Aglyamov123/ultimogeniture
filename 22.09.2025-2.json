@@ -1,0 +1,25 @@
+{
+    "name": "John Garcia",
+    "age": 102,
+    "address": {
+        "street": "Bond Pass",
+        "city": "Maryborough",
+        "state": "Indiana",
+        "zip": "66401"
+    },
+    "contact": {
+        "phone": "521.328.7959",
+        "servicePhone": "800859399"
+    },
+    "birthday": "1923-28-04",
+    "ip": "115.75.172.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Least be growth return. Sign model argue travel. Win stuff give.",
+        "bio": "Financial state tend organization family. Positive news although outside own owner throughout."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}

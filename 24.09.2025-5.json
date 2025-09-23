@@ -1,0 +1,25 @@
+{
+    "name": "Paul Elliott",
+    "age": 3,
+    "address": {
+        "street": "Cynthia Alley",
+        "city": "Holderview",
+        "state": "Georgia",
+        "zip": "90055"
+    },
+    "contact": {
+        "phone": "+1-446-923-8885",
+        "servicePhone": "800058756"
+    },
+    "birthday": "2022-13-01",
+    "ip": "124.253.63.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Those offer front front character around. Pass soldier different enjoy. Age discuss movement hear forget various.\nReal enough season community. Discussion head treat democratic hear share born.",
+        "bio": "Away own explain sport weight authority. Painting adult doctor.\nSpecial beyond expert study soldier after name others.\nSong board again red yard tax maintain."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}

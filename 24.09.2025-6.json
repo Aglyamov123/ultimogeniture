@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Johns",
+    "age": 37,
+    "address": {
+        "street": "Linda Orchard",
+        "city": "Taylorchester",
+        "state": "Maine",
+        "zip": "93142"
+    },
+    "contact": {
+        "phone": "7659114417",
+        "servicePhone": "800268366"
+    },
+    "birthday": "1988-18-12",
+    "ip": "130.3.4.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge then although perhaps medical few. Meeting reflect or Mrs task. Decade maybe trouble resource.",
+        "bio": "Her capital such provide cover offer administration. Candidate morning general next method well. Cut family nearly minute. Goal nation about."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}

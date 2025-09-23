@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Castillo",
+    "age": 51,
+    "address": {
+        "street": "Strickland Mountains",
+        "city": "South Jeffrey",
+        "state": "New Jersey",
+        "zip": "78761"
+    },
+    "contact": {
+        "phone": "706-346-6627",
+        "servicePhone": "800750062"
+    },
+    "birthday": "1974-30-08",
+    "ip": "134.102.100.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Inside worry include. Whatever many push.\nParticular door understand discussion. Particular certain even according from world. Because approach spend movie rule whom.",
+        "bio": "Civil budget relationship citizen pressure his. Continue order else increase knowledge full."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}

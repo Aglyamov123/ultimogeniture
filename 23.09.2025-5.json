@@ -1,0 +1,25 @@
+{
+    "name": "Austin Contreras",
+    "age": 58,
+    "address": {
+        "street": "Martinez Passage",
+        "city": "Jacksonshire",
+        "state": "Tennessee",
+        "zip": "48121"
+    },
+    "contact": {
+        "phone": "001-630-381-9201x76711",
+        "servicePhone": "800951818"
+    },
+    "birthday": "1967-30-05",
+    "ip": "9.255.188.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Mother positive mother study land. Water civil walk reason memory speak.\nSystem those nearly bad. Congress parent economy fine. Long former drive.",
+        "bio": "Each deep miss school head never future. Popular single especially usually partner scientist. Number second easy level among building sit war."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}

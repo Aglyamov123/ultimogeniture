@@ -1,0 +1,25 @@
+{
+    "name": "Virginia Turner",
+    "age": 85,
+    "address": {
+        "street": "Belinda Plains",
+        "city": "East Barbaraberg",
+        "state": "Indiana",
+        "zip": "39368"
+    },
+    "contact": {
+        "phone": "+1-486-871-8420",
+        "servicePhone": "800633285"
+    },
+    "birthday": "1940-31-05",
+    "ip": "203.206.254.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Above story blood exist might by. Spring bit lead raise baby news.",
+        "bio": "Manage continue behavior sea test. Less industry season player century. Deal smile need travel senior yes how yet."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}

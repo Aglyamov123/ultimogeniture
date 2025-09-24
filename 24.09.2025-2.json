@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Cobb",
+    "age": 22,
+    "address": {
+        "street": "Danielle Parkways",
+        "city": "New Joshuaborough",
+        "state": "Alaska",
+        "zip": "70091"
+    },
+    "contact": {
+        "phone": "7935945054",
+        "servicePhone": "800806896"
+    },
+    "birthday": "2003-26-06",
+    "ip": "170.188.66.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement condition year tough. Day create there live local. Somebody environment responsibility program phone.\nBrother life test model girl modern. Low oil left it song walk.",
+        "bio": "These together exist half. Manage ability knowledge I positive. Effort when small available ever. Raise culture election long."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}

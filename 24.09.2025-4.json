@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Villa",
+    "age": 27,
+    "address": {
+        "street": "Lisa Plains",
+        "city": "East Renee",
+        "state": "Michigan",
+        "zip": "92234"
+    },
+    "contact": {
+        "phone": "+1-487-598-3390x6384",
+        "servicePhone": "800998636"
+    },
+    "birthday": "1998-13-08",
+    "ip": "213.61.200.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce make shoulder consumer century option. Knowledge animal lot miss decide health ahead country.",
+        "bio": "Describe start good wonder hotel outside personal catch. May large production fear party hair. Base authority agent receive office owner risk."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}

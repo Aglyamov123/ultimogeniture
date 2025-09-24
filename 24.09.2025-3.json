@@ -1,0 +1,25 @@
+{
+    "name": "Gary Ramirez",
+    "age": 0,
+    "address": {
+        "street": "Turner Fords",
+        "city": "Pratttown",
+        "state": "Louisiana",
+        "zip": "31042"
+    },
+    "contact": {
+        "phone": "902-471-0536x13731",
+        "servicePhone": "800619708"
+    },
+    "birthday": "2025-11-07",
+    "ip": "213.241.147.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Third kid scientist study rise director series right.\nWin every only contain return drop born. Green support year response reality. South language production article my. Cell million try investment.",
+        "bio": "Camera pick and. Mission music enough capital back.\nEvidence ready significant guess third. Same several any day. Plan section those form present chance."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

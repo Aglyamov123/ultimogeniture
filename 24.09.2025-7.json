@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Edwards",
+    "age": 17,
+    "address": {
+        "street": "Angela Cape",
+        "city": "Myersstad",
+        "state": "North Dakota",
+        "zip": "03291"
+    },
+    "contact": {
+        "phone": "936-680-8322x274",
+        "servicePhone": "800575437"
+    },
+    "birthday": "2008-08-02",
+    "ip": "149.30.55.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Writer safe mission music free hand way style. The international writer lose international large ask prove. Wall catch though carry stand fly. Edge rock building through major address.",
+        "bio": "Growth call determine parent this. Former factor wall college prepare stop line."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

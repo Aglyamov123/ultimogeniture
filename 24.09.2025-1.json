@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Kline",
+    "age": 60,
+    "address": {
+        "street": "Jefferson Pine",
+        "city": "Andrewhaven",
+        "state": "Colorado",
+        "zip": "76022"
+    },
+    "contact": {
+        "phone": "733.745.6453x78222",
+        "servicePhone": "800370946"
+    },
+    "birthday": "1965-28-08",
+    "ip": "191.111.74.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Between sit mouth door read. Cup phone painting mean concern strong senior hear. Instead technology design teacher.",
+        "bio": "Statement quality garden executive best candidate control. Network admit thousand. Account change strategy yes.\nKey among behavior. Food buy floor name."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}

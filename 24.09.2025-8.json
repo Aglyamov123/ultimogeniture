@@ -1,0 +1,25 @@
+{
+    "name": "Joel Hicks DVM",
+    "age": 65,
+    "address": {
+        "street": "Danielle Park",
+        "city": "Kingshire",
+        "state": "Pennsylvania",
+        "zip": "74500"
+    },
+    "contact": {
+        "phone": "9628222746",
+        "servicePhone": "800853287"
+    },
+    "birthday": "1960-11-04",
+    "ip": "72.75.79.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay exist test. Question race production else street kind.\nWish research professor feeling still difference reveal. Stock short early grow.",
+        "bio": "Former article true office investment child Democrat. Suggest job note follow represent discussion. Themselves present feeling east."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Richard Edwards",
+    "age": 51,
+    "address": {
+        "street": "Gabriela Mountain",
+        "city": "Lake Johnshire",
+        "state": "Kansas",
+        "zip": "93235"
+    },
+    "contact": {
+        "phone": "261-222-5465x315",
+        "servicePhone": "800102163"
+    },
+    "birthday": "1974-05-12",
+    "ip": "67.242.228.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Community wide shoulder Congress somebody us. Great friend for likely space scientist part here.\nAs area create interesting design house. Hold home skill institution.",
+        "bio": "Ever push condition collection. Away financial speech activity stop ago toward without. Least fish system good. Guy what address foreign couple short nature heart."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}

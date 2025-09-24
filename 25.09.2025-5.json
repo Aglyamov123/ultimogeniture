@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mcpherson",
+    "age": 58,
+    "address": {
+        "street": "Cruz Centers",
+        "city": "North Brenda",
+        "state": "North Dakota",
+        "zip": "85381"
+    },
+    "contact": {
+        "phone": "250.878.4879x20386",
+        "servicePhone": "800274549"
+    },
+    "birthday": "1967-09-10",
+    "ip": "162.245.238.56",
+    "foo": "bar",
+    "profile": {
+        "about": "None painting because reflect mind movie. Return product door attorney number. Me wall community serious. Evidence product memory drive technology.",
+        "bio": "Prove detail produce total middle. Leg wear property recently modern light general rest."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}

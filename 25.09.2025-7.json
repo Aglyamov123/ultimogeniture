@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Lewis",
+    "age": 115,
+    "address": {
+        "street": "Richard Forest",
+        "city": "Stewartfort",
+        "state": "Virginia",
+        "zip": "60727"
+    },
+    "contact": {
+        "phone": "+1-480-328-4473x8812",
+        "servicePhone": "800700652"
+    },
+    "birthday": "1910-04-10",
+    "ip": "39.74.209.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Do school experience. Two light little old. Good process tend glass light rich.\nWonder easy north artist. Finish look read. Style lawyer under evening reality summer style.",
+        "bio": "Within choose much myself general. Finally control central job teacher space draw. Machine couple answer public people. Establish themselves green field current travel."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}

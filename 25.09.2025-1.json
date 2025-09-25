@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Preston",
+    "age": 73,
+    "address": {
+        "street": "Garcia Dale",
+        "city": "Alexisview",
+        "state": "Ohio",
+        "zip": "96465"
+    },
+    "contact": {
+        "phone": "001-441-860-2721",
+        "servicePhone": "800726197"
+    },
+    "birthday": "1952-03-12",
+    "ip": "196.159.56.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Property grow trouble value material nor. Capital movie left spend fear evidence film.\nLarge action write road. Spring watch save difference laugh. She break second beyond five physical about.",
+        "bio": "Great over him forget debate serious. Board well response away. Degree pay page which.\nScore newspaper attorney bill realize major traditional. Coach worry generation artist task beautiful hot."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}

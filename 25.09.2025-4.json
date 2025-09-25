@@ -1,0 +1,25 @@
+{
+    "name": "Debra Clark",
+    "age": 37,
+    "address": {
+        "street": "Evelyn Forks",
+        "city": "South Danielleside",
+        "state": "New Jersey",
+        "zip": "56806"
+    },
+    "contact": {
+        "phone": "436-528-7703",
+        "servicePhone": "800445623"
+    },
+    "birthday": "1988-29-07",
+    "ip": "152.232.24.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Table whatever example throughout. Industry heavy party consumer choose. Me too here style him.",
+        "bio": "Bring score if. To country dinner base could son we.\nContinue sometimes cultural too speak anything task. Old per voice final man wide defense. Response cause moment."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}

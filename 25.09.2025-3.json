@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Howard",
+    "age": 16,
+    "address": {
+        "street": "Brandon Trail",
+        "city": "West Jennifermouth",
+        "state": "Illinois",
+        "zip": "70445"
+    },
+    "contact": {
+        "phone": "(375)965-3687",
+        "servicePhone": "800782396"
+    },
+    "birthday": "2009-17-10",
+    "ip": "164.192.47.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Anything education beyond capital sing senior bring. Almost wonder child travel.\nHope wrong fall those since east war. Happy writer unit other size.",
+        "bio": "Behind reason son officer us marriage necessary. Half voice by yourself perhaps.\nWord however several whole.\nAccount west test serious human.\nEver describe ok new mouth particularly."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}

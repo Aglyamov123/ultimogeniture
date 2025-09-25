@@ -1,0 +1,25 @@
+{
+    "name": "Megan Stevens",
+    "age": 75,
+    "address": {
+        "street": "Lewis Stravenue",
+        "city": "Kimberlyfort",
+        "state": "Delaware",
+        "zip": "33921"
+    },
+    "contact": {
+        "phone": "7615945182",
+        "servicePhone": "800297826"
+    },
+    "birthday": "1950-17-01",
+    "ip": "185.15.252.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Avoid but area party seek attorney not. Wall degree might morning save cell. Blue arrive improve national. Despite expect even catch end.",
+        "bio": "Energy address simple subject social yard very.\nPlayer focus hair. Lose early once anything. Report accept manager better also middle claim."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}

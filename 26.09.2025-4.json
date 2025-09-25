@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Curry",
+    "age": 53,
+    "address": {
+        "street": "James Turnpike",
+        "city": "West Andreastad",
+        "state": "South Dakota",
+        "zip": "87534"
+    },
+    "contact": {
+        "phone": "534-825-1864",
+        "servicePhone": "800245196"
+    },
+    "birthday": "1972-20-04",
+    "ip": "221.107.216.12",
+    "foo": "bar",
+    "profile": {
+        "about": "You front toward place happy speech. North floor painting institution environment imagine together.",
+        "bio": "Stay mother leader whether act country drug arm.\nWithin forget relationship approach onto project wonder large. Fund so interesting wife knowledge next class. Investment nor make certain imagine."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Tucker",
+    "age": 51,
+    "address": {
+        "street": "Fletcher Lake",
+        "city": "Jesusbury",
+        "state": "Georgia",
+        "zip": "40258"
+    },
+    "contact": {
+        "phone": "566-506-8004",
+        "servicePhone": "800674704"
+    },
+    "birthday": "1974-05-01",
+    "ip": "53.185.253.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Network administration stuff upon dark. Reflect approach education animal exactly audience.",
+        "bio": "Attorney former expert decide six. Beautiful people dark effect. Receive act state himself Democrat increase.\nLeast down design my according long me. Market fear several cut painting eye friend."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Michael Morgan",
+    "age": 66,
+    "address": {
+        "street": "Kyle Points",
+        "city": "Lopezstad",
+        "state": "Nebraska",
+        "zip": "75721"
+    },
+    "contact": {
+        "phone": "001-512-574-8267x96670",
+        "servicePhone": "800749579"
+    },
+    "birthday": "1959-12-01",
+    "ip": "133.212.208.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Seek tonight type better. Store understand hope same.\nJob production play away generation never exist. Stop north place first fish stop involve.",
+        "bio": "Suffer cup subject fine. Father we at and require inside back. Role child daughter law after.\nMy also wrong letter inside poor. Against source reason drug well. Cost remember course low into."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

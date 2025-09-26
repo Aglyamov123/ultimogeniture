@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Jimenez",
+    "age": 27,
+    "address": {
+        "street": "Elliott Pike",
+        "city": "New Andrea",
+        "state": "Nebraska",
+        "zip": "87256"
+    },
+    "contact": {
+        "phone": "612.789.6385x342",
+        "servicePhone": "800375073"
+    },
+    "birthday": "1998-25-01",
+    "ip": "188.226.187.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Down young responsibility drive detail. That your pattern. Health ok thousand or.\nInside marriage allow gas activity consumer.\nKid rich lose a. Positive gun building door administration memory.",
+        "bio": "Activity main need cause student recently. Series popular available institution turn others. Election economic care if actually. Possible matter century carry majority he everybody provide."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}

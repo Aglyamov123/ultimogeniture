@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Hernandez",
+    "age": 40,
+    "address": {
+        "street": "Kimberly Route",
+        "city": "Cindybury",
+        "state": "North Dakota",
+        "zip": "13042"
+    },
+    "contact": {
+        "phone": "001-902-930-8908x491",
+        "servicePhone": "800075748"
+    },
+    "birthday": "1985-26-05",
+    "ip": "68.51.83.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Evidence memory have information nation. Grow office fund consumer know.",
+        "bio": "Same employee it past. Wait big quickly resource risk. Job throw simple compare.\nIndeed organization its sing team."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}

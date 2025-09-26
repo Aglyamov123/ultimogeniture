@@ -1,0 +1,25 @@
+{
+    "name": "Kayla Morgan",
+    "age": 89,
+    "address": {
+        "street": "Jennifer Port",
+        "city": "Lake Erik",
+        "state": "Utah",
+        "zip": "06290"
+    },
+    "contact": {
+        "phone": "223-766-0647",
+        "servicePhone": "800580528"
+    },
+    "birthday": "1936-26-08",
+    "ip": "203.113.236.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Church then federal once peace. Election attorney range. Send magazine instead contain return green likely. Entire wind phone analysis machine them fish capital.",
+        "bio": "Parent very stay yeah either try never rise.\nFund shoulder art he significant compare interesting. Let summer pull war point."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}

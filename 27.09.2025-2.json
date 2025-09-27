@@ -1,0 +1,25 @@
+{
+    "name": "Troy Hunter",
+    "age": 45,
+    "address": {
+        "street": "Wood Island",
+        "city": "New Micheleburgh",
+        "state": "New Hampshire",
+        "zip": "17224"
+    },
+    "contact": {
+        "phone": "+1-238-876-3803x069",
+        "servicePhone": "800105524"
+    },
+    "birthday": "1980-08-03",
+    "ip": "72.24.231.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Policy society current learn pass significant. Seven piece approach.\nFigure occur art. Body worry although throughout now north put. Hour article campaign.",
+        "bio": "Reduce prevent green meet. Around meet I serve.\nCompare manager modern end reflect. Wide say become music describe. Why this other general.\nSummer development hotel hour himself end analysis."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}

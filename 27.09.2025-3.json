@@ -1,0 +1,25 @@
+{
+    "name": "Vicki Rollins",
+    "age": 0,
+    "address": {
+        "street": "Stanley Rapid",
+        "city": "Carlsonton",
+        "state": "Michigan",
+        "zip": "47188"
+    },
+    "contact": {
+        "phone": "(620)542-4807",
+        "servicePhone": "800768056"
+    },
+    "birthday": "2025-05-08",
+    "ip": "158.86.240.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Learn fund yet. Travel newspaper medical happen blue. Night military family several.\nEvidence together base design body station stop. Add participant strong mouth process take admit defense.",
+        "bio": "Success require beat speech billion. Involve while direction. Even seat form indicate ever pass none American.\nForward environmental society yet bank pattern lead. Upon can commercial recent."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}

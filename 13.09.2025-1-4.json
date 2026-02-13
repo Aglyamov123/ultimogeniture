@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Hayes",
+    "age": 34,
+    "address": {
+        "street": "Brewer View",
+        "city": "Port Alex",
+        "state": "California",
+        "zip": "68048"
+    },
+    "contact": {
+        "phone": "630.938.8968x349",
+        "servicePhone": "800719898"
+    },
+    "birthday": "1991-09-06",
+    "ip": "198.193.42.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Class push human girl position. Floor experience account debate same. Factor authority require tell consumer nation marriage.",
+        "bio": "Pm be method growth. Religious of car feeling bit. By work girl outside a."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}

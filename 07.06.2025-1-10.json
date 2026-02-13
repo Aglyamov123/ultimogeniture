@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Delacruz",
+    "age": 68,
+    "address": {
+        "street": "Amy Court",
+        "city": "Williamchester",
+        "state": "Connecticut",
+        "zip": "28824"
+    },
+    "contact": {
+        "phone": "+1-291-672-7994",
+        "servicePhone": "800594089"
+    },
+    "birthday": "1957-30-12",
+    "ip": "17.254.178.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Door knowledge process compare chair. Project save apply here yeah. Smile produce yes live American.\nSimply receive we. Plant main popular professional game. Piece loss indicate ok others pass.",
+        "bio": "Ability baby either baby home until.\nHelp group production wear southern mind. Meet list hour. Personal room five."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Corey Lawson",
+    "age": 72,
+    "address": {
+        "street": "Sean Ports",
+        "city": "East Matthewton",
+        "state": "Florida",
+        "zip": "55415"
+    },
+    "contact": {
+        "phone": "(369)839-6436x994",
+        "servicePhone": "800500563"
+    },
+    "birthday": "1953-21-07",
+    "ip": "122.109.221.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Hundred too assume security town natural.\nFilm or under there under return ability fire. Its remain bed really method fight support. Which professional despite travel.",
+        "bio": "Camera today own.\nOk claim manage within help talk well result. Nature president me still yeah war. Response common foreign measure fast probably film. Parent generation see table watch."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

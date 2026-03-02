@@ -1,0 +1,25 @@
+{
+    "name": "Brandy Richmond",
+    "age": 92,
+    "address": {
+        "street": "Kelly Rue",
+        "city": "Lake Angelamouth",
+        "state": "North Dakota",
+        "zip": "82032"
+    },
+    "contact": {
+        "phone": "4439342617",
+        "servicePhone": "800664305"
+    },
+    "birthday": "1933-23-05",
+    "ip": "42.143.56.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Special prepare security though be. Area defense should.\nPicture with trouble sit. Idea company my until body practice energy position.",
+        "bio": "Able condition any allow back child. Early find none land still about her.\nForward part pass join college it.\nDirector possible few back. The cell big religious our so despite."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}

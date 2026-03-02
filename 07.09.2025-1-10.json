@@ -1,0 +1,25 @@
+{
+    "name": "Jillian White",
+    "age": 91,
+    "address": {
+        "street": "Thornton Knoll",
+        "city": "South Alejandra",
+        "state": "Kansas",
+        "zip": "38879"
+    },
+    "contact": {
+        "phone": "9352338425",
+        "servicePhone": "800373845"
+    },
+    "birthday": "1934-24-08",
+    "ip": "2.190.120.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Never early again dream yard prove list. Conference wait religious statement build brother cover.\nAlmost scientist reduce according physical sure already.",
+        "bio": "Thus keep story long father direction by. Loss real ready he include itself imagine others. Finally inside since today business several. Dream organization many claim product particular."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}

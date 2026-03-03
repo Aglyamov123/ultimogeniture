@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Bowman",
+    "age": 45,
+    "address": {
+        "street": "Lawson Throughway",
+        "city": "Lake Andrew",
+        "state": "New Jersey",
+        "zip": "11692"
+    },
+    "contact": {
+        "phone": "6807444552",
+        "servicePhone": "800176551"
+    },
+    "birthday": "1980-15-08",
+    "ip": "23.188.2.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Daughter behavior certain. Early level management.\nJob central certainly scientist threat trouble compare. Toward like million simple audience rather indicate.",
+        "bio": "More whose space heavy game thousand of. Usually mother remember draw.\nMeet fear meet myself decide. Term article forward something enjoy what top. Business there why office choice."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
